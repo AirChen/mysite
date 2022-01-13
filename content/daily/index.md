@@ -1,6 +1,6 @@
 ---
 title: "今日资讯"
-date: 2022-01-13T17:19:51+08:00
+date: 2022-01-14T17:19:51+08:00
 draft: true
 ---
 
@@ -146,11 +146,11 @@ draft: true
 
    前端技术规划与战略：2022 [read](http://www.phodal.com/blog/frontend-strategy-2021/)
 
-   \[None\] Django 老项目如何从 SQLite 迁到 PostgreSQL [read](https://www.zmrenwu.com/post/95/)
+   \[None\] Django 老项目如何从 SQLite 迁到 PostgreSQL [read](https://example.com/post/95/)
 
-   \[None\] 如何在 Windows 下搭建高效的 django 开发环境 [read](https://www.zmrenwu.com/post/94/)
+   \[None\] 如何在 Windows 下搭建高效的 django 开发环境 [read](https://example.com/post/94/)
 
-   \[None\] 拓展Python Markdown [read](https://www.zmrenwu.com/post/93/)
+   \[None\] 拓展Python Markdown [read](https://example.com/post/93/)
 
    聊聊写书、技术会议、知名度和变现 [read](https://www.dongwm.com/post/talk-about-writebook-and-something/)
 
@@ -448,11 +448,11 @@ draft: true
 
    2021年宝马品牌汽车销量达220万辆 2015年以来首超梅赛德斯 [read](https://www.199it.com/archives/1375871.html)
 
-   腾讯公益平台免费开放无障碍输入技术，搜狗输入法发布“眼动输入”方案 [read](https://www.ithome.com/0/598/417.htm)
+   荣耀公开排队叫号专利，让提醒变得更有效 [read](https://www.ithome.com/0/598/425.htm)
 
-   华为视频 App 新版本测试：新增鸿蒙服务卡片，源影片支持边下边播、多设备连屏播放，切后台自动小窗播放 [read](https://www.ithome.com/0/598/416.htm)
+   B站投资炎魔网络，后者经营范围含动漫游戏开发 [read](https://www.ithome.com/0/598/424.htm)
 
-   消息称漫威已开始为《神奇四侠》电影选角 [read](https://www.ithome.com/0/598/415.htm)
+   微软在英国已售出 100 万台 Xbox Series X\|S 游戏机 [read](https://www.ithome.com/0/598/423.htm)
 
    HelloGitHub 第 69 期 [read](https://hellogithub.com/periodical/volume/69/)
 
@@ -478,11 +478,11 @@ draft: true
 
    给儿童、教师和学校的最佳 Linux 发行版 [read](https://linux.cn/article-14174-1.html?utm_source=rss&utm_medium=rss)
 
-   \[问与答\] 高性能 C++国内有哪些好的工作方向？ [read](https://www.v2ex.com/t/828131#reply0)
+   \[Singapore\] 算是见识到微信客服的下限了 [read](https://www.v2ex.com/t/828132#reply5)
 
-   \[问与答\] 三节五号电池的体重秤 改装无线充电方式，用 5w 的无线充发射接收模块，会有影响么？ [read](https://www.v2ex.com/t/828130#reply0)
+   \[问与答\] 高性能 C++国内有哪些好的工作方向？ [read](https://www.v2ex.com/t/828131#reply3)
 
-   \[问与答\] 如何理解分布式和集群的区别？ [read](https://www.v2ex.com/t/828129#reply3)
+   \[问与答\] 三节五号电池的体重秤 改装无线充电方式，用 5w 的无线充发射接收模块，会有影响么？ [read](https://www.v2ex.com/t/828130#reply6)
 
    网络数字身份认证术 [read](https://coolshell.cn/articles/21708.html)
 
@@ -514,17 +514,17 @@ draft: true
 
    Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro [read](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html)
 
-   Bootstrap实战 - 注册和登录 - 后除 [read](http://www.cnblogs.com/mazey/p/15799991.html)
+   解决excel两表之间数据关联关系，知道这几招就够了 - NewJune [read](http://www.cnblogs.com/new-june/p/15800217.html)
 
-   使用.NET 6开发TodoList应用(28)——实现应用程序健康检查 - CODE4NOTHING [read](http://www.cnblogs.com/code4nothing/p/build-todolist-28.html)
+   Azure Terraform（九）利用 Azure DevOps Pipeline 的审批来控制流程发布 - Grant_Allen [read](http://www.cnblogs.com/AllenMaster/p/15740652.html)
 
-   Feed流系统重构-架构篇 - 勇哥技术游记 [read](http://www.cnblogs.com/makemylife/p/15799941.html)
+   linux下玩转磁盘管理与挂载硬盘 - 龙腾万里sky [read](http://www.cnblogs.com/cnwangk/p/15800049.html)
 
-   \[請益\] 一代蜘蛛人2的兩個劇情問題？ [read](https://www.ptt.cc/bbs/movie/M.1642085576.A.F19.html)
+   \[新聞\] 第一代變形金剛女訂婚！梅根福克斯婚戒曝 [read](https://www.ptt.cc/bbs/movie/M.1642089505.A.787.html)
 
-   Re: \[新聞\] Netflix計劃連拍兩部《紅色通緝令》續集 [read](https://www.ptt.cc/bbs/movie/M.1642084960.A.051.html)
+   \[討論\] 天行者家族是不是有中二傾向？ [read](https://www.ptt.cc/bbs/movie/M.1642089125.A.BB0.html)
 
-   \[討論\] Kingsman金士曼起源劇情疑問（有雷） [read](https://www.ptt.cc/bbs/movie/M.1642082848.A.E1D.html)
+   \[新聞\] 奧斯卡前哨戰！演員工會獎入圍公布「暮光 [read](https://www.ptt.cc/bbs/movie/M.1642088947.A.492.html)
 
    \[正妹\] 大尺碼｜肉特(822) [read](https://www.ptt.cc/bbs/Beauty/M.1642082362.A.4AC.html)
 
