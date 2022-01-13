@@ -146,11 +146,11 @@ draft: true
 
    前端技术规划与战略：2022 [read](http://www.phodal.com/blog/frontend-strategy-2021/)
 
-   \[None\] Django 老项目如何从 SQLite 迁到 PostgreSQL [read](https://example.com/post/95/)
+   \[None\] Django 老项目如何从 SQLite 迁到 PostgreSQL [read](https://www.zmrenwu.com/post/95/)
 
-   \[None\] 如何在 Windows 下搭建高效的 django 开发环境 [read](https://example.com/post/94/)
+   \[None\] 如何在 Windows 下搭建高效的 django 开发环境 [read](https://www.zmrenwu.com/post/94/)
 
-   \[None\] 拓展Python Markdown [read](https://example.com/post/93/)
+   \[None\] 拓展Python Markdown [read](https://www.zmrenwu.com/post/93/)
 
    聊聊写书、技术会议、知名度和变现 [read](https://www.dongwm.com/post/talk-about-writebook-and-something/)
 
@@ -368,6 +368,12 @@ draft: true
 
    View 嵌套太深会卡？来用 Jetpack Compose，随便套——Intrinsic Measurement [read](https://rengwuxian.com/compose-intrinsic-measurement/)
 
+   UI设计师-实战就业班 [read](https://www.cmooc.com/course/32049.html)
+
+   安全开发工程师（网易实战） [read](https://www.cmooc.com/course/32047.html)
+
+   网易前端实训营 [read](https://www.cmooc.com/course/32045.html)
+
 ### 学术类
 
 ### 生活类
@@ -442,11 +448,11 @@ draft: true
 
    2021年宝马品牌汽车销量达220万辆 2015年以来首超梅赛德斯 [read](https://www.199it.com/archives/1375871.html)
 
-   银河麒麟操作系统 V10 SP1（龙芯版）发布，适配支持 3A5000 芯片、LoongArch 自主指令集 [read](https://www.ithome.com/0/598/414.htm)
+   腾讯公益平台免费开放无障碍输入技术，搜狗输入法发布“眼动输入”方案 [read](https://www.ithome.com/0/598/417.htm)
 
-   微信安卓 8.0.18 正式版发布：『支付』改名为『服务』 [read](https://www.ithome.com/0/598/413.htm)
+   华为视频 App 新版本测试：新增鸿蒙服务卡片，源影片支持边下边播、多设备连屏播放，切后台自动小窗播放 [read](https://www.ithome.com/0/598/416.htm)
 
-   中兴通讯武汉研发中心项目落户光谷 [read](https://www.ithome.com/0/598/412.htm)
+   消息称漫威已开始为《神奇四侠》电影选角 [read](https://www.ithome.com/0/598/415.htm)
 
    HelloGitHub 第 69 期 [read](https://hellogithub.com/periodical/volume/69/)
 
@@ -476,7 +482,7 @@ draft: true
 
    \[问与答\] 三节五号电池的体重秤 改装无线充电方式，用 5w 的无线充发射接收模块，会有影响么？ [read](https://www.v2ex.com/t/828130#reply0)
 
-   \[问与答\] 如何理解分布式和集群的区别？ [read](https://www.v2ex.com/t/828129#reply1)
+   \[问与答\] 如何理解分布式和集群的区别？ [read](https://www.v2ex.com/t/828129#reply3)
 
    网络数字身份认证术 [read](https://coolshell.cn/articles/21708.html)
 
