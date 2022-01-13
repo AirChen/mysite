@@ -368,12 +368,6 @@ draft: true
 
    View 嵌套太深会卡？来用 Jetpack Compose，随便套——Intrinsic Measurement [read](https://rengwuxian.com/compose-intrinsic-measurement/)
 
-   UI设计师-实战就业班 [read](https://www.cmooc.com/course/32049.html)
-
-   安全开发工程师（网易实战） [read](https://www.cmooc.com/course/32047.html)
-
-   网易前端实训营 [read](https://www.cmooc.com/course/32045.html)
-
 ### 学术类
 
 ### 生活类
@@ -448,11 +442,11 @@ draft: true
 
    2021年宝马品牌汽车销量达220万辆 2015年以来首超梅赛德斯 [read](https://www.199it.com/archives/1375871.html)
 
-   索尼电影发布《神秘海域》“全员集结”海报，2 月 18 日北美上映 [read](https://www.ithome.com/0/598/407.htm)
+   银河麒麟操作系统 V10 SP1（龙芯版）发布，适配支持 3A5000 芯片、LoongArch 自主指令集 [read](https://www.ithome.com/0/598/414.htm)
 
-   马斯克 SpaceX 将把三颗南非制造的纳米卫星送入轨道 [read](https://www.ithome.com/0/598/406.htm)
+   微信安卓 8.0.18 正式版发布：『支付』改名为『服务』 [read](https://www.ithome.com/0/598/413.htm)
 
-   消息称阿里巴巴宣布 9 人升任副总裁及以上职位，涉及 P10、M6、M7 [read](https://www.ithome.com/0/598/405.htm)
+   中兴通讯武汉研发中心项目落户光谷 [read](https://www.ithome.com/0/598/412.htm)
 
    HelloGitHub 第 69 期 [read](https://hellogithub.com/periodical/volume/69/)
 
@@ -478,11 +472,11 @@ draft: true
 
    给儿童、教师和学校的最佳 Linux 发行版 [read](https://linux.cn/article-14174-1.html?utm_source=rss&utm_medium=rss)
 
-   \[分享创造\] 分享下我的独立开发日记 04 [read](https://www.v2ex.com/t/828124#reply0)
+   \[问与答\] 高性能 C++国内有哪些好的工作方向？ [read](https://www.v2ex.com/t/828131#reply0)
 
-   \[程序员\] QT 界面，如何实现随电脑百分比放大，自动缩放 [read](https://www.v2ex.com/t/828123#reply1)
+   \[问与答\] 三节五号电池的体重秤 改装无线充电方式，用 5w 的无线充发射接收模块，会有影响么？ [read](https://www.v2ex.com/t/828130#reply0)
 
-   \[问与答\] 一线城市的土著在找对象时会要求门当户对吗？ [read](https://www.v2ex.com/t/828122#reply0)
+   \[问与答\] 如何理解分布式和集群的区别？ [read](https://www.v2ex.com/t/828129#reply1)
 
    网络数字身份认证术 [read](https://coolshell.cn/articles/21708.html)
 
@@ -514,17 +508,17 @@ draft: true
 
    Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro [read](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html)
 
-   并发编程 - HammerZe [read](http://www.cnblogs.com/48xz/p/15799897.html)
+   Bootstrap实战 - 注册和登录 - 后除 [read](http://www.cnblogs.com/mazey/p/15799991.html)
 
-   微软的Serialize和Newtonsoft的SerializeObject比较 - 星仔007 [read](http://www.cnblogs.com/morec/p/15799866.html)
+   使用.NET 6开发TodoList应用(28)——实现应用程序健康检查 - CODE4NOTHING [read](http://www.cnblogs.com/code4nothing/p/build-todolist-28.html)
 
-   Redisson-关于使用订阅数问题 - 玉树临枫 [read](http://www.cnblogs.com/yuanfy008/p/15799743.html)
+   Feed流系统重构-架构篇 - 勇哥技术游记 [read](http://www.cnblogs.com/makemylife/p/15799941.html)
+
+   \[請益\] 一代蜘蛛人2的兩個劇情問題？ [read](https://www.ptt.cc/bbs/movie/M.1642085576.A.F19.html)
+
+   Re: \[新聞\] Netflix計劃連拍兩部《紅色通緝令》續集 [read](https://www.ptt.cc/bbs/movie/M.1642084960.A.051.html)
 
    \[討論\] Kingsman金士曼起源劇情疑問（有雷） [read](https://www.ptt.cc/bbs/movie/M.1642082848.A.E1D.html)
-
-   Re: \[新聞\] 班艾佛列克感謝麥特戴蒙幫他告別蝙蝠俠 [read](https://www.ptt.cc/bbs/movie/M.1642081551.A.2E9.html)
-
-   \[情報\] 朴贊郁、是枝裕和新片 報名本屆坎城影展 [read](https://www.ptt.cc/bbs/movie/M.1642079929.A.8E6.html)
 
    \[正妹\] 大尺碼｜肉特(822) [read](https://www.ptt.cc/bbs/Beauty/M.1642082362.A.4AC.html)
 
@@ -552,11 +546,11 @@ draft: true
 
 ### 游戏
 
+   《杀手 三部曲》将于1月20日发售并登录XGP，IOI《杀手》直播活动汇总 [read](https://www.gcores.com/articles/146294)
+
    第十一章 大发展：1940--1955 [read](https://www.gcores.com/radios/146280)
 
    第十章 令人“新奇”的编辑：1938--1950 [read](https://www.gcores.com/radios/146277)
-
-   第九章 扩张的宇宙：1930--1940 [read](https://www.gcores.com/radios/146276)
 
    有玩家将任天堂两代主机NS和NGC改造后合体了 [read](https://www.yystv.cn/p/8708)
 
