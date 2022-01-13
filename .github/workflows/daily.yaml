@@ -1,0 +1,28 @@
+name: daily
+on:
+  schedule:
+    - cron:  '0 22 * * *'    # 国际标准时间22点（北京时间早上6点发）
+  push:
+    branches:    
+      - main
+jobs:
+  send_cluster_rss:
+      runs-on: ubuntu-20.04
+      steps:
+      - uses: actions/checkout@v2 # Checking out the repo        
+      - name: Install dependecies
+        uses: VaultVulp/action-pipenv@v2.0.1
+        with:
+          command: install -d # Install all dependencies, including development ones
+      - name: Build
+        uses: VaultVulp/action-pipenv@v2.0.1
+        with:
+          command: run build
+      - name: Commit and push if changed   # 更新README.md
+        run: |
+          git diff
+          git config --global user.email "renzhichen2012@163.com"
+          git config --global user.name "airchen"
+          git add *
+          git commit -m "Github Action daily Updated"
+          git push

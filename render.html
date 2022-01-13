@@ -1,0 +1,1876 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- <title>Flask Template Example</title> -->
+    <title>RSS订阅</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <style type="text/css">
+      .container {
+        max-width: 500px;
+        padding-top: 100px;
+      }
+      body {
+        font-size:12px;
+        font-family:"宋体";
+        background: url(https://cn.bing.com/th?id=OHR.FortedeSao_EN-US1357701666_UHD.jpg) center center no-repeat #efeff4 ;
+        background-size: 100%;
+        background-attachment:fixed;
+      }
+      h3 {color: black; font-weight:bold;}
+      p {color: black; font-weight:bold;}
+      a {color: white;}
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <!-- <h2>This is part of my base template</h2> -->
+      <br>
+      
+  <h3> 已收集101个RSS源, 生成时间: 2022-01-08 06:09:37 </h3>
+  <br>  
+  
+    <p>软件工具</p>
+    <ul>
+        
+        <li>
+            <a href=https://iao.su/150/>2022 年 1 月每日分享</a>
+        </li>
+        
+        <li>
+            <a href=https://iao.su/1492/>网页在线工具汇总</a>
+        </li>
+        
+        <li>
+            <a href=https://iao.su/3727/>苹果IOS资源大神「小麦黑科技」值得关注</a>
+        </li>
+        
+        <li>
+            <a href=https://iao.su/3766/>秘塔写作猫</a>
+        </li>
+        
+        <li>
+            <a href=https://iao.su/3793/>限时开放の免单快递拿不停！</a>
+        </li>
+        
+        <li>
+            <a href=https://xclient.info/s/widsmob-viewer.html>WidsMob Viewer 2.15 图片浏览器</a>
+        </li>
+        
+        <li>
+            <a href=https://xclient.info/s/storyist.html>Storyist 4.2.5 故事开发写作工具</a>
+        </li>
+        
+        <li>
+            <a href=https://xclient.info/s/photomill-x.html>PhotoMill X 2.1.1 批量处理图片工具</a>
+        </li>
+        
+        <li>
+            <a href=https://xclient.info/s/feeder.html>Feeder 4.3.2 创建和发布RSS</a>
+        </li>
+        
+        <li>
+            <a href=https://xclient.info/s/data-guardian.html>Data Guardian 7.0.5 数据保护工具</a>
+        </li>
+        
+        <li>
+            <a href=https://www.mpyit.com/pdfpatcher.html>PDF补丁丁 1.0.0.3755 国产免费PDF软件 12年历史</a>
+        </li>
+        
+        <li>
+            <a href=https://www.mpyit.com/yueduapk3.html>阅读 3.22.010615 开源阅读软件+书源10000个</a>
+        </li>
+        
+        <li>
+            <a href=https://www.mpyit.com/hibituninstaller.html>HiBit Uninstaller 2.7.35.100 软件卸载工具</a>
+        </li>
+        
+        <li>
+            <a href=https://www.mpyit.com/qqmusic.html>QQ音乐 18.47 正版音乐曲库</a>
+        </li>
+        
+        <li>
+            <a href=https://www.mpyit.com/jingdonggpapk.html>京东 10.3.2 GooglePlay版</a>
+        </li>
+        
+        <li>
+            <a href=https://www.jokerps.com/6187.html>7-Zip</a>
+        </li>
+        
+        <li>
+            <a href=https://www.jokerps.com/6181.html>GIMP</a>
+        </li>
+        
+        <li>
+            <a href=https://www.jokerps.com/6150.html>Listen 1</a>
+        </li>
+        
+        <li>
+            <a href=https://www.jokerps.com/6134.html>HandShaker</a>
+        </li>
+        
+        <li>
+            <a href=https://www.jokerps.com/6127.html>X浏览器</a>
+        </li>
+        
+        <li>
+            <a href=https://www.appinn.com/refgen/>Refgen – 为个人知识整理和笔记生成来源引用链接\[Chrome\]</a>
+        </li>
+        
+        <li>
+            <a href=https://www.appinn.com/blush-online/>Blush – 在线卡通头像生成器，免费、可商用，无需注明出处</a>
+        </li>
+        
+        <li>
+            <a href=https://www.appinn.com/portfolio-returns/>Portfolio Returns – 2个步骤，记录投资并自动计算回报率[macOS]</a>
+        </li>
+        
+        <li>
+            <a href=https://www.appinn.com/pika-online/>Pika – 1 键美化截图，添加背景渐变色、阴影、圆角等[Web]</a>
+        </li>
+        
+        <li>
+            <a href=https://www.appinn.com/relingo-for-chrome/>Relingo – 自动为文章与视频标示英文生词[Chrome]</a>
+        </li>
+        
+    </ul>
+    <br>
+  
+    <p>个人博客</p>
+    <ul>
+        
+        <li>
+            <a href=http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html>科技爱好者周刊（第 191 期）：一个程序员的财务独立之路</a>
+        </li>
+        
+        <li>
+            <a href=http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html>科技爱好者周刊（第 190 期）：产品化思维</a>
+        </li>
+        
+        <li>
+            <a href=https://yinwang1.wordpress.com/2022/01/01/2022-new-year/>2022 新年</a>
+        </li>
+        
+        <li>
+            <a href=https://yinwang1.wordpress.com/2021/12/24/reality-2/>看清现实</a>
+        </li>
+        
+        <li>
+            <a href=https://yinwang1.wordpress.com/2021/12/21/movement/>“动作要标准”的误区</a>
+        </li>
+        
+        <li>
+            <a href=https://yinwang1.wordpress.com/2021/12/11/ai-decade/>AI 十年浩劫</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.daliansky.net/undefined.html></a>
+        </li>
+        
+        <li>
+            <a href=https://blog.daliansky.net/Morefine-S500-and-macOS-Monterey-Installation-Tutorial.html>morefine S500兼Monterey安装教程</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.daliansky.net/macOS-Monterey-12.0.1-21A559-Release-version-with-OC-0.7.5-CLOVER-5141-and-PE-original-image.html>【黑果小兵】【微信首发】macOS Monterey 12.0.1 21A559 Installer for OpenCore 0.7.5 and CLOVER 5141 and WEPE 三 EFI 分区原版镜像</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Monterey-12.0-installation.html>macOS Monterey 12.0安装中常见的问题及解决方法</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.daliansky.net/macOS-Monterey-12.0-Beta7-21A5522h-Release-version-with-OC-0.7.4-and-WEPE-original-image.html>【黑果小兵】【微信首发】macOS Monterey 12.0 Beta 7 21A5522h Installer for OpenCore 0.7.4 and WEPE 双 EFI 分区原版镜像</a>
+        </li>
+        
+        <li>
+            <a href=https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/>JS 标签模板（Tagged templates）什么时候使用？</a>
+        </li>
+        
+        <li>
+            <a href=https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/>深入JS getRandomValues和Math.random方法</a>
+        </li>
+        
+        <li>
+            <a href=https://www.zhangxinxu.com/wordpress/2021/12/css-meida-user-experience/>你不知道的CSS media查询与用户体验</a>
+        </li>
+        
+        <li>
+            <a href=https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/>flex-end为什么overflow无法滚动及解决方法</a>
+        </li>
+        
+        <li>
+            <a href=https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/>从js visibilitychange Safari下无效说开去</a>
+        </li>
+        
+        <li>
+            <a href=https://v2fy.com/p/2022-01-05-k8s-pi-1641393748000/>《树莓派4B家庭服务器搭建指南》第十四期：使用树莓派4B搭建k8s集群</a>
+        </li>
+        
+        <li>
+            <a href=https://v2fy.com/p/2022-01-02-hades-1641133054000/>Hades是个好游戏, 也讲了好故事</a>
+        </li>
+        
+        <li>
+            <a href=https://v2fy.com/p/2022-01-01-ip-1641016585000/>为Ubuntu 20.04 设置静态IP简明教程（和把大象装冰箱一样简单）</a>
+        </li>
+        
+        <li>
+            <a href=https://v2fy.com/p/2021-12-30-hades-1640831520000/>注册任天堂Switch巴西区账号，低价购买2020年TGA年度最佳动作游戏And最佳独立游戏哈迪斯Hades经验分享</a>
+        </li>
+        
+        <li>
+            <a href=https://flingtrainer.com/trainer/dynasty-warriors-9-empires-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=dynasty-warriors-9-empires-trainer>Dynasty Warriors 9: Empires Trainer</a>
+        </li>
+        
+        <li>
+            <a href=https://flingtrainer.com/trainer/thunder-tier-one-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=thunder-tier-one-trainer>Thunder Tier One Trainer</a>
+        </li>
+        
+        <li>
+            <a href=https://flingtrainer.com/trainer/final-fantasy-vii-remake-intergrade-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=final-fantasy-vii-remake-intergrade-trainer>Final Fantasy VII Remake Intergrade Trainer</a>
+        </li>
+        
+        <li>
+            <a href=https://flingtrainer.com/trainer/icarus-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=icarus-trainer>Icarus Trainer</a>
+        </li>
+        
+        <li>
+            <a href=https://flingtrainer.com/trainer/rune-factory-4-special-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=rune-factory-4-special-trainer>Rune Factory 4 Special Trainer</a>
+        </li>
+        
+        <li>
+            <a href=https://www.runningcheese.com/overview>\[置顶\] – 5 分钟看完本站所有内容</a>
+        </li>
+        
+        <li>
+            <a href=https://www.runningcheese.com/coupon>正版软件优惠购买，最多 6 折优惠 !!!</a>
+        </li>
+        
+        <li>
+            <a href=https://www.runningcheese.com/firefox-for-mac>RunningCheese Firefox for Mac 94.0 正式版</a>
+        </li>
+        
+        <li>
+            <a href=https://www.runningcheese.com/firefox>RunningCheese Firefox 95.0 正式版</a>
+        </li>
+        
+        <li>
+            <a href=https://www.runningcheese.com/chrome>RunningCheese Chrome 96.0 稳定版</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.devtang.com/2022/01/01/2021-summary/>2021 年个人总结</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.devtang.com/2021/10/16/using-dropbox-as-git-remote-rep/>把 DropBox 当作私有化 Git 仓库</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.devtang.com/2021/08/30/thinking-of-education-industry-change/>关于教育行业变化的思考 - 写在创业 9 周年</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.devtang.com/2021/08/14/yijia-design-problem/>宜家的设计问题</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.devtang.com/2021/08/10/how-to-sell-product/>销售如何卖出产品</a>
+        </li>
+        
+        <li>
+            <a href=https://www.kawabangga.com/posts/4617>寻找丢失的信号</a>
+        </li>
+        
+        <li>
+            <a href=https://www.kawabangga.com/posts/4607>Coredns 源码阅读（导读）</a>
+        </li>
+        
+        <li>
+            <a href=https://www.kawabangga.com/posts/4481>SRE 的工作介绍</a>
+        </li>
+        
+        <li>
+            <a href=https://www.kawabangga.com/posts/4594>多租户环境中的 TCP 限速（基于 iptables）</a>
+        </li>
+        
+        <li>
+            <a href=https://www.kawabangga.com/posts/4576>介绍 Lobbyboy 项目</a>
+        </li>
+        
+        <li>
+            <a href=https://imtx.me/blog/pastenow-ios-preview/>PasteNow：macOS 版本近期更新及 iOS 版本预览</a>
+        </li>
+        
+        <li>
+            <a href=https://imtx.me/blog/talk-about-my-indie-developer-experience-on-bytetalk/>记在 limboy 的 ByteTalk 播客上聊独立开发的经历</a>
+        </li>
+        
+        <li>
+            <a href=https://imtx.me/blog/some-thoughts-after-ordering-the-m1-pro-macbook-pro/>谈谈定购 M1 Pro 的 16 寸 MacBook Pro 后的一些想法</a>
+        </li>
+        
+        <li>
+            <a href=https://imtx.me/blog/talk-about-swiftui-from-a-2016-video/>从 2016 年的一个视频再谈 SwiftUI 的理念、现状与未来</a>
+        </li>
+        
+        <li>
+            <a href=https://imtx.me/blog/thoughts-on-how-to-organize-digial-space/>记一次容量降级带来关于「整理数字空间」的思考</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.codingnow.com/2021/12/lua_544.html>难产的 Lua 5.4.4</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.codingnow.com/2021/12/factorio_inserter.html>异星工厂的机械臂模块</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.codingnow.com/2021/11/c_cache_lua_table.html>C 中访问 Lua 配置表的优化</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.codingnow.com/2021/11/related_components.html>ECS 中同类关联数据的处理</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.codingnow.com/2021/10/miller_rabin_primality_test.html>米勒拉宾素数检验</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.t9t.io/star-history-2021-01-21/>一个付费 chrome 插件的一生</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.t9t.io/headllines-2020-09-03/>通过 GitHub 订阅 Hacker News 每日 top 10</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.t9t.io/let-user-design-2020-06-18/>让用户决定软件长什么样</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.t9t.io/t9t-year1-2020-05-18/>我的一年独立开发经历</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.t9t.io/feeds-pub-2-2020-04-14/>Feeds Pub 小范围发布半个月, 分享一些数据和感想</a>
+        </li>
+        
+        <li>
+            <a href=http://weiwuhui.com/8577.html>豆瓣是啥？</a>
+        </li>
+        
+        <li>
+            <a href=http://weiwuhui.com/8573.html>DTC：基于流量的新消费，还是基于洞察的新消费？</a>
+        </li>
+        
+        <li>
+            <a href=http://weiwuhui.com/8571.html>此直播非彼直播</a>
+        </li>
+        
+        <li>
+            <a href=http://weiwuhui.com/8569.html>提前退休计划 真让人羡慕</a>
+        </li>
+        
+        <li>
+            <a href=http://weiwuhui.com/8567.html>商业 能释放善意吗 还是惊人的那种</a>
+        </li>
+        
+        <li>
+            <a href=https://www.xiabingbao.com/post/nodejs/nodejs-check-referer-r2zde7.html>nodejs 中如何校验请求中的 referer</a>
+        </li>
+        
+        <li>
+            <a href=https://www.xiabingbao.com/post/leetcode/leetcode-1337-new-thinking-qzei39.html>leetcode1337 矩阵中战斗力最弱的 K 行的一种新颖解法</a>
+        </li>
+        
+        <li>
+            <a href=https://www.xiabingbao.com/post/react/nextjs-server-client-build-qxpzwi.html>NextJs 如何按服务端或浏览器端的类型分别打包</a>
+        </li>
+        
+        <li>
+            <a href=https://www.xiabingbao.com/post/f2e/ali-wangchengwen-qxpi3d.html>阿里这个不是瓜，是犯罪！</a>
+        </li>
+        
+        <li>
+            <a href=https://www.xiabingbao.com/post/react/create-react-app-multiple-page-qxphi7.html>如何打造一个react技术栈的多页面的框架应用</a>
+        </li>
+        
+        <li>
+            <a href=https://diygod.me/job/>RSS3 提供最酷最理想最自由的开源远程工作</a>
+        </li>
+        
+        <li>
+            <a href=https://diygod.me/2020/>2020 年终总结</a>
+        </li>
+        
+        <li>
+            <a href=https://diygod.me/my-last-fight-against-this-world/>我与这个世界的最后一次抗争</a>
+        </li>
+        
+        <li>
+            <a href=https://diygod.me/web-debugging-proxy/>科学的 Web 调试代理实践</a>
+        </li>
+        
+        <li>
+            <a href=https://diygod.me/animal-crossing/>我的动森日记</a>
+        </li>
+        
+        <li>
+            <a href=http://macshuo.com/?p=1511>人的大地，探险者的代价，辽阔的生活</a>
+        </li>
+        
+        <li>
+            <a href=http://macshuo.com/?p=1508>推荐一些好的信息源</a>
+        </li>
+        
+        <li>
+            <a href=http://macshuo.com/?p=1500>为啥你一入场就开始跌呢？聊聊长期主义</a>
+        </li>
+        
+        <li>
+            <a href=http://macshuo.com/?p=1496>人生的乐趣不就在于不努力吗？</a>
+        </li>
+        
+        <li>
+            <a href=http://macshuo.com/?p=1494>70 后都跑哪去了？</a>
+        </li>
+        
+        <li>
+            <a href=http://shrekshao.github.io/2021/02/24/wjxfootball/>更新了吴健雄院队和健雄杯的网站</a>
+        </li>
+        
+        <li>
+            <a href=http://shrekshao.github.io/2021/01/01/shrekshao-com/>shrekshao.com</a>
+        </li>
+        
+        <li>
+            <a href=http://shrekshao.github.io/2020/10/20/encounter-game-dev-MS2/>Encounter Game Dev Progress Video MS2</a>
+        </li>
+        
+        <li>
+            <a href=http://shrekshao.github.io/2019/05/28/encounter-game-dev-MS1/>Encounter Game Dev Progress Video MS1</a>
+        </li>
+        
+        <li>
+            <a href=http://shrekshao.github.io/2019/01/10/webapp-magicposer/>Magic poser Webapp Lite</a>
+        </li>
+        
+        <li>
+            <a href=http://www.phodal.com/blog/domain-macro-component/>领域元组件：领域特定的组件集合</a>
+        </li>
+        
+        <li>
+            <a href=http://www.phodal.com/blog/node-2021/>2021 节点：赶不上变化的计划</a>
+        </li>
+        
+        <li>
+            <a href=http://www.phodal.com/blog/frontend-strategy-2021/>前端技术规划与战略：2022</a>
+        </li>
+        
+        <li>
+            <a href=http://www.phodal.com/blog/componentless/>Componentless: 面向低代码时代的前端架构设计</a>
+        </li>
+        
+        <li>
+            <a href=http://www.phodal.com/blog/nanocomponent/>Yiki：NanoComponent（草稿）</a>
+        </li>
+        
+        <li>
+            <a href=https://www.zmrenwu.com/post/95/>\[None\] Django 老项目如何从 SQLite 迁到 PostgreSQL</a>
+        </li>
+        
+        <li>
+            <a href=https://www.zmrenwu.com/post/94/>\[None\] 如何在 Windows 下搭建高效的 django 开发环境</a>
+        </li>
+        
+        <li>
+            <a href=https://www.zmrenwu.com/post/93/>[None] 拓展Python Markdown</a>
+        </li>
+        
+        <li>
+            <a href=https://www.zmrenwu.com/post/92/>[Django ORM 高级操作] Django 使用 union 合并不同模型(Model) 的查询集(QuerySet)</a>
+        </li>
+        
+        <li>
+            <a href=https://www.zmrenwu.com/post/91/>[django-blog-project] 博客代码开源啦</a>
+        </li>
+        
+        <li>
+            <a href=https://www.dongwm.com/post/talk-about-writebook-and-something/>聊聊写书、技术会议、知名度和变现</a>
+        </li>
+        
+        <li>
+            <a href=https://www.dongwm.com/post/ten-years/>博客十年</a>
+        </li>
+        
+        <li>
+            <a href=https://www.dongwm.com/post/custom-github-profile/>搞了下Github  Profile</a>
+        </li>
+        
+        <li>
+            <a href=https://www.dongwm.com/post/attributeerror-propagation/>property的AttributeError的传播问题</a>
+        </li>
+        
+        <li>
+            <a href=https://www.dongwm.com/post/nintendo-financing/>不知道取什么标题之任天堂理财</a>
+        </li>
+        
+        <li>
+            <a href=https://windard.com/opinion/2021/11/07/Singleton-In-Python>Python 中的单例模式</a>
+        </li>
+        
+        <li>
+            <a href=https://windard.com/project/2021/10/08/Puzzle-Game>拼图游戏</a>
+        </li>
+        
+        <li>
+            <a href=https://windard.com/opinion/2021/03/16/Explore-Golang-Interface>探究 Golang interface</a>
+        </li>
+        
+        <li>
+            <a href=https://windard.com/project/2021/03/12/3D-Print-Github-Skyline-Model>Skyline 3D 打印</a>
+        </li>
+        
+        <li>
+            <a href=https://windard.com/opinion/2021/01/10/Redis-Application>redis 的一些典型应用 （二）</a>
+        </li>
+        
+        <li>
+            <a href=https://luolei.org/edc-2020/>从9元到9000元，我包里常备的十件产品 \| EDC</a>
+        </li>
+        
+        <li>
+            <a href=https://luolei.org/pamu-quiet/>旧不去新不来：派美特 PaMu Quiet 真无线降噪耳机</a>
+        </li>
+        
+        <li>
+            <a href=https://luolei.org/warsun-portable-y40-led-light/>这是男人想要的手电筒模样 | warsun 沃尔森 Y40 太阳能 LED 灯</a>
+        </li>
+        
+        <li>
+            <a href=https://luolei.org/clarks-desert-boot-resole/>老鞋续命，我给一双穿了5年的沙漠靴修鞋底</a>
+        </li>
+        
+        <li>
+            <a href=https://luolei.org/iphone-shell-supermarket/>带老婆去华强北买 iPhone 12 手机壳</a>
+        </li>
+        
+        <li>
+            <a href=https://ridiqulous.com/contrast-detection-probability/>谈谈 CDP (Contrast Detection Probability)</a>
+        </li>
+        
+        <li>
+            <a href=https://ridiqulous.com/pytorch-non-local-means/>从 Non-local Means 看 PyTorch 显存优化的奇技淫巧</a>
+        </li>
+        
+        <li>
+            <a href=https://ridiqulous.com/lego-42083-bugatti-chiron/>LEGO 42083 Bugatti Chiron with PF+RC 乐高布加迪奇龙</a>
+        </li>
+        
+        <li>
+            <a href=https://ridiqulous.com/restaurants-list/>我的餐厅打卡清单</a>
+        </li>
+        
+        <li>
+            <a href=https://ridiqulous.com/chinese-webfont-guide/>中文网页字体设置方案：从 font-family 到 font-display</a>
+        </li>
+        
+        <li>
+            <a href=https://daimajia.com/2021/11/25/young-assets>新年轻人和新资产</a>
+        </li>
+        
+        <li>
+            <a href=https://daimajia.com/2021/11/25/rethink-blockchain-1>GameFi 和 DAO</a>
+        </li>
+        
+        <li>
+            <a href=https://daimajia.com/2021/09/15/coder-to-investor>Q&A：技术人如何转投资？</a>
+        </li>
+        
+        <li>
+            <a href=https://daimajia.com/2021/08/22/tickerpad>开发了一款 macOS 状态栏行情软件 – TickerPad</a>
+        </li>
+        
+        <li>
+            <a href=https://daimajia.com/2021/03/18/ignite-china-2021>与焦虑做朋友，欢迎一起来参加 Microsoft Ignite China 的晚场夜话 – 2021年03月18日晚 8 点</a>
+        </li>
+        
+        <li>
+            <a href=https://www.kymjs.com/code/2020/08/07/01>自定义C/C++日志输出函数</a>
+        </li>
+        
+        <li>
+            <a href=https://www.kymjs.com/manager/2020/05/29/01>再聊 Git Flow</a>
+        </li>
+        
+        <li>
+            <a href=https://www.kymjs.com/note/2020/03/19/01>Flutter 设置控件是否可见</a>
+        </li>
+        
+        <li>
+            <a href=https://www.kymjs.com/note/2020/03/18/01>Flutter 线性布局：Column 和 Row</a>
+        </li>
+        
+        <li>
+            <a href=https://www.kymjs.com/note/2020/03/17/01>开源一段 Mac 批量压缩图片的脚本</a>
+        </li>
+        
+        <li>
+            <a href=https://droidyue.com/blog/2022/01/03/how-to-install-ipa-on-iphone-in-terminal/>Mac 终端下 实现 安装 ipa 包到 iPhone 真机</a>
+        </li>
+        
+        <li>
+            <a href=https://droidyue.com/blog/2021/12/25/markdown-editor-typora-at-low-price/>跨平台 Markdown 编辑器 Typora 独家上架数码荔枝，新用户券后仅需 81 元</a>
+        </li>
+        
+        <li>
+            <a href=https://droidyue.com/blog/2021/12/25/set-proxy-for-slack/>Slack 设置代li</a>
+        </li>
+        
+        <li>
+            <a href=https://droidyue.com/blog/2021/12/25/synergy-one-mouse-and-keyboard-could-control-more-desktops/>Synergy 为你的键鼠升个级，一套键盘鼠标轻松控制多台电脑！</a>
+        </li>
+        
+        <li>
+            <a href=https://droidyue.com/blog/2021/12/09/how-to-get-current-stacktrace-in-dart-flutter/>Flutter/Dart 获取当前的 stacktrace</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.lilydjwg.me/posts/215986.html>Wayfire 迁移进展（三）：taskmaid, waybar 以及 mako 等</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.lilydjwg.me/posts/215977.html>Wayfire 迁移进展（二）：Xwayland HiDPI 以及 waybar</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.lilydjwg.me/posts/215972.html>Wayfire 迁移进展</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.lilydjwg.me/posts/215968.html>不同情况下的图形效果</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.lilydjwg.me/posts/215964.html>Wayland 初体验</a>
+        </li>
+        
+        <li>
+            <a href=https://hintsnet.com/pimgeek/2020/05/24/make-a-knowledge-exploration-map-with-thebrain-8-pro/>用 TheBrain 8 专业版绘制知识探索路线图</a>
+        </li>
+        
+        <li>
+            <a href=https://hintsnet.com/pimgeek/2020/05/23/roam-research-keyboard-shortcuts-summary/>【英译中】Roam Research 键盘快捷键总结</a>
+        </li>
+        
+        <li>
+            <a href=https://hintsnet.com/pimgeek/2019/11/22/12-years-recording-children-growth-education-documentary-film-invite-audience/>12 年跟拍成长教育纪录片《零零后》诚邀观众</a>
+        </li>
+        
+        <li>
+            <a href=https://hintsnet.com/pimgeek/2019/10/09/a-trial-wechat-based-experimental-class-named-m-a-k-e/>尝试开设 M.A.K.E. 实验班 (基于微信群)</a>
+        </li>
+        
+        <li>
+            <a href=https://hintsnet.com/pimgeek/2019/08/13/bill-gates-and-warren-buffett-both-wrote-down-this-word/>比尔·盖茨和巴菲特不约而同地写下了这个词</a>
+        </li>
+        
+        <li>
+            <a href=https://zxx.im/financial/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2---%E4%BB%B7%E5%80%BC%E4%B8%8E%E6%B5%81%E5%8A%A8%E6%80%A7>投资理财 - 价值与流动性</a>
+        </li>
+        
+        <li>
+            <a href=https://zxx.im/financial/%E5%B0%8F%E7%99%BD%E5%85%A5%E5%B8%82%E6%8C%87%E5%8D%97>投资理财 - 小白入市指南</a>
+        </li>
+        
+        <li>
+            <a href=https://zxx.im/linux/Linux%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%95%E6%9C%BA5-%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4%E4%BA%8C>Linux入门到宕机5-基础命令二</a>
+        </li>
+        
+        <li>
+            <a href=https://zxx.im/financial/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A22-%E5%8F%AF%E8%BD%AC%E5%80%BA%E6%89%93%E6%96%B0%E6%B5%81%E7%A8%8B>投资理财2-可转债打新流程</a>
+        </li>
+        
+        <li>
+            <a href=https://zxx.im/financial/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A21-%E4%BB%80%E4%B9%88%E6%98%AF%E5%8F%AF%E8%BD%AC%E5%80%BA>投资理财1-什么是可转债</a>
+        </li>
+        
+        <li>
+            <a href=https://dumplingbao.github.io/2021/11/27/mac-01/>我的2021年新Mac设置</a>
+        </li>
+        
+        <li>
+            <a href=https://dumplingbao.github.io/2021/08/03/wx-painter/>小程序：Painter画布</a>
+        </li>
+        
+        <li>
+            <a href=https://dumplingbao.github.io/2021/07/22/wx-mqtt/>小程序：mqtt+webview控制显示内容</a>
+        </li>
+        
+        <li>
+            <a href=https://dumplingbao.github.io/2021/07/20/wx-pdf/>小程序：webview + PDF预览</a>
+        </li>
+        
+        <li>
+            <a href=https://dumplingbao.github.io/2021/07/17/wx-ssn/>小程序：数十年Lite</a>
+        </li>
+        
+        <li>
+            <a href=https://greatdk.com/1797.html>除了宇宙之外的那种元</a>
+        </li>
+        
+        <li>
+            <a href=https://greatdk.com/1798.html>吾猫茶水</a>
+        </li>
+        
+        <li>
+            <a href=https://greatdk.com/1776.html>面包多 2 年小复盘：100 万用户，数千万流水以及一些碎碎念</a>
+        </li>
+        
+        <li>
+            <a href=https://greatdk.com/1763.html>为邻居做饭的人</a>
+        </li>
+        
+        <li>
+            <a href=https://greatdk.com/1753.html>回到成都的那一夜</a>
+        </li>
+        
+        <li>
+            <a href=http://www.cnfeat.com/2022/01/06/2021-12-05-newspaper/></a>
+        </li>
+        
+        <li>
+            <a href=http://www.cnfeat.com/blog/2021/11/10/ToolsHandbook/>《卡片创作工具指南》正式发布</a>
+        </li>
+        
+        <li>
+            <a href=http://www.cnfeat.com/blog/2021/08/23/newsletter/>内容升级，定时更新，欢迎订阅 newsletter</a>
+        </li>
+        
+        <li>
+            <a href=http://www.cnfeat.com/blog/2021/07/02/vistopia/>我就是喜欢这样的“看理想”</a>
+        </li>
+        
+        <li>
+            <a href=http://www.cnfeat.com/blog/2021/06/18/handbook/>264天成果,《笨方法文化手册1.0》发布</a>
+        </li>
+        
+        <li>
+            <a href=https://www.laruence.com/2020/07/13/6033.html>PHP8新特性之match表达式</a>
+        </li>
+        
+        <li>
+            <a href=https://www.laruence.com/2020/07/09/6015.html>一个关于if else容易迷惑的问题</a>
+        </li>
+        
+        <li>
+            <a href=https://www.laruence.com/2020/06/27/5963.html>PHP 8新特性之JIT简介</a>
+        </li>
+        
+        <li>
+            <a href=https://www.laruence.com/2020/06/16/5916.html>使用SSE2指令高效实现strtolower</a>
+        </li>
+        
+        <li>
+            <a href=https://www.laruence.com/2020/06/12/5902.html>PHP 8新特性之Attributes(注解)</a>
+        </li>
+        
+        <li>
+            <a href=http://hawstein.com/2020/02/17/be-an-indie-hacker-for-613-days/>不上班的 613 天</a>
+        </li>
+        
+        <li>
+            <a href=http://hawstein.com/2020/01/13/plans-after-200/>Plan 200 完结后做什么</a>
+        </li>
+        
+        <li>
+            <a href=http://hawstein.com/2020/01/08/indie-hacker-notes-issue-14/>Indie Hacker 笔记 | 第 14 期</a>
+        </li>
+        
+        <li>
+            <a href=http://hawstein.com/2019/11/30/algocasts-monthly-report-2019-10/>AlgoCasts 2019 年 10 月小结</a>
+        </li>
+        
+        <li>
+            <a href=http://hawstein.com/2019/10/29/algocasts-monthly-report-2019-09/>AlgoCasts 2019 年 9 月小结</a>
+        </li>
+        
+        <li>
+            <a href=https://www.haijiaoshi.com/archives/8771>书目 \| 2021年明清研究相关书目</a>
+        </li>
+        
+        <li>
+            <a href=https://www.haijiaoshi.com/archives/8768>钟鸣旦：18世纪进入全球公共领域的中国《邸报》</a>
+        </li>
+        
+        <li>
+            <a href=https://www.haijiaoshi.com/archives/8759>天津考古又有新发现：大规模唐代文化遗存在军粮城出土</a>
+        </li>
+        
+        <li>
+            <a href=https://www.haijiaoshi.com/archives/8750>GALE数据库：Imperial China and the West</a>
+        </li>
+        
+        <li>
+            <a href=https://www.haijiaoshi.com/archives/8748>GALE数据库: China and the Modern World: Hong Kong, Britain and China 1841–1951 详细目录</a>
+        </li>
+        
+        <li>
+            <a href=https://www.4sbooks.com/archives/6364.html>经济思想的可信与可爱</a>
+        </li>
+        
+        <li>
+            <a href=https://www.4sbooks.com/archives/6353.html>转变中的帝国：中华帝国晚期的法律、社会、商业化与国家形成</a>
+        </li>
+        
+        <li>
+            <a href=https://www.4sbooks.com/archives/6345.html>评沈爱娣《传教士的诅咒》</a>
+        </li>
+        
+        <li>
+            <a href=https://www.4sbooks.com/archives/6340.html>武侠的历史与政治</a>
+        </li>
+        
+        <li>
+            <a href=https://www.4sbooks.com/archives/6332.html>只有认真对待本地史，才有可能写出全球化历史：评《蓝白之城：中国瓷器与早期现代世界》</a>
+        </li>
+        
+        <li>
+            <a href=https://wentommy.wordpress.com/2019/08/19/%e7%8e%af%e7%90%83%e8%8a%82%e5%be%8b%e8%b5%8f%e6%9e%90/>环球节律赏析</a>
+        </li>
+        
+        <li>
+            <a href=https://wentommy.wordpress.com/2019/06/01/%e8%83%a1%e4%be%83%e5%81%b6%e8%ae%b0%e4%b9%8b%e3%80%8e%e6%8e%a8%e7%89%b9%e7%af%87%e3%80%8f/>胡侃偶记之『推特篇』</a>
+        </li>
+        
+        <li>
+            <a href=https://wentommy.wordpress.com/2019/05/19/%e5%8d%93%e8%be%be%e5%be%80%e4%ba%8b/>卓达往事</a>
+        </li>
+        
+        <li>
+            <a href=https://wentommy.wordpress.com/2019/05/10/%e8%83%a1%e4%be%83%e5%81%b6%e8%ae%b0%ef%bc%88%e4%b8%ad%e7%be%8e%e7%af%87%ef%bc%89/>胡侃偶记 『中美篇』</a>
+        </li>
+        
+        <li>
+            <a href=https://wentommy.wordpress.com/2019/03/16/%e4%b9%9f%e8%af%b4%e5%a4%ae%e8%a7%86%e8%ae%a4%e7%bd%aa/>也说“央视认罪”</a>
+        </li>
+        
+    </ul>
+    <br>
+  
+    <p>数码</p>
+    <ul>
+        
+        <li>
+            <a href=https://sspai.com/post/70827>本周看什么丨最近值得一看的 9 部作品</a>
+        </li>
+        
+        <li>
+            <a href=https://sspai.com/post/70814>满分五分，你给 Apple 的 2021 年打几分？</a>
+        </li>
+        
+        <li>
+            <a href=https://sspai.com/post/70817>本月玩什么 | 彩虹六号：异种、宝可梦传说 阿尔宙斯、秘境探险合辑</a>
+        </li>
+        
+        <li>
+            <a href=https://sspai.com/post/70795>瞎玩菌的游戏周报：Steam 大奖、PS VR2、Switch 最畅销独立游戏等</a>
+        </li>
+        
+        <li>
+            <a href=https://sspai.com/post/70462>出门少带一张卡：如何把门禁卡放在手机或手环上</a>
+        </li>
+        
+        <li>
+            <a href=http://www.dgtle.com/article-1661775-1.html>一个时代的落幕</a>
+        </li>
+        
+        <li>
+            <a href=http://www.dgtle.com/article-1661610-1.html>Lolita - ap 小白云 及 近期写真作品</a>
+        </li>
+        
+        <li>
+            <a href=http://www.dgtle.com/article-1661744-1.html>AYANEO NEXT 探索版体验 ：献给游戏热爱者的诗</a>
+        </li>
+        
+        <li>
+            <a href=http://www.dgtle.com/article-1661600-1.html>不普适 但合适——Find N 使用体验</a>
+        </li>
+        
+        <li>
+            <a href=http://www.dgtle.com/article-1661598-1.html>2021 年度数码印象</a>
+        </li>
+        
+        <li>
+            <a href=https://www.chiphell.com/article-26847-1.html>\[第七届机王争霸赛\]专业MOD组——tasty, H\'z Mk5 by Henry.Z(完工)</a>
+        </li>
+        
+        <li>
+            <a href=https://www.chiphell.com/article-26846-1.html>\[第七届机王争霸赛\]ATX组——Golden & Gray by yhgg 完工</a>
+        </li>
+        
+        <li>
+            <a href=https://www.chiphell.com/article-26845-1.html>[第七届机王争霸赛]ITX组——by tommylin (完工)</a>
+        </li>
+        
+        <li>
+            <a href=https://www.chiphell.com/article-26844-1.html>[第七届机王争霸赛]ATX组——black by zei7386 完工</a>
+        </li>
+        
+        <li>
+            <a href=https://www.chiphell.com/article-26843-1.html>【咖啡豆】疫情宅家喝遍全球计划001</a>
+        </li>
+        
+    </ul>
+    <br>
+  
+    <p>IT团队博客</p>
+    <ul>
+        
+        <li>
+            <a href=http://www.alloyteam.com/2021/04/15431/>走向匿名化，谈谈微信小程序新授权登录</a>
+        </li>
+        
+        <li>
+            <a href=http://www.alloyteam.com/2021/03/15427/>yield 学习</a>
+        </li>
+        
+        <li>
+            <a href=http://www.alloyteam.com/2021/03/callable-object/>callable-object</a>
+        </li>
+        
+        <li>
+            <a href=http://www.alloyteam.com/2021/03/15389/>深入学习定时器</a>
+        </li>
+        
+        <li>
+            <a href=http://www.alloyteam.com/2021/01/sri/>提高资源的安全性 – SRI 与 CSP</a>
+        </li>
+        
+        <li>
+            <a href=https://weekly.75.team/issue430.html>奇舞周刊第 430 期</a>
+        </li>
+        
+        <li>
+            <a href=https://weekly.75.team/issue429.html>奇舞周刊第 429 期</a>
+        </li>
+        
+        <li>
+            <a href=https://weekly.75.team/issue428.html>奇舞周刊第 428 期</a>
+        </li>
+        
+        <li>
+            <a href=https://weekly.75.team/issue427.html>奇舞周刊第 427 期</a>
+        </li>
+        
+        <li>
+            <a href=https://weekly.75.team/issue426.html>奇舞周刊第 426 期</a>
+        </li>
+        
+        <li>
+            <a href=https://fed.taobao.org/blog/taofed/do71ct/wpsf10>VS Code 是如何优化启动性能的？</a>
+        </li>
+        
+        <li>
+            <a href=https://fed.taobao.org/blog/taofed/do71ct/fufsgh>服饰3D柔性渲染调研及实践</a>
+        </li>
+        
+        <li>
+            <a href=https://fed.taobao.org/blog/taofed/do71ct/fc3cy0>业务系统的稳定性建设</a>
+        </li>
+        
+        <li>
+            <a href=https://fed.taobao.org/blog/taofed/do71ct/uihagy>All in one：项目级 monorepo 策略最佳实践</a>
+        </li>
+        
+        <li>
+            <a href=https://fed.taobao.org/blog/taofed/do71ct/mvd9lw>Midway Serverless 发布 2.0，一体化让前端研发再次提效</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.csdn.net/ByteDanceTech/article/details/122356199>\[原\]业界首家720p/1080p移动端实时超分，打造抖音极致画质体验</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.csdn.net/ByteDanceTech/article/details/122248282>\[原\]btrace 开源！基于 Systrace 高性能 Trace 工具</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.csdn.net/ByteDanceTech/article/details/122138460>[原]赵海平与张宏波谈编程语言</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.csdn.net/ByteDanceTech/article/details/122076591>[原]分布式链路追踪在字节跳动的实践</a>
+        </li>
+        
+        <li>
+            <a href=https://blog.csdn.net/ByteDanceTech/article/details/122007542>[原]深入字节版atop: 线上系统的性能监控实践</a>
+        </li>
+        
+        <li>
+            <a href=https://tech.meituan.com/2022/01/06/7-kdd-cup-kaggle-automl.html>7次KDD Cup&Kaggle冠军的经验分享：从多领域优化到AutoML框架</a>
+        </li>
+        
+        <li>
+            <a href=https://tech.meituan.com/2022/01/01/2021-summary.html>2021年美团技术团队最受欢迎的22篇技术文章</a>
+        </li>
+        
+        <li>
+            <a href=https://tech.meituan.com/2021/12/16/flutterweb-practice-in-meituan-waimai.html>FlutterWeb性能优化探索与实践</a>
+        </li>
+        
+        <li>
+            <a href=https://tech.meituan.com/2021/12/09/meituan-tensorflow-in-recommender-systems.html>TensorFlow在推荐系统中的分布式训练优化实践</a>
+        </li>
+        
+        <li>
+            <a href=https://tech.meituan.com/2021/12/09/meituan-aspect-based-sentiment-analysis-daodian.html>细粒度情感分析在到餐场景中的应用</a>
+        </li>
+        
+        <li>
+            <a href=http://fex.baidu.com/blog/2020/06/fex-weekly-08//>FEX 技术周刊 - 2020/06/08</a>
+        </li>
+        
+        <li>
+            <a href=http://fex.baidu.com/blog/2020/06/fex-weekly-01//>FEX 技术周刊 - 2020/06/01</a>
+        </li>
+        
+        <li>
+            <a href=http://fex.baidu.com/blog/2020/05/fex-weekly-25//>FEX 技术周刊 - 2020/05/25</a>
+        </li>
+        
+        <li>
+            <a href=http://fex.baidu.com/blog/2020/05/fex-weekly-18//>FEX 技术周刊 - 2020/05/18</a>
+        </li>
+        
+        <li>
+            <a href=http://fex.baidu.com/blog/2020/05/fex-weekly-11//>FEX 技术周刊 - 2020/05/11</a>
+        </li>
+        
+    </ul>
+    <br>
+  
+    <p>公司官方新闻</p>
+    <ul>
+        
+        <li>
+            <a href=https://www.apple.com/newsroom/2022/01/apple-fitness-plus-introduces-collections-and-time-to-run-starting-january-10/>Apple Fitness+ introduces Collections and Time to Run starting January 10</a>
+        </li>
+        
+        <li>
+            <a href=https://www.apple.com/newsroom/2021/12/apple-marks-a-year-of-giving-in-the-communities-it-calls-home/>Apple marks a year of giving in the communities it calls home</a>
+        </li>
+        
+        <li>
+            <a href=https://www.apple.com/newsroom/2021/12/apple-boys-and-girls-clubs-team-up-to-offer-coding-opportunities-to-kids-teens/>Apple, Boys &amp; Girls Clubs team up to offer coding opportunities to kids, teens</a>
+        </li>
+        
+        <li>
+            <a href=https://www.apple.com/newsroom/2021/12/apple-fitness-plus-will-feature-prince-william-on-time-to-walk-starting-december-6/>Apple Fitness+ will feature Prince William on Time to Walk starting December 6</a>
+        </li>
+        
+        <li>
+            <a href=https://www.apple.com/newsroom/2021/12/app-store-awards-honor-the-best-apps-and-games-of-2021/>App Store Awards honor the best apps and games of 2021</a>
+        </li>
+        
+    </ul>
+    <br>
+  
+    <p>互联网类</p>
+    <ul>
+        
+        <li>
+            <a href=http://www.huxiu.com/article/488501.html?f=wangzhan>港星再就业有多难？“大湾热”下的TVB艺人众生相</a>
+        </li>
+        
+        <li>
+            <a href=http://www.huxiu.com/article/488566.html?f=wangzhan>15年来我国文化产业增加值增速首次“触底”，原因何在？</a>
+        </li>
+        
+        <li>
+            <a href=http://www.huxiu.com/article/488616.html?f=wangzhan>对于“人造太阳”，我有些不一样的想法</a>
+        </li>
+        
+        <li>
+            <a href=http://www.huxiu.com/article/488690.html?f=wangzhan>为什么人要一直保持刺激？</a>
+        </li>
+        
+        <li>
+            <a href=http://www.huxiu.com/article/488638.html?f=wangzhan>千万个减肥flag，催生千亿级市场</a>
+        </li>
+        
+        <li>
+            <a href=https://36kr.com/p/1561221743579011>北京研发国内首台套5G＋8K转播车并投入使用；联通5G“虚实结合”打造实验教学新模式 \| 36氪5G创新日报0107</a>
+        </li>
+        
+        <li>
+            <a href=https://36kr.com/p/1561034192440966>氪星晚报丨字节跳动研发医疗AI抗癌，可帮助医生实时筛查结直肠肿瘤；极兔速递在阿联酋和沙特阿拉伯正式运营快递网络</a>
+        </li>
+        
+        <li>
+            <a href=https://36kr.com/p/1560826429558657>最前线 | 苹果M1芯片设计总监离职，重返“老东家”英特尔</a>
+        </li>
+        
+        <li>
+            <a href=https://36kr.com/p/1560842900950660>市场要闻丨新题材？抗幽门螺旋杆菌概念股连续三天火爆</a>
+        </li>
+        
+        <li>
+            <a href=https://36kr.com/p/1560776308657793>市场要闻｜白家食品将于深交所上市，曾获高瓴、茅台投资</a>
+        </li>
+        
+        <li>
+            <a href=https://www.msra.cn/zh-cn/news/features/ai-life-science>AI挺进生命科学领域，分子动力学模拟加速新冠病毒致病机理研究进程</a>
+        </li>
+        
+        <li>
+            <a href=https://www.msra.cn/zh-cn/news/features/2021-msra-theory-workshop-john>图灵奖得主John Hopcroft：95%研究自己的热爱+5%探索陌生领域=优异的基础研究者</a>
+        </li>
+        
+        <li>
+            <a href=https://www.msra.cn/zh-cn/news/features/book-list-bill-gates-2021>比尔·盖茨：今年我喜欢读的5本书</a>
+        </li>
+        
+        <li>
+            <a href=https://www.msra.cn/zh-cn/news/features/msr-asia-in-2021>会议邀请：微软亚洲研究院2021年度技术回顾</a>
+        </li>
+        
+        <li>
+            <a href=https://www.msra.cn/zh-cn/news/features/graphormer>公开催化剂挑战赛冠军模型、通用AI分子模拟库Graphormer开源！</a>
+        </li>
+        
+        <li>
+            <a href=http://www.geekpark.net/news/296189>智能手表的下半场，该怎么「玩」？</a>
+        </li>
+        
+        <li>
+            <a href=http://www.geekpark.net/news/295981>真我 GT Neo2 龙珠定制版：花 2699 元便能召唤「神龙」，又一款真香机</a>
+        </li>
+        
+        <li>
+            <a href=http://www.geekpark.net/news/296345>「坏血」案，硅谷世纪审判的一些细节和反思</a>
+        </li>
+        
+        <li>
+            <a href=http://www.geekpark.net/news/296309>阿里架构调整：淘宝天猫融合；微信小程序日活超 4.5 亿；苹果 M1 首席设计师跳槽英特尔｜极客早知道</a>
+        </li>
+        
+        <li>
+            <a href=http://www.geekpark.net/news/296294>上线两周年，终于看懂视频号的「快」与「慢」</a>
+        </li>
+        
+    </ul>
+    <br>
+  
+    <p>金融类</p>
+    <ul>
+        
+        <li>
+            <a href=http://xueqiu.com/3464131377/208314798>投资“逆行者”：华夏基金李彦</a>
+        </li>
+        
+        <li>
+            <a href=http://xueqiu.com/2160821493/208224893>以昆仑万维为例，谈谈定性分析与定量分析</a>
+        </li>
+        
+        <li>
+            <a href=http://xueqiu.com/2299425930/208314436>赛道股和低估板块今年能否迎来二八转换</a>
+        </li>
+        
+        <li>
+            <a href=http://xueqiu.com/9498737718/208280982>年青人股票投资能实现财务自由吗</a>
+        </li>
+        
+        <li>
+            <a href=http://xueqiu.com/8092949786/208269213>有哪些“固收+”基金，经受住了2018年市场重锤，且年年稳健？</a>
+        </li>
+        
+    </ul>
+    <br>
+  
+    <p>学习类</p>
+    <ul>
+        
+        <li>
+            <a href=https://rengwuxian.com/gde-sense/>为什么要成为 GDE（谷歌认证开发专家）？我发现了盲点</a>
+        </li>
+        
+        <li>
+            <a href=https://rengwuxian.com/livedata/>LiveData：还没普及就让我去世？我去你的 Kotlin 协程</a>
+        </li>
+        
+        <li>
+            <a href=https://rengwuxian.com/compose-intrinsic-measurement/>View 嵌套太深会卡？来用 Jetpack Compose，随便套——Intrinsic Measurement</a>
+        </li>
+        
+        <li>
+            <a href=https://rengwuxian.com/hashmap-announcement/>扔物线学堂的一封致歉信</a>
+        </li>
+        
+        <li>
+            <a href=https://rengwuxian.com/jetpack-compose-3/>声明式 UI？Android 官方怒推的 Jetpack Compose 到底是什么</a>
+        </li>
+        
+        <li>
+            <a href=https://www.cmooc.com/course/32049.html>UI设计师-实战就业班</a>
+        </li>
+        
+        <li>
+            <a href=https://www.cmooc.com/course/32047.html>安全开发工程师（网易实战）</a>
+        </li>
+        
+        <li>
+            <a href=https://www.cmooc.com/course/32045.html>网易前端实训营</a>
+        </li>
+        
+        <li>
+            <a href=https://www.cmooc.com/course/32043.html>高级前端开发工程师</a>
+        </li>
+        
+        <li>
+            <a href=https://www.cmooc.com/course/32041.html>涨薪计划-数据分析高薪实战班</a>
+        </li>
+        
+    </ul>
+    <br>
+  
+    <p>学术类</p>
+    <ul>
+        
+    </ul>
+    <br>
+  
+    <p>生活类</p>
+    <ul>
+        
+        <li>
+            <a href=https://weibo.com/2970452952/KAHeHbIQl>山河锦绣，盛世中华。🇨🇳🇨🇳🇨🇳#祝福祖国生日快乐# ，祝福大家国庆快乐呀！🎉🎉🎉 - 转发 @央视新闻:&ensp;#祝新中国生日快乐#【今日，此...</a>
+        </li>
+        
+        <li>
+            <a href=https://weibo.com/2970452952/KoJhuB4pk>柴米油盐酱醋茶，少了盐可不行。作为百味之首，从夙沙氏“煮海为盐”经历海盐 湖盐 井盐小到改变食物味道，大到支撑曾经的社稷财政盐这粒小小的晶体，见证着中国...</a>
+        </li>
+        
+        <li>
+            <a href=https://weibo.com/2970452952/KiODBxDuN>对的，就是上个视频最后那个流觞曲水桌！虽然我也不曾想到我会用张床做一桌子这个视频是之前刷剧刷到的改良款！几番曲折做完后还真香！事实证明，多陪老人家看电...</a>
+        </li>
+        
+        <li>
+            <a href=https://weibo.com/2970452952/Khrbh3RFG>几千年前，神奇的东方树叶从这里飘向世界。今年谷雨，我也赶着好时节采了些茶叶。炒了绿茶，又窨制了些花茶！在我看来喝茶这件事呢？既可以是精致高雅的茶艺；也...</a>
+        </li>
+        
+        <li>
+            <a href=https://weibo.com/2970452952/KgDVG6oCi>心里堵，可老爷子值得我们很认真的表达感恩、感谢！爷爷多谢您❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️...</a>
+        </li>
+        
+        <li>
+            <a href=http://www.toodaylab.com/80485>可能是史上最离谱的发布方式，成都首版《米其林指南》就这么亮相了</a>
+        </li>
+        
+        <li>
+            <a href=http://www.toodaylab.com/80482>今日消费资讯：车澈回应“从爱奇艺离职”消息、三星 Galaxy S21 FE 5G 在国内发布</a>
+        </li>
+        
+        <li>
+            <a href=http://www.toodaylab.com/80483>游戏和拍摄体验并重，iQOO 9 系列正式发布</a>
+        </li>
+        
+        <li>
+            <a href=http://www.toodaylab.com/80478>今日消费资讯：《超能一家人》撤档、LUSH 推出中国农历新年特别单品</a>
+        </li>
+        
+        <li>
+            <a href=http://www.toodaylab.com/80481>超浪漫的巨型雪雕亮相，“KAWS:HOLIDAY”第 8 站是中国长白山！</a>
+        </li>
+        
+    </ul>
+    <br>
+  
+    <p>设计类</p>
+    <ul>
+        
+        <li>
+            <a href=https://www.behance.net/gallery/111608525/Winter-days>Winter days</a>
+        </li>
+        
+        <li>
+            <a href=https://www.behance.net/gallery/134369331/Illustrations-in-2021>Illustrations in 2021</a>
+        </li>
+        
+        <li>
+            <a href=https://www.behance.net/gallery/130578669/FeST-2021-Crafting-Worlds>FeST 2021 - Crafting Worlds</a>
+        </li>
+        
+        <li>
+            <a href=https://www.behance.net/gallery/134483259/GoDaddy-Kwanzaa-Graphic-Pack>GoDaddy - Kwanzaa Graphic Pack</a>
+        </li>
+        
+        <li>
+            <a href=https://www.behance.net/gallery/133307181/Lubeznik-Center-for-the-Arts>Lubeznik Center for the Arts</a>
+        </li>
+        
+        <li>
+            <a href=https://medium.com/behance-blog/creatives-resolutions-for-2022-b9db323f8fea?source=rss-f5272b7f3182------2>Creatives Resolutions for 2022</a>
+        </li>
+        
+        <li>
+            <a href=https://medium.com/behance-blog/top-3-visual-trends-of-2021-b033fcee1c2e?source=rss-f5272b7f3182------2>Top 3 Visual Trends of 2021</a>
+        </li>
+        
+        <li>
+            <a href=https://medium.com/behance-blog/unlock-your-creative-career-with-behance-93f9544a7354?source=rss-f5272b7f3182------2>Unlock Your Creative Career with Behance</a>
+        </li>
+        
+        <li>
+            <a href=https://medium.com/behance-blog/meet-this-months-guest-curator-josephine-rais-85186754972b?source=rss-f5272b7f3182------2>Meet This Month’s Guest Curator: Josephine Rais</a>
+        </li>
+        
+        <li>
+            <a href=https://medium.com/behance-blog/25-creatives-to-subscribe-to-on-behance-4fc02fb3e8ee?source=rss-f5272b7f3182------2>25+ Creatives to Subscribe to on Behance</a>
+        </li>
+        
+        <li>
+            <a href=https://newsroom.pinterest.com/en/post/pinterest-introduces-new-and-extended-parental-benefits-for-employees>Pinterest introduces new and extended parental benefits for employees and supports national paid family leave</a>
+        </li>
+        
+        <li>
+            <a href=https://newsroom.pinterest.com/en/post/pinterest-predicts-the-trends-to-watch-for-2022>Pinterest Predicts: The trends to watch for 2022</a>
+        </li>
+        
+        <li>
+            <a href=https://newsroom.pinterest.com/en/post/pinterest-acquires-vochi>Pinterest acquires Vochi, a video creation and editing app</a>
+        </li>
+        
+        <li>
+            <a href=https://newsroom.pinterest.com/en/post/pinterest-announces-twotwenty-its-experimental-products-team-and-in-house-incubator>Pinterest announces TwoTwenty, an experimental products team and in-house incubator</a>
+        </li>
+        
+        <li>
+            <a href=https://newsroom.pinterest.com/en/post/pinterest-gift-guide-the-products-topping-wishlists-this-holiday-season-by-generations>Pinterest gift guide: The products topping wishlists this holiday season by generations</a>
+        </li>
+        
+        <li>
+            <a href=https://www.uisdc.com/elderly-user>百度出品！9 问 9 答帮你了解老年用户的特点</a>
+        </li>
+        
+        <li>
+            <a href=https://www.uisdc.com/digital-health-elderly-design>如何做好数字医疗的适老设计？腾讯高手总结了这4个方面！</a>
+        </li>
+        
+        <li>
+            <a href=https://www.uisdc.com/pag>比Lottie还好用！腾讯新晋免费动效设计神器 PAG</a>
+        </li>
+        
+        <li>
+            <a href=https://www.uisdc.com/loaded-state-analysis>通过3种状态+5种模式，帮你掌握加载设计的知识点</a>
+        </li>
+        
+        <li>
+            <a href=https://www.uisdc.com/ux-semantics>大厂出品的UX语义设计指南：个性篇</a>
+        </li>
+        
+        <li>
+            <a href=https://cdc.tencent.com/2021/12/27/%e8%bf%99%e7%b1%bb%e5%85%ac%e7%9b%8a%e5%85%b3%e4%b9%8e%e4%bd%a0%e7%9a%84%e7%b2%be%e7%a5%9e%e9%9c%80%e6%b1%82/>这类公益关乎你的精神需求</a>
+        </li>
+        
+        <li>
+            <a href=https://cdc.tencent.com/2021/10/29/%e8%85%be%e8%ae%af%e5%8f%91%e5%b8%832021%e4%b8%ad%e5%9b%bd%e7%94%a8%e6%88%b7%e4%bd%93%e9%aa%8c%e8%a1%8c%e4%b8%9a%e6%8a%a5%e5%91%8a%ef%bc%8c-%e9%a6%96%e6%ac%a1%e6%8f%ad%e6%99%93%e4%bd%93%e9%aa%8c/>腾讯发布2021中国用户体验行业报告， 首次揭晓体验设计工具NPS排行</a>
+        </li>
+        
+        <li>
+            <a href=https://cdc.tencent.com/2021/08/23/%e7%94%a8%e6%88%b7%e4%bd%93%e9%aa%8c%e8%a1%8c%e4%b8%9a%e8%b0%83%e7%a0%94%e8%af%9a%e9%82%80%e6%82%a8%e5%85%b1%e5%90%8c%e5%8f%82%e4%b8%8e%ef%bc%81/>用户体验行业调研诚邀您共同参与！</a>
+        </li>
+        
+        <li>
+            <a href=https://cdc.tencent.com/2021/06/23/%e4%ba%a7%e5%93%81%e5%8a%9b%e4%b8%93%e9%a2%98-no-4%ef%bd%9c%e7%94%9f%e9%b2%9c%e5%95%86%e8%b6%85%e5%b0%8f%e7%a8%8b%e5%ba%8f%e4%ba%a7%e5%93%81%e8%bf%90%e8%90%a5%e6%98%93%e5%87%ba%e7%8e%b0%e7%9a%84/>产品力专题 NO.4｜生鲜商超小程序产品运营易出现的问题</a>
+        </li>
+        
+        <li>
+            <a href=https://cdc.tencent.com/2021/06/23/%e4%ba%a7%e5%93%81%e5%8a%9b%e4%b8%93%e9%a2%98-no-3%ef%bd%9c%e7%94%9f%e9%b2%9c%e5%95%86%e8%b6%85%e5%b0%8f%e7%a8%8b%e5%ba%8f%e8%b4%ad%e4%b9%b0%e9%93%be%e8%b7%af%e6%98%93%e5%87%ba%e7%8e%b0%e7%9a%84/>产品力专题 NO.3｜生鲜商超小程序购买链路易出现的问题</a>
+        </li>
+        
+    </ul>
+    <br>
+  
+    <p>内容平台</p>
+    <ul>
+        
+        <li>
+            <a href=http://www.zhihu.com/question/510128037/answer/2301716848?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title>库里在 2022 年初连续 2 场比赛手感奇差，原因是什么？这对他竞争本赛季 MVP 造成了哪些影响？</a>
+        </li>
+        
+        <li>
+            <a href=http://www.zhihu.com/question/509823711/answer/2300589425?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title>如何看待华为赛力斯停产，首批用户成最后一批用户，售后问题如何解决?</a>
+        </li>
+        
+        <li>
+            <a href=http://www.zhihu.com/question/499623438/answer/2232133486?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title>当「社交牛逼症」男生爱上「社交恐惧症」女生，会发生什么有意思的故事呢？</a>
+        </li>
+        
+        <li>
+            <a href=http://www.zhihu.com/question/22077989/answer/2297303182?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title>如何找到一个适合自己的心理咨询师？</a>
+        </li>
+        
+        <li>
+            <a href=http://www.zhihu.com/question/403295295/answer/2296736994?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title>如何评价宝可梦大集结（Pokemon Unite）？</a>
+        </li>
+        
+        <li>
+            <a href=https://wanqu.co/p/7581?s=rss>为什么会有公司愿意花钱去买软件，而不去用开源的免费软件</a>
+        </li>
+        
+        <li>
+            <a href=https://wanqu.co/p/7580?s=rss>一家奇怪的创业公司</a>
+        </li>
+        
+        <li>
+            <a href=https://wanqu.co/p/7579?s=rss>最高形式的财富</a>
+        </li>
+        
+        <li>
+            <a href=https://www.appinn.com/refgen/>Refgen – 为个人知识整理和笔记生成来源引用链接\[Chrome\]</a>
+        </li>
+        
+        <li>
+            <a href=https://www.appinn.com/blush-online/>Blush – 在线卡通头像生成器，免费、可商用，无需注明出处</a>
+        </li>
+        
+        <li>
+            <a href=https://www.appinn.com/portfolio-returns/>Portfolio Returns – 2个步骤，记录投资并自动计算回报率[macOS]</a>
+        </li>
+        
+        <li>
+            <a href=https://www.appinn.com/pika-online/>Pika – 1 键美化截图，添加背景渐变色、阴影、圆角等[Web]</a>
+        </li>
+        
+        <li>
+            <a href=https://www.appinn.com/relingo-for-chrome/>Relingo – 自动为文章与视频标示英文生词[Chrome]</a>
+        </li>
+        
+        <li>
+            <a href=https://www.199it.com/archives/1368479.html>世界卫生组织：2000-2025年烟草流行趋势报告</a>
+        </li>
+        
+        <li>
+            <a href=https://www.199it.com/archives/1336961.html>GP Bullhound：2021年Q3全球市场报告</a>
+        </li>
+        
+        <li>
+            <a href=https://www.199it.com/archives/1372647.html>BCG&一嗨出行：2022年全新视角洞察租车行业发展趋势</a>
+        </li>
+        
+        <li>
+            <a href=https://www.199it.com/archives/1372626.html>南方周末科创力研究中心：中国企业科创力研究报告（2021）</a>
+        </li>
+        
+        <li>
+            <a href=https://www.199it.com/archives/1353564.html>金鹰诉讼：上市公司董责险白皮书（附下载）</a>
+        </li>
+        
+        <li>
+            <a href=https://www.ithome.com/0/597/385.htm>1.6 万字特斯拉马斯克访谈实录：SpaceX 载人飞船上天前，我曾跪地祈祷</a>
+        </li>
+        
+        <li>
+            <a href=https://www.ithome.com/0/597/383.htm>《英雄联盟》发布 2022 新赛季 CG 《呼唤》</a>
+        </li>
+        
+        <li>
+            <a href=https://www.ithome.com/0/597/382.htm>苹果 Apple Watch 健身应用 Apple Fitness + 更新：升级锻炼集合、跑步时间功能</a>
+        </li>
+        
+        <li>
+            <a href=https://www.ithome.com/0/597/381.htm>PLUS 会员 0 点抢：苹果 AirPods 三代 644 元京东新低</a>
+        </li>
+        
+        <li>
+            <a href=https://www.ithome.com/0/597/380.htm>中国电信天翼防骚扰注册用户数突破 2 亿</a>
+        </li>
+        
+        <li>
+            <a href=https://hellogithub.com/periodical/volume/69/>HelloGitHub 第 69 期</a>
+        </li>
+        
+        <li>
+            <a href=https://hellogithub.com/periodical/volume/68/>HelloGitHub 第 68 期</a>
+        </li>
+        
+        <li>
+            <a href=https://hellogithub.com/periodical/volume/67/>HelloGitHub 第 67 期</a>
+        </li>
+        
+        <li>
+            <a href=https://hellogithub.com/periodical/volume/66/>HelloGitHub 第 66 期</a>
+        </li>
+        
+        <li>
+            <a href=https://hellogithub.com/periodical/volume/65/>HelloGitHub 第 65 期</a>
+        </li>
+        
+        <li>
+            <a href=https://weekly.pychina.org/issue/issue-506.html>PyCoder 506</a>
+        </li>
+        
+        <li>
+            <a href=https://weekly.pychina.org/issue/issue-505.html>PyCoder 505</a>
+        </li>
+        
+        <li>
+            <a href=https://weekly.pychina.org/issue/issue-504.html>PyCoder 504</a>
+        </li>
+        
+        <li>
+            <a href=https://weekly.pychina.org/issue/issue-503.html>PyCoder 503</a>
+        </li>
+        
+        <li>
+            <a href=https://weekly.pychina.org/issue/issue-502.html>PyCoder 502</a>
+        </li>
+        
+        <li>
+            <a href=https://www.wpdaxue.com/wordpress-5-8-3.html>WordPress 5.8.3 修复多个安全问题，影响 3.7 以来的版本</a>
+        </li>
+        
+        <li>
+            <a href=https://www.wpdaxue.com/enhanced-lazy-loading-performance-in-5-9.html>WordPress 5.9 增强了内置的延迟加载性能</a>
+        </li>
+        
+        <li>
+            <a href=https://www.wpdaxue.com/all-in-one-seo-high-risk-vulnerability.html>All in One SEO 高危漏洞，4.0.0 至 4.1.5.2 版本请立即更新</a>
+        </li>
+        
+        <li>
+            <a href=https://www.wpdaxue.com/new-language-switcher-on-the-login-screen-in-wp-5-9.html>WordPres 5.9 的登录屏幕新增语言切换器</a>
+        </li>
+        
+        <li>
+            <a href=https://www.wpdaxue.com/posts-post-types-and-taxonomy-changes-in-wordpress-5-9.html>WordPress 5.9 对文章、文章类型和分类法的更改</a>
+        </li>
+        
+        <li>
+            <a href=https://linux.cn/article-14158-1.html?utm_source=rss&utm_medium=rss>硬核观察 #509 本田汽车的时钟穿越回 20 年前，且无法修复</a>
+        </li>
+        
+        <li>
+            <a href=https://linux.cn/article-14157-1.html?utm_source=rss&utm_medium=rss>从 Log4j 事件得到的教训！</a>
+        </li>
+        
+        <li>
+            <a href=https://linux.cn/article-14156-1.html?utm_source=rss&utm_medium=rss>2021 总结：经营小型企业的开源工具</a>
+        </li>
+        
+        <li>
+            <a href=https://linux.cn/article-14155-1.html?utm_source=rss&utm_medium=rss>Linux Mint 20.3 “Una” 发布</a>
+        </li>
+        
+        <li>
+            <a href=https://linux.cn/article-14154-1.html?utm_source=rss&utm_medium=rss>硬核观察 #508 研究人员“开源”免专利的新冠疫苗</a>
+        </li>
+        
+        <li>
+            <a href=https://www.v2ex.com/t/826947#reply1>\[生活\] 可以短期体验美团骑手或者滴滴司机的工作么？</a>
+        </li>
+        
+        <li>
+            <a href=https://www.v2ex.com/t/826946#reply0>\[Windows\] 一个神奇的事情:windows server insider 和 windows installer 在同步刷版本号</a>
+        </li>
+        
+        <li>
+            <a href=https://www.v2ex.com/t/826944#reply9>[Linux] MMXX，又滚挂了</a>
+        </li>
+        
+        <li>
+            <a href=https://www.v2ex.com/t/826943#reply0>[酷工作] SeaCows-NFT 团队招聘数据抓取(高级) 后端工程师：</a>
+        </li>
+        
+        <li>
+            <a href=https://www.v2ex.com/t/826942#reply3>[macOS] Macbook 使用过程突然卡住几秒钟，鼠标键盘触控板什么都操作不了是怎么回事</a>
+        </li>
+        
+        <li>
+            <a href=https://coolshell.cn/articles/21708.html>网络数字身份认证术</a>
+        </li>
+        
+        <li>
+            <a href=https://coolshell.cn/articles/21672.html>我做系统架构的一些原则</a>
+        </li>
+        
+        <li>
+            <a href=https://coolshell.cn/articles/21649.html>源代码特洛伊木马攻击</a>
+        </li>
+        
+        <li>
+            <a href=https://coolshell.cn/articles/21615.html>Go编程模式 ： 泛型编程</a>
+        </li>
+        
+        <li>
+            <a href=https://coolshell.cn/articles/21589.html>如何做一个有质量的技术分享</a>
+        </li>
+        
+        <li>
+            <a href=https://movie.douban.com/review/14121224/>失宠于上帝的孩子们，声之形，水形物语，金属之声，贝利叶一家——残障弱势人群、听障题材电影以及这部《健听女孩》 (评论: 健听女孩)</a>
+        </li>
+        
+        <li>
+            <a href=https://movie.douban.com/review/14122109/>不是《爱情神话》，而是《爱情麻药》 (评论: 爱情神话)</a>
+        </li>
+        
+        <li>
+            <a href=https://movie.douban.com/review/14122949/>《爱情神话》：在婚姻已死的时代，重新想象爱的可能 (评论: 爱情神话)</a>
+        </li>
+        
+        <li>
+            <a href=https://movie.douban.com/review/14119318/>胶片灭绝肯定不是王家卫造成的 (评论: 零点零一公分的距离)</a>
+        </li>
+        
+        <li>
+            <a href=https://movie.douban.com/review/14123565/>致我的《一江春水》 (评论: 一江春水)</a>
+        </li>
+        
+        <li>
+            <a href=https://book.douban.com/review/14113969/>评《蚂蚁篇》：富坚义博作为一个“时间操控念能力者”的天才 (评论: Hunter X Hunter (Vol.30))</a>
+        </li>
+        
+        <li>
+            <a href=https://book.douban.com/review/14119785/>《高效写作课》编辑手记：怀胎四年，生出一个哪吒 (评论: 高效写作课)</a>
+        </li>
+        
+        <li>
+            <a href=https://book.douban.com/review/14124739/>小心拉斯维加斯的诱饵，有毒！ (评论: 运气的诱饵)</a>
+        </li>
+        
+        <li>
+            <a href=https://book.douban.com/review/14123113/>穿解放鞋的解放者：亚洲革命运动的地下根源 (评论: Underground Asia)</a>
+        </li>
+        
+        <li>
+            <a href=https://book.douban.com/review/14120922/>原来是给新版的序言，发现编辑没采用，那就发在这儿吧 (评论: 荒原狼)</a>
+        </li>
+        
+        <li>
+            <a href=https://music.douban.com/review/14125139/>电影《奇迹》宣传主题曲 (评论: 还是笨小孩)</a>
+        </li>
+        
+        <li>
+            <a href=https://music.douban.com/review/14125257/>破音与转音 (评论: 花海 周杰伦)</a>
+        </li>
+        
+        <li>
+            <a href=https://music.douban.com/review/14124727/>我喜欢这样的缤纷怪味 (评论: Faye詹雯婷 在云彩上跳舞 叽叽喳喳)</a>
+        </li>
+        
+        <li>
+            <a href=https://music.douban.com/review/14125055/>Dawn:离开拉斯维加斯，驾车驶向黎明...... (评论: Dawn FM)</a>
+        </li>
+        
+        <li>
+            <a href=https://music.douban.com/review/14125039/>简单分析一下《青花瓷》与网络“古风”歌曲的差距 (评论: 青花瓷)</a>
+        </li>
+        
+        <li>
+            <a href=http://www.cnblogs.com/xuanyuan/archive/2020/10/16/13824621.html>协程到底是什么？看完这个故事明明白白！ - 轩辕之风</a>
+        </li>
+        
+        <li>
+            <a href=http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html>Dapr 知多少 \| 分布式应用运行时 - 「圣杰」</a>
+        </li>
+        
+        <li>
+            <a href=http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html>Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro</a>
+        </li>
+        
+        <li>
+            <a href=http://www.cnblogs.com/williamjie/archive/2018/08/08/9442340.html>使用Istio治理微服务入门 - 割肉机</a>
+        </li>
+        
+        <li>
+            <a href=http://www.cnblogs.com/alisystemsoftware/archive/2021/01/15/14281870.html>解读容器的 2020：寻找云原生的下一站 - 阿里巴巴云原生</a>
+        </li>
+        
+        <li>
+            <a href=http://www.cnblogs.com/imyalost/p/15777351.html>全链路压测(4)：全链路压测的价值是什么？ - 老_张</a>
+        </li>
+        
+        <li>
+            <a href=http://www.cnblogs.com/AllenMaster/p/15777347.html>GitHub Actions 实现 Azure Infra 资源的自动化部署 - Grant_Allen</a>
+        </li>
+        
+        <li>
+            <a href=http://www.cnblogs.com/rude3knife/p/review-my-life-2021.html>投身福报，我的2021年度总结 - 蛮三刀酱</a>
+        </li>
+        
+        <li>
+            <a href=http://www.cnblogs.com/ricklz/p/15777193.html>RabbitMQ使用 prefetch_count优化队列的消费，使用死信队列和延迟队列实现消息的定时重试，golang版本 - Rick.lz</a>
+        </li>
+        
+        <li>
+            <a href=http://www.cnblogs.com/yilangcode/p/15777129.html>springCloudGateway-使用记录 - 一只爱阅读的程序员</a>
+        </li>
+        
+        <li>
+            <a href=https://www.ptt.cc/bbs/movie/M.1641584165.A.ECD.html>\[分享\] 安德魯加菲爾德接受Variety 獨家專訪（</a>
+        </li>
+        
+        <li>
+            <a href=https://www.ptt.cc/bbs/movie/M.1641580274.A.63B.html>\[負雷\]逃出異境</a>
+        </li>
+        
+        <li>
+            <a href=https://www.ptt.cc/bbs/movie/M.1641579245.A.9E8.html>[情報] 2022 舊金山灣區影評人協會 入圍名單</a>
+        </li>
+        
+        <li>
+            <a href=https://www.ptt.cc/bbs/movie/M.1641579240.A.0E6.html>[情報] 2022 佛羅里達中部影評人協會 得獎名單</a>
+        </li>
+        
+        <li>
+            <a href=https://www.ptt.cc/bbs/movie/M.1641575443.A.A30.html>[請益] 蜘蛛人3：反派返回宇宙之生還（雷）</a>
+        </li>
+        
+        <li>
+            <a href=https://www.ptt.cc/bbs/Beauty/M.1641575588.A.1D3.html>\[正妹\] 韓孝周</a>
+        </li>
+        
+        <li>
+            <a href=https://www.ptt.cc/bbs/Beauty/M.1641568134.A.765.html>\[正妹\] 許靜芳</a>
+        </li>
+        
+        <li>
+            <a href=https://www.ptt.cc/bbs/Beauty/M.1641566486.A.CEA.html>[正妹] 大尺碼｜肉特(812)</a>
+        </li>
+        
+        <li>
+            <a href=https://www.ptt.cc/bbs/Beauty/M.1641563596.A.5F0.html>[正妹] 大</a>
+        </li>
+        
+        <li>
+            <a href=https://www.ptt.cc/bbs/Beauty/M.1641561918.A.89E.html>[正妹] 還是短髮好看啊（！？</a>
+        </li>
+        
+        <li>
+            <a href=https://www.52pojie.cn/forum.php?mod=viewthread&tid=1571379>小菜花的IO重定向简析</a>
+        </li>
+        
+        <li>
+            <a href=https://www.52pojie.cn/forum.php?mod=viewthread&tid=1568457>Android应用内存外部读写方案研究 植物大战僵尸</a>
+        </li>
+        
+        <li>
+            <a href=https://www.52pojie.cn/forum.php?mod=viewthread&tid=1565241>某酷ckey签名生成算法系列--（一）参数生成来源分析</a>
+        </li>
+        
+        <li>
+            <a href=https://www.52pojie.cn/forum.php?mod=viewthread&tid=1562783>从零开始的Linux堆利用(十三)——堆风水</a>
+        </li>
+        
+        <li>
+            <a href=https://www.52pojie.cn/forum.php?mod=viewthread&tid=1559890>从零开始的Linux堆利用(十二)——House of Rabbit</a>
+        </li>
+        
+        <li>
+            <a href=https://www.cnbeta.com/articles/tech/1066805.htm>可是打工必须在故乡</a>
+        </li>
+        
+        <li>
+            <a href=https://www.cnbeta.com/articles/tech/786381.htm>两边竞价，哪边出钱多哪边是绿灯</a>
+        </li>
+        
+        <li>
+            <a href=https://www.cnbeta.com/articles/tech/751767.htm>如果苹果真的是这种设计的话，国内手机市场份额肯定会被国产机蚕食，有了OV最近的设计创新，下一部手机我更倾向于国产了</a>
+        </li>
+        
+        <li>
+            <a href=https://www.cnbeta.com/articles/tech/745899.htm>照这理论，熊猫烧香算国产精英换图标软件了。</a>
+        </li>
+        
+        <li>
+            <a href=https://www.cnbeta.com/articles/tech/691633.htm>这锤子也是锤子得狠，改个铲铲名字</a>
+        </li>
+        
+        <li>
+            <a href=https://bitinn.net/11697/>赛马娘 Pretty Derby：终点线的感动，起跑线的感慨</a>
+        </li>
+        
+        <li>
+            <a href=https://bitinn.net/11681/>简短的十年回顾</a>
+        </li>
+        
+        <li>
+            <a href=https://bitinn.net/11671/>我们该怎么重建？How do we rebuild?</a>
+        </li>
+        
+        <li>
+            <a href=https://bitinn.net/11662/>《天气之子》，一场对社会常态的批判</a>
+        </li>
+        
+        <li>
+            <a href=https://bitinn.net/11655/>《海盗战记》，照一张千年前的镜子</a>
+        </li>
+        
+    </ul>
+    <br>
+  
+    <p>影视资源</p>
+    <ul>
+        
+    </ul>
+    <br>
+  
+    <p>游戏</p>
+    <ul>
+        
+        <li>
+            <a href=https://www.gcores.com/videos/146093>废土朋克模拟经营独立游戏《多洛可小镇》开发日志：Demo 0.65</a>
+        </li>
+        
+        <li>
+            <a href=https://www.gcores.com/articles/146091>2人团队开发6年：国产高自由度武侠开放世界独立游戏《江湖十一》公开首个预告片</a>
+        </li>
+        
+        <li>
+            <a href=https://www.gcores.com/articles/146090>真实物理引擎下的江湖： 武侠动作游戏《无极道人》公布</a>
+        </li>
+        
+        <li>
+            <a href=https://www.gcores.com/articles/146089>《戴森球计划》新版本“进化的伊卡洛斯”将于1月20日晚更新</a>
+        </li>
+        
+        <li>
+            <a href=https://www.gcores.com/articles/146088>《双人成行》获得年度最佳游戏！哔哩哔哩游戏大赏颁奖典礼内容汇总。</a>
+        </li>
+        
+        <li>
+            <a href=https://www.yystv.cn/p/8694>《彩虹六号：异种》试玩报告：当一个限时模式扩充为独立的游戏</a>
+        </li>
+        
+        <li>
+            <a href=https://www.yystv.cn/p/8695>【社长jing了！Vol.139】“我将以高达形态就寝”</a>
+        </li>
+        
+        <li>
+            <a href=https://www.taptap.com/video/2355453/embed>草仍在，刀已老：三国何时再无双？</a>
+        </li>
+        
+        <li>
+            <a href=https://www.yystv.cn/p/8693>【白夜谈】铁驭和传奇，到底谁更强？</a>
+        </li>
+        
+        <li>
+            <a href=https://www.yystv.cn/p/8691>为什么现在的年轻人不会用电脑了？</a>
+        </li>
+        
+    </ul>
+    <br>
+      
+
+      <!-- <br> -->
+      <!-- <h2>This is part of my base template</h2> -->
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+  </body>
+</html>

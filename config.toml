@@ -1,0 +1,40 @@
+baseURL = 'https://blog.airchen-space.top/'
+languageCode = 'zh-ch'
+title = 'AirChen Blog'
+theme = "m10c"
+staticDir = "static"
+publishDir = "docs"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/daily/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[params]
+  author = "AirChen"
+  avatar = "log.jpeg"
+  favicon = "pikachu.ico"
+  description = "以最放松的心态对待一切艰难"
+  menu_item_separator = " - "
+  [[params.social]]
+    icon = "github"
+    name = "My Github"
+    url = "https://github.com/AirChen"
+
+  [[params.social]]
+    icon = "mail"
+    name = "My Email"
+    url = "renzhichen2012@163.com"
+    
