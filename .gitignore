@@ -5,4 +5,3 @@ Gemfile.lock
 *.gem
 public
 env
-themes
