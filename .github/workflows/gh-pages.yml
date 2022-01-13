@@ -22,7 +22,7 @@ jobs:
           # extended: true
           
       - name: Submodules
-        run: git submodule update --init --recursive
+        run: git clone https://github.com/vaga/hugo-theme-m10c.git themes/m10c
 
       - name: Build
         run: hugo --minify
