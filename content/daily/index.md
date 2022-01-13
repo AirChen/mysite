@@ -478,7 +478,7 @@ draft: true
 
    给儿童、教师和学校的最佳 Linux 发行版 [read](https://linux.cn/article-14174-1.html?utm_source=rss&utm_medium=rss)
 
-   \[Singapore\] 算是见识到微信客服的下限了 [read](https://www.v2ex.com/t/828132#reply5)
+   \[Singapore\] 算是见识到微信客服的下限了 [read](https://www.v2ex.com/t/828132#reply6)
 
    \[问与答\] 高性能 C++国内有哪些好的工作方向？ [read](https://www.v2ex.com/t/828131#reply3)
 
