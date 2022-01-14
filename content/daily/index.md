@@ -1,10 +1,10 @@
 ---
 title: "今日资讯"
-date: 2022-01-14T17:19:51+08:00
+date: 2022-01-15T17:19:51+08:00
 draft: true
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.TasiilaqAurora_EN-US1844697925_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SaCalobra_EN-US0398649435_UHD.jpg "San Juan Mountains")
 
 ### 软件工具
 
@@ -14,17 +14,17 @@ draft: true
 
    苹果IOS资源大神「小麦黑科技」值得关注 [read](https://iao.su/3727/)
 
-   System Toolkit 5.2.1 系统工具包 [read](https://xclient.info/s/system-toolkit.html)
+   Yate 6.8.1 音频文件标签小工具 [read](https://xclient.info/s/yate.html)
 
-   Smooze Pro 2.0.7 鼠标滚动增强软件 [read](https://xclient.info/s/smooze-pro.html)
+   SideNotes 1.4.4 办公笔记本 [read](https://xclient.info/s/sidenotes.html)
 
-   Viper FTP 6.1.1 FTP客户端 [read](https://xclient.info/s/viper-ftp.html)
+   NetWorker Pro 8.2.1 菜单栏网速监测显示工具 [read](https://xclient.info/s/networker.html)
 
-   x64dbg 2022.01.13 反汇编逆向工具 [read](https://www.mpyit.com/x64dbg.html)
+   Windows10 企业版G 21H2 19044.1466 无更新精简 xb21cn [read](https://www.mpyit.com/win10gxb21cn.html)
 
-   Windows10 微软官方 ISO镜像 下载 21H2 [read](https://www.mpyit.com/windows10.html)
+   PotPlayer 1.7.21595 中文免安装 180个皮肤 电视直播源 [read](https://www.mpyit.com/potplayerpc.html)
 
-   ZArchiver Pro 1.0.0.10025 安卓解压缩 [read](https://www.mpyit.com/zarchiverapk.html)
+   EZ CD Audio Converter 9.5.3.1 音频转换抓取编辑软件 [read](https://www.mpyit.com/ezcdac.html)
 
    7-Zip [read](https://www.jokerps.com/6187.html)
 
@@ -32,17 +32,17 @@ draft: true
 
    Listen 1 [read](https://www.jokerps.com/6150.html)
 
+   Hitomi Downloader – 开源免费、图形界面，1200+ 在线视频下载工具，支持 BT 磁力、M3U8 下载\[Windows\] [read](https://www.appinn.com/hitomi-downloader/)
+
    MiXplorer – 免费安卓文件管理器和它的 5 个插件 [read](https://www.appinn.com/mixplorer/)
 
    Text Mode – 9年前的扩展：一键开启网页黑白文字模式，屏蔽图片、动画、色彩，开启无干扰模式\[Chrome\] [read](https://www.appinn.com/text-mode-for-chrome/)
 
-   通知中心：26 个常用的更新通知，包括油价、股票、操作系统更新、App Store 应用更新、UP主微博抖音、豆瓣电影等\[微信小程序\] [read](https://www.appinn.com/wechat-notification-center-mini-app/)
-
 ### 个人博客
 
-   科技爱好者周刊（第 191 期）：一个程序员的财务独立之路 [read](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html)
+   科技爱好者周刊（第 192 期）：最大的机会来自新技术 [read](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html)
 
-   科技爱好者周刊（第 190 期）：产品化思维 [read](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html)
+   科技爱好者周刊（第 191 期）：一个程序员的财务独立之路 [read](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html)
 
    2022 新年 [read](https://yinwang1.wordpress.com/2022/01/01/2022-new-year/)
 
@@ -56,11 +56,11 @@ draft: true
 
    morefine S500兼Monterey安装教程 [read](https://blog.daliansky.net/Morefine-S500-and-macOS-Monterey-Installation-Tutorial.html)
 
+   纯CSS实现未读消息超过100自动显示为99+ [read](https://www.zhangxinxu.com/wordpress/2022/01/css-show-diff-content-according-var/)
+
    还有完没完，怎么又来了个 scrollbar-gutter？ [read](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/)
 
    JS 标签模板（Tagged templates）什么时候使用？ [read](https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/)
-
-   深入JS getRandomValues和Math.random方法 [read](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/)
 
    树莓派自建私有化Docker仓库, 并配置公网访问用户认证 [read](https://v2fy.com/p/2022-01-08-docker-registry-1641648899000/)
 
@@ -146,11 +146,11 @@ draft: true
 
    前端技术规划与战略：2022 [read](http://www.phodal.com/blog/frontend-strategy-2021/)
 
-   \[None\] Django 老项目如何从 SQLite 迁到 PostgreSQL [read](https://www.zmrenwu.com/post/95/)
+   \[None\] Django 老项目如何从 SQLite 迁到 PostgreSQL [read](https://example.com/post/95/)
 
-   \[None\] 如何在 Windows 下搭建高效的 django 开发环境 [read](https://www.zmrenwu.com/post/94/)
+   \[None\] 如何在 Windows 下搭建高效的 django 开发环境 [read](https://example.com/post/94/)
 
-   \[None\] 拓展Python Markdown [read](https://www.zmrenwu.com/post/93/)
+   \[None\] 拓展Python Markdown [read](https://example.com/post/93/)
 
    聊聊写书、技术会议、知名度和变现 [read](https://www.dongwm.com/post/talk-about-writebook-and-something/)
 
@@ -262,23 +262,23 @@ draft: true
 
 ### 数码
 
-   给新手的 PPT 入门指南｜Chapter 9：总结与附录 [read](https://sspai.com/prime/story/learning-ppt-ch-9)
+   本周看什么丨最近值得一看的 10 部作品 [read](https://sspai.com/post/70952)
 
-   新玩意 091｜少数派的编辑们最近买了啥？ [read](https://sspai.com/post/70931)
+   Wordle 是什么？怎么就突然火了？ [read](https://sspai.com/post/70949)
 
-   比较了中美 167 个订阅服务价格，这是我的思考 [read](https://sspai.com/post/70886)
+   不依赖「一键生成」的 App，你该如何做张优雅的长文图片？ [read](https://sspai.com/post/70800)
 
-   摄影小白的街拍初体验：Leica M11 扫街实战 [read](http://www.dgtle.com/article-1662151-1.html)
+   逛展 Vlog 如此有趣，荣耀60 系列的 Vlog穿越时空与米奇相遇 [read](http://www.dgtle.com/article-1662205-1.html)
 
-   一不留神，就成为了三字看头的人 [read](http://www.dgtle.com/article-1662035-1.html)
+   手机 QQ 体积变大，我们不满的是什么？ [read](http://www.dgtle.com/article-1662212-1.html)
 
-   7.5L 小体积便携式，超频三 蜂鸟 i100CG PRO ITX 机箱装机分 [read](http://www.dgtle.com/article-1662003-1.html)
+   你的下一块擦镜布，何必不是 145 元苹果擦镜布？ [read](http://www.dgtle.com/article-1662163-1.html)
 
-   CoolerMaster MasterLiquid PL360 Flux 评测 [read](https://www.chiphell.com/article-26884-1.html)
+   为了安全和颜值买单——三阳飞度4简单分享 [read](https://www.chiphell.com/article-26891-1.html)
 
-   \[外设开箱\] 不朽 \| 美商海盗船 Corsair K100 璀璨金机械键盘简评 [read](https://www.chiphell.com/article-26883-1.html)
+   平实视界-佳能 RF50mm F1.2L USM开箱 [read](https://www.chiphell.com/article-26890-1.html)
 
-   JDM 最后的荣光？Toyota 2022 GR86极简开箱 [read](https://www.chiphell.com/article-26882-1.html)
+   天鹅来了--尼康Z7II + SIGMA 60-600mm威海荣成天鹅湖实拍照片 [read](https://www.chiphell.com/article-26889-1.html)
 
 ### IT团队博客
 
@@ -288,11 +288,11 @@ draft: true
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 431 期 [read](https://weekly.75.team/issue431.html)
+
    奇舞周刊第 430 期 [read](https://weekly.75.team/issue430.html)
 
    奇舞周刊第 429 期 [read](https://weekly.75.team/issue429.html)
-
-   奇舞周刊第 428 期 [read](https://weekly.75.team/issue428.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -300,17 +300,17 @@ draft: true
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]拯救OOM！字节自研 Android 虚拟机内存管理优化黑科技 mSponge [read](https://blog.csdn.net/ByteDanceTech/article/details/122485951)
+
    \[原\]抖音Android包体积优化探索：从Class字节码入手精简DEX体积 [read](https://blog.csdn.net/ByteDanceTech/article/details/122422653)
 
    \[原\]业界首家720p/1080p移动端实时超分，打造抖音极致画质体验 [read](https://blog.csdn.net/ByteDanceTech/article/details/122356199)
 
-   \[原\]btrace 开源！基于 Systrace 高性能 Trace 工具 [read](https://blog.csdn.net/ByteDanceTech/article/details/122248282)
+   DSTC10开放领域对话评估比赛冠军方法总结 [read](https://tech.meituan.com/2022/01/13/dstc10.html)
+
+   从0到1：美团端侧CDN容灾解决方案 [read](https://tech.meituan.com/2022/01/13/phoenix-cdn.html)
 
    7次KDD Cup&Kaggle冠军的经验分享：从多领域优化到AutoML框架 [read](https://tech.meituan.com/2022/01/06/7-kdd-cup-kaggle-automl.html)
-
-   2021年美团技术团队最受欢迎的22篇技术文章 [read](https://tech.meituan.com/2022/01/01/2021-summary.html)
-
-   FlutterWeb性能优化探索与实践 [read](https://tech.meituan.com/2021/12/16/flutterweb-practice-in-meituan-waimai.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -328,17 +328,17 @@ draft: true
 
 ### 互联网类
 
-   锂金属电池向续航开战 [read](http://www.huxiu.com/article/490362.html?f=wangzhan)
+   《水门桥》突袭春节档 [read](http://www.huxiu.com/article/490739.html?f=wangzhan)
 
-   倚锋资本朱晋桥：迈瑞医疗早期投资人，当年没投腾讯不后悔 [read](http://www.huxiu.com/article/490291.html?f=wangzhan)
+   号称“第四次科技革命”，中国的量子通信有多厉害？ [read](http://www.huxiu.com/article/490700.html?f=wangzhan)
 
-   车澈，撤了 [read](http://www.huxiu.com/article/490263.html?f=wangzhan)
+   手机的“透视”功能是如何实现的？ [read](http://www.huxiu.com/article/490638.html?f=wangzhan)
 
-   未来十年，有哪些职业会消失？ [read](https://36kr.com/p/1569626730385033)
+   最前线 \| 亚信科技(01675.HK)拟5.12亿元收购艾瑞咨询94.23%股权 [read](https://36kr.com/p/1571277407964809)
 
-   国内首个5G全连接风电柔性智能工厂建成；鄂尔多斯市准格尔旗5G无人驾驶新能源矿用车项目投产 \| 36氪5G创新日报0113 [read](https://36kr.com/p/1569548135468678)
+   脱不了单、下不了班，打工人的难题在未来有解吗？｜2022未来漫游计划 [read](https://36kr.com/p/1571004648656514)
 
-   「年度报告」刷屏，大数据真能代表你？ [read](https://36kr.com/p/1569490148020096)
+   中国首套三端5G配网差动保护装置在青海投入运行；国内核电首个5G智慧仓储项目“慧仓一号”正式投用 \| 36氪5G创新日报0114 [read](https://36kr.com/p/1570844937883528)
 
    从个性化推荐到语音识别，微软亚洲研究院为Windows 11注入新智能 [read](https://www.msra.cn/zh-cn/news/features/tech-transfer-to-windows-11)
 
@@ -346,19 +346,19 @@ draft: true
 
    图灵奖得主John Hopcroft：95%研究自己的热爱+5%探索陌生领域=优异的基础研究者 [read](https://www.msra.cn/zh-cn/news/features/2021-msra-theory-workshop-john)
 
-   因薇娅入行，她离开后我还会继续 [read](http://www.geekpark.net/news/296927)
+   NZONE S7 上手：5000mAh 大电池，5G 入门之选 [read](http://www.geekpark.net/news/296782)
 
-   抖音测试快递上门送货服务；苹果 2022 年底前选定 Apple Car 制造商；美菜上市前再传大裁员｜极客早知道 [read](http://www.geekpark.net/news/296848)
+   刚满六岁的盒马，或将迎来命运的转折点 [read](http://www.geekpark.net/news/296991)
 
-   当画质走到「尽头」，AI 稳帧接起了游戏体验的下一棒 [read](http://www.geekpark.net/news/296845)
+   对话互联网早期拓荒者：20年间，Loser、颠覆、繁荣的演化与未来 [read](http://www.geekpark.net/news/296674)
 
 ### 金融类
 
-   兴业转债上市，低于这个价不卖！ [read](http://xueqiu.com/3259426011/208883710)
+   部分公募明星开始远离前期热门股 [read](http://xueqiu.com/1107854878/209001423)
 
-   【直播文字回顾】景顺长城杨锐文：开启新能源下半场 [read](http://xueqiu.com/9243245648/208877821)
+   平安银行“开门红”：利润增长超预期 [read](http://xueqiu.com/9210717241/208938750)
 
-   闲来札记：如何正确地评估投资业绩？ [read](http://xueqiu.com/3491303582/208881675)
+   稳稳地幸福——2021年投资回顾及2022年度投资策略展望 [read](http://xueqiu.com/9724193471/208991587)
 
 ### 学习类
 
@@ -384,19 +384,19 @@ draft: true
 
    对的，就是上个视频最后那个流觞曲水桌！虽然我也不曾想到我会用张床做一桌子这个视频是之前刷剧刷到的改良款！几番曲折做完后还真香！事实证明，多陪老人家看电... [read](https://weibo.com/2970452952/KiODBxDuN)
 
+   新浪潮：在首尔，人工智能技术正在介入自杀预防和救援 [read](http://www.toodaylab.com/80502)
+
+   今日消费资讯：《鱼丁糸不同名专辑》上线、Lee 推出“一品云鹤”系列 [read](http://www.toodaylab.com/80501)
+
    灵感来自北欧神话，2022 金马奇幻影展主视觉海报发布 [read](http://www.toodaylab.com/80503)
-
-   今日消费资讯：《艾米丽在巴黎》续订第 3 季和第 4 季、极星公布 2021 年业绩 [read](http://www.toodaylab.com/80498)
-
-   轻盈的一季，优衣库发布 Uniqlo U 2022 春夏系列 [read](http://www.toodaylab.com/80500)
 
 ### 设计类
 
-   Vogue Arabia [read](https://www.behance.net/gallery/134877409/Vogue-Arabia)
+   Haematopoiesis VI [read](https://www.behance.net/gallery/134688901/Haematopoiesis-VI)
 
-   JVFR - Brand identity [read](https://www.behance.net/gallery/134971241/JVFR-Brand-identity)
+   Moin Filmförderung [read](https://www.behance.net/gallery/134780201/Moin-Filmfoerderung)
 
-   Belif promotion film [read](https://www.behance.net/gallery/134815113/Belif-promotion-film)
+   Random Drawings [read](https://www.behance.net/gallery/134954785/Random-Drawings)
 
    Creatives Resolutions for 2022 [read](https://medium.com/behance-blog/creatives-resolutions-for-2022-b9db323f8fea?source=rss-f5272b7f3182------2)
 
@@ -410,11 +410,11 @@ draft: true
 
    Pinterest Predicts: The trends to watch for 2022 [read](https://newsroom.pinterest.com/en/post/pinterest-predicts-the-trends-to-watch-for-2022)
 
-   从6个层面，系统分析按钮设计的知识点 [read](https://www.uisdc.com/button-application)
+   掌握表格设计，就掌握 B 端设计的半壁江山！ [read](https://www.uisdc.com/b-end-form-design-application)
 
-   用好这7个AE插件，让你的设计效率直接翻倍！ [read](https://www.uisdc.com/after-effect-plugin)
+   5000+干货！从4个方面掌握图标设计的基础知识 [read](https://www.uisdc.com/icon-design-5)
 
-   如何重新设计3000个图标？来看金山团队的实战案例！ [read](https://www.uisdc.com/wps-3000-icon-redesign)
+   官方出品！《英雄联盟手游》是如何做好界面概念设计的？ [read](https://www.uisdc.com/lol-interface-design)
 
    这类公益关乎你的精神需求 [read](https://cdc.tencent.com/2021/12/27/%e8%bf%99%e7%b1%bb%e5%85%ac%e7%9b%8a%e5%85%b3%e4%b9%8e%e4%bd%a0%e7%9a%84%e7%b2%be%e7%a5%9e%e9%9c%80%e6%b1%82/)
 
@@ -436,23 +436,23 @@ draft: true
 
    最高形式的财富 [read](https://wanqu.co/p/7579?s=rss)
 
+   Hitomi Downloader – 开源免费、图形界面，1200+ 在线视频下载工具，支持 BT 磁力、M3U8 下载\[Windows\] [read](https://www.appinn.com/hitomi-downloader/)
+
    MiXplorer – 免费安卓文件管理器和它的 5 个插件 [read](https://www.appinn.com/mixplorer/)
 
    Text Mode – 9年前的扩展：一键开启网页黑白文字模式，屏蔽图片、动画、色彩，开启无干扰模式\[Chrome\] [read](https://www.appinn.com/text-mode-for-chrome/)
 
-   通知中心：26 个常用的更新通知，包括油价、股票、操作系统更新、App Store 应用更新、UP主微博抖音、豆瓣电影等\[微信小程序\] [read](https://www.appinn.com/wechat-notification-center-mini-app/)
+   JAMF：2021年云安全报告 [read](https://www.199it.com/archives/1373248.html)
 
-   PathFactory：2021年内容参与报告 [read](https://www.199it.com/archives/1367624.html)
+   联合国：2022年世界经济形势与展望报告 [read](https://www.199it.com/archives/1376534.html)
 
-   世界经济论坛：2022年全球风险报告 [read](https://www.199it.com/archives/1375883.html)
+   中汽中心：2021年国有汽车企业数字化转型路线图白皮书1.0版本 [read](https://www.199it.com/archives/1376586.html)
 
-   复旦DMG：2021年交通运输公共数据开放报告 [read](https://www.199it.com/archives/1375925.html)
+   支付宝 App 全新“生活”频道显示入口已支持关闭 [read](https://www.ithome.com/0/598/643.htm)
 
-   小米区块链宠物“加密兔”宣布 3 月 1 日下线 [read](https://www.ithome.com/0/598/427.htm)
+   小米 MIUI 已上线“纯净模式”，小米审核 Apk 确保应用安全 [read](https://www.ithome.com/0/598/637.htm)
 
-   Epic 喜加一：科幻战略游戏《银河文明 3》免费领取，原价 80 元 [read](https://www.ithome.com/0/598/426.htm)
-
-   荣耀公开排队叫号专利，让提醒变得更有效 [read](https://www.ithome.com/0/598/425.htm)
+   富满微电子拟斥 2.85 亿元购置深圳房产用于研发办公 [read](https://www.ithome.com/0/598/642.htm)
 
    HelloGitHub 第 69 期 [read](https://hellogithub.com/periodical/volume/69/)
 
@@ -472,17 +472,17 @@ draft: true
 
    All in One SEO 高危漏洞，4.0.0 至 4.1.5.2 版本请立即更新 [read](https://www.wpdaxue.com/all-in-one-seo-high-risk-vulnerability.html)
 
-   硬核观察 #515 人工智能可以识别匿名棋手 [read](https://linux.cn/article-14176-1.html?utm_source=rss&utm_medium=rss)
+   内容管理系统（CMS）简史 [read](https://linux.cn/article-14180-1.html?utm_source=rss&utm_medium=rss)
 
-   2021 总结：学习 C 语言编程的 5 种方法 [read](https://linux.cn/article-14175-1.html?utm_source=rss&utm_medium=rss)
+   硬核观察 #516 广告过滤 DNS 服务 Adhole 宣布关停 [read](https://linux.cn/article-14179-1.html?utm_source=rss&utm_medium=rss)
 
-   给儿童、教师和学校的最佳 Linux 发行版 [read](https://linux.cn/article-14174-1.html?utm_source=rss&utm_medium=rss)
+   2021 总结：学习新编程语言的 5 个小知识 [read](https://linux.cn/article-14178-1.html?utm_source=rss&utm_medium=rss)
 
-   \[全球工单系统\] 链家 app 的英文名怎么是 sdk [read](https://www.v2ex.com/t/828139#reply2)
+   \[淘宝\] 淘特的个性化推荐蛮恶心的 [read](https://www.v2ex.com/t/828366#reply0)
 
-   \[天黑以后\] 换了个 CPU，到现在…… [read](https://www.v2ex.com/t/828137#reply1)
+   \[MacBook Pro\] MBP 2021 反复重启控制台里 ResetCounter 提示，有人遇到过吗？ [read](https://www.v2ex.com/t/828364#reply1)
 
-   \[C++\] inline 不能修饰一个全局函数呗？ [read](https://www.v2ex.com/t/828136#reply5)
+   \[MacBook Pro\] 20 年购入 intel mbp 通过拓展坞连接 4k 屏卡顿 [read](https://www.v2ex.com/t/828362#reply7)
 
    网络数字身份认证术 [read](https://coolshell.cn/articles/21708.html)
 
@@ -492,9 +492,9 @@ draft: true
 
    《永恒族》：PPT电影的巅峰 (评论: 永恒族) [read](https://movie.douban.com/review/14137153/)
 
-   十六岁三刷《重庆森林》——我们与ta的距离，那么近，那么遥远 (评论: 重庆森林) [read](https://movie.douban.com/review/14138975/)
+   十六岁三刷《重庆森林》——我们与ta之间，这么近，那么遥远 (评论: 重庆森林) [read](https://movie.douban.com/review/14138975/)
 
-   【不弱威威原创中字】【传说在下午,有时会遇到吸血鬼】【大林宣彦】【简体中字】 (评论: 传说在下午,有时会遇到吸血鬼.) [read](https://movie.douban.com/review/14132748/)
+   一车不愿伸出援手的人，值得救吗？ (评论: 开端) [read](https://movie.douban.com/review/14139107/)
 
    评《蚂蚁篇》：富坚义博作为一个“时间操控念能力者”的天才 (评论: Hunter X Hunter (Vol.30)) [read](https://book.douban.com/review/14113969/)
 
@@ -502,11 +502,11 @@ draft: true
 
    女孩将三句古诗融入菜肴，向情郎剖心坼肝，网友：就怕姑娘有文化 (评论: 妈妈的古诗私房课（全3册）) [read](https://book.douban.com/review/14135523/)
 
-   焚风：一首凤凰涅槃，浴火重生的流行史诗 (评论: Faye詹雯婷 在云彩上跳舞 叽叽喳喳) [read](https://music.douban.com/review/14139241/)
+   中年男歌手缓解倒嗓危机的三个方法 (评论: 不同名專輯) [read](https://music.douban.com/review/14140723/)
 
-   关于DAWN FM的一些碎碎念 (评论: Dawn FM) [read](https://music.douban.com/review/14139116/)
+   谢谢苏打绿和青峰的抗争！ (评论: 不同名專輯) [read](https://music.douban.com/review/14140075/)
 
-   张艺兴M-POP (评论: 悟) [read](https://music.douban.com/review/14137804/)
+   热评的某J (评论: 不同名專輯) [read](https://music.douban.com/review/14140987/)
 
    协程到底是什么？看完这个故事明明白白！ - 轩辕之风 [read](http://www.cnblogs.com/xuanyuan/archive/2020/10/16/13824621.html)
 
@@ -514,35 +514,29 @@ draft: true
 
    Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro [read](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html)
 
-   架构师必备：系统性解决幂等问题 - Java烘焙师 [read](http://www.cnblogs.com/toplist/p/15780103.html)
+   WebGL 与 WebGPU 比对\[1\] 前奏 - 四季留歌 [read](http://www.cnblogs.com/onsummer/p/webgl-vs-webgpu-history.html)
 
-   解决excel两表之间数据关联关系，知道这几招就够了 - NewJune [read](http://www.cnblogs.com/new-june/p/15800217.html)
+   Python与Javascript相互调用超详细讲解（2022年1月最新）（一）基本原理 Part 1 - 通过子进程和进程间通信（IPC） - milliele [read](http://www.cnblogs.com/milliele/p/15806035.html)
 
-   Azure Terraform（九）利用 Azure DevOps Pipeline 的审批来控制流程发布 - Grant_Allen [read](http://www.cnblogs.com/AllenMaster/p/15740652.html)
+   计算机视觉--CV技术指南文章汇总 - CV技术指南（公众号） [read](http://www.cnblogs.com/wxkang/p/15805927.html)
 
-   \[請益\] 藍色恐懼 劇情疑問 有雷 [read](https://www.ptt.cc/bbs/movie/M.1642108516.A.DEA.html)
+   Re: \[負雷\] 永恆族 [read](https://www.ptt.cc/bbs/movie/M.1642181526.A.17B.html)
 
-   \[無雷\] 驚聲尖叫5－PTT特映會中午場心得 [read](https://www.ptt.cc/bbs/movie/M.1642106391.A.9CA.html)
+   \[請益\] 反派韓影是台影唯一的出路嗎 [read](https://www.ptt.cc/bbs/movie/M.1642175615.A.31D.html)
 
-   \[討論\] 金牌特務:金士曼起源劇情討論(有大雷) [read](https://www.ptt.cc/bbs/movie/M.1642097854.A.DAC.html)
+   \[新聞\] 2021年最暢銷電影DVD、藍光出爐《神力女超 [read](https://www.ptt.cc/bbs/movie/M.1642175476.A.A8B.html)
 
-   \[正妹\] 木木 [read](https://www.ptt.cc/bbs/Beauty/M.1642095470.A.BAE.html)
+   \[正妹\] 膝蓋為什麼瘀青 [read](https://www.ptt.cc/bbs/Beauty/M.1642181084.A.4B8.html)
 
-   \[正妹\] Red Velvet Seulgi [read](https://www.ptt.cc/bbs/Beauty/M.1642092558.A.EB1.html)
+   \[正妹\] 高田里穂 [read](https://www.ptt.cc/bbs/Beauty/M.1642175681.A.837.html)
 
-   \[正妹\] 大尺碼｜肉特(822) [read](https://www.ptt.cc/bbs/Beauty/M.1642082362.A.4AC.html)
+   \[正妹\] 齋藤飛鳥 [read](https://www.ptt.cc/bbs/Beauty/M.1642169580.A.2D3.html)
 
    病毒分析之WannaCry勒索病毒 [read](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1573058)
 
    某应用sign签名算法还原 [read](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1572670)
 
    FirmAE及DlinkDIR320、600、645漏洞复现 [read](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1572565)
-
-   可是打工必须在故乡 [read](https://www.cnbeta.com/articles/tech/1066805.htm)
-
-   两边竞价，哪边出钱多哪边是绿灯 [read](https://www.cnbeta.com/articles/tech/786381.htm)
-
-   如果苹果真的是这种设计的话，国内手机市场份额肯定会被国产机蚕食，有了OV最近的设计创新，下一部手机我更倾向于国产了 [read](https://www.cnbeta.com/articles/tech/751767.htm)
 
    赛马娘 Pretty Derby：终点线的感动，起跑线的感慨 [read](https://bitinn.net/11697/)
 
@@ -552,15 +546,15 @@ draft: true
 
 ### 游戏
 
-   【抽奖】《实况！救援大作战》现已登陆PC平台，一起来拯救生命！ [read](https://www.gcores.com/articles/146297)
+   找工作的回忆，各种奇怪遭遇 天天ACG 1.4 [read](https://www.gcores.com/radios/146080)
 
-   《杀手 三部曲》将于1月20日发售并登录XGP，IOI《杀手》直播活动汇总 [read](https://www.gcores.com/articles/146294)
+   《孤岛惊魂6》贝根明DLC揭晓希望郡核弹袭击真相：核弹竟是明叔的 [read](https://www.gcores.com/articles/146368)
 
-   第十一章 大发展：1940--1955 [read](https://www.gcores.com/radios/146280)
+   阿瓦恩传说拾遗丨沙漠深处 [read](https://www.gcores.com/articles/146282)
 
-   有玩家将任天堂两代主机NS和NGC改造后合体了 [read](https://www.yystv.cn/p/8708)
+   一个24小时就会自毁的网站，在网友的接力下存活了两年 [read](https://www.yystv.cn/p/8715)
 
-   雷蛇的RGB口罩被指涉及欺诈宣传 [read](https://www.yystv.cn/p/8709)
+   【社长jing了！Vol.140】“我以为马保国加入了调查兵团” [read](https://www.yystv.cn/p/8714)
 
-   有多少人的双眼皮手术是周杰伦陪着做的？ [read](https://www.yystv.cn/p/8706)
+   有人发明了PS5“单手手柄”，你一人也能通关《双人成行》了 [read](https://www.yystv.cn/p/8713)
 
