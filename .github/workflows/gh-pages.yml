@@ -4,7 +4,8 @@ on:
   push:
     branches:
       - main  # Set a branch to deploy
-  pull_request:
+  schedule:
+    - cron:  '0 22 * * *'    # 国际标准时间22点（北京时间早上6点发）
 
 jobs:
   deploy:

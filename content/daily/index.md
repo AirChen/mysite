@@ -1,7 +1,5 @@
 ---
 title: "今日资讯"
-date: 2022-01-15T17:19:51+08:00
-draft: true
 ---
 
 ![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SaCalobra_EN-US0398649435_UHD.jpg "San Juan Mountains")
