@@ -134,4 +134,18 @@ UICollectionViewDelegate UICollectionViewDataSource 用已经子类化的UIColle
 self.collectionView = [[UICollectionView alloc] initWithFrame:CGRectZero collectionViewLayout:self.smallLayout]; 在数据源方法中实现item的数量与每个item的创建
 - (NSInteger)collectionView:(UICollectionView *)collectionView numberOfItemsInSection:(NSInteger)section; - (__kindof UICollectionViewCell *)collectionView:(UICollectionView *)collectionView cellForItemAtIndexPath:(NSIndexPath *)indexPath; 其中UICollectionViewCell可以子类化，添加一些label或者ImageView。
 可以简单的子类化一个UICollectionViewFlowLayout，只需复写以下init方法：
--(id)init { if (!(self = [super init])) return nil; self.itemSize = CGSizeMake(30, 30); self.sectionInset = UIEdgeInsetsMake(10, 10, 10, 10); self.minimumInteritemSpacing = 10.0f; self.minimumLineSpacing = 10.0f; return self; } 此外UICollectionViewFlowLayout还包括一些其他的方法，可以根据需求来选择：</description></item><item><title>About Me</title><link>https://blog.airchen-space.top/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.airchen-space.top/about/</guid><description>个人信息 任志琛 男 30岁 工作经验 5年 工作经历 北京百度网讯科技有限公司 C++ 地图服务 2021年8月 至今 北京四维图新科技股份有限公司 C++ 地图引擎开发 2018年4月 2021年8月 北京四维智联科技有限公司 iOS SDK开发 2017年7月 2018年4月 教育经历 研究生 广西师范大学 电子科学与技术 本科 北京邮电大学世纪学院 通信工程 联系我 邮箱 renzhichen2012@163.com qq 252199456</description></item></channel></rss>
+-(id)init { if (!(self = [super init])) return nil; self.itemSize = CGSizeMake(30, 30); self.sectionInset = UIEdgeInsetsMake(10, 10, 10, 10); self.minimumInteritemSpacing = 10.0f; self.minimumLineSpacing = 10.0f; return self; } 此外UICollectionViewFlowLayout还包括一些其他的方法，可以根据需求来选择：</description></item><item><title>About Me</title><link>https://blog.airchen-space.top/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.airchen-space.top/about/</guid><description>个人信息 任志琛 男 30岁 工作经验 5年 工作经历 北京百度网讯科技有限公司 C++ 地图服务 2021年8月 至今 北京四维图新科技股份有限公司 C++ 地图引擎开发 2018年4月 2021年8月 北京四维智联科技有限公司 iOS SDK开发 2017年7月 2018年4月 教育经历 研究生 广西师范大学 电子科学与技术 本科 北京邮电大学世纪学院 通信工程 联系我 邮箱 renzhichen2012@163.com qq 252199456</description></item><item><title>今日资讯</title><link>https://blog.airchen-space.top/daily/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.airchen-space.top/daily/</guid><description>软件工具 2022 年 1 月每日分享 read
+网页在线工具汇总 read
+苹果IOS资源大神「小麦黑科技」值得关注 read
+Yate 6.8.1 音频文件标签小工具 read
+SideNotes 1.4.4 办公笔记本 read
+NetWorker Pro 8.2.1 菜单栏网速监测显示工具 read
+Windows10 企业版G 21H2 19044.1466 无更新精简 xb21cn read
+PotPlayer 1.7.21595 中文免安装 180个皮肤 电视直播源 read
+EZ CD Audio Converter 9.5.3.1 音频转换抓取编辑软件 read
+7-Zip read
+GIMP read
+Listen 1 read
+Hitomi Downloader – 开源免费、图形界面，1200+ 在线视频下载工具，支持 BT 磁力、M3U8 下载[Windows] read
+MiXplorer – 免费安卓文件管理器和它的 5 个插件 read
+Text Mode – 9年前的扩展：一键开启网页黑白文字模式，屏蔽图片、动画、色彩，开启无干扰模式[Chrome] read</description></item></channel></rss>
