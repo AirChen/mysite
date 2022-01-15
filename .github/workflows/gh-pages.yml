@@ -21,9 +21,6 @@ jobs:
         with:
           hugo-version: 'latest'
           # extended: true
-          
-      - name: Submodules
-        run: git clone https://github.com/vaga/hugo-theme-m10c.git themes/m10c
 
       - name: Build
         run: hugo --minify --buildDrafts
