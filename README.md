@@ -1,6 +1,6 @@
 ### Blogs
 
-[![daily](https://github.com/AirChen/Blogs/actions/workflows/daily.yaml/badge.svg?branch=master&event=status)](https://github.com/AirChen/Blogs/actions/workflows/daily.yaml)
-[![github pages](https://github.com/AirChen/Blogs/actions/workflows/gh-pages.yml/badge.svg?branch=master)](https://github.com/AirChen/Blogs/actions/workflows/gh-pages.yml)
+[![daily](https://github.com/AirChen/mysite/actions/workflows/daily.yaml/badge.svg)](https://github.com/AirChen/mysite/actions/workflows/daily.yaml)
+[![github pages](https://github.com/AirChen/mysite/actions/workflows/gh-pages.yml/badge.svg?branch=main)](https://github.com/AirChen/mysite/actions/workflows/gh-pages.yml)
 
 []()
