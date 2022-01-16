@@ -107,7 +107,7 @@ def get_bing_img_url():
 
 def write_md_file(sorce_list, flag_img, current_time):
     title = "今日资讯"
-    header = "---\ntitle: \"" + title + "\"\ndate: " + current_time + "T17:19:51+08:00\ndraft: true\n---\n\n"
+    header = "---\ntitle: \"" + title + "\"\n---\n\n"
 
     bing_bak = "![The San Juan Mountains are beautiful!](" + flag_img + " \"San Juan Mountains\")\n\n"
 
