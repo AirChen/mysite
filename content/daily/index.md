@@ -1,10 +1,8 @@
 ---
 title: "今日资讯"
-date: 2022-01-16T17:19:51+08:00
-draft: true
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BigHole_EN-US0665897807_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BoguraChili_EN-US0800461661_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -23,12 +21,6 @@ draft: true
    通过 GitHub 订阅 Hacker News 每日 top 10 [read](https://blog.t9t.io/headllines-2020-09-03/)
 
    让用户决定软件长什么样 [read](https://blog.t9t.io/let-user-design-2020-06-18/)
-
-   自定义C/C++日志输出函数 [read](https://www.kymjs.com/code/2020/08/07/01)
-
-   再聊 Git Flow [read](https://www.kymjs.com/manager/2020/05/29/01)
-
-   Flutter 设置控件是否可见 [read](https://www.kymjs.com/note/2020/03/19/01)
 
 ### IT团队博客
 
@@ -70,17 +62,17 @@ draft: true
 
 ### 互联网类
 
+   文宾：从路边摊起家，打造老长沙的餐饮世界 [read](http://www.huxiu.com/article/491013.html?f=wangzhan)
+
+   电动车，没有新革命 [read](http://www.huxiu.com/article/490973.html?f=wangzhan)
+
    特斯拉在中国卖“包” [read](http://www.huxiu.com/article/490922.html?f=wangzhan)
 
-   储能技术，中国未来的能源命脉？ [read](http://www.huxiu.com/article/490706.html?f=wangzhan)
+   医疗健康行业周报 \| 脑机接口公司NeuroXess成立即获亿元融资；「关怀医疗」获数亿元B轮融资 [read](https://36kr.com/p/1573521757654917)
 
-   支付行业引来“鲶鱼”，数字人民币推广再启造福浪潮？ [read](http://www.huxiu.com/article/490836.html?f=wangzhan)
+   年轻人「吃」出又一千亿赛道？恐怕是个误会｜36氪新风向 [read](https://36kr.com/p/1573265452502920)
 
-   本周国内融资金额超73.85亿元人民币，过亿元融资交易达27笔 \| TO B投融资周报0107-0113 [read](https://36kr.com/p/1571923014324105)
-
-   最前线 \| 小米汽车招兵买马，前极狐汽车总裁于立国加入 [read](https://36kr.com/p/1572226449886856)
-
-   华铁应急与蚂蚁链合作，建立设备追踪信任体系；福建省旅发集团与华住合作，打造新型数字化酒店\| 36氪大公司数字创新指南0114 [read](https://36kr.com/p/1571162835160964)
+   2021年轻人加班报告：加班最狠的城市，北京只能排第三 [read](https://36kr.com/p/1570573509103241)
 
    从个性化推荐到语音识别，微软亚洲研究院为Windows 11注入新智能 [read](https://www.msra.cn/zh-cn/news/features/tech-transfer-to-windows-11)
 
@@ -88,19 +80,19 @@ draft: true
 
    图灵奖得主John Hopcroft：95%研究自己的热爱+5%探索陌生领域=优异的基础研究者 [read](https://www.msra.cn/zh-cn/news/features/2021-msra-theory-workshop-john)
 
+   极客简报｜iPhone 14 设计灵感曝光；三星中国自救难度堪比登天；除夕车票明日开抢 [read](http://www.geekpark.net/news/297024)
+
+   无法「重启」的「矩阵」和想要「单飞」的盒马｜极客一周 [read](http://www.geekpark.net/news/297022)
+
    俄罗斯捣毁 REvil 黑客团伙；特斯拉电动卡车投产推至 2023 年；苹果数十亿美元投体育直播内容 [read](http://www.geekpark.net/news/297004)
-
-   NZONE S7 上手：5000mAh 大电池，5G 入门之选 [read](http://www.geekpark.net/news/296782)
-
-   刚满六岁的盒马，或将迎来命运的转折点 [read](http://www.geekpark.net/news/296991)
 
 ### 金融类
 
-   长江电力充满想象空间的市场化电量 [read](http://xueqiu.com/6699030100/209049987)
+   不买新能源，还能杀进前20的基金，靠的是啥？ [read](http://xueqiu.com/5613394096/209059403)
 
-   这两年最猛的基金经理基本都在这儿了 [read](http://xueqiu.com/5679199459/208941595)
+   融创配股有感 [read](http://xueqiu.com/4364582897/209076866)
 
-   投资，如何避免“踩雷”？ [read](http://xueqiu.com/7579238876/209048315)
+   中国平安，拐点来了吗？ [read](http://xueqiu.com/6217594843/209064800)
 
 ### 学习类
 
@@ -130,11 +122,11 @@ draft: true
 
 ### 设计类
 
-   Variegation II [read](https://www.behance.net/gallery/132681525/Variegation-II)
+   R E N N U R [read](https://www.behance.net/gallery/134547199/R-E-N-N-U-R)
 
-   Illustrated yarn. [read](https://www.behance.net/gallery/120571157/Illustrated-yarn)
+   The Substance [read](https://www.behance.net/gallery/134263967/The-Substance)
 
-   Nike - Run Now [read](https://www.behance.net/gallery/133194027/Nike-Run-Now)
+   Coca-Cola Chinese New Year [read](https://www.behance.net/gallery/134745173/Coca-Cola-Chinese-New-Year)
 
    Creatives Resolutions for 2022 [read](https://medium.com/behance-blog/creatives-resolutions-for-2022-b9db323f8fea?source=rss-f5272b7f3182------2)
 
@@ -148,11 +140,11 @@ draft: true
 
    Pinterest Predicts: The trends to watch for 2022 [read](https://newsroom.pinterest.com/en/post/pinterest-predicts-the-trends-to-watch-for-2022)
 
+   给跪了！神仙打架的年货节页面你不看看？ [read](https://www.uisdc.com/new-years-shopping-festival-poster)
+
    从3个方面，帮你掌握时间显示的设计细节 [read](https://www.uisdc.com/time-display-design)
 
    想做好适老化设计，先来了解人眼的光色原理！ [read](https://www.uisdc.com/the-elderly-eyes)
-
-   掌握表格设计，就掌握 B 端设计的半壁江山！ [read](https://www.uisdc.com/b-end-form-design-application)
 
    这类公益关乎你的精神需求 [read](https://cdc.tencent.com/2021/12/27/%e8%bf%99%e7%b1%bb%e5%85%ac%e7%9b%8a%e5%85%b3%e4%b9%8e%e4%bd%a0%e7%9a%84%e7%b2%be%e7%a5%9e%e9%9c%80%e6%b1%82/)
 
