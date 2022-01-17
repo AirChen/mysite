@@ -1,24 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AirChen Blog</title><link>https://blog.airchen-space.top/</link><description>Recent content on AirChen Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-ch</language><lastBuildDate>Tue, 09 Jun 2020 17:19:51 +0800</lastBuildDate><atom:link href="https://blog.airchen-space.top/index.xml" rel="self" type="application/rss+xml"/><item><title>今日资讯</title><link>https://blog.airchen-space.top/daily/</link><pubDate>Sun, 16 Jan 2022 17:19:51 +0800</pubDate><guid>https://blog.airchen-space.top/daily/</guid><description>个人博客 科技爱好者周刊（第 192 期）：最大的机会来自新技术 read
-科技爱好者周刊（第 191 期）：一个程序员的财务独立之路 read
-流体系统 read
-难产的 Lua 5.4.4 read
-异星工厂的机械臂模块 read
-一个付费 chrome 插件的一生 read
-通过 GitHub 订阅 Hacker News 每日 top 10 read
-让用户决定软件长什么样 read
-自定义C/C++日志输出函数 read
-再聊 Git Flow read
-Flutter 设置控件是否可见 read
-IT团队博客 走向匿名化，谈谈微信小程序新授权登录 read
-yield 学习 read
-callable-object read
-奇舞周刊第 431 期 read
-奇舞周刊第 430 期 read
-奇舞周刊第 429 期 read
-VS Code 是如何优化启动性能的？ read
-服饰3D柔性渲染调研及实践 read
-业务系统的稳定性建设 read
-[原]拯救OOM！字节自研 Android 虚拟机内存管理优化黑科技 mSponge read</description></item><item><title>OSX 上的动态链接</title><link>https://blog.airchen-space.top/posts/linker-osx/</link><pubDate>Tue, 09 Jun 2020 17:19:51 +0800</pubDate><guid>https://blog.airchen-space.top/posts/linker-osx/</guid><description>在 OSX 系统中，可执行文件的链接器涉及两种，ld（静态链接） 和 dyld（动态链接）。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AirChen Blog</title><link>https://blog.airchen-space.top/</link><description>Recent content on AirChen Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-ch</language><lastBuildDate>Tue, 09 Jun 2020 17:19:51 +0800</lastBuildDate><atom:link href="https://blog.airchen-space.top/index.xml" rel="self" type="application/rss+xml"/><item><title>OSX 上的动态链接</title><link>https://blog.airchen-space.top/posts/linker-osx/</link><pubDate>Tue, 09 Jun 2020 17:19:51 +0800</pubDate><guid>https://blog.airchen-space.top/posts/linker-osx/</guid><description>在 OSX 系统中，可执行文件的链接器涉及两种，ld（静态链接） 和 dyld（动态链接）。
 静态链接器 ld 混合所有的目标文件，解决内部符号对外部的引用，并重定位这些符号，最后编译出一个复杂的可运行的文件。 静态链接器 ld (和 ld64)负责将源代码中的符号引用转换为间接的符号查找，供 dyld 以后使用。
 dyld 动态链接库的工作如下：
 内核为进程启动提供了一个非常简单的原始堆栈，动态链接的启动基于这个堆栈 递归、缓存式的加载执行文件所有依赖的动态库到内存空间，包括环境和可执行的运行路径 通过立即绑定非惰性符号并为惰性绑定设置必要的表，将这些库链接到可执行文件 为可执行文件运行静态初始化器 设置main函数的可执行参数，并调用它 在程序执行过程中，通过符号表，加载惰性绑定的调用；提供运行时动态加载服务（通过 dl()函数）；给gdb或其他的调试工具提供 Hook，来获取关键信息。 在main函数返回后，运行静态终止路由 一些情况下，在main函数返回后，调用 libSystem&amp;rsquo;s 的 _exit 函数 启动： 一个新进程启动首先执行dyld的代码，内核通过系统调用命令 LC_LOAD_DYLINKER 来调用 __dyld_start ，从而启动 dyld 。__dyld_start 大致做了如下事情：
@@ -154,4 +134,24 @@ UICollectionViewDelegate UICollectionViewDataSource 用已经子类化的UIColle
 self.collectionView = [[UICollectionView alloc] initWithFrame:CGRectZero collectionViewLayout:self.smallLayout]; 在数据源方法中实现item的数量与每个item的创建
 - (NSInteger)collectionView:(UICollectionView *)collectionView numberOfItemsInSection:(NSInteger)section; - (__kindof UICollectionViewCell *)collectionView:(UICollectionView *)collectionView cellForItemAtIndexPath:(NSIndexPath *)indexPath; 其中UICollectionViewCell可以子类化，添加一些label或者ImageView。
 可以简单的子类化一个UICollectionViewFlowLayout，只需复写以下init方法：
--(id)init { if (!(self = [super init])) return nil; self.itemSize = CGSizeMake(30, 30); self.sectionInset = UIEdgeInsetsMake(10, 10, 10, 10); self.minimumInteritemSpacing = 10.0f; self.minimumLineSpacing = 10.0f; return self; } 此外UICollectionViewFlowLayout还包括一些其他的方法，可以根据需求来选择：</description></item><item><title>About Me</title><link>https://blog.airchen-space.top/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.airchen-space.top/about/</guid><description>个人信息 任志琛 男 30岁 工作经验 5年 工作经历 北京百度网讯科技有限公司 C++ 地图服务 2021年8月 至今 北京四维图新科技股份有限公司 C++ 地图引擎开发 2018年4月 2021年8月 北京四维智联科技有限公司 iOS SDK开发 2017年7月 2018年4月 教育经历 研究生 广西师范大学 电子科学与技术 本科 北京邮电大学世纪学院 通信工程 联系我 邮箱 renzhichen2012@163.com qq 252199456</description></item></channel></rss>
+-(id)init { if (!(self = [super init])) return nil; self.itemSize = CGSizeMake(30, 30); self.sectionInset = UIEdgeInsetsMake(10, 10, 10, 10); self.minimumInteritemSpacing = 10.0f; self.minimumLineSpacing = 10.0f; return self; } 此外UICollectionViewFlowLayout还包括一些其他的方法，可以根据需求来选择：</description></item><item><title>About Me</title><link>https://blog.airchen-space.top/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.airchen-space.top/about/</guid><description>个人信息 任志琛 男 30岁 工作经验 5年 工作经历 北京百度网讯科技有限公司 C++ 地图服务 2021年8月 至今 北京四维图新科技股份有限公司 C++ 地图引擎开发 2018年4月 2021年8月 北京四维智联科技有限公司 iOS SDK开发 2017年7月 2018年4月 教育经历 研究生 广西师范大学 电子科学与技术 本科 北京邮电大学世纪学院 通信工程 联系我 邮箱 renzhichen2012@163.com qq 252199456</description></item><item><title>今日资讯</title><link>https://blog.airchen-space.top/daily/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.airchen-space.top/daily/</guid><description>个人博客 科技爱好者周刊（第 192 期）：最大的机会来自新技术 read
+科技爱好者周刊（第 191 期）：一个程序员的财务独立之路 read
+流体系统 read
+难产的 Lua 5.4.4 read
+异星工厂的机械臂模块 read
+一个付费 chrome 插件的一生 read
+通过 GitHub 订阅 Hacker News 每日 top 10 read
+让用户决定软件长什么样 read
+IT团队博客 走向匿名化，谈谈微信小程序新授权登录 read
+yield 学习 read
+callable-object read
+奇舞周刊第 431 期 read
+奇舞周刊第 430 期 read
+奇舞周刊第 429 期 read
+VS Code 是如何优化启动性能的？ read
+服饰3D柔性渲染调研及实践 read
+业务系统的稳定性建设 read
+[原]拯救OOM！字节自研 Android 虚拟机内存管理优化黑科技 mSponge read
+[原]抖音Android包体积优化探索：从Class字节码入手精简DEX体积 read
+[原]业界首家720p/1080p移动端实时超分，打造抖音极致画质体验 read
+DSTC10开放领域对话评估比赛冠军方法总结 read</description></item></channel></rss>
