@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.TarrMemorial_EN-US1006824946_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AshdownForest_EN-US1230205282_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -10,17 +10,23 @@ title: "今日资讯"
 
    科技爱好者周刊（第 191 期）：一个程序员的财务独立之路 [read](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html)
 
+   我们需要一个怎样的动画模块 [read](https://blog.codingnow.com/2022/01/animation.html)
+
    流体系统 [read](https://blog.codingnow.com/2022/01/fluid_system.html)
 
    难产的 Lua 5.4.4 [read](https://blog.codingnow.com/2021/12/lua_544.html)
-
-   异星工厂的机械臂模块 [read](https://blog.codingnow.com/2021/12/factorio_inserter.html)
 
    一个付费 chrome 插件的一生 [read](https://blog.t9t.io/star-history-2021-01-21/)
 
    通过 GitHub 订阅 Hacker News 每日 top 10 [read](https://blog.t9t.io/headllines-2020-09-03/)
 
    让用户决定软件长什么样 [read](https://blog.t9t.io/let-user-design-2020-06-18/)
+
+   自定义C/C++日志输出函数 [read](https://www.kymjs.com/code/2020/08/07/01)
+
+   再聊 Git Flow [read](https://www.kymjs.com/manager/2020/05/29/01)
+
+   Flutter 设置控件是否可见 [read](https://www.kymjs.com/note/2020/03/19/01)
 
 ### IT团队博客
 
@@ -62,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   被人误解的做自己 [read](http://www.huxiu.com/article/491161.html?f=wangzhan)
+   《昭和米国物语》爆火：2022年第一游戏品类会是什么？ [read](http://www.huxiu.com/article/491554.html?f=wangzhan)
 
-   美国制药名企，亲手引发药物滥用危机 [read](http://www.huxiu.com/article/491295.html?f=wangzhan)
+   《黑客帝国4》的双重败局，是给好莱坞的一记警钟 [read](http://www.huxiu.com/article/491644.html?f=wangzhan)
 
-   小米对标苹果，我有不同的看法 [read](http://www.huxiu.com/article/491304.html?f=wangzhan)
+   终极发问：屁真的会把人臭死吗？ [read](http://www.huxiu.com/article/491653.html?f=wangzhan)
 
-   大连自贸片区推出5G+AR食安智慧监管模式；宁波首辆5G智慧救护车实现“上车即入院” \| 36氪5G创新日报0117 [read](https://36kr.com/p/1575254515044230)
+   氪星晚报丨特斯拉发布价值数十亿美元的车载摄像头模组招标公告，三星、LG等参与竞标；苹果今年Q4将完成Apple Silicon自研芯片研发，届时Mac全系列都将采用自研芯片 [read](https://36kr.com/p/1576546979465730)
 
-   对话奔流极限：只服务滑雪发烧友，做滑雪界的“小米” [read](https://36kr.com/p/1575248116404105)
+   市场日报 \| 预制菜+新冠检测概念受重挫，“妖王”九安医疗跌停；獐子岛遭爆炒，传汤加火山爆发让扇贝大量涌入；数字经济相关概念股掀涨停潮 [read](https://36kr.com/p/1576493252708871)
 
-   最前线 \| 西井科技宣布Q-Truck实现量产，为全球首款智能换电无人驾驶商用车 [read](https://36kr.com/p/1575114423619206)
+   36氪首发 \| 提供CV为主的视频解决方案，「范特科技」获数千万元天使轮融资 [read](https://36kr.com/p/1568162477411976)
 
    从个性化推荐到语音识别，微软亚洲研究院为Windows 11注入新智能 [read](https://www.msra.cn/zh-cn/news/features/tech-transfer-to-windows-11)
 
@@ -80,19 +86,19 @@ title: "今日资讯"
 
    图灵奖得主John Hopcroft：95%研究自己的热爱+5%探索陌生领域=优异的基础研究者 [read](https://www.msra.cn/zh-cn/news/features/2021-msra-theory-workshop-john)
 
+   腾讯减持后市值跌破千亿美元，SEA不行了吗？ [read](http://www.geekpark.net/news/297145)
+
+   XR 头显 3 年后出货量将超 1 亿台；腾讯游戏：未成年人春节最多玩 14 小时；数字人民币应用下载量超 2000 万 [read](http://www.geekpark.net/news/297112)
+
    Google Pixel 6 长期体验：不匹配率 99% [read](http://www.geekpark.net/news/297011)
-
-   苹果或推新 iPad Pro 支持无线充电；微信新版支持「语音暂停播放」；美的投资 2 亿元进军汽车 [read](http://www.geekpark.net/news/297029)
-
-   极客简报｜iPhone 14 设计灵感曝光；三星中国自救难度堪比登天；除夕车票明日开抢 [read](http://www.geekpark.net/news/297024)
 
 ### 金融类
 
-   2022年军工投资：从β到α，从封闭空间到星辰大海 [read](http://xueqiu.com/2448317325/208995978)
+   敏行一号2022年投资方向梳理 [read](http://xueqiu.com/7580740929/209265271)
 
-   选择固收+，看这篇就够了 [read](http://xueqiu.com/9896517675/209150498)
+   首批基金年报出炉：两位百亿基金经理上演冰火两重天 [read](http://xueqiu.com/2025477243/209325919)
 
-   智能汽车标的哪家强？我投ADAS镜头一票 [read](http://xueqiu.com/2833711870/209111768)
+   敢向苍天再要50年：“医药”类指数大起底 [read](http://xueqiu.com/9391624441/209249522)
 
 ### 学习类
 
@@ -122,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Shape Studies Volume 1 [read](https://www.behance.net/gallery/132231335/Shape-Studies-Volume-1)
+   MARVIN [read](https://www.behance.net/gallery/134280711/MARVIN)
 
-   Albus Bakeries packaging [read](https://www.behance.net/gallery/96145093/Albus-Bakeries-packaging)
+   LATENT [read](https://www.behance.net/gallery/131441025/LATENT)
 
-   Selected works \| 2021 [read](https://www.behance.net/gallery/135186845/Selected-works-2021)
+   YooFamily Story Diary Illustration #01 [read](https://www.behance.net/gallery/135258919/YooFamily-Story-Diary-Illustration-01)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
@@ -140,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Predicts: The trends to watch for 2022 [read](https://newsroom.pinterest.com/en/post/pinterest-predicts-the-trends-to-watch-for-2022)
 
-   6000字干货！交互手势全解析二：点击类手势 [read](https://www.uisdc.com/tap-gesture-recognizer)
+   儿童商业插画难吗？自由插画师斯丹分享 3 个超实用方法！ [read](https://www.uisdc.com/2022-sdc-107)
 
-   想提高点击率？大厂设计师总结了这5个有效的设计策略！ [read](https://www.uisdc.com/5-design-strategy)
+   Adobe官方配色神器，还隐藏了这 4 大功能！ [read](https://www.uisdc.com/adobe-colors)
 
-   用户访谈如何拿到更完整和真实的信息？收下这8个实用小技巧！ [read](https://www.uisdc.com/8-user-interview-techniques)
+   用户为什么会点击这个链接？信息气味理论解释了一切 [read](https://www.uisdc.com/information-scent)
 
    这类公益关乎你的精神需求 [read](https://cdc.tencent.com/2021/12/27/%e8%bf%99%e7%b1%bb%e5%85%ac%e7%9b%8a%e5%85%b3%e4%b9%8e%e4%bd%a0%e7%9a%84%e7%b2%be%e7%a5%9e%e9%9c%80%e6%b1%82/)
 
