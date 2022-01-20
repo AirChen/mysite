@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SaintElias_EN-US1325738273_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GrahamAdelie_EN-US1408856353_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   微软究竟能用4300亿换来什么？ [read](http://www.huxiu.com/article/492138.html?f=wangzhan)
+   互联网反垄断迎来强监管，如何破除既往审查制度困境？ [read](http://www.huxiu.com/article/492553.html?f=wangzhan)
 
-   50亿播放量，打不过原著粉 [read](http://www.huxiu.com/article/492043.html?f=wangzhan)
+   微软豪赌元宇宙，687亿美元收购暴雪 [read](http://www.huxiu.com/article/492186.html?f=wangzhan)
 
-   中国电影市场复盘：三大市场误解 [read](http://www.huxiu.com/article/491921.html?f=wangzhan)
+   如何完成一次“流调”？ [read](http://www.huxiu.com/article/492431.html?f=wangzhan)
 
-   焦点分析 \| 如果大厂投资失灵，曾被重仓的企服赛道有何变化？ [read](https://36kr.com/p/1578221374540553)
+   全链条要素成熟、下阶段业务革新前夕，智慧校园服务商「新中新」宣布引入战略投资 [read](https://36kr.com/p/1579132871576328)
 
-   华为将要打造智简5G核心网；苹果第五代iPad Air将搭载A15处理器，支持5G \| 36氪5G创新日报0119 [read](https://36kr.com/p/1578108127152905)
+   国内首个自建5G电力无线专网在750千伏兰州东变电站建成使用；中国移动利用5G基站实现无人机低空探测 \| 36氪5G创新日报0120 [read](https://36kr.com/p/1579428161047047)
 
-   氪星晚报丨华为旗下哈勃投资正式进军私募；百度2022“好运中国年”启动，将发放22亿红包；相机业务不景气，佳能也进军造车市场 [read](https://36kr.com/p/1578069030046216)
+   电子雾化时代：一场技术进阶史 [read](https://36kr.com/p/1579484853488384)
 
    微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
@@ -86,33 +86,33 @@ title: "今日资讯"
 
    AI挺进生命科学领域，分子动力学模拟加速新冠病毒致病机理研究进程 [read](https://www.msra.cn/zh-cn/news/features/ai-life-science)
 
+   从红魔布局元宇宙，看游戏手机的再思考 [read](http://www.geekpark.net/news/297267)
+
+   字节回应裁撤「战投」团队：加强业务聚焦；特斯拉车主用智能辅助撞死两人被控重罪；瑞幸或年底重登纳斯达克 [read](http://www.geekpark.net/news/297277)
+
    微软宣布 687 亿美元收购游戏公司暴雪；马斯克抱怨行程被跟踪，构成安全问题；英特尔将推加密货币挖矿卡 [read](http://www.geekpark.net/news/297200)
-
-   腾讯减持后市值跌破千亿美元，SEA不行了吗？ [read](http://www.geekpark.net/news/297145)
-
-   XR 头显 3 年后出货量将超 1 亿台；腾讯游戏：未成年人春节最多玩 14 小时；数字人民币应用下载量超 2000 万 [read](http://www.geekpark.net/news/297112)
 
 ### 金融类
 
-   不动如山君：一个成功“抄底”人生的投资者 [read](http://xueqiu.com/1876906471/209423551)
+   为什么2022年碳中和领域的机会和2021年有结构性的差异？ [read](http://xueqiu.com/6703311447/209530482)
 
-   一不小心就买了很多只基金，怎么办？ [read](http://xueqiu.com/2356382715/209386369)
+   广东联采政策落地，长春高新可能的应对策略分析 [read](http://xueqiu.com/1425881914/209467138)
 
-   汇杰达理资本解睿：盛宴之后，严选个股 [read](http://xueqiu.com/1712899680/209378357)
+   银行全家福系列 [read](http://xueqiu.com/3260327054/209519890)
 
 ### 学习类
+
+   💻 Issue 291 - Rust For Linux Kernel Patches Revised With Upgraded Rust Toolchain, Build Improvements [read](https://rust.libhunt.com/newsletter/291)
 
    💻 Issue 290 - Bevy 0.6 [read](https://rust.libhunt.com/newsletter/290)
 
    💻 Issue 289 - clap 3.0, a Rust CLI argument parser [read](https://rust.libhunt.com/newsletter/289)
 
-   💻 Issue 288 - A critique of Rust's range types [read](https://rust.libhunt.com/newsletter/288)
+   This Week in Rust 426 [read](https://this-week-in-rust.org/blog/2022/01/19/this-week-in-rust-426/)
 
    This Week in Rust 425 [read](https://this-week-in-rust.org/blog/2022/01/12/this-week-in-rust-425/)
 
    This Week in Rust 424 [read](https://this-week-in-rust.org/blog/2022/01/05/this-week-in-rust-424/)
-
-   This Week in Rust 423 [read](https://this-week-in-rust.org/blog/2021/12/29/this-week-in-rust-423/)
 
    网络数字身份认证术 [read](https://coolshell.cn/articles/21708.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   2021 MEP : vivify (object) [read](https://www.behance.net/gallery/135363497/2021-MEP-vivify-%28object%29)
+   2022 BALANCE calendar [read](https://www.behance.net/gallery/135507849/2022-BALANCE-calendar)
 
-   Polka Play [read](https://www.behance.net/gallery/135385309/Polka-Play)
+   SEBRAE - " O MENINO NO MEIO DA PONTE " [read](https://www.behance.net/gallery/135280979/SEBRAE-O-MENINO-NO-MEIO-DA-PONTE-)
 
-   Neara [read](https://www.behance.net/gallery/134759663/Neara)
+   Smart city congress [read](https://www.behance.net/gallery/135354823/Smart-city-congress)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Predicts: The trends to watch for 2022 [read](https://newsroom.pinterest.com/en/post/pinterest-predicts-the-trends-to-watch-for-2022)
 
-   SEE Conf 设计工程化三部曲！探索新环境下「产研协同模式」中的思考与实践 [read](https://www.uisdc.com/seeconf-2022)
+   硬核干货！3D to H5工作流应用手册：理论篇 [read](https://www.uisdc.com/3d-to-h5-workflow)
 
-   5000字干货！写给新人的按钮设计指南 [read](https://www.uisdc.com/detail-and-application-of-buttons)
+   如何预防用户犯错？先收下这9个优秀案例！ [read](https://www.uisdc.com/mistake-proofing-design)
 
-   如何用好渐变色设计？我总结了这4个方面！ [read](https://www.uisdc.com/gradient-design)
+   不想暴露隐私？试试免费的临时邮箱生成器 Temp Mail！ [read](https://www.uisdc.com/temp-mail)
 
    这类公益关乎你的精神需求 [read](https://cdc.tencent.com/2021/12/27/%e8%bf%99%e7%b1%bb%e5%85%ac%e7%9b%8a%e5%85%b3%e4%b9%8e%e4%bd%a0%e7%9a%84%e7%b2%be%e7%a5%9e%e9%9c%80%e6%b1%82/)
 
