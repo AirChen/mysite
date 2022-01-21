@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GrahamAdelie_EN-US1408856353_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.HuggingDay_EN-US1567289484_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 192 期）：最大的机会来自新技术 [read](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html)
+   科技爱好者周刊（第 193 期）：前端与后端，谁更难？ [read](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html)
 
-   科技爱好者周刊（第 191 期）：一个程序员的财务独立之路 [read](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html)
+   科技爱好者周刊（第 192 期）：最大的机会来自新技术 [read](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html)
 
    我们需要一个怎样的动画模块 [read](https://blog.codingnow.com/2022/01/animation.html)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 432 期 [read](https://weekly.75.team/issue432.html)
+
    奇舞周刊第 431 期 [read](https://weekly.75.team/issue431.html)
 
    奇舞周刊第 430 期 [read](https://weekly.75.team/issue430.html)
-
-   奇舞周刊第 429 期 [read](https://weekly.75.team/issue429.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -54,11 +54,11 @@ title: "今日资讯"
 
    \[原\]抖音Android包体积优化探索：从Class字节码入手精简DEX体积 [read](https://blog.csdn.net/ByteDanceTech/article/details/122422653)
 
+   美团技术年货：1200+页电子书，覆盖前后端、算法、数据、安全、测试、顶会论文 [read](https://tech.meituan.com/2022/01/20/2022-happy-new-year.html)
+
    DSTC10开放领域对话评估比赛冠军方法总结 [read](https://tech.meituan.com/2022/01/13/dstc10.html)
 
    从0到1：美团端侧CDN容灾解决方案 [read](https://tech.meituan.com/2022/01/13/phoenix-cdn.html)
-
-   7次KDD Cup&Kaggle冠军的经验分享：从多领域优化到AutoML框架 [read](https://tech.meituan.com/2022/01/06/7-kdd-cup-kaggle-automl.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   互联网反垄断迎来强监管，如何破除既往审查制度困境？ [read](http://www.huxiu.com/article/492553.html?f=wangzhan)
+   被时间遗忘的工资 [read](http://www.huxiu.com/article/492572.html?f=wangzhan)
 
-   微软豪赌元宇宙，687亿美元收购暴雪 [read](http://www.huxiu.com/article/492186.html?f=wangzhan)
+   真香警告！燃油卫道士丰田牵手电动车 [read](http://www.huxiu.com/article/492634.html?f=wangzhan)
 
-   如何完成一次“流调”？ [read](http://www.huxiu.com/article/492431.html?f=wangzhan)
+   密码防泄漏指南：我们应该怎样设置密码？ [read](http://www.huxiu.com/article/492614.html?f=wangzhan)
 
-   全链条要素成熟、下阶段业务革新前夕，智慧校园服务商「新中新」宣布引入战略投资 [read](https://36kr.com/p/1579132871576328)
+   卡奥斯行业首个5G+UWB智慧互联工厂落地郑州；5G+直升机开启吉林省陆空应急医疗救援模式 \| 36氪5G创新日报0121 [read](https://36kr.com/p/1580907051141892)
 
-   国内首个自建5G电力无线专网在750千伏兰州东变电站建成使用；中国移动利用5G基站实现无人机低空探测 \| 36氪5G创新日报0120 [read](https://36kr.com/p/1579428161047047)
+   微信红包封面，还值得抢吗？｜营销看点Vol.15 [read](https://36kr.com/p/1580639154162441)
 
-   电子雾化时代：一场技术进阶史 [read](https://36kr.com/p/1579484853488384)
+   氪星晚报丨腾讯音乐进行人员和组织调整，涉及QQ音乐及全民K歌；腾讯电竞与欧愉科技达成电竞酒店战略合作；吉利拟收购魅族手机 [read](https://36kr.com/p/1580797878848001)
 
    微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    AI挺进生命科学领域，分子动力学模拟加速新冠病毒致病机理研究进程 [read](https://www.msra.cn/zh-cn/news/features/ai-life-science)
 
-   从红魔布局元宇宙，看游戏手机的再思考 [read](http://www.geekpark.net/news/297267)
+   春节手机购买指南丨从入门到高端，总有一款适合你 [read](http://www.geekpark.net/news/297445)
 
-   字节回应裁撤「战投」团队：加强业务聚焦；特斯拉车主用智能辅助撞死两人被控重罪；瑞幸或年底重登纳斯达克 [read](http://www.geekpark.net/news/297277)
+   一把「刷子」被热议：支付宝好像有点变了 [read](http://www.geekpark.net/news/297337)
 
-   微软宣布 687 亿美元收购游戏公司暴雪；马斯克抱怨行程被跟踪，构成安全问题；英特尔将推加密货币挖矿卡 [read](http://www.geekpark.net/news/297200)
+   有道听力宝体验：练听力练口语，它让你从小学用到大学 [read](http://www.geekpark.net/news/297345)
 
 ### 金融类
 
-   为什么2022年碳中和领域的机会和2021年有结构性的差异？ [read](http://xueqiu.com/6703311447/209530482)
+   从美锦能源浅谈一下氢能源板块 [read](http://xueqiu.com/5945975041/209701980)
 
-   广东联采政策落地，长春高新可能的应对策略分析 [read](http://xueqiu.com/1425881914/209467138)
+   交易越来越拥挤，先人一步才是制胜关键 [read](http://xueqiu.com/1622002697/209630973)
 
-   银行全家福系列 [read](http://xueqiu.com/3260327054/209519890)
+   保本出与市场的疯狂 [read](http://xueqiu.com/7580740929/209600945)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   2022 BALANCE calendar [read](https://www.behance.net/gallery/135507849/2022-BALANCE-calendar)
+   Trees &amp; Plants [read](https://www.behance.net/gallery/134691417/Trees-Plants)
 
-   SEBRAE - " O MENINO NO MEIO DA PONTE " [read](https://www.behance.net/gallery/135280979/SEBRAE-O-MENINO-NO-MEIO-DA-PONTE-)
+   Mobetterworks X NewBalance Collaboration [read](https://www.behance.net/gallery/135422927/Mobetterworks-X-NewBalance-Collaboration)
 
-   Smart city congress [read](https://www.behance.net/gallery/135354823/Smart-city-congress)
+   Token of the Woken [read](https://www.behance.net/gallery/135523509/Token-of-the-Woken)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
@@ -152,9 +152,9 @@ title: "今日资讯"
 
    不想暴露隐私？试试免费的临时邮箱生成器 Temp Mail！ [read](https://www.uisdc.com/temp-mail)
 
+   你可能忽略的产品设计细节——初探适老化与无障碍改造 [read](https://cdc.tencent.com/2022/01/21/%e4%bd%a0%e5%8f%af%e8%83%bd%e5%bf%bd%e7%95%a5%e7%9a%84%e4%ba%a7%e5%93%81%e8%ae%be%e8%ae%a1%e7%bb%86%e8%8a%82-%e5%88%9d%e6%8e%a2%e9%80%82%e8%80%81%e5%8c%96%e4%b8%8e%e6%97%a0%e9%9a%9c/)
+
    这类公益关乎你的精神需求 [read](https://cdc.tencent.com/2021/12/27/%e8%bf%99%e7%b1%bb%e5%85%ac%e7%9b%8a%e5%85%b3%e4%b9%8e%e4%bd%a0%e7%9a%84%e7%b2%be%e7%a5%9e%e9%9c%80%e6%b1%82/)
 
    腾讯发布2021中国用户体验行业报告， 首次揭晓体验设计工具NPS排行 [read](https://cdc.tencent.com/2021/10/29/%e8%85%be%e8%ae%af%e5%8f%91%e5%b8%832021%e4%b8%ad%e5%9b%bd%e7%94%a8%e6%88%b7%e4%bd%93%e9%aa%8c%e8%a1%8c%e4%b8%9a%e6%8a%a5%e5%91%8a%ef%bc%8c-%e9%a6%96%e6%ac%a1%e6%8f%ad%e6%99%93%e4%bd%93%e9%aa%8c/)
-
-   用户体验行业调研诚邀您共同参与！ [read](https://cdc.tencent.com/2021/08/23/%e7%94%a8%e6%88%b7%e4%bd%93%e9%aa%8c%e8%a1%8c%e4%b8%9a%e8%b0%83%e7%a0%94%e8%af%9a%e9%82%80%e6%82%a8%e5%85%b1%e5%90%8c%e5%8f%82%e4%b8%8e%ef%bc%81/)
 
