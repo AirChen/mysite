@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.HuggingDay_EN-US1567289484_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.LesserAntilles_EN-US1658249198_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   被时间遗忘的工资 [read](http://www.huxiu.com/article/492572.html?f=wangzhan)
+   钠离子电池能否取代锂电池？ [read](http://www.huxiu.com/article/492937.html?f=wangzhan)
 
-   真香警告！燃油卫道士丰田牵手电动车 [read](http://www.huxiu.com/article/492634.html?f=wangzhan)
+   2022，把公司卖给新能源巨头 [read](http://www.huxiu.com/article/492889.html?f=wangzhan)
 
-   密码防泄漏指南：我们应该怎样设置密码？ [read](http://www.huxiu.com/article/492614.html?f=wangzhan)
+   新型传销有多可怕？我朋友一年被骗了50万 [read](http://www.huxiu.com/article/492845.html?f=wangzhan)
 
-   卡奥斯行业首个5G+UWB智慧互联工厂落地郑州；5G+直升机开启吉林省陆空应急医疗救援模式 \| 36氪5G创新日报0121 [read](https://36kr.com/p/1580907051141892)
+   本周国内融资金额超96.48亿元人民币，过亿元融资交易达24笔 \| TO B投融资周报0114-0120 [read](https://36kr.com/p/1580930768374280)
 
-   微信红包封面，还值得抢吗？｜营销看点Vol.15 [read](https://36kr.com/p/1580639154162441)
+   36氪独家 \| 与国际数字艺术家团队teamLab共同打造「teamLab无界美术馆」，「光禹莱特」获1.2亿元A轮融资 [read](https://36kr.com/p/1580947923503618)
 
-   氪星晚报丨腾讯音乐进行人员和组织调整，涉及QQ音乐及全民K歌；腾讯电竞与欧愉科技达成电竞酒店战略合作；吉利拟收购魅族手机 [read](https://36kr.com/p/1580797878848001)
+   9点1氪丨吉利拟收购魅族手机；腾讯奖励2.57万名员工20亿港元股票；Gucci回应消费者投诉不给鉴定商品真伪 [read](https://36kr.com/p/1581748018891271)
 
    微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    AI挺进生命科学领域，分子动力学模拟加速新冠病毒致病机理研究进程 [read](https://www.msra.cn/zh-cn/news/features/ai-life-science)
 
+   极客简报｜iPhone SE 传言不止一款；吉利魅族双向奔赴；微软用钞能力拿下暴雪 [read](http://www.geekpark.net/news/297471)
+
+   传吉利计划收购魅族手机；Netflix 股价大跌 21%；比特币跌破 38000 美元 [read](http://www.geekpark.net/news/297460)
+
    春节手机购买指南丨从入门到高端，总有一款适合你 [read](http://www.geekpark.net/news/297445)
-
-   一把「刷子」被热议：支付宝好像有点变了 [read](http://www.geekpark.net/news/297337)
-
-   有道听力宝体验：练听力练口语，它让你从小学用到大学 [read](http://www.geekpark.net/news/297345)
 
 ### 金融类
 
-   从美锦能源浅谈一下氢能源板块 [read](http://xueqiu.com/5945975041/209701980)
+   2022年行业机会在哪里？ [read](http://xueqiu.com/1095402045/209754076)
 
-   交易越来越拥挤，先人一步才是制胜关键 [read](http://xueqiu.com/1622002697/209630973)
+   重仓持股、规模排名！带你看基金四季报里面的秘密 [read](http://xueqiu.com/4579887327/209759832)
 
-   保本出与市场的疯狂 [read](http://xueqiu.com/7580740929/209600945)
+   什么样的炒股水平才能不工作靠炒股吃饭？ [read](http://xueqiu.com/5223831183/209730257)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Trees &amp; Plants [read](https://www.behance.net/gallery/134691417/Trees-Plants)
+   Sai Gon Daily Life [read](https://www.behance.net/gallery/133854925/Sai-Gon-Daily-Life)
 
-   Mobetterworks X NewBalance Collaboration [read](https://www.behance.net/gallery/135422927/Mobetterworks-X-NewBalance-Collaboration)
+   Kinescope: Brand Identity &amp; Website [read](https://www.behance.net/gallery/130195095/Kinescope-Brand-Identity-Website)
 
-   Token of the Woken [read](https://www.behance.net/gallery/135523509/Token-of-the-Woken)
+   IN MOTION [read](https://www.behance.net/gallery/135527357/IN-MOTION)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Predicts: The trends to watch for 2022 [read](https://newsroom.pinterest.com/en/post/pinterest-predicts-the-trends-to-watch-for-2022)
 
-   硬核干货！3D to H5工作流应用手册：理论篇 [read](https://www.uisdc.com/3d-to-h5-workflow)
+   想让视频瞬间静音？收下这 6 个免费在线影工具！ [read](https://www.uisdc.com/6-auto-mute-tools)
 
-   如何预防用户犯错？先收下这9个优秀案例！ [read](https://www.uisdc.com/mistake-proofing-design)
+   超全面！请查收这份「电子期刊」设计规范指南 [read](https://www.uisdc.com/electronic-journals-design)
 
-   不想暴露隐私？试试免费的临时邮箱生成器 Temp Mail！ [read](https://www.uisdc.com/temp-mail)
+   用黄金圈模型，解构品牌建设的基本逻辑 [read](https://www.uisdc.com/brand-building-logic)
 
    你可能忽略的产品设计细节——初探适老化与无障碍改造 [read](https://cdc.tencent.com/2022/01/21/%e4%bd%a0%e5%8f%af%e8%83%bd%e5%bf%bd%e7%95%a5%e7%9a%84%e4%ba%a7%e5%93%81%e8%ae%be%e8%ae%a1%e7%bb%86%e8%8a%82-%e5%88%9d%e6%8e%a2%e9%80%82%e8%80%81%e5%8c%96%e4%b8%8e%e6%97%a0%e9%9a%9c/)
 
