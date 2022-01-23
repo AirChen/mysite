@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.LesserAntilles_EN-US1658249198_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MeotoIwa_EN-US1871391855_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   钠离子电池能否取代锂电池？ [read](http://www.huxiu.com/article/492937.html?f=wangzhan)
+   2050年前可能发生的8件大事 [read](http://www.huxiu.com/article/493059.html?f=wangzhan)
 
-   2022，把公司卖给新能源巨头 [read](http://www.huxiu.com/article/492889.html?f=wangzhan)
+   铲屎官看过来，你的宠物能防丢了！ [read](http://www.huxiu.com/article/493023.html?f=wangzhan)
 
-   新型传销有多可怕？我朋友一年被骗了50万 [read](http://www.huxiu.com/article/492845.html?f=wangzhan)
+   未来的5G超级工厂，长什么样？ [read](http://www.huxiu.com/article/492988.html?f=wangzhan)
 
-   本周国内融资金额超96.48亿元人民币，过亿元融资交易达24笔 \| TO B投融资周报0114-0120 [read](https://36kr.com/p/1580930768374280)
+   医疗健康行业周报 \| 蓝晶微生物B轮融资15亿；莱芒生物获近亿元天使轮融资 [read](https://36kr.com/p/1583602009770504)
 
-   36氪独家 \| 与国际数字艺术家团队teamLab共同打造「teamLab无界美术馆」，「光禹莱特」获1.2亿元A轮融资 [read](https://36kr.com/p/1580947923503618)
+   焦点分析｜互联网的下一个乌托邦，会是Web3吗？ [read](https://36kr.com/p/1568471827336832)
 
-   9点1氪丨吉利拟收购魅族手机；腾讯奖励2.57万名员工20亿港元股票；Gucci回应消费者投诉不给鉴定商品真伪 [read](https://36kr.com/p/1581748018891271)
+   最前线｜绿动资本收购杜邦清洁技术，碳中和下的环保领域还有哪些发展前景？ [read](https://36kr.com/p/1581294821132805)
 
    微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    AI挺进生命科学领域，分子动力学模拟加速新冠病毒致病机理研究进程 [read](https://www.msra.cn/zh-cn/news/features/ai-life-science)
 
+   英特尔宣布 1000 亿美元芯片计划；联合国发行虎年邮票庆祝春节；新东方计划建立直播电商平台 \| 极客早知道 [read](http://www.geekpark.net/news/297476)
+
    极客简报｜iPhone SE 传言不止一款；吉利魅族双向奔赴；微软用钞能力拿下暴雪 [read](http://www.geekpark.net/news/297471)
 
    传吉利计划收购魅族手机；Netflix 股价大跌 21%；比特币跌破 38000 美元 [read](http://www.geekpark.net/news/297460)
 
-   春节手机购买指南丨从入门到高端，总有一款适合你 [read](http://www.geekpark.net/news/297445)
-
 ### 金融类
 
-   2022年行业机会在哪里？ [read](http://xueqiu.com/1095402045/209754076)
+   周应波、曹名长、葛兰、周蔚文2021年四季报看点整理 [read](http://xueqiu.com/5679199459/209805997)
 
-   重仓持股、规模排名！带你看基金四季报里面的秘密 [read](http://xueqiu.com/4579887327/209759832)
+   中泰资管姜诚，“季报出圈队”新成员 [read](http://xueqiu.com/1762638610/209784084)
 
-   什么样的炒股水平才能不工作靠炒股吃饭？ [read](http://xueqiu.com/5223831183/209730257)
+   10只百亿基金的2021年四季报 [read](http://xueqiu.com/8653750491/209766132)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Sai Gon Daily Life [read](https://www.behance.net/gallery/133854925/Sai-Gon-Daily-Life)
+   Antwerp Art Weekend 2021 [read](https://www.behance.net/gallery/135607449/Antwerp-Art-Weekend-2021)
 
-   Kinescope: Brand Identity &amp; Website [read](https://www.behance.net/gallery/130195095/Kinescope-Brand-Identity-Website)
+   Bespoke Shorts: Series 01 [read](https://www.behance.net/gallery/116323949/Bespoke-Shorts-Series-01)
 
-   IN MOTION [read](https://www.behance.net/gallery/135527357/IN-MOTION)
+   Shevchenko National Prize [read](https://www.behance.net/gallery/134854517/Shevchenko-National-Prize)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
