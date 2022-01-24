@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MeotoIwa_EN-US1871391855_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ManhattanView_EN-US1961282866_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   2050年前可能发生的8件大事 [read](http://www.huxiu.com/article/493059.html?f=wangzhan)
+   2022算法治理：“大数据杀熟”将被如何监管 ？ [read](http://www.huxiu.com/article/493370.html?f=wangzhan)
 
-   铲屎官看过来，你的宠物能防丢了！ [read](http://www.huxiu.com/article/493023.html?f=wangzhan)
+   相信我，你迟早会用上数字人民币 [read](http://www.huxiu.com/article/493354.html?f=wangzhan)
 
-   未来的5G超级工厂，长什么样？ [read](http://www.huxiu.com/article/492988.html?f=wangzhan)
+   《开端》中的时间循环，正在被日本动漫淘汰 [read](http://www.huxiu.com/article/493141.html?f=wangzhan)
 
-   医疗健康行业周报 \| 蓝晶微生物B轮融资15亿；莱芒生物获近亿元天使轮融资 [read](https://36kr.com/p/1583602009770504)
+   植物基赛道，会出现「元气」爆品吗？ [read](https://36kr.com/p/1584878085016321)
 
-   焦点分析｜互联网的下一个乌托邦，会是Web3吗？ [read](https://36kr.com/p/1568471827336832)
+   全国首创5G切片技术成功应用于核酸检测；北京冬奥“5G+云转播”平台上线 \| 36氪5G创新日报0124 [read](https://36kr.com/p/1585151247567620)
 
-   最前线｜绿动资本收购杜邦清洁技术，碳中和下的环保领域还有哪些发展前景？ [read](https://36kr.com/p/1581294821132805)
+   最前线｜赣锋锂业涨停，2021年全年净利润预计达48-55亿元，同比增长 368.45% – 436.76% [read](https://36kr.com/p/1585146631211527)
 
    微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    AI挺进生命科学领域，分子动力学模拟加速新冠病毒致病机理研究进程 [read](https://www.msra.cn/zh-cn/news/features/ai-life-science)
 
-   英特尔宣布 1000 亿美元芯片计划；联合国发行虎年邮票庆祝春节；新东方计划建立直播电商平台 \| 极客早知道 [read](http://www.geekpark.net/news/297476)
+   ​春节笔记本购买指南丨新旧换代期间，这几款笔记本依然值得选择 [read](http://www.geekpark.net/news/297545)
 
-   极客简报｜iPhone SE 传言不止一款；吉利魅族双向奔赴；微软用钞能力拿下暴雪 [read](http://www.geekpark.net/news/297471)
+   小派科技：进军一体机，发力国内市场 [read](http://www.geekpark.net/news/297542)
 
-   传吉利计划收购魅族手机；Netflix 股价大跌 21%；比特币跌破 38000 美元 [read](http://www.geekpark.net/news/297460)
+   工厂里的机械臂，成了极客们的「逗猫神器」 [read](http://www.geekpark.net/news/297539)
 
 ### 金融类
 
-   周应波、曹名长、葛兰、周蔚文2021年四季报看点整理 [read](http://xueqiu.com/5679199459/209805997)
+   葛兰上了热搜 [read](http://xueqiu.com/3213890140/209805206)
 
-   中泰资管姜诚，“季报出圈队”新成员 [read](http://xueqiu.com/1762638610/209784084)
+   新一轮猪周期的两种发展模式 [read](http://xueqiu.com/6651873681/209858254)
 
-   10只百亿基金的2021年四季报 [read](http://xueqiu.com/8653750491/209766132)
+   对话@DAVID自由之路：用相对简单的投资模式，捕捉超额收益 [read](http://xueqiu.com/9047540546/209884997)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Antwerp Art Weekend 2021 [read](https://www.behance.net/gallery/135607449/Antwerp-Art-Weekend-2021)
+   Doppler effect [read](https://www.behance.net/gallery/135440721/Doppler-effect)
 
-   Bespoke Shorts: Series 01 [read](https://www.behance.net/gallery/116323949/Bespoke-Shorts-Series-01)
+   METAVERSE [read](https://www.behance.net/gallery/135684833/METAVERSE)
 
-   Shevchenko National Prize [read](https://www.behance.net/gallery/134854517/Shevchenko-National-Prize)
+   YYD®sushi [read](https://www.behance.net/gallery/133823553/YYDsushi)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Predicts: The trends to watch for 2022 [read](https://newsroom.pinterest.com/en/post/pinterest-predicts-the-trends-to-watch-for-2022)
 
-   想让视频瞬间静音？收下这 6 个免费在线影工具！ [read](https://www.uisdc.com/6-auto-mute-tools)
+   在资深设计师眼中，这 10 个设计原则更值得学习和了解 [read](https://www.uisdc.com/10-design-principles-needed)
 
-   超全面！请查收这份「电子期刊」设计规范指南 [read](https://www.uisdc.com/electronic-journals-design)
+   超全面的数据可视化设计指南：字体篇 [read](https://www.uisdc.com/visual-design-font)
 
-   用黄金圈模型，解构品牌建设的基本逻辑 [read](https://www.uisdc.com/brand-building-logic)
+   想转换PDF/视频/图片的格式？收下这个在线免费神器！ [read](https://www.uisdc.com/tinywow)
 
    你可能忽略的产品设计细节——初探适老化与无障碍改造 [read](https://cdc.tencent.com/2022/01/21/%e4%bd%a0%e5%8f%af%e8%83%bd%e5%bf%bd%e7%95%a5%e7%9a%84%e4%ba%a7%e5%93%81%e8%ae%be%e8%ae%a1%e7%bb%86%e8%8a%82-%e5%88%9d%e6%8e%a2%e9%80%82%e8%80%81%e5%8c%96%e4%b8%8e%e6%97%a0%e9%9a%9c/)
 
