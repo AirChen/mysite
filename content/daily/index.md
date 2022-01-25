@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ManhattanView_EN-US1961282866_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.StDwynwensDay_EN-US2056417486_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,37 +68,37 @@ title: "今日资讯"
 
 ### 互联网类
 
-   2022算法治理：“大数据杀熟”将被如何监管 ？ [read](http://www.huxiu.com/article/493370.html?f=wangzhan)
+   鲜饺赛道达千亿规模，饺子馆的风口来了？ [read](http://www.huxiu.com/article/492781.html?f=wangzhan)
 
-   相信我，你迟早会用上数字人民币 [read](http://www.huxiu.com/article/493354.html?f=wangzhan)
+   数字平台反垄断：剥削性滥用行为如何规制？ [read](http://www.huxiu.com/article/493659.html?f=wangzhan)
 
-   《开端》中的时间循环，正在被日本动漫淘汰 [read](http://www.huxiu.com/article/493141.html?f=wangzhan)
+   张一鸣“飞书”吐槽，TikTok开除一名全球高管 [read](http://www.huxiu.com/article/493656.html?f=wangzhan)
 
-   植物基赛道，会出现「元气」爆品吗？ [read](https://36kr.com/p/1584878085016321)
+   最前线 ｜ 英伟达拟放弃400亿美元收购ARM，史上最大芯片并购案终迎结局 [read](https://36kr.com/p/1586737337305607)
 
-   全国首创5G切片技术成功应用于核酸检测；北京冬奥“5G+云转播”平台上线 \| 36氪5G创新日报0124 [read](https://36kr.com/p/1585151247567620)
+   中国西部5G+急性卒中智慧医疗急救体系建设启动；中国电信5G消息正式商用 \| 36氪5G创新日报0125 [read](https://36kr.com/p/1586639483816455)
 
-   最前线｜赣锋锂业涨停，2021年全年净利润预计达48-55亿元，同比增长 368.45% – 436.76% [read](https://36kr.com/p/1585146631211527)
+   科氪｜ROG幻X领衔 ROG 2022全线笔记本硬核升级 [read](https://36kr.com/p/1586675154749958)
+
+   在科学“法师们”的眼中，科研合作有怎样的魔力？ [read](https://www.msra.cn/zh-cn/news/features/on-the-magic-of-collaboration-in-science-technology)
 
    微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
    从个性化推荐到语音识别，微软亚洲研究院为Windows 11注入新智能 [read](https://www.msra.cn/zh-cn/news/features/tech-transfer-to-windows-11)
 
-   AI挺进生命科学领域，分子动力学模拟加速新冠病毒致病机理研究进程 [read](https://www.msra.cn/zh-cn/news/features/ai-life-science)
+   商汤为什么要建 AI 计算中心 [read](http://www.geekpark.net/news/297626)
 
-   ​春节笔记本购买指南丨新旧换代期间，这几款笔记本依然值得选择 [read](http://www.geekpark.net/news/297545)
+   考不了雅思的留学生们，转向了「多邻国」 [read](http://www.geekpark.net/news/297415)
 
-   小派科技：进军一体机，发力国内市场 [read](http://www.geekpark.net/news/297542)
-
-   工厂里的机械臂，成了极客们的「逗猫神器」 [read](http://www.geekpark.net/news/297539)
+   微信视频号上线「付费直播间」；特斯拉「电动皮卡」实车照曝光；腾讯视频修改《搏击俱乐部》结尾 [read](http://www.geekpark.net/news/297550)
 
 ### 金融类
 
-   葛兰上了热搜 [read](http://xueqiu.com/3213890140/209805206)
+   现象和本质——浅谈基金行业监管与制度设计 [read](http://xueqiu.com/4027531808/209799381)
 
-   新一轮猪周期的两种发展模式 [read](http://xueqiu.com/6651873681/209858254)
+   基金年会文字部分（年度投资总结） [read](http://xueqiu.com/1965894836/210014323)
 
-   对话@DAVID自由之路：用相对简单的投资模式，捕捉超额收益 [read](http://xueqiu.com/9047540546/209884997)
+   盈亏同源、均值回归和幸存者偏差 [read](http://xueqiu.com/1755110761/209979475)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Doppler effect [read](https://www.behance.net/gallery/135440721/Doppler-effect)
+   Design Tasmania [read](https://www.behance.net/gallery/113138665/Design-Tasmania)
 
-   METAVERSE [read](https://www.behance.net/gallery/135684833/METAVERSE)
+   show via Procreate [read](https://www.behance.net/gallery/135746323/show-via-Procreate)
 
-   YYD®sushi [read](https://www.behance.net/gallery/133823553/YYDsushi)
+   THE ? BRAND IDENTITY [read](https://www.behance.net/gallery/134121247/THE-BRAND-IDENTITY)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Predicts: The trends to watch for 2022 [read](https://newsroom.pinterest.com/en/post/pinterest-predicts-the-trends-to-watch-for-2022)
 
+   微星创造者 Z16，优设推荐设计师创作笔记本 [read](https://www.uisdc.com/msi-z16-2022)
+
    在资深设计师眼中，这 10 个设计原则更值得学习和了解 [read](https://www.uisdc.com/10-design-principles-needed)
 
    超全面的数据可视化设计指南：字体篇 [read](https://www.uisdc.com/visual-design-font)
-
-   想转换PDF/视频/图片的格式？收下这个在线免费神器！ [read](https://www.uisdc.com/tinywow)
 
    你可能忽略的产品设计细节——初探适老化与无障碍改造 [read](https://cdc.tencent.com/2022/01/21/%e4%bd%a0%e5%8f%af%e8%83%bd%e5%bf%bd%e7%95%a5%e7%9a%84%e4%ba%a7%e5%93%81%e8%ae%be%e8%ae%a1%e7%bb%86%e8%8a%82-%e5%88%9d%e6%8e%a2%e9%80%82%e8%80%81%e5%8c%96%e4%b8%8e%e6%97%a0%e9%9a%9c/)
 
