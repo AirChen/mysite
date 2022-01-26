@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.StDwynwensDay_EN-US2056417486_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MehrangarhCourtyard_EN-US2129728794_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]sonic ：基于 JIT 技术的开源全场景高性能 JSON 库 [read](https://blog.csdn.net/ByteDanceTech/article/details/122694591)
+
    \[原\]字节工程师自研基于 IntelliJ 的终极文档套件 [read](https://blog.csdn.net/ByteDanceTech/article/details/122572110)
 
    \[原\]拯救OOM！字节自研 Android 虚拟机内存管理优化黑科技 mSponge [read](https://blog.csdn.net/ByteDanceTech/article/details/122485951)
-
-   \[原\]抖音Android包体积优化探索：从Class字节码入手精简DEX体积 [read](https://blog.csdn.net/ByteDanceTech/article/details/122422653)
 
    美团技术年货：1200+页电子书，覆盖前后端、算法、数据、安全、测试、顶会论文 [read](https://tech.meituan.com/2022/01/20/2022-happy-new-year.html)
 
@@ -68,37 +68,31 @@ title: "今日资讯"
 
 ### 互联网类
 
-   鲜饺赛道达千亿规模，饺子馆的风口来了？ [read](http://www.huxiu.com/article/492781.html?f=wangzhan)
+   新手如何零经验组装一台游戏电脑？ [read](http://www.huxiu.com/article/494099.html?f=wangzhan)
 
-   数字平台反垄断：剥削性滥用行为如何规制？ [read](http://www.huxiu.com/article/493659.html?f=wangzhan)
+   你戒不掉手机，是有原因的 [read](http://www.huxiu.com/article/493998.html?f=wangzhan)
 
-   张一鸣“飞书”吐槽，TikTok开除一名全球高管 [read](http://www.huxiu.com/article/493656.html?f=wangzhan)
+   KOL与MCN争夺账号归属权，法院判给谁？ [read](http://www.huxiu.com/article/494005.html?f=wangzhan)
 
-   最前线 ｜ 英伟达拟放弃400亿美元收购ARM，史上最大芯片并购案终迎结局 [read](https://36kr.com/p/1586737337305607)
+   重庆移动发布5G超级手机卡；中国联通百个营业厅开启5G消息体验 \| 36氪5G创新日报0126 [read](https://36kr.com/p/1588116359744004)
 
-   中国西部5G+急性卒中智慧医疗急救体系建设启动；中国电信5G消息正式商用 \| 36氪5G创新日报0125 [read](https://36kr.com/p/1586639483816455)
+   2021中国楼市：结束还是开始？\| 原创 [read](https://36kr.com/p/1587869808708361)
 
-   科氪｜ROG幻X领衔 ROG 2022全线笔记本硬核升级 [read](https://36kr.com/p/1586675154749958)
+   最前线 \| 商汤超大型AI计算中心启动，1天可处理23600年时长视频 [read](https://36kr.com/p/1586319359248904)
 
-   在科学“法师们”的眼中，科研合作有怎样的魔力？ [read](https://www.msra.cn/zh-cn/news/features/on-the-magic-of-collaboration-in-science-technology)
+   春节回家，极客之选花 25 万买了这些年货…… [read](http://www.geekpark.net/news/297699)
 
-   微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
+   2 万亿的微软，「渴望」第二个增长点 [read](http://www.geekpark.net/news/297709)
 
-   从个性化推荐到语音识别，微软亚洲研究院为Windows 11注入新智能 [read](https://www.msra.cn/zh-cn/news/features/tech-transfer-to-windows-11)
-
-   商汤为什么要建 AI 计算中心 [read](http://www.geekpark.net/news/297626)
-
-   考不了雅思的留学生们，转向了「多邻国」 [read](http://www.geekpark.net/news/297415)
-
-   微信视频号上线「付费直播间」；特斯拉「电动皮卡」实车照曝光；腾讯视频修改《搏击俱乐部》结尾 [read](http://www.geekpark.net/news/297550)
+   俄罗斯「北极熊」，如何沉默地投资了全世界 [read](http://www.geekpark.net/news/297650)
 
 ### 金融类
 
-   现象和本质——浅谈基金行业监管与制度设计 [read](http://xueqiu.com/4027531808/209799381)
+   回望历史，短期调整皆是过眼烟云 [read](http://xueqiu.com/2356382715/209945593)
 
-   基金年会文字部分（年度投资总结） [read](http://xueqiu.com/1965894836/210014323)
+   华润电力若分拆是在逆历史潮流而动 [read](http://xueqiu.com/3444757527/210061736)
 
-   盈亏同源、均值回归和幸存者偏差 [read](http://xueqiu.com/1755110761/209979475)
+   会投资理财到底有多重要 [read](http://xueqiu.com/7516820417/210096376)
 
 ### 学习类
 
@@ -128,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
+   Slach [read](https://www.behance.net/gallery/135618431/Slach)
+
+   Seasons change [read](https://www.behance.net/gallery/135279587/Seasons-change)
+
    Design Tasmania [read](https://www.behance.net/gallery/113138665/Design-Tasmania)
-
-   show via Procreate [read](https://www.behance.net/gallery/135746323/show-via-Procreate)
-
-   THE ? BRAND IDENTITY [read](https://www.behance.net/gallery/134121247/THE-BRAND-IDENTITY)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
@@ -146,15 +140,9 @@ title: "今日资讯"
 
    Pinterest Predicts: The trends to watch for 2022 [read](https://newsroom.pinterest.com/en/post/pinterest-predicts-the-trends-to-watch-for-2022)
 
-   微星创造者 Z16，优设推荐设计师创作笔记本 [read](https://www.uisdc.com/msi-z16-2022)
+   春节想拍照发朋友圈？11款设计师私藏的宝藏相机App [read](https://www.uisdc.com/camera-apps)
 
-   在资深设计师眼中，这 10 个设计原则更值得学习和了解 [read](https://www.uisdc.com/10-design-principles-needed)
+   如何优化B端弹窗的使用体验，这里有7个设计方向！ [read](https://www.uisdc.com/b-ens-popup-design)
 
-   超全面的数据可视化设计指南：字体篇 [read](https://www.uisdc.com/visual-design-font)
-
-   你可能忽略的产品设计细节——初探适老化与无障碍改造 [read](https://cdc.tencent.com/2022/01/21/%e4%bd%a0%e5%8f%af%e8%83%bd%e5%bf%bd%e7%95%a5%e7%9a%84%e4%ba%a7%e5%93%81%e8%ae%be%e8%ae%a1%e7%bb%86%e8%8a%82-%e5%88%9d%e6%8e%a2%e9%80%82%e8%80%81%e5%8c%96%e4%b8%8e%e6%97%a0%e9%9a%9c/)
-
-   这类公益关乎你的精神需求 [read](https://cdc.tencent.com/2021/12/27/%e8%bf%99%e7%b1%bb%e5%85%ac%e7%9b%8a%e5%85%b3%e4%b9%8e%e4%bd%a0%e7%9a%84%e7%b2%be%e7%a5%9e%e9%9c%80%e6%b1%82/)
-
-   腾讯发布2021中国用户体验行业报告， 首次揭晓体验设计工具NPS排行 [read](https://cdc.tencent.com/2021/10/29/%e8%85%be%e8%ae%af%e5%8f%91%e5%b8%832021%e4%b8%ad%e5%9b%bd%e7%94%a8%e6%88%b7%e4%bd%93%e9%aa%8c%e8%a1%8c%e4%b8%9a%e6%8a%a5%e5%91%8a%ef%bc%8c-%e9%a6%96%e6%ac%a1%e6%8f%ad%e6%99%93%e4%bd%93%e9%aa%8c/)
+   腾讯实战案例！WeGame 2.0 视觉升级复盘（品牌篇） [read](https://www.uisdc.com/wegame2-0)
 
