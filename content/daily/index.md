@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MehrangarhCourtyard_EN-US2129728794_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.RibbontailStingray_EN-US2193500448_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 433 期 [read](https://weekly.75.team/issue433.html)
+
    奇舞周刊第 432 期 [read](https://weekly.75.team/issue432.html)
 
    奇舞周刊第 431 期 [read](https://weekly.75.team/issue431.html)
-
-   奇舞周刊第 430 期 [read](https://weekly.75.team/issue430.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -68,45 +68,51 @@ title: "今日资讯"
 
 ### 互联网类
 
+   大将相继离职，华为汽车选错了路？ [read](http://www.huxiu.com/article/494204.html?f=wangzhan)
+
+   谁在“宁王”头上动土？ [read](http://www.huxiu.com/article/494180.html?f=wangzhan)
+
    新手如何零经验组装一台游戏电脑？ [read](http://www.huxiu.com/article/494099.html?f=wangzhan)
 
-   你戒不掉手机，是有原因的 [read](http://www.huxiu.com/article/493998.html?f=wangzhan)
+   冬奥赛事直播将采用全球首台5G+8K超高清转播车；长安汽车总部部署国内首个5G+MEC高可靠工业专网 \| 36氪5G创新日报0127 [read](https://36kr.com/p/1589506174716421)
 
-   KOL与MCN争夺账号归属权，法院判给谁？ [read](http://www.huxiu.com/article/494005.html?f=wangzhan)
+   京东联手Shopify，全球跨境商业迎来新时代？ [read](https://36kr.com/p/1589170153245440)
 
-   重庆移动发布5G超级手机卡；中国联通百个营业厅开启5G消息体验 \| 36氪5G创新日报0126 [read](https://36kr.com/p/1588116359744004)
+   市场日报 \| A股猛烈杀跌！银行护盘无果，沪指痛失3400；贵州本地股崛起，茅台逆市飘红 [read](https://36kr.com/p/1589295159495429)
 
-   2021中国楼市：结束还是开始？\| 原创 [read](https://36kr.com/p/1587869808708361)
+   AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
-   最前线 \| 商汤超大型AI计算中心启动，1天可处理23600年时长视频 [read](https://36kr.com/p/1586319359248904)
+   在科学“法师们”的眼中，科研合作有怎样的魔力？ [read](https://www.msra.cn/zh-cn/news/features/on-the-magic-of-collaboration-in-science-technology)
 
-   春节回家，极客之选花 25 万买了这些年货…… [read](http://www.geekpark.net/news/297699)
+   微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
-   2 万亿的微软，「渴望」第二个增长点 [read](http://www.geekpark.net/news/297709)
+   春节家庭聚会摸鱼指南 [read](http://www.geekpark.net/news/297803)
 
-   俄罗斯「北极熊」，如何沉默地投资了全世界 [read](http://www.geekpark.net/news/297650)
+   让「公域」为「私域」打工，支付宝在想什么？ [read](http://www.geekpark.net/news/297801)
+
+   马斯克：2022 还有三款车型没量产；微信朋友圈发超 9 张图自动转视频；Win 11 安卓子系统即将开放 [read](http://www.geekpark.net/news/297712)
 
 ### 金融类
 
-   回望历史，短期调整皆是过眼烟云 [read](http://xueqiu.com/2356382715/209945593)
+   我的投资理念：看长做短 [read](http://xueqiu.com/3081204011/210174624)
 
-   华润电力若分拆是在逆历史潮流而动 [read](http://xueqiu.com/3444757527/210061736)
+   【雪球专刊】回首2021：极度分化考验定力，基金投资蔚然成风 [read](http://xueqiu.com/3746414875/210265935)
 
-   会投资理财到底有多重要 [read](http://xueqiu.com/7516820417/210096376)
+   HPV疫苗大战，谁能最终胜出？ [read](http://xueqiu.com/2468670980/210203861)
 
 ### 学习类
+
+   💻 Issue 292 - #\[you_can::turn_off_the_borrow_checker\] [read](https://rust.libhunt.com/newsletter/292)
 
    💻 Issue 291 - Rust For Linux Kernel Patches Revised With Upgraded Rust Toolchain, Build Improvements [read](https://rust.libhunt.com/newsletter/291)
 
    💻 Issue 290 - Bevy 0.6 [read](https://rust.libhunt.com/newsletter/290)
 
-   💻 Issue 289 - clap 3.0, a Rust CLI argument parser [read](https://rust.libhunt.com/newsletter/289)
+   This Week in Rust 427 [read](https://this-week-in-rust.org/blog/2022/01/26/this-week-in-rust-427/)
 
    This Week in Rust 426 [read](https://this-week-in-rust.org/blog/2022/01/19/this-week-in-rust-426/)
 
    This Week in Rust 425 [read](https://this-week-in-rust.org/blog/2022/01/12/this-week-in-rust-425/)
-
-   This Week in Rust 424 [read](https://this-week-in-rust.org/blog/2022/01/05/this-week-in-rust-424/)
 
    网络数字身份认证术 [read](https://coolshell.cn/articles/21708.html)
 
@@ -122,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Slach [read](https://www.behance.net/gallery/135618431/Slach)
+   2020 illustrations [read](https://www.behance.net/gallery/110521905/2020-illustrations)
 
-   Seasons change [read](https://www.behance.net/gallery/135279587/Seasons-change)
+   Lande Architects ? Brand Identity [read](https://www.behance.net/gallery/87218807/Lande-Architects-Brand-Identity)
 
-   Design Tasmania [read](https://www.behance.net/gallery/113138665/Design-Tasmania)
+   Spotify Kids [read](https://www.behance.net/gallery/134388383/Spotify-Kids)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
@@ -140,9 +146,9 @@ title: "今日资讯"
 
    Pinterest Predicts: The trends to watch for 2022 [read](https://newsroom.pinterest.com/en/post/pinterest-predicts-the-trends-to-watch-for-2022)
 
+   第四波！2022年1月精选实用设计干货合集 [read](https://www.uisdc.com/2022-1-design-resources-vol4)
+
+   用超多案例，帮你掌握2个实用的图形裁切术！ [read](https://www.uisdc.com/graphic-cutting)
+
    春节想拍照发朋友圈？11款设计师私藏的宝藏相机App [read](https://www.uisdc.com/camera-apps)
-
-   如何优化B端弹窗的使用体验，这里有7个设计方向！ [read](https://www.uisdc.com/b-ens-popup-design)
-
-   腾讯实战案例！WeGame 2.0 视觉升级复盘（品牌篇） [read](https://www.uisdc.com/wegame2-0)
 
