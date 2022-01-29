@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WinteringFowl_EN-US1541559315_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BrainCoral_EN-US1756508308_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -10,11 +10,11 @@ title: "今日资讯"
 
    科技爱好者周刊（第 193 期）：前端与后端，谁更难？ [read](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html)
 
+   支持惰性展开和差异更新的 Lua 表 [read](https://blog.codingnow.com/2022/01/lua_datatree.html)
+
    我们需要一个怎样的动画模块 [read](https://blog.codingnow.com/2022/01/animation.html)
 
    流体系统 [read](https://blog.codingnow.com/2022/01/fluid_system.html)
-
-   难产的 Lua 5.4.4 [read](https://blog.codingnow.com/2021/12/lua_544.html)
 
    一个付费 chrome 插件的一生 [read](https://blog.t9t.io/star-history-2021-01-21/)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   冬奥会的雪，都从哪儿来？ [read](http://www.huxiu.com/article/494650.html?f=wangzhan)
+   相信光，你也可以成为“儿童界的泡泡玛特” [read](http://www.huxiu.com/article/494882.html?f=wangzhan)
 
-   我想回家过年是真的，不想回家也是真的 [read](http://www.huxiu.com/article/494480.html?f=wangzhan)
+   Kindle最大的敌人是苹果？ [read](http://www.huxiu.com/article/494818.html?f=wangzhan)
 
-   大将相继离职，华为汽车选错了路？ [read](http://www.huxiu.com/article/494204.html?f=wangzhan)
+   麦刚于泡泡玛特，就如同吴宗宪之于周杰伦 [read](http://www.huxiu.com/article/494739.html?f=wangzhan)
 
-   最前线丨加入小米两年，集团副总裁常程离职 [read](https://36kr.com/p/1590828507646467)
+   首届中国工业互联网标识创新应用大赛今日开启预报名 [read](https://36kr.com/p/1591959077685762)
 
-   湘雅医院牵头启动5G远程超声会诊平台；国家京剧院推“5G京剧元宇宙” \| 36氪5G创新日报0128 [read](https://36kr.com/p/1590871894608393)
+   氪星晚报｜美国参议院计划针对Google广告技术业务出台新法案；我国首个百万吨级碳捕集利用与封存项目建成；2022年度票房破30亿 [read](https://36kr.com/p/1592123936180736)
 
-   市场日报 \| A股深V反转后再回落！宁王大涨5%护盘；3000亿光伏龙头逼近跌停；旅游、影视掀涨停潮 [read](https://36kr.com/p/1590727254313473)
+   春晚红包进入新阶段，京东首秀带来了什么？ [read](https://36kr.com/p/1591803137362697)
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
-   家庭聚会游戏选购&平台促销指北 [read](http://www.geekpark.net/news/297871)
+   日赚24亿，苹果还是苹果 [read](http://www.geekpark.net/news/297890)
 
-   Quest 2 VR 头显卖了千万套之后，Meta 把它名字改了 [read](http://www.geekpark.net/news/297869)
+   特斯拉，越来越像苹果 [read](http://www.geekpark.net/news/297888)
 
-   苹果一季度营收 1239 亿再创纪录，同比增长 11%；张一鸣卸任字节跳动法定代表人；支付宝相互宝今日正式关停 [read](http://www.geekpark.net/news/297808)
+   入职两年，小米副总裁常程离职；特斯拉中国推出车内 KTV 功能；监管：人脸替换内容须有显著标识 [read](http://www.geekpark.net/news/297885)
 
 ### 金融类
 
-   对新能源、医药、白酒、中概等细分行业板块的一些看法 [read](http://xueqiu.com/2356382715/210301316)
+   客观地谈B站的竞争力和问题 [read](http://xueqiu.com/6302670150/210388369)
 
-   东阿阿胶2021年报业绩预告简评 [read](http://xueqiu.com/4381703788/210296435)
+   对美的财务高管序列中财务总监和CFO变动的理解 [read](http://xueqiu.com/1844304017/210436255)
 
-   茅台实现高增长的四个逻辑 [read](http://xueqiu.com/9262059293/210346683)
+   以创新力锻塑企业增长之路 [read](http://xueqiu.com/9927088462/210382021)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Receptes per compartir en família ? Jubany [read](https://www.behance.net/gallery/136053735/Receptes-per-compartir-en-familia-Jubany)
+   Adidas Collective Power [read](https://www.behance.net/gallery/136063189/Adidas-Collective-Power)
 
-   NEOVICTORIANS [read](https://www.behance.net/gallery/135496655/NEOVICTORIANS)
+   STILL YOUNG INTERIOR DESIGN COMPANY VISUAL IDENTITY [read](https://www.behance.net/gallery/136071427/STILL-YOUNG-INTERIOR-DESIGN-COMPANY-VISUAL-IDENTITY)
 
-   Bureau Oberhaeuser Calendar 2022 [read](https://www.behance.net/gallery/135463897/Bureau-Oberhaeuser-Calendar-2022)
+   Self Isolating Cabin [read](https://www.behance.net/gallery/96104551/Self-Isolating-Cabin)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
@@ -146,9 +146,9 @@ title: "今日资讯"
 
    Pinterest Predicts: The trends to watch for 2022 [read](https://newsroom.pinterest.com/en/post/pinterest-predicts-the-trends-to-watch-for-2022)
 
-   第四波！2022年1月精选实用设计干货合集 [read](https://www.uisdc.com/2022-1-design-resources-vol4)
+   文本框输入超出限制怎么办？我总结了这3个方面！ [read](https://www.uisdc.com/text-box-input-restriction)
 
-   用超多案例，帮你掌握2个实用的图形裁切术！ [read](https://www.uisdc.com/graphic-cutting)
+   虎年“hú”利！资深插画师手把手教你100%成功上架微信表情包 [read](https://www.uisdc.com/wechat-emoji-design)
 
-   如何用以终为始的方式做竞品分析？我总结了这4个方面！ [read](https://www.uisdc.com/competitive-product-analysis-5)
+   组件科普！徽标设计的 4 种类型和 5 个要素 [read](https://www.uisdc.com/app-red-dot-design)
 
