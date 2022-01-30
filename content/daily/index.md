@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BrainCoral_EN-US1756508308_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WinterHalo_EN-US1847885731_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]揭秘抖音春节爆款 AR 道具背后的“秘密” [read](https://blog.csdn.net/ByteDanceTech/article/details/122757661)
+
+   \[原\]超全回顾 \| 5位抖音工程师揭秘抖音iOS基础技术（附PPT和回放视频） [read](https://blog.csdn.net/ByteDanceTech/article/details/122749665)
+
    \[原\]抖音 Android 性能优化系列：启动优化之理论和工具篇 [read](https://blog.csdn.net/ByteDanceTech/article/details/122725834)
-
-   \[原\]sonic ：基于 JIT 技术的开源全场景高性能 JSON 库 [read](https://blog.csdn.net/ByteDanceTech/article/details/122694591)
-
-   \[原\]字节工程师自研基于 IntelliJ 的终极文档套件 [read](https://blog.csdn.net/ByteDanceTech/article/details/122572110)
 
    美团技术年货：1200+页电子书，覆盖前后端、算法、数据、安全、测试、顶会论文 [read](https://tech.meituan.com/2022/01/20/2022-happy-new-year.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   相信光，你也可以成为“儿童界的泡泡玛特” [read](http://www.huxiu.com/article/494882.html?f=wangzhan)
+   这届年轻人，竟成年夜饭掌勺人？ [read](http://www.huxiu.com/article/494940.html?f=wangzhan)
 
-   Kindle最大的敌人是苹果？ [read](http://www.huxiu.com/article/494818.html?f=wangzhan)
+   Z世代消费观察：兴趣的“钞能力” [read](http://www.huxiu.com/article/494969.html?f=wangzhan)
 
-   麦刚于泡泡玛特，就如同吴宗宪之于周杰伦 [read](http://www.huxiu.com/article/494739.html?f=wangzhan)
+   万字拆解！资本为什么需要元宇宙？ [read](http://www.huxiu.com/article/494938.html?f=wangzhan)
 
-   首届中国工业互联网标识创新应用大赛今日开启预报名 [read](https://36kr.com/p/1591959077685762)
+   虚拟偶像风云变幻，只有洛天依火了十年 [read](https://36kr.com/p/1590760863910663)
 
-   氪星晚报｜美国参议院计划针对Google广告技术业务出台新法案；我国首个百万吨级碳捕集利用与封存项目建成；2022年度票房破30亿 [read](https://36kr.com/p/1592123936180736)
+   氪星晚报丨快手宣布和央视虎年春晚达成合作；美团高级副总裁陈亮将离开业务一线，转向组织建设和战略研究；软银COO请辞索薪20亿美元 [read](https://36kr.com/p/1593446593284617)
 
-   春晚红包进入新阶段，京东首秀带来了什么？ [read](https://36kr.com/p/1591803137362697)
+   36氪首发 \| 泡芙传媒获坚果资本数百万美金天使轮融资，布局品牌全链路出海服务 [read](https://36kr.com/p/1589029640309505)
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
+   音乐厂牌的联手：魅族白金独角兽赛博音箱体验 [read](http://www.geekpark.net/news/297914)
+
+   互联网寒冬之后，数以千计的「小巨人」正在崛起 [read](http://www.geekpark.net/news/297908)
+
    日赚24亿，苹果还是苹果 [read](http://www.geekpark.net/news/297890)
-
-   特斯拉，越来越像苹果 [read](http://www.geekpark.net/news/297888)
-
-   入职两年，小米副总裁常程离职；特斯拉中国推出车内 KTV 功能；监管：人脸替换内容须有显著标识 [read](http://www.geekpark.net/news/297885)
 
 ### 金融类
 
-   客观地谈B站的竞争力和问题 [read](http://xueqiu.com/6302670150/210388369)
+   澄星股份预增公告全方位解读 [read](http://xueqiu.com/8598981029/210457649)
 
-   对美的财务高管序列中财务总监和CFO变动的理解 [read](http://xueqiu.com/1844304017/210436255)
+   2022年春节家乡见闻——寻找投资机会 [read](http://xueqiu.com/8959134488/210469098)
 
-   以创新力锻塑企业增长之路 [read](http://xueqiu.com/9927088462/210382021)
+   对沃森生物2022年估值的个人判断 [read](http://xueqiu.com/6291418520/210467848)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Adidas Collective Power [read](https://www.behance.net/gallery/136063189/Adidas-Collective-Power)
+   Rosamund - Brand identity [read](https://www.behance.net/gallery/136132051/Rosamund-Brand-identity)
 
-   STILL YOUNG INTERIOR DESIGN COMPANY VISUAL IDENTITY [read](https://www.behance.net/gallery/136071427/STILL-YOUNG-INTERIOR-DESIGN-COMPANY-VISUAL-IDENTITY)
+   Gibberish #26 [read](https://www.behance.net/gallery/136210037/Gibberish-26)
 
-   Self Isolating Cabin [read](https://www.behance.net/gallery/96104551/Self-Isolating-Cabin)
+   WAYOUT FUTURE - Visual ID &amp; Website [read](https://www.behance.net/gallery/113472691/WAYOUT-FUTURE-Visual-ID-Website)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
@@ -146,9 +146,9 @@ title: "今日资讯"
 
    Pinterest Predicts: The trends to watch for 2022 [read](https://newsroom.pinterest.com/en/post/pinterest-predicts-the-trends-to-watch-for-2022)
 
-   文本框输入超出限制怎么办？我总结了这3个方面！ [read](https://www.uisdc.com/text-box-input-restriction)
+   如何快速下载各大网站的图片和视频？试试免费神器Hitomi Downloader [read](https://www.uisdc.com/hitomi-downloader)
 
-   虎年“hú”利！资深插画师手把手教你100%成功上架微信表情包 [read](https://www.uisdc.com/wechat-emoji-design)
+   4000字干货！从零开始帮你提高配色水平！ [read](https://www.uisdc.com/3-color-matching-steps)
 
-   组件科普！徽标设计的 4 种类型和 5 个要素 [read](https://www.uisdc.com/app-red-dot-design)
+   竞品分析别乱套模板！我总结了这4个关键点 [read](https://www.uisdc.com/product-marketing-research)
 
