@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WinterHalo_EN-US1847885731_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.IncenseFieldVietnam_EN-US1945575858_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -21,12 +21,6 @@ title: "今日资讯"
    通过 GitHub 订阅 Hacker News 每日 top 10 [read](https://blog.t9t.io/headllines-2020-09-03/)
 
    让用户决定软件长什么样 [read](https://blog.t9t.io/let-user-design-2020-06-18/)
-
-   自定义C/C++日志输出函数 [read](https://www.kymjs.com/code/2020/08/07/01)
-
-   再聊 Git Flow [read](https://www.kymjs.com/manager/2020/05/29/01)
-
-   Flutter 设置控件是否可见 [read](https://www.kymjs.com/note/2020/03/19/01)
 
 ### IT团队博客
 
@@ -68,17 +62,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   跟踪马斯克的 19 岁少年，想要一辆特斯拉 [read](http://www.huxiu.com/article/495216.html?f=wangzhan)
+
    这届年轻人，竟成年夜饭掌勺人？ [read](http://www.huxiu.com/article/494940.html?f=wangzhan)
 
    Z世代消费观察：兴趣的“钞能力” [read](http://www.huxiu.com/article/494969.html?f=wangzhan)
 
-   万字拆解！资本为什么需要元宇宙？ [read](http://www.huxiu.com/article/494938.html?f=wangzhan)
+   你的快乐春节背后，还有无数值守的工程师们 [read](https://36kr.com/p/1594900540688897)
+
+   艺术品零售会成为T11的核心经营模块吗？这场在生鲜超市里关于美的讨论或许可以解答 [read](https://36kr.com/p/1594639897103113)
 
    虚拟偶像风云变幻，只有洛天依火了十年 [read](https://36kr.com/p/1590760863910663)
-
-   氪星晚报丨快手宣布和央视虎年春晚达成合作；美团高级副总裁陈亮将离开业务一线，转向组织建设和战略研究；软银COO请辞索薪20亿美元 [read](https://36kr.com/p/1593446593284617)
-
-   36氪首发 \| 泡芙传媒获坚果资本数百万美金天使轮融资，布局品牌全链路出海服务 [read](https://36kr.com/p/1589029640309505)
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
@@ -86,19 +80,19 @@ title: "今日资讯"
 
    微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
+   虚拟人类用才艺跟你拜年了 [read](http://www.geekpark.net/news/297938)
+
+   2022 年春节档新片预售总票房达到 6.29 亿；快手宣布与央视虎年春晚达成直播合作；戴姆勒将正式更名为梅赛德斯-奔驰集团 [read](http://www.geekpark.net/news/297927)
+
    音乐厂牌的联手：魅族白金独角兽赛博音箱体验 [read](http://www.geekpark.net/news/297914)
-
-   互联网寒冬之后，数以千计的「小巨人」正在崛起 [read](http://www.geekpark.net/news/297908)
-
-   日赚24亿，苹果还是苹果 [read](http://www.geekpark.net/news/297890)
 
 ### 金融类
 
-   澄星股份预增公告全方位解读 [read](http://xueqiu.com/8598981029/210457649)
+   铜箔行业梳理以及思考分享-新能源的增量（上） [read](http://xueqiu.com/1577913976/210491817)
 
-   2022年春节家乡见闻——寻找投资机会 [read](http://xueqiu.com/8959134488/210469098)
+   东方财富同花顺恒生电子2022年会怎样？ [read](http://xueqiu.com/1175294405/210477940)
 
-   对沃森生物2022年估值的个人判断 [read](http://xueqiu.com/6291418520/210467848)
+   投资如逆旅，你我皆行人——暨2021年年终总结 [read](http://xueqiu.com/1950008728/210491074)
 
 ### 学习类
 
@@ -128,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Rosamund - Brand identity [read](https://www.behance.net/gallery/136132051/Rosamund-Brand-identity)
+   Le Grain [read](https://www.behance.net/gallery/136257157/Le-Grain)
 
-   Gibberish #26 [read](https://www.behance.net/gallery/136210037/Gibberish-26)
+   Compilation [read](https://www.behance.net/gallery/135554179/Compilation)
 
-   WAYOUT FUTURE - Visual ID &amp; Website [read](https://www.behance.net/gallery/113472691/WAYOUT-FUTURE-Visual-ID-Website)
+   Norte [read](https://www.behance.net/gallery/136127285/Norte)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
@@ -140,15 +134,15 @@ title: "今日资讯"
 
    Top 3 Visual Trends of 2021 [read](https://medium.com/behance-blog/top-3-visual-trends-of-2021-b033fcee1c2e?source=rss-f5272b7f3182------2)
 
+   Pinterest introduces AR Try On for Home Decor for the ultimate online home shopping experience [read](https://newsroom.pinterest.com/en/post/pinterest-introduces-ar-try-on-for-home-decor-for-the-ultimate-online-home-shopping-experience)
+
    Nichole Barnes Marshall joins Pinterest as Global Head of Inclusion and Diversity [read](https://newsroom.pinterest.com/en/post/nichole-barnes-marshall-joins-pinterest-as-global-head-of-inclusion-and-diversity)
 
    Pinterest introduces new and extended parental benefits for employees and supports national paid family leave [read](https://newsroom.pinterest.com/en/post/pinterest-introduces-new-and-extended-parental-benefits-for-employees)
 
-   Pinterest Predicts: The trends to watch for 2022 [read](https://newsroom.pinterest.com/en/post/pinterest-predicts-the-trends-to-watch-for-2022)
+   眼见不一定为实：聊聊视错觉的原理和设计应用 [read](https://www.uisdc.com/visual-illusion)
 
    如何快速下载各大网站的图片和视频？试试免费神器Hitomi Downloader [read](https://www.uisdc.com/hitomi-downloader)
 
    4000字干货！从零开始帮你提高配色水平！ [read](https://www.uisdc.com/3-color-matching-steps)
-
-   竞品分析别乱套模板！我总结了这4个关键点 [read](https://www.uisdc.com/product-marketing-research)
 
