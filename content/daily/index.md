@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.IncenseFieldVietnam_EN-US1945575858_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.HarlemHellfighters_EN-US2009292254_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -62,17 +62,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   《长津湖之水门桥》能打破《长津湖》的票房纪录吗？ [read](http://www.huxiu.com/article/495295.html?f=wangzhan)
+
+   造车新势力“搅局”汽车保险业？ [read](http://www.huxiu.com/article/495191.html?f=wangzhan)
+
    跟踪马斯克的 19 岁少年，想要一辆特斯拉 [read](http://www.huxiu.com/article/495216.html?f=wangzhan)
 
-   这届年轻人，竟成年夜饭掌勺人？ [read](http://www.huxiu.com/article/494940.html?f=wangzhan)
+   聪明的钱 \| 贝莱德回归「主场作战」，港股种子基金播种正当时？ [read](https://36kr.com/p/1595994900548354)
 
-   Z世代消费观察：兴趣的“钞能力” [read](http://www.huxiu.com/article/494969.html?f=wangzhan)
+   暴涨半月，猪价探底，生猪板块谁将最先触底反弹？丨研报淘金 [read](https://36kr.com/p/1592059168918278)
 
    你的快乐春节背后，还有无数值守的工程师们 [read](https://36kr.com/p/1594900540688897)
-
-   艺术品零售会成为T11的核心经营模块吗？这场在生鲜超市里关于美的讨论或许可以解答 [read](https://36kr.com/p/1594639897103113)
-
-   虚拟偶像风云变幻，只有洛天依火了十年 [read](https://36kr.com/p/1590760863910663)
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
@@ -80,19 +80,19 @@ title: "今日资讯"
 
    微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
+   罗永浩：VR 和元宇宙都不做；特斯拉利润近乎保时捷 2 倍；暴雪曝光第一人称生存游戏 [read](http://www.geekpark.net/news/297940)
+
    虚拟人类用才艺跟你拜年了 [read](http://www.geekpark.net/news/297938)
 
    2022 年春节档新片预售总票房达到 6.29 亿；快手宣布与央视虎年春晚达成直播合作；戴姆勒将正式更名为梅赛德斯-奔驰集团 [read](http://www.geekpark.net/news/297927)
 
-   音乐厂牌的联手：魅族白金独角兽赛博音箱体验 [read](http://www.geekpark.net/news/297914)
-
 ### 金融类
 
-   铜箔行业梳理以及思考分享-新能源的增量（上） [read](http://xueqiu.com/1577913976/210491817)
+   宁波银行有潜力吗？ [read](http://xueqiu.com/1632743930/210561767)
 
-   东方财富同花顺恒生电子2022年会怎样？ [read](http://xueqiu.com/1175294405/210477940)
+   我的2022年顶级牛基精选名单 [read](http://xueqiu.com/4076736586/210497585)
 
-   投资如逆旅，你我皆行人——暨2021年年终总结 [read](http://xueqiu.com/1950008728/210491074)
+   这是一只小而美的基金 [read](http://xueqiu.com/4433266172/210475982)
 
 ### 学习类
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Le Grain [read](https://www.behance.net/gallery/136257157/Le-Grain)
+   Confido [read](https://www.behance.net/gallery/136268537/Confido)
 
-   Compilation [read](https://www.behance.net/gallery/135554179/Compilation)
+   ETHEEVERSE [read](https://www.behance.net/gallery/136291889/ETHEEVERSE)
 
-   Norte [read](https://www.behance.net/gallery/136127285/Norte)
+   Fleurs sauvages [read](https://www.behance.net/gallery/129266655/Fleurs-sauvages)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
@@ -134,15 +134,15 @@ title: "今日资讯"
 
    Top 3 Visual Trends of 2021 [read](https://medium.com/behance-blog/top-3-visual-trends-of-2021-b033fcee1c2e?source=rss-f5272b7f3182------2)
 
+   Pinterest Celebrates Black History Month with Soul Food: Nourish Your Soul [read](https://newsroom.pinterest.com/en/post/pinterest-celebrates-black-history-month-with-soul-food-nourish-your-soul)
+
    Pinterest introduces AR Try On for Home Decor for the ultimate online home shopping experience [read](https://newsroom.pinterest.com/en/post/pinterest-introduces-ar-try-on-for-home-decor-for-the-ultimate-online-home-shopping-experience)
 
    Nichole Barnes Marshall joins Pinterest as Global Head of Inclusion and Diversity [read](https://newsroom.pinterest.com/en/post/nichole-barnes-marshall-joins-pinterest-as-global-head-of-inclusion-and-diversity)
 
-   Pinterest introduces new and extended parental benefits for employees and supports national paid family leave [read](https://newsroom.pinterest.com/en/post/pinterest-introduces-new-and-extended-parental-benefits-for-employees)
+   谷歌是如何做好折叠屏适配的？我总结了这4点！ [read](https://www.uisdc.com/flexible-screen)
 
    眼见不一定为实：聊聊视错觉的原理和设计应用 [read](https://www.uisdc.com/visual-illusion)
 
    如何快速下载各大网站的图片和视频？试试免费神器Hitomi Downloader [read](https://www.uisdc.com/hitomi-downloader)
-
-   4000字干货！从零开始帮你提高配色水平！ [read](https://www.uisdc.com/3-color-matching-steps)
 
