@@ -142,9 +142,6 @@ self.collectionView = [[UICollectionView alloc] initWithFrame:CGRectZero collect
 一个付费 chrome 插件的一生 read
 通过 GitHub 订阅 Hacker News 每日 top 10 read
 让用户决定软件长什么样 read
-自定义C/C++日志输出函数 read
-再聊 Git Flow read
-Flutter 设置控件是否可见 read
 IT团队博客 走向匿名化，谈谈微信小程序新授权登录 read
 yield 学习 read
 callable-object read
@@ -154,4 +151,6 @@ callable-object read
 VS Code 是如何优化启动性能的？ read
 服饰3D柔性渲染调研及实践 read
 业务系统的稳定性建设 read
-[原]揭秘抖音春节爆款 AR 道具背后的“秘密” read</description></item></channel></rss>
+[原]揭秘抖音春节爆款 AR 道具背后的“秘密” read
+[原]超全回顾 | 5位抖音工程师揭秘抖音iOS基础技术（附PPT和回放视频） read
+[原]抖音 Android 性能优化系列：启动优化之理论和工具篇 read</description></item></channel></rss>
