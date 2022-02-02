@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.HarlemHellfighters_EN-US2009292254_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GHDMarmot_EN-US2087184765_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -42,11 +42,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]不完整收录：过去一年字节开源的10个项目丨字节技术年货 [read](https://blog.csdn.net/ByteDanceTech/article/details/122773637)
+
    \[原\]揭秘抖音春节爆款 AR 道具背后的“秘密” [read](https://blog.csdn.net/ByteDanceTech/article/details/122757661)
 
    \[原\]超全回顾 \| 5位抖音工程师揭秘抖音iOS基础技术（附PPT和回放视频） [read](https://blog.csdn.net/ByteDanceTech/article/details/122749665)
-
-   \[原\]抖音 Android 性能优化系列：启动优化之理论和工具篇 [read](https://blog.csdn.net/ByteDanceTech/article/details/122725834)
 
    美团技术年货：1200+页电子书，覆盖前后端、算法、数据、安全、测试、顶会论文 [read](https://tech.meituan.com/2022/01/20/2022-happy-new-year.html)
 
@@ -62,11 +62,11 @@ title: "今日资讯"
 
 ### 互联网类
 
-   《长津湖之水门桥》能打破《长津湖》的票房纪录吗？ [read](http://www.huxiu.com/article/495295.html?f=wangzhan)
+   虎年，新造车还虎得起来吗？ [read](http://www.huxiu.com/article/495323.html?f=wangzhan)
 
-   造车新势力“搅局”汽车保险业？ [read](http://www.huxiu.com/article/495191.html?f=wangzhan)
+   为什么大银幕上的好演员越来越少了？ [read](http://www.huxiu.com/article/495371.html?f=wangzhan)
 
-   跟踪马斯克的 19 岁少年，想要一辆特斯拉 [read](http://www.huxiu.com/article/495216.html?f=wangzhan)
+   不屑资本的韩寒，何时变成了一个商人？ [read](http://www.huxiu.com/article/495337.html?f=wangzhan)
 
    聪明的钱 \| 贝莱德回归「主场作战」，港股种子基金播种正当时？ [read](https://36kr.com/p/1595994900548354)
 
@@ -80,19 +80,19 @@ title: "今日资讯"
 
    微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
+   不愧是特斯拉，靠卖周边也能卖到脱销 [read](http://www.geekpark.net/news/297955)
+
+   特斯拉召回测试版自动驾驶 FSD 功能；库克贺春节：虎年带来勇气和力量；索尼 36 亿美元收购游戏公司回敬微软 [read](http://www.geekpark.net/news/297951)
+
    罗永浩：VR 和元宇宙都不做；特斯拉利润近乎保时捷 2 倍；暴雪曝光第一人称生存游戏 [read](http://www.geekpark.net/news/297940)
-
-   虚拟人类用才艺跟你拜年了 [read](http://www.geekpark.net/news/297938)
-
-   2022 年春节档新片预售总票房达到 6.29 亿；快手宣布与央视虎年春晚达成直播合作；戴姆勒将正式更名为梅赛德斯-奔驰集团 [read](http://www.geekpark.net/news/297927)
 
 ### 金融类
 
-   宁波银行有潜力吗？ [read](http://xueqiu.com/1632743930/210561767)
+   搞懂这三个概念，挑基金更专业 [read](http://xueqiu.com/8142384897/210597075)
 
-   我的2022年顶级牛基精选名单 [read](http://xueqiu.com/4076736586/210497585)
+   春晚直播观察 短视频竞争或进入持久战 [read](http://xueqiu.com/7447448349/210589173)
 
-   这是一只小而美的基金 [read](http://xueqiu.com/4433266172/210475982)
+   最新版、最简版股票退市规则 20220201 [read](http://xueqiu.com/5525339011/210586145)
 
 ### 学习类
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Confido [read](https://www.behance.net/gallery/136268537/Confido)
+   Carrot [read](https://www.behance.net/gallery/136474737/Carrot)
 
-   ETHEEVERSE [read](https://www.behance.net/gallery/136291889/ETHEEVERSE)
+   Queen Symphony [read](https://www.behance.net/gallery/136148377/Queen-Symphony)
 
-   Fleurs sauvages [read](https://www.behance.net/gallery/129266655/Fleurs-sauvages)
+   Redesigning a startup creating the automotive AI future [read](https://www.behance.net/gallery/134839847/Redesigning-a-startup-creating-the-automotive-AI-future)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
@@ -140,9 +140,9 @@ title: "今日资讯"
 
    Nichole Barnes Marshall joins Pinterest as Global Head of Inclusion and Diversity [read](https://newsroom.pinterest.com/en/post/nichole-barnes-marshall-joins-pinterest-as-global-head-of-inclusion-and-diversity)
 
+   一图胜千言！如何给作品配图？ [read](https://www.uisdc.com/graphics-introduction)
+
    谷歌是如何做好折叠屏适配的？我总结了这4点！ [read](https://www.uisdc.com/flexible-screen)
 
    眼见不一定为实：聊聊视错觉的原理和设计应用 [read](https://www.uisdc.com/visual-illusion)
-
-   如何快速下载各大网站的图片和视频？试试免费神器Hitomi Downloader [read](https://www.uisdc.com/hitomi-downloader)
 
