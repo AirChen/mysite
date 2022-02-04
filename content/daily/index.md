@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FortCorjuem_EN-US2158456164_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BigAir_EN-US2270839035_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   命令行常用工具的替代品 [read](http://www.ruanyifeng.com/blog/2022/01/cli-alternative-tools.html)
+   万兆家庭网络的时代 [read](http://www.ruanyifeng.com/blog/2022/02/10g-ethernet.html)
 
-   科技爱好者周刊（第 193 期）：前端与后端，谁更难？ [read](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html)
+   命令行常用工具的替代品 [read](http://www.ruanyifeng.com/blog/2022/01/cli-alternative-tools.html)
 
    支持惰性展开和差异更新的 Lua 表 [read](https://blog.codingnow.com/2022/01/lua_datatree.html)
 
@@ -42,11 +42,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]不完整收录：2021年字节自研的8项“黑科技” \| 字节技术年货 [read](https://blog.csdn.net/ByteDanceTech/article/details/122780702)
+
    \[原\]不完整收录：过去一年字节开源的10个项目丨字节技术年货 [read](https://blog.csdn.net/ByteDanceTech/article/details/122773637)
 
    \[原\]揭秘抖音春节爆款 AR 道具背后的“秘密” [read](https://blog.csdn.net/ByteDanceTech/article/details/122757661)
-
-   \[原\]超全回顾 \| 5位抖音工程师揭秘抖音iOS基础技术（附PPT和回放视频） [read](https://blog.csdn.net/ByteDanceTech/article/details/122749665)
 
    美团技术年货：1200+页电子书，覆盖前后端、算法、数据、安全、测试、顶会论文 [read](https://tech.meituan.com/2022/01/20/2022-happy-new-year.html)
 
@@ -62,17 +62,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   新春相声大会背后的黑科技：会讲相声的熊猫机器人 [read](http://www.huxiu.com/article/495493.html?f=wangzhan)
+
+   回忆杀！冬奥会要来了，回顾北京奥运开幕式（下） [read](http://www.huxiu.com/article/495570.html?f=wangzhan)
+
    《杀手》逆袭，观众就想看个喜剧片怎么了？ [read](http://www.huxiu.com/article/495528.html?f=wangzhan)
 
-   补贴退坡，互侵领地，新能源汽车还能继续狂奔吗？ [read](http://www.huxiu.com/article/495514.html?f=wangzhan)
-
-   回忆杀！冬奥会要来了，回顾北京奥运开幕式 [read](http://www.huxiu.com/article/495370.html?f=wangzhan)
+   上演计算资源“乾坤大挪移”  京东云凭什么打赢春晚红包保卫战？ [read](https://36kr.com/p/1599580264598025)
 
    聪明的钱 \| 贝莱德回归「主场作战」，港股种子基金播种正当时？ [read](https://36kr.com/p/1595994900548354)
 
    暴涨半月，猪价探底，生猪板块谁将最先触底反弹？丨研报淘金 [read](https://36kr.com/p/1592059168918278)
-
-   你的快乐春节背后，还有无数值守的工程师们 [read](https://36kr.com/p/1594900540688897)
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
@@ -80,19 +80,19 @@ title: "今日资讯"
 
    微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
+   那些吃灰产品的「正确」用法 [read](http://www.geekpark.net/news/297961)
+
+   Facebook 股价蒸发 2000 亿美元；微软索尼疯狂收购，任天堂不凑热闹；冬奥会开幕场地秀 16K LED 屏 [read](http://www.geekpark.net/news/297982)
+
    北京冬奥会观看平台合集，还有不开会员这种好事？ [read](http://www.geekpark.net/news/297979)
-
-   微信：超 1 亿人在视频号看春晚 6.6 亿人抢红包；刘强东捐赠 23.4 亿美元股票用于教育环保；乔布斯 1979 年名片将被拍卖 \| 极客早知道 [read](http://www.geekpark.net/news/297972)
-
-   不愧是特斯拉，靠卖周边也能卖到脱销 [read](http://www.geekpark.net/news/297955)
 
 ### 金融类
 
-   互联网会过时吗? [read](http://xueqiu.com/2387179302/210623472)
+   比亚迪1月销量解读 [read](http://xueqiu.com/6608397942/210642368)
 
-   认个错 [read](http://xueqiu.com/6623660105/210620829)
+   重构医药行业发展逻辑？ [read](http://xueqiu.com/4196658439/210635621)
 
-   关于锡业股份的一些思考 [read](http://xueqiu.com/5039848892/210601039)
+   逆回购与场内货基，金钱永不眠 [read](http://xueqiu.com/1314783718/210665704)
 
 ### 学习类
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   socoa [read](https://www.behance.net/gallery/136387123/socoa)
+   Joo. Carefree living [read](https://www.behance.net/gallery/136566141/Joo-Carefree-living)
 
-   Learn Something New [read](https://www.behance.net/gallery/136492353/Learn-Something-New)
+   Hublot \| Big Bang Integral Time Only [read](https://www.behance.net/gallery/136334927/Hublot-Big-Bang-Integral-Time-Only)
 
-   Barcelona Catalonia [read](https://www.behance.net/gallery/136480467/Barcelona-Catalonia)
+   Grace Studio [read](https://www.behance.net/gallery/135980533/Grace-Studio)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
