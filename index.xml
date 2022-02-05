@@ -134,8 +134,8 @@ UICollectionViewDelegate UICollectionViewDataSource 用已经子类化的UIColle
 self.collectionView = [[UICollectionView alloc] initWithFrame:CGRectZero collectionViewLayout:self.smallLayout]; 在数据源方法中实现item的数量与每个item的创建
 - (NSInteger)collectionView:(UICollectionView *)collectionView numberOfItemsInSection:(NSInteger)section; - (__kindof UICollectionViewCell *)collectionView:(UICollectionView *)collectionView cellForItemAtIndexPath:(NSIndexPath *)indexPath; 其中UICollectionViewCell可以子类化，添加一些label或者ImageView。
 可以简单的子类化一个UICollectionViewFlowLayout，只需复写以下init方法：
--(id)init { if (!(self = [super init])) return nil; self.itemSize = CGSizeMake(30, 30); self.sectionInset = UIEdgeInsetsMake(10, 10, 10, 10); self.minimumInteritemSpacing = 10.0f; self.minimumLineSpacing = 10.0f; return self; } 此外UICollectionViewFlowLayout还包括一些其他的方法，可以根据需求来选择：</description></item><item><title>About Me</title><link>https://blog.airchen-space.top/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.airchen-space.top/about/</guid><description>个人信息 任志琛 男 30岁 工作经验 5年 工作经历 北京百度网讯科技有限公司 C++ 地图服务 2021年8月 至今 北京四维图新科技股份有限公司 C++ 地图引擎开发 2018年4月 2021年8月 北京四维智联科技有限公司 iOS SDK开发 2017年7月 2018年4月 教育经历 研究生 广西师范大学 电子科学与技术 本科 北京邮电大学世纪学院 通信工程 联系我 邮箱 renzhichen2012@163.com qq 252199456</description></item><item><title>今日资讯</title><link>https://blog.airchen-space.top/daily/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.airchen-space.top/daily/</guid><description>个人博客 命令行常用工具的替代品 read
-科技爱好者周刊（第 193 期）：前端与后端，谁更难？ read
+-(id)init { if (!(self = [super init])) return nil; self.itemSize = CGSizeMake(30, 30); self.sectionInset = UIEdgeInsetsMake(10, 10, 10, 10); self.minimumInteritemSpacing = 10.0f; self.minimumLineSpacing = 10.0f; return self; } 此外UICollectionViewFlowLayout还包括一些其他的方法，可以根据需求来选择：</description></item><item><title>About Me</title><link>https://blog.airchen-space.top/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.airchen-space.top/about/</guid><description>个人信息 任志琛 男 30岁 工作经验 5年 工作经历 北京百度网讯科技有限公司 C++ 地图服务 2021年8月 至今 北京四维图新科技股份有限公司 C++ 地图引擎开发 2018年4月 2021年8月 北京四维智联科技有限公司 iOS SDK开发 2017年7月 2018年4月 教育经历 研究生 广西师范大学 电子科学与技术 本科 北京邮电大学世纪学院 通信工程 联系我 邮箱 renzhichen2012@163.com qq 252199456</description></item><item><title>今日资讯</title><link>https://blog.airchen-space.top/daily/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.airchen-space.top/daily/</guid><description>个人博客 万兆家庭网络的时代 read
+命令行常用工具的替代品 read
 支持惰性展开和差异更新的 Lua 表 read
 我们需要一个怎样的动画模块 read
 流体系统 read
@@ -151,7 +151,8 @@ callable-object read
 VS Code 是如何优化启动性能的？ read
 服饰3D柔性渲染调研及实践 read
 业务系统的稳定性建设 read
+[原]不完整收录：2021年字节自研的8项“黑科技” | 字节技术年货 read
 [原]不完整收录：过去一年字节开源的10个项目丨字节技术年货 read
 [原]揭秘抖音春节爆款 AR 道具背后的“秘密” read
-[原]超全回顾 | 5位抖音工程师揭秘抖音iOS基础技术（附PPT和回放视频） read
-美团技术年货：1200+页电子书，覆盖前后端、算法、数据、安全、测试、顶会论文 read</description></item></channel></rss>
+美团技术年货：1200+页电子书，覆盖前后端、算法、数据、安全、测试、顶会论文 read
+DSTC10开放领域对话评估比赛冠军方法总结 read</description></item></channel></rss>
