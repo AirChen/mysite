@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BigAir_EN-US2270839035_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MexicoMonarchs_EN-US2528130763_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -62,17 +62,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   新春相声大会背后的黑科技：会讲相声的熊猫机器人 [read](http://www.huxiu.com/article/495493.html?f=wangzhan)
+   春节档不是菜市场 [read](http://www.huxiu.com/article/495738.html?f=wangzhan)
 
-   回忆杀！冬奥会要来了，回顾北京奥运开幕式（下） [read](http://www.huxiu.com/article/495570.html?f=wangzhan)
+   被迪士尼拖累的日本票房，由动漫拯救 [read](http://www.huxiu.com/article/495657.html?f=wangzhan)
 
-   《杀手》逆袭，观众就想看个喜剧片怎么了？ [read](http://www.huxiu.com/article/495528.html?f=wangzhan)
+   复盘中国首个上市公司收购案 [read](http://www.huxiu.com/article/495628.html?f=wangzhan)
+
+   机票定价的秘密：如何精准“抄底”？ [read](https://36kr.com/p/1601613536659975)
+
+   玻璃发电、创可贴测温、二氧化碳制冰……2022北京冬奥就这么靠谱 [read](https://36kr.com/p/1598754747189762)
 
    上演计算资源“乾坤大挪移”  京东云凭什么打赢春晚红包保卫战？ [read](https://36kr.com/p/1599580264598025)
-
-   聪明的钱 \| 贝莱德回归「主场作战」，港股种子基金播种正当时？ [read](https://36kr.com/p/1595994900548354)
-
-   暴涨半月，猪价探底，生猪板块谁将最先触底反弹？丨研报淘金 [read](https://36kr.com/p/1592059168918278)
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
@@ -80,19 +80,19 @@ title: "今日资讯"
 
    微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
+   卖盲盒的麦当劳们，收割了一代又一代年轻人 [read](http://www.geekpark.net/news/297960)
+
+   亚马逊单日市值增加 1.2 万亿，超苹果纪录；冬奥会「无人车火炬手」亮相；Meta 为 VR 加「化身边界」防骚扰 [read](http://www.geekpark.net/news/297996)
+
    那些吃灰产品的「正确」用法 [read](http://www.geekpark.net/news/297961)
-
-   Facebook 股价蒸发 2000 亿美元；微软索尼疯狂收购，任天堂不凑热闹；冬奥会开幕场地秀 16K LED 屏 [read](http://www.geekpark.net/news/297982)
-
-   北京冬奥会观看平台合集，还有不开会员这种好事？ [read](http://www.geekpark.net/news/297979)
 
 ### 金融类
 
-   比亚迪1月销量解读 [read](http://xueqiu.com/6608397942/210642368)
+   一组数据告诉你：年化5%与年化15%的区别？ [read](http://xueqiu.com/4579887327/210651977)
 
-   重构医药行业发展逻辑？ [read](http://xueqiu.com/4196658439/210635621)
+   如何看待2022年虎年的投资机会？ [read](http://xueqiu.com/2986591253/210691665)
 
-   逆回购与场内货基，金钱永不眠 [read](http://xueqiu.com/1314783718/210665704)
+   深度分享：长期投资成功的密码 [read](http://xueqiu.com/7173595940/210698407)
 
 ### 学习类
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Joo. Carefree living [read](https://www.behance.net/gallery/136566141/Joo-Carefree-living)
+   Kappa Omini System Fashion Show Identity Design SS21 [read](https://www.behance.net/gallery/136572013/Kappa-Omini-System-Fashion-Show-Identity-Design-SS21)
 
-   Hublot \| Big Bang Integral Time Only [read](https://www.behance.net/gallery/136334927/Hublot-Big-Bang-Integral-Time-Only)
+   Alice in Wonderland NFT Book [read](https://www.behance.net/gallery/136338323/Alice-in-Wonderland-NFT-Book)
 
-   Grace Studio [read](https://www.behance.net/gallery/135980533/Grace-Studio)
+   Dérive - Branding &amp; UX/UI [read](https://www.behance.net/gallery/136605255/Drive-Branding-UXUI)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
@@ -140,9 +140,9 @@ title: "今日资讯"
 
    Nichole Barnes Marshall joins Pinterest as Global Head of Inclusion and Diversity [read](https://newsroom.pinterest.com/en/post/nichole-barnes-marshall-joins-pinterest-as-global-head-of-inclusion-and-diversity)
 
+   掏空收藏夹！22个实用的前端工具全在这了！ [read](https://www.uisdc.com/22-front-end-tool)
+
    足不出户看展览！16个在线博物馆免费参观（附超多可商用素材） [read](https://www.uisdc.com/16-museum)
 
    一图胜千言！如何给作品配图？ [read](https://www.uisdc.com/graphics-introduction)
-
-   谷歌是如何做好折叠屏适配的？我总结了这4点！ [read](https://www.uisdc.com/flexible-screen)
 
