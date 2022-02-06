@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MexicoMonarchs_EN-US2528130763_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Oymyakon_EN-US2605911531_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -42,11 +42,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]字节技术年货之实践篇：微服务架构演进、全链路压测、埋点数据治理…… [read](https://blog.csdn.net/ByteDanceTech/article/details/122795074)
+
    \[原\]不完整收录：2021年字节自研的8项“黑科技” \| 字节技术年货 [read](https://blog.csdn.net/ByteDanceTech/article/details/122780702)
 
    \[原\]不完整收录：过去一年字节开源的10个项目丨字节技术年货 [read](https://blog.csdn.net/ByteDanceTech/article/details/122773637)
-
-   \[原\]揭秘抖音春节爆款 AR 道具背后的“秘密” [read](https://blog.csdn.net/ByteDanceTech/article/details/122757661)
 
    美团技术年货：1200+页电子书，覆盖前后端、算法、数据、安全、测试、顶会论文 [read](https://tech.meituan.com/2022/01/20/2022-happy-new-year.html)
 
@@ -62,17 +62,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   春节档不是菜市场 [read](http://www.huxiu.com/article/495738.html?f=wangzhan)
+   看个冬奥会开幕式，被种草了一堆羽绒服！ [read](http://www.huxiu.com/article/495797.html?f=wangzhan)
 
-   被迪士尼拖累的日本票房，由动漫拯救 [read](http://www.huxiu.com/article/495657.html?f=wangzhan)
+   越有钱越不快乐？你需要“科学花钱” [read](http://www.huxiu.com/article/495721.html?f=wangzhan)
 
-   复盘中国首个上市公司收购案 [read](http://www.huxiu.com/article/495628.html?f=wangzhan)
+   “高山滑雪”运动员，为啥这么多？ [read](http://www.huxiu.com/article/495700.html?f=wangzhan)
+
+   冬奥幕后故事：从低碳火炬到AI裁判，十四年后中国科技再上场 [read](https://36kr.com/p/1596958962305541)
+
+   营销解码 \| 冬奥会羽绒服火出圈，市值2700亿的lululemon不只卖瑜伽裤 [read](https://36kr.com/p/1602253345475331)
 
    机票定价的秘密：如何精准“抄底”？ [read](https://36kr.com/p/1601613536659975)
-
-   玻璃发电、创可贴测温、二氧化碳制冰……2022北京冬奥就这么靠谱 [read](https://36kr.com/p/1598754747189762)
-
-   上演计算资源“乾坤大挪移”  京东云凭什么打赢春晚红包保卫战？ [read](https://36kr.com/p/1599580264598025)
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
@@ -80,19 +80,19 @@ title: "今日资讯"
 
    微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
+   美众议院通过法案，拨 3000 亿促进半导体制造；苹果或将于 3 月 8 日举行发布会；贝佐斯游艇或被扔臭鸡蛋 [read](http://www.geekpark.net/news/298013)
+
    卖盲盒的麦当劳们，收割了一代又一代年轻人 [read](http://www.geekpark.net/news/297960)
 
    亚马逊单日市值增加 1.2 万亿，超苹果纪录；冬奥会「无人车火炬手」亮相；Meta 为 VR 加「化身边界」防骚扰 [read](http://www.geekpark.net/news/297996)
 
-   那些吃灰产品的「正确」用法 [read](http://www.geekpark.net/news/297961)
-
 ### 金融类
 
-   一组数据告诉你：年化5%与年化15%的区别？ [read](http://xueqiu.com/4579887327/210651977)
+   从4年多的股票基金可转债的胜率赔率看普通小散的策略 [read](http://xueqiu.com/6146592061/210715518)
 
-   如何看待2022年虎年的投资机会？ [read](http://xueqiu.com/2986591253/210691665)
+   一次性把保险行业收智商税的问题说清楚！ [read](http://xueqiu.com/7318086163/210728713)
 
-   深度分享：长期投资成功的密码 [read](http://xueqiu.com/7173595940/210698407)
+   锂电池的投资还能做吗 [read](http://xueqiu.com/2986591253/210718405)
 
 ### 学习类
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Kappa Omini System Fashion Show Identity Design SS21 [read](https://www.behance.net/gallery/136572013/Kappa-Omini-System-Fashion-Show-Identity-Design-SS21)
+   Scandinavian University Press Visual Identity [read](https://www.behance.net/gallery/135693941/Scandinavian-University-Press-Visual-Identity)
 
-   Alice in Wonderland NFT Book [read](https://www.behance.net/gallery/136338323/Alice-in-Wonderland-NFT-Book)
+   Recent personal work [read](https://www.behance.net/gallery/136205915/Recent-personal-work)
 
-   Dérive - Branding &amp; UX/UI [read](https://www.behance.net/gallery/136605255/Drive-Branding-UXUI)
+   TIME [read](https://www.behance.net/gallery/136567937/TIME)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
@@ -140,9 +140,9 @@ title: "今日资讯"
 
    Nichole Barnes Marshall joins Pinterest as Global Head of Inclusion and Diversity [read](https://newsroom.pinterest.com/en/post/nichole-barnes-marshall-joins-pinterest-as-global-head-of-inclusion-and-diversity)
 
+   平面设计小课堂！10个让主体更加出彩的实用技巧 [read](https://www.uisdc.com/10-subject-characterization-technique)
+
    掏空收藏夹！22个实用的前端工具全在这了！ [read](https://www.uisdc.com/22-front-end-tool)
 
    足不出户看展览！16个在线博物馆免费参观（附超多可商用素材） [read](https://www.uisdc.com/16-museum)
-
-   一图胜千言！如何给作品配图？ [read](https://www.uisdc.com/graphics-introduction)
 
