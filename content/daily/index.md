@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Oymyakon_EN-US2605911531_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.RideauSkating_EN-US2750684316_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -62,17 +62,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   看个冬奥会开幕式，被种草了一堆羽绒服！ [read](http://www.huxiu.com/article/495797.html?f=wangzhan)
+   品牌自强要做“店播” [read](http://www.huxiu.com/article/496103.html?f=wangzhan)
 
-   越有钱越不快乐？你需要“科学花钱” [read](http://www.huxiu.com/article/495721.html?f=wangzhan)
+   小米12为什么没有性价比了？ [read](http://www.huxiu.com/article/495831.html?f=wangzhan)
 
-   “高山滑雪”运动员，为啥这么多？ [read](http://www.huxiu.com/article/495700.html?f=wangzhan)
+   冰球场上，为啥看不见球？ [read](http://www.huxiu.com/article/495848.html?f=wangzhan)
 
-   冬奥幕后故事：从低碳火炬到AI裁判，十四年后中国科技再上场 [read](https://36kr.com/p/1596958962305541)
+   中国联通5G智慧急救车为冬奥护航；中国电科推出国内首个基于5G专用网络的中国冰雪运动员医疗信息管理平台 \| 36氪5G创新日报0207 [read](https://36kr.com/p/1604822382135815)
 
-   营销解码 \| 冬奥会羽绒服火出圈，市值2700亿的lululemon不只卖瑜伽裤 [read](https://36kr.com/p/1602253345475331)
+   usmile，「夺回」中国口腔护理消费主场 [read](https://36kr.com/p/1604395072801540)
 
-   机票定价的秘密：如何精准“抄底”？ [read](https://36kr.com/p/1601613536659975)
+   任子威短道速滑再夺金，“王牌之师”背后还有这些黑科技 [read](https://36kr.com/p/1604833690077704)
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
@@ -80,19 +80,19 @@ title: "今日资讯"
 
    微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
+   科技跑太快，再等等走得慢的人 [read](http://www.geekpark.net/news/298034)
+
+   华为百亿资金为员工分红；爱优腾 B 站上架《老友记》；女足亚洲杯夺冠，支付宝发「大红包」； [read](http://www.geekpark.net/news/298022)
+
    美众议院通过法案，拨 3000 亿促进半导体制造；苹果或将于 3 月 8 日举行发布会；贝佐斯游艇或被扔臭鸡蛋 [read](http://www.geekpark.net/news/298013)
-
-   卖盲盒的麦当劳们，收割了一代又一代年轻人 [read](http://www.geekpark.net/news/297960)
-
-   亚马逊单日市值增加 1.2 万亿，超苹果纪录；冬奥会「无人车火炬手」亮相；Meta 为 VR 加「化身边界」防骚扰 [read](http://www.geekpark.net/news/297996)
 
 ### 金融类
 
-   从4年多的股票基金可转债的胜率赔率看普通小散的策略 [read](http://xueqiu.com/6146592061/210715518)
+   如何识别财务造假 [read](http://xueqiu.com/4027531808/210805909)
 
-   一次性把保险行业收智商税的问题说清楚！ [read](http://xueqiu.com/7318086163/210728713)
+   安信稳健增值C：不败基金的传奇之路 [read](http://xueqiu.com/9548389254/210812318)
 
-   锂电池的投资还能做吗 [read](http://xueqiu.com/2986591253/210718405)
+   【有奖征集】12只固收+基金邀你来评测 [read](http://xueqiu.com/8152922548/210801816)
 
 ### 学习类
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Scandinavian University Press Visual Identity [read](https://www.behance.net/gallery/135693941/Scandinavian-University-Press-Visual-Identity)
+   Gibberish Minimalism [read](https://www.behance.net/gallery/136210777/Gibberish-Minimalism)
 
-   Recent personal work [read](https://www.behance.net/gallery/136205915/Recent-personal-work)
+   APELS - Brand identity [read](https://www.behance.net/gallery/136837901/APELS-Brand-identity)
 
-   TIME [read](https://www.behance.net/gallery/136567937/TIME)
+   FIVE NIGHTS AT FREDDY'S [read](https://www.behance.net/gallery/131382569/FIVE-NIGHTS-AT-FREDDYS)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
@@ -140,9 +140,9 @@ title: "今日资讯"
 
    Nichole Barnes Marshall joins Pinterest as Global Head of Inclusion and Diversity [read](https://newsroom.pinterest.com/en/post/nichole-barnes-marshall-joins-pinterest-as-global-head-of-inclusion-and-diversity)
 
-   平面设计小课堂！10个让主体更加出彩的实用技巧 [read](https://www.uisdc.com/10-subject-characterization-technique)
+   掌握表格设计，就掌握 B 端设计的半壁江山！（5000字完整版） [read](https://www.uisdc.com/b-end-form-design-4)
 
-   掏空收藏夹！22个实用的前端工具全在这了！ [read](https://www.uisdc.com/22-front-end-tool)
+   6大章节！图标设计基础知识全方位入门指南 [read](https://www.uisdc.com/basic-guide-to-icon-design)
 
-   足不出户看展览！16个在线博物馆免费参观（附超多可商用素材） [read](https://www.uisdc.com/16-museum)
+   陌陌改版案例！一个产品设计的完整推导流程是怎样的？ [read](https://www.uisdc.com/momo-redesign)
 
