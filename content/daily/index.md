@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.RideauSkating_EN-US2750684316_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.UFOPetroglyphs_EN-US2840363119_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -62,17 +62,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   品牌自强要做“店播” [read](http://www.huxiu.com/article/496103.html?f=wangzhan)
+   60亿了，但别让春节档成为一锤子买卖 [read](http://www.huxiu.com/article/496348.html?f=wangzhan)
 
-   小米12为什么没有性价比了？ [read](http://www.huxiu.com/article/495831.html?f=wangzhan)
+   团建、发钱、裁员，不懂经营的人如何当老板？ [read](http://www.huxiu.com/article/496318.html?f=wangzhan)
 
-   冰球场上，为啥看不见球？ [read](http://www.huxiu.com/article/495848.html?f=wangzhan)
+   谷爱凌和苏翊鸣的比赛项目，为啥是一样的？ [read](http://www.huxiu.com/article/496356.html?f=wangzhan)
 
-   中国联通5G智慧急救车为冬奥护航；中国电科推出国内首个基于5G专用网络的中国冰雪运动员医疗信息管理平台 \| 36氪5G创新日报0207 [read](https://36kr.com/p/1604822382135815)
+   氪星晚报丨特斯拉中国客服回应部分车辆被曝减配：出厂车辆都符合规定；辉瑞：第四季度营收238亿美元，低于预期；奈雪的茶：预计2021年净亏损1.35亿元-1.65亿元 [read](https://36kr.com/p/1606490740247047)
 
-   usmile，「夺回」中国口腔护理消费主场 [read](https://36kr.com/p/1604395072801540)
+   2020-2021 UC（统一通信）行业上市公司趋势 [read](https://36kr.com/p/1606256801499913)
 
-   任子威短道速滑再夺金，“王牌之师”背后还有这些黑科技 [read](https://36kr.com/p/1604833690077704)
+   市场日报｜千亿药茅开盘一分钟跌停，“宁王”大跌带崩新能源；沪指午后V型反弹，煤炭板块全天飘红 [read](https://36kr.com/p/1606215836519173)
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
@@ -80,19 +80,19 @@ title: "今日资讯"
 
    微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
-   科技跑太快，再等等走得慢的人 [read](http://www.geekpark.net/news/298034)
+   为冬奥播报！小冰AI虚拟气象主播「冯小殊」 [read](http://www.geekpark.net/news/298116)
 
-   华为百亿资金为员工分红；爱优腾 B 站上架《老友记》；女足亚洲杯夺冠，支付宝发「大红包」； [read](http://www.geekpark.net/news/298022)
+   荣耀60 SE 体验：120Hz 曲屏+66W 闪充，2000 元档新选择 [read](http://www.geekpark.net/news/298030)
 
-   美众议院通过法案，拨 3000 亿促进半导体制造；苹果或将于 3 月 8 日举行发布会；贝佐斯游艇或被扔臭鸡蛋 [read](http://www.geekpark.net/news/298013)
+   新冠两年，我们和一些「惨烈」的行业聊了聊 [read](http://www.geekpark.net/news/298111)
 
 ### 金融类
 
-   如何识别财务造假 [read](http://xueqiu.com/4027531808/210805909)
+   虎年如何投资，才能更靠谱的赚到钱？ [read](http://xueqiu.com/8687456694/210736002)
 
-   安信稳健增值C：不败基金的传奇之路 [read](http://xueqiu.com/9548389254/210812318)
+   那些年趟过的上市公司管理层雷区 [read](http://xueqiu.com/6850139868/210824567)
 
-   【有奖征集】12只固收+基金邀你来评测 [read](http://xueqiu.com/8152922548/210801816)
+   何帅详诉近三年投资的变与不变 [read](http://xueqiu.com/2398291266/210900182)
 
 ### 学习类
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Gibberish Minimalism [read](https://www.behance.net/gallery/136210777/Gibberish-Minimalism)
+   Qatar 2022: A study in football and Arabesque [read](https://www.behance.net/gallery/136276369/Qatar-2022-A-study-in-football-and-Arabesque)
 
-   APELS - Brand identity [read](https://www.behance.net/gallery/136837901/APELS-Brand-identity)
+   Flaco ? Start bright [read](https://www.behance.net/gallery/136675963/Flaco-Start-bright)
 
-   FIVE NIGHTS AT FREDDY'S [read](https://www.behance.net/gallery/131382569/FIVE-NIGHTS-AT-FREDDYS)
+   Rainy Days [read](https://www.behance.net/gallery/136788217/Rainy-Days)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
@@ -140,9 +140,15 @@ title: "今日资讯"
 
    Nichole Barnes Marshall joins Pinterest as Global Head of Inclusion and Diversity [read](https://newsroom.pinterest.com/en/post/nichole-barnes-marshall-joins-pinterest-as-global-head-of-inclusion-and-diversity)
 
-   掌握表格设计，就掌握 B 端设计的半壁江山！（5000字完整版） [read](https://www.uisdc.com/b-end-form-design-4)
+   第一波！2022年2月精选实用设计干货合集 [read](https://www.uisdc.com/2022-2-design-resources-vol1)
 
-   6大章节！图标设计基础知识全方位入门指南 [read](https://www.uisdc.com/basic-guide-to-icon-design)
+   如何识别图片是否P过？收下这8个图片识别神器！ [read](https://www.uisdc.com/8-picture-detection-tools)
 
-   陌陌改版案例！一个产品设计的完整推导流程是怎样的？ [read](https://www.uisdc.com/momo-redesign)
+   上万字干货！设计师如何准备简历和作品集？ [read](https://www.uisdc.com/designer-resume)
+
+   银发青松助手 [read](https://11.146.83.18/2022/01/26/%e9%93%b6%e5%8f%91%e9%9d%92%e6%9d%be%e5%8a%a9%e6%89%8b/)
+
+   腾讯微光行动 [read](https://11.146.83.18/2022/01/26/%e8%85%be%e8%ae%af%e5%be%ae%e5%85%89%e8%a1%8c%e5%8a%a8/)
+
+   你可能忽略的产品设计细节——初探适老化与无障碍改造 [read](https://11.146.83.18/2022/01/21/%e4%bd%a0%e5%8f%af%e8%83%bd%e5%bf%bd%e7%95%a5%e7%9a%84%e4%ba%a7%e5%93%81%e8%ae%be%e8%ae%a1%e7%bb%86%e8%8a%82-%e5%88%9d%e6%8e%a2%e9%80%82%e8%80%81%e5%8c%96%e4%b8%8e%e6%97%a0%e9%9a%9c/)
 
