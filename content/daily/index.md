@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.UFOPetroglyphs_EN-US2840363119_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.JukkasjarviIcehotel_EN-US2915409149_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -62,17 +62,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   60亿了，但别让春节档成为一锤子买卖 [read](http://www.huxiu.com/article/496348.html?f=wangzhan)
+   重卡能够拯救氢燃料电池车吗？ [read](http://www.huxiu.com/article/496558.html?f=wangzhan)
 
-   团建、发钱、裁员，不懂经营的人如何当老板？ [read](http://www.huxiu.com/article/496318.html?f=wangzhan)
+   中国滑雪地图：好评雪场最多的省份，不在北方 [read](http://www.huxiu.com/article/496560.html?f=wangzhan)
 
-   谷爱凌和苏翊鸣的比赛项目，为啥是一样的？ [read](http://www.huxiu.com/article/496356.html?f=wangzhan)
+   创业者，融资的钱越多越好？ [read](http://www.huxiu.com/article/496577.html?f=wangzhan)
 
-   氪星晚报丨特斯拉中国客服回应部分车辆被曝减配：出厂车辆都符合规定；辉瑞：第四季度营收238亿美元，低于预期；奈雪的茶：预计2021年净亏损1.35亿元-1.65亿元 [read](https://36kr.com/p/1606490740247047)
+   延庆启用5G+8K北京视听小站乐享赛事；武汉亚心总医院5G物流机器人搭建全智能配送场景 \| 36氪5G创新日报0209 [read](https://36kr.com/p/1607740647181061)
 
-   2020-2021 UC（统一通信）行业上市公司趋势 [read](https://36kr.com/p/1606256801499913)
+   「华尔街秃鹫」误食的恒大资产：员工停薪 楼盘滞销 二手房折价 [read](https://36kr.com/p/1607779240118790)
 
-   市场日报｜千亿药茅开盘一分钟跌停，“宁王”大跌带崩新能源；沪指午后V型反弹，煤炭板块全天飘红 [read](https://36kr.com/p/1606215836519173)
+   氪星晚报丨沃尔沃计划投资100亿瑞典克朗在瑞典生产下一代纯电动车；教育部：将对校外培训机构违法违规行为严惩重罚；恒大：今年要交楼60万套 [read](https://36kr.com/p/1607749368646408)
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
@@ -80,19 +80,19 @@ title: "今日资讯"
 
    微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
+   Facebook的「万亿崩落」，是未来巨型平台的预言？ [read](http://www.geekpark.net/news/298128)
+
+   B 站回应员工猝死：增招 1000 人缓解压力；Meta 市值跌破 6000 亿美元；联通：一账号最多接入 15 个终端，超出算违约 [read](http://www.geekpark.net/news/298118)
+
    为冬奥播报！小冰AI虚拟气象主播「冯小殊」 [read](http://www.geekpark.net/news/298116)
-
-   荣耀60 SE 体验：120Hz 曲屏+66W 闪充，2000 元档新选择 [read](http://www.geekpark.net/news/298030)
-
-   新冠两年，我们和一些「惨烈」的行业聊了聊 [read](http://www.geekpark.net/news/298111)
 
 ### 金融类
 
-   虎年如何投资，才能更靠谱的赚到钱？ [read](http://xueqiu.com/8687456694/210736002)
+   2022年，高估值的好公司，得负重前行 [read](http://xueqiu.com/1614119807/211001450)
 
-   那些年趟过的上市公司管理层雷区 [read](http://xueqiu.com/6850139868/210824567)
+   为什么建议普通投资者投300指数基金 [read](http://xueqiu.com/9395773368/210817729)
 
-   何帅详诉近三年投资的变与不变 [read](http://xueqiu.com/2398291266/210900182)
+   南方全天候策略（FOF）投资价值分析 [read](http://xueqiu.com/2356382715/210979775)
 
 ### 学习类
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Qatar 2022: A study in football and Arabesque [read](https://www.behance.net/gallery/136276369/Qatar-2022-A-study-in-football-and-Arabesque)
+   JAN PSD [read](https://www.behance.net/gallery/136969133/JAN-PSD)
 
-   Flaco ? Start bright [read](https://www.behance.net/gallery/136675963/Flaco-Start-bright)
+   Bombavista [read](https://www.behance.net/gallery/136350041/Bombavista)
 
-   Rainy Days [read](https://www.behance.net/gallery/136788217/Rainy-Days)
+   Welcome to the Jungle [read](https://www.behance.net/gallery/136496065/Welcome-to-the-Jungle)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
@@ -140,11 +140,11 @@ title: "今日资讯"
 
    Nichole Barnes Marshall joins Pinterest as Global Head of Inclusion and Diversity [read](https://newsroom.pinterest.com/en/post/nichole-barnes-marshall-joins-pinterest-as-global-head-of-inclusion-and-diversity)
 
-   第一波！2022年2月精选实用设计干货合集 [read](https://www.uisdc.com/2022-2-design-resources-vol1)
+   大厂高手出品：这2个苹果控件你肯定分不清！ [read](https://www.uisdc.com/activity-view-and-action-sheet)
 
-   如何识别图片是否P过？收下这8个图片识别神器！ [read](https://www.uisdc.com/8-picture-detection-tools)
+   超多案例！6个让动效更高级耐看的实用小技巧 [read](https://www.uisdc.com/6-dynamic-effect-skills)
 
-   上万字干货！设计师如何准备简历和作品集？ [read](https://www.uisdc.com/designer-resume)
+   销量650W的《宝可梦传说：阿尔宙斯》，有哪些优秀的设计细节？ [read](https://www.uisdc.com/legends_arceus)
 
    银发青松助手 [read](https://11.146.83.18/2022/01/26/%e9%93%b6%e5%8f%91%e9%9d%92%e6%9d%be%e5%8a%a9%e6%89%8b/)
 
