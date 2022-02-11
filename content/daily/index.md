@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SnowyBern_EN-US4213051884_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.TriptychGo_EN-US6716244048_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   万兆家庭网络的时代 [read](http://www.ruanyifeng.com/blog/2022/02/10g-ethernet.html)
+   科技爱好者周刊（第 194 期）：悲观者正确，乐观者成功 [read](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-194.html)
 
-   命令行常用工具的替代品 [read](http://www.ruanyifeng.com/blog/2022/01/cli-alternative-tools.html)
+   万兆家庭网络的时代 [read](http://www.ruanyifeng.com/blog/2022/02/10g-ethernet.html)
 
    支持惰性展开和差异更新的 Lua 表 [read](https://blog.codingnow.com/2022/01/lua_datatree.html)
 
@@ -22,6 +22,12 @@ title: "今日资讯"
 
    让用户决定软件长什么样 [read](https://blog.t9t.io/let-user-design-2020-06-18/)
 
+   自定义C/C++日志输出函数 [read](https://www.kymjs.com/code/2020/08/07/01)
+
+   再聊 Git Flow [read](https://www.kymjs.com/manager/2020/05/29/01)
+
+   Flutter 设置控件是否可见 [read](https://www.kymjs.com/note/2020/03/19/01)
+
 ### IT团队博客
 
    走向匿名化，谈谈微信小程序新授权登录 [read](http://www.alloyteam.com/2021/04/15431/)
@@ -30,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 434 期 [read](https://weekly.75.team/issue434.html)
+
    奇舞周刊第 433 期 [read](https://weekly.75.team/issue433.html)
 
    奇舞周刊第 432 期 [read](https://weekly.75.team/issue432.html)
-
-   奇舞周刊第 431 期 [read](https://weekly.75.team/issue431.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -62,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   不想社交，是生病了吗？ [read](http://www.huxiu.com/article/497039.html?f=wangzhan)
+   便便是如何诞生的？ [read](http://www.huxiu.com/article/497385.html?f=wangzhan)
 
-   票价低了，观众就会重回影院吗？ [read](http://www.huxiu.com/article/497015.html?f=wangzhan)
+   这是年轻人最有可能抓住的财富密码 [read](http://www.huxiu.com/article/497377.html?f=wangzhan)
 
-   羽生结弦的4A动作，为什么是花滑天花板？ [read](http://www.huxiu.com/article/496933.html?f=wangzhan)
+   肖恩·怀特，为什么是单板之王？ [read](http://www.huxiu.com/article/497246.html?f=wangzhan)
 
-   氪星晚报｜腾讯调整内容业务板块，腾讯影业主体将并入CDG；麦当劳为元宇宙“虚拟餐厅”提交商标申请；realme的市场份额在全球30个市场和6个地区排名前五 [read](https://36kr.com/p/1609034232662788)
+   科氪｜12代I7处理器+140W满血RTX3060 华硕天选3游戏本开售 [read](https://36kr.com/p/1610800948398852)
 
-   营销解码 \| 从丑拒到疯抢，「冰墩墩」是如何成为顶流的？ [read](https://36kr.com/p/1604954359220993)
+   冬奥押宝，品牌「吃饱」｜营销看点Vol.17 [read](https://36kr.com/p/1610583619029768)
 
-   最前线｜2021加州DMV自动驾驶众生相：Waymo跑最远，苹果人工接管最多 [read](https://36kr.com/p/1609174173010688)
+   氪星晚报丨芯片供应持续紧张，AMD抢夺英特尔市场份额；苹果因iPad mini 6大面积“果冻屏”遭集体诉讼；马斯克：SpaceX星舰单次发射成本将低于1000万美元，产出或是投入的上百倍 [read](https://36kr.com/p/1610531547990788)
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
@@ -80,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
-   马斯克：从今天起，请叫我「马院士」 [read](http://www.geekpark.net/news/298228)
+   进击的迪士尼，让奈飞低下了高傲的头颅 [read](http://www.geekpark.net/news/298275)
 
-   18 个月估值 200亿，腾讯投的「德国盒马」是怎么做到的？ [read](http://www.geekpark.net/news/298206)
+   火了的东西就一定要加价吗？ [read](http://www.geekpark.net/news/298194)
 
-   三星 Galaxy S22 系列上手：有了 S Pen，「三杯」都够味儿 [read](http://www.geekpark.net/news/298149)
+   腾讯调整内容板块，影业脱离PCG；谷歌公布 Android 12 L 专为折叠屏优化；神车五菱宏光登陆赛车游戏《极限竞速》 [read](http://www.geekpark.net/news/298231)
 
 ### 金融类
 
-   投资中的主要问题 [read](http://xueqiu.com/9148433633/211132016)
+   专业投资者买基金，都在看哪些指标？ [read](http://xueqiu.com/7887458466/211218765)
 
-   CTA策略系列——什么是期货 [read](http://xueqiu.com/9047540546/211117844)
+   淡定点，万物皆周期 [read](http://xueqiu.com/4433266172/211244215)
 
-   这12只固收+基金凭啥热度高？ [read](http://xueqiu.com/1762638610/211112685)
+   回顾牧原前三期员工持股计划 [read](http://xueqiu.com/6227727965/211238287)
 
 ### 学习类
 
@@ -122,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   GILBERT - Branding [read](https://www.behance.net/gallery/137004611/GILBERT-Branding)
+   Euphoria [read](https://www.behance.net/gallery/136740403/Euphoria)
 
-   Illustration for seasonal gift box [read](https://www.behance.net/gallery/134823959/Illustration-for-seasonal-gift-box)
+   SKOOKI \| BRAND IDENTITY [read](https://www.behance.net/gallery/136016075/SKOOKI-BRAND-IDENTITY)
 
-   OUT OF OFFICE [read](https://www.behance.net/gallery/136976391/OUT-OF-OFFICE)
+   ED 22 I [read](https://www.behance.net/gallery/137105037/ED-22-I)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
