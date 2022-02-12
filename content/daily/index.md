@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.TriptychGo_EN-US6716244048_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.DarwinsArch_EN-US6875224451_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   从2003年的中美汇率交锋，一窥人民币如何崛起 [read](http://www.huxiu.com/article/497426.html?f=wangzhan)
+
    便便是如何诞生的？ [read](http://www.huxiu.com/article/497385.html?f=wangzhan)
 
    这是年轻人最有可能抓住的财富密码 [read](http://www.huxiu.com/article/497377.html?f=wangzhan)
 
-   肖恩·怀特，为什么是单板之王？ [read](http://www.huxiu.com/article/497246.html?f=wangzhan)
+   IPO留言板丨快狗打车通过港交所聆讯；肯德基供应商拟登陆上交所主板；软银宣布终止向英伟达出售ARM,准备IPO [read](https://36kr.com/p/1611573495925248)
 
-   科氪｜12代I7处理器+140W满血RTX3060 华硕天选3游戏本开售 [read](https://36kr.com/p/1610800948398852)
+   9点1氪丨知乎回应裁员传闻；国家医保局回应种植牙纳入集采：方案基本成熟；乐视网被恢复执行12.9亿元 [read](https://36kr.com/p/1611474873928195)
 
-   冬奥押宝，品牌「吃饱」｜营销看点Vol.17 [read](https://36kr.com/p/1610583619029768)
-
-   氪星晚报丨芯片供应持续紧张，AMD抢夺英特尔市场份额；苹果因iPad mini 6大面积“果冻屏”遭集体诉讼；马斯克：SpaceX星舰单次发射成本将低于1000万美元，产出或是投入的上百倍 [read](https://36kr.com/p/1610531547990788)
+   北京冬奥会医疗保障区用上5G机器人；广西百色“小汤山医院”上线5G+智慧医疗监控系统 \| 36氪5G创新日报0211 [read](https://36kr.com/p/1610542911277574)
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
+   这届骁龙 8 旗舰，在影像上集体躺平了 [read](http://www.geekpark.net/news/298288)
+
+   SpaceX 公布下一代星舰，一天可发 3 次；安卓新甜点代号确认「提拉米苏」；破解 Switch 黑客被判 3 年｜极客早知道 [read](http://www.geekpark.net/news/298281)
+
    进击的迪士尼，让奈飞低下了高傲的头颅 [read](http://www.geekpark.net/news/298275)
-
-   火了的东西就一定要加价吗？ [read](http://www.geekpark.net/news/298194)
-
-   腾讯调整内容板块，影业脱离PCG；谷歌公布 Android 12 L 专为折叠屏优化；神车五菱宏光登陆赛车游戏《极限竞速》 [read](http://www.geekpark.net/news/298231)
 
 ### 金融类
 
-   专业投资者买基金，都在看哪些指标？ [read](http://xueqiu.com/7887458466/211218765)
+   价值的春天：年初至今主要ETF涨跌对比 [read](http://xueqiu.com/9391624441/211284979)
 
-   淡定点，万物皆周期 [read](http://xueqiu.com/4433266172/211244215)
+   互联网基因的银行未来有潜力吗？ [read](http://xueqiu.com/8058044534/211271061)
 
-   回顾牧原前三期员工持股计划 [read](http://xueqiu.com/6227727965/211238287)
+   铜箔行业梳理以及思考分享-新能源的增量(下） [read](http://xueqiu.com/1577913976/211277619)
 
 ### 学习类
 
@@ -114,11 +114,11 @@ title: "今日资讯"
 
    This Week in Rust 427 [read](https://this-week-in-rust.org/blog/2022/01/26/this-week-in-rust-427/)
 
+   谈谈公司对员工的监控 [read](https://coolshell.cn/articles/22157.html)
+
    网络数字身份认证术 [read](https://coolshell.cn/articles/21708.html)
 
    我做系统架构的一些原则 [read](https://coolshell.cn/articles/21672.html)
-
-   源代码特洛伊木马攻击 [read](https://coolshell.cn/articles/21649.html)
 
    为什么会有公司愿意花钱去买软件，而不去用开源的免费软件 [read](https://wanqu.co/p/7581?s=rss)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Euphoria [read](https://www.behance.net/gallery/136740403/Euphoria)
+   Aurora Power© [read](https://www.behance.net/gallery/128430951/Aurora-Power)
 
-   SKOOKI \| BRAND IDENTITY [read](https://www.behance.net/gallery/136016075/SKOOKI-BRAND-IDENTITY)
+   ZOË [read](https://www.behance.net/gallery/135977599/ZOE)
 
-   ED 22 I [read](https://www.behance.net/gallery/137105037/ED-22-I)
+   Lettering Series XLVII [read](https://www.behance.net/gallery/137206965/Lettering-Series-XLVII)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Nichole Barnes Marshall joins Pinterest as Global Head of Inclusion and Diversity [read](https://newsroom.pinterest.com/en/post/nichole-barnes-marshall-joins-pinterest-as-global-head-of-inclusion-and-diversity)
 
+   尼尔森团队出品！让用户沉迷产品的3个心理要素 [read](https://www.uisdc.com/autonomy-relatedness-competence)
+
+   免费可商用！西文等宽字体 LL BLACK MATRIX 2.0开放下载！ [read](https://www.uisdc.com/ll-black-matrix-2-0)
+
    配色找不到感觉？这个PCCS色彩体系帮你从根本上解决！ [read](https://www.uisdc.com/practical-color-ordinate-system)
-
-   研究Material Design交互动态系统后，总结了这6个知识点！ [read](https://www.uisdc.com/material-design-system-conclusion)
-
-   4000字干货！帮你完整掌握品牌VI设计发展史 [read](https://www.uisdc.com/brand-vi-design-history)
 
    银发青松助手 [read](https://11.146.83.18/2022/01/26/%e9%93%b6%e5%8f%91%e9%9d%92%e6%9d%be%e5%8a%a9%e6%89%8b/)
 
