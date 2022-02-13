@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.DarwinsArch_EN-US6875224451_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FaceOff_EN-US7097284176_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   哈佛式购物指南：快乐花钱的秘诀 [read](http://www.huxiu.com/article/497619.html?f=wangzhan)
+
+   芯片战争四十年：英特尔为什么干不掉AMD？ [read](http://www.huxiu.com/article/497696.html?f=wangzhan)
+
    从2003年的中美汇率交锋，一窥人民币如何崛起 [read](http://www.huxiu.com/article/497426.html?f=wangzhan)
 
-   便便是如何诞生的？ [read](http://www.huxiu.com/article/497385.html?f=wangzhan)
-
-   这是年轻人最有可能抓住的财富密码 [read](http://www.huxiu.com/article/497377.html?f=wangzhan)
+   谁在抄底中国女足？｜ 反光镜 [read](https://36kr.com/p/1612976448375302)
 
    IPO留言板丨快狗打车通过港交所聆讯；肯德基供应商拟登陆上交所主板；软银宣布终止向英伟达出售ARM,准备IPO [read](https://36kr.com/p/1611573495925248)
 
    9点1氪丨知乎回应裁员传闻；国家医保局回应种植牙纳入集采：方案基本成熟；乐视网被恢复执行12.9亿元 [read](https://36kr.com/p/1611474873928195)
-
-   北京冬奥会医疗保障区用上5G机器人；广西百色“小汤山医院”上线5G+智慧医疗监控系统 \| 36氪5G创新日报0211 [read](https://36kr.com/p/1610542911277574)
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
+   极客简报｜2022 依旧米冲高；三星发布 S22 新旗舰；京东方抢功劳 [read](http://www.geekpark.net/news/298309)
+
+   奈飞、漫威结束 10 年合作，作品将下架；美国 1 亿观众收看冬奥会；京东「删库」程序员被判 10 月徒刑 \| 极客早知道 [read](http://www.geekpark.net/news/298298)
+
    这届骁龙 8 旗舰，在影像上集体躺平了 [read](http://www.geekpark.net/news/298288)
-
-   SpaceX 公布下一代星舰，一天可发 3 次；安卓新甜点代号确认「提拉米苏」；破解 Switch 黑客被判 3 年｜极客早知道 [read](http://www.geekpark.net/news/298281)
-
-   进击的迪士尼，让奈飞低下了高傲的头颅 [read](http://www.geekpark.net/news/298275)
 
 ### 金融类
 
-   价值的春天：年初至今主要ETF涨跌对比 [read](http://xueqiu.com/9391624441/211284979)
+   跌出深坑的半导体将何去何从 [read](http://xueqiu.com/1107144776/211334753)
 
-   互联网基因的银行未来有潜力吗？ [read](http://xueqiu.com/8058044534/211271061)
+   关于个人对好基金的寻找标准 [read](http://xueqiu.com/1759390914/211316393)
 
-   铜箔行业梳理以及思考分享-新能源的增量(下） [read](http://xueqiu.com/1577913976/211277619)
+   今年哪个因子最有效？ [read](http://xueqiu.com/6146592061/211331609)
 
 ### 学习类
 
@@ -114,11 +114,11 @@ title: "今日资讯"
 
    This Week in Rust 427 [read](https://this-week-in-rust.org/blog/2022/01/26/this-week-in-rust-427/)
 
+   “一把梭：REST API 全用 POST ” [read](https://coolshell.cn/articles/22173.html)
+
    谈谈公司对员工的监控 [read](https://coolshell.cn/articles/22157.html)
 
    网络数字身份认证术 [read](https://coolshell.cn/articles/21708.html)
-
-   我做系统架构的一些原则 [read](https://coolshell.cn/articles/21672.html)
 
    为什么会有公司愿意花钱去买软件，而不去用开源的免费软件 [read](https://wanqu.co/p/7581?s=rss)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Aurora Power© [read](https://www.behance.net/gallery/128430951/Aurora-Power)
+   Arxellence [read](https://www.behance.net/gallery/136647467/Arxellence)
 
-   ZOË [read](https://www.behance.net/gallery/135977599/ZOE)
+   Elle Magazine [read](https://www.behance.net/gallery/137174825/Elle-Magazine)
 
-   Lettering Series XLVII [read](https://www.behance.net/gallery/137206965/Lettering-Series-XLVII)
+   AFISZUJ SI?! free fonts &amp; ilutrations [read](https://www.behance.net/gallery/108625313/AFISZUJ-SIE-free-fonts-ilutrations)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Nichole Barnes Marshall joins Pinterest as Global Head of Inclusion and Diversity [read](https://newsroom.pinterest.com/en/post/nichole-barnes-marshall-joins-pinterest-as-global-head-of-inclusion-and-diversity)
 
+   让人上瘾的拼多多提现活动，我总结了这 4 大玩法设计！ [read](https://www.uisdc.com/pinduoduo-design)
+
    尼尔森团队出品！让用户沉迷产品的3个心理要素 [read](https://www.uisdc.com/autonomy-relatedness-competence)
 
    免费可商用！西文等宽字体 LL BLACK MATRIX 2.0开放下载！ [read](https://www.uisdc.com/ll-black-matrix-2-0)
-
-   配色找不到感觉？这个PCCS色彩体系帮你从根本上解决！ [read](https://www.uisdc.com/practical-color-ordinate-system)
 
    银发青松助手 [read](https://11.146.83.18/2022/01/26/%e9%93%b6%e5%8f%91%e9%9d%92%e6%9d%be%e5%8a%a9%e6%89%8b/)
 
