@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FaceOff_EN-US7097284176_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MaldivesHeart_EN-US8259467454_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -10,11 +10,11 @@ title: "今日资讯"
 
    万兆家庭网络的时代 [read](http://www.ruanyifeng.com/blog/2022/02/10g-ethernet.html)
 
+   Factorio 的乐趣 [read](https://blog.codingnow.com/2022/02/factorio.html)
+
    支持惰性展开和差异更新的 Lua 表 [read](https://blog.codingnow.com/2022/01/lua_datatree.html)
 
    我们需要一个怎样的动画模块 [read](https://blog.codingnow.com/2022/01/animation.html)
-
-   流体系统 [read](https://blog.codingnow.com/2022/01/fluid_system.html)
 
    一个付费 chrome 插件的一生 [read](https://blog.t9t.io/star-history-2021-01-21/)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   哈佛式购物指南：快乐花钱的秘诀 [read](http://www.huxiu.com/article/497619.html?f=wangzhan)
+   成为风暴眼的俄罗斯花滑女孩 [read](http://www.huxiu.com/article/498134.html?f=wangzhan)
 
-   芯片战争四十年：英特尔为什么干不掉AMD？ [read](http://www.huxiu.com/article/497696.html?f=wangzhan)
+   电影商人王晶和“夕阳红”倚天屠龙记 [read](http://www.huxiu.com/article/497996.html?f=wangzhan)
 
-   从2003年的中美汇率交锋，一窥人民币如何崛起 [read](http://www.huxiu.com/article/497426.html?f=wangzhan)
+   自由式滑雪的空中技巧和大跳台，到底有什么区别？ [read](http://www.huxiu.com/article/498024.html?f=wangzhan)
 
-   谁在抄底中国女足？｜ 反光镜 [read](https://36kr.com/p/1612976448375302)
+   消息称苹果启动iPhone SE3生产，支持5G+A15处理器；黑莓5G手机宣告失败 \| 36氪5G创新日报0214 [read](https://36kr.com/p/1614909419555586)
 
-   IPO留言板丨快狗打车通过港交所聆讯；肯德基供应商拟登陆上交所主板；软银宣布终止向英伟达出售ARM,准备IPO [read](https://36kr.com/p/1611573495925248)
+   董事长刘平带队斥资850万 保利发展高管逆势增持背后 [read](https://36kr.com/p/1614965462452742)
 
-   9点1氪丨知乎回应裁员传闻；国家医保局回应种植牙纳入集采：方案基本成熟；乐视网被恢复执行12.9亿元 [read](https://36kr.com/p/1611474873928195)
+   氪星晚报 \| 特斯拉Model 3部分版本欧洲多国订单已排至11月份，国内最快12周交付；IPO在审企业逾800家，投行忙到“飞起”；教育部：“双一流”建设高校及建设学科名单更新公布 [read](https://36kr.com/p/1614768582953475)
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
-   极客简报｜2022 依旧米冲高；三星发布 S22 新旗舰；京东方抢功劳 [read](http://www.geekpark.net/news/298309)
+   「大女主」手游正在掘金东南亚 [read](http://www.geekpark.net/news/298337)
 
-   奈飞、漫威结束 10 年合作，作品将下架；美国 1 亿观众收看冬奥会；京东「删库」程序员被判 10 月徒刑 \| 极客早知道 [read](http://www.geekpark.net/news/298298)
+   「云聚」奥运：数字化背后的技术与温度 [read](http://www.geekpark.net/news/298326)
 
-   这届骁龙 8 旗舰，在影像上集体躺平了 [read](http://www.geekpark.net/news/298288)
+   宁德时代回应与特斯拉谈崩等谣言：已报案；相关人员否认薇娅将在 3 月复出；暴雪《魔兽》设计师离职 [read](http://www.geekpark.net/news/298314)
 
 ### 金融类
 
-   跌出深坑的半导体将何去何从 [read](http://xueqiu.com/1107144776/211334753)
+   红利指数基金是什么？能每年稳定分红吗？ [read](http://xueqiu.com/4702777162/211409077)
 
-   关于个人对好基金的寻找标准 [read](http://xueqiu.com/1759390914/211316393)
+   近1年涨幅37%，传统基建板块投资价值如何？ [read](http://xueqiu.com/4433266172/211438123)
 
-   今年哪个因子最有效？ [read](http://xueqiu.com/6146592061/211331609)
+   情人节，看看基金夫妻们之间的PK [read](http://xueqiu.com/1005019109/211433178)
 
 ### 学习类
 
@@ -128,17 +128,17 @@ title: "今日资讯"
 
 ### 设计类
 
-   Arxellence [read](https://www.behance.net/gallery/136647467/Arxellence)
+   Archimat identity [read](https://www.behance.net/gallery/119951889/Archimat-identity)
 
-   Elle Magazine [read](https://www.behance.net/gallery/137174825/Elle-Magazine)
+   58th Golden Horse Award Ceremony ???58???? [read](https://www.behance.net/gallery/132255919/58th-Golden-Horse-Award-Ceremony-58)
 
-   AFISZUJ SI?! free fonts &amp; ilutrations [read](https://www.behance.net/gallery/108625313/AFISZUJ-SIE-free-fonts-ilutrations)
+   LIFE GOES ON [read](https://www.behance.net/gallery/136991873/LIFE-GOES-ON)
+
+   Meet This Month’s Guest Curator: Huston Wilson [read](https://medium.com/behance-blog/meet-this-months-guest-curator-huston-wilson-313b75929ab3?source=rss-f5272b7f3182------2)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
    Creatives Resolutions for 2022 [read](https://medium.com/behance-blog/creatives-resolutions-for-2022-b9db323f8fea?source=rss-f5272b7f3182------2)
-
-   Top 3 Visual Trends of 2021 [read](https://medium.com/behance-blog/top-3-visual-trends-of-2021-b033fcee1c2e?source=rss-f5272b7f3182------2)
 
    Pinterest Celebrates Black History Month with Soul Food: Nourish Your Soul [read](https://newsroom.pinterest.com/en/post/pinterest-celebrates-black-history-month-with-soul-food-nourish-your-soul)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Nichole Barnes Marshall joins Pinterest as Global Head of Inclusion and Diversity [read](https://newsroom.pinterest.com/en/post/nichole-barnes-marshall-joins-pinterest-as-global-head-of-inclusion-and-diversity)
 
-   让人上瘾的拼多多提现活动，我总结了这 4 大玩法设计！ [read](https://www.uisdc.com/pinduoduo-design)
+   第二波！2022年2月精选实用设计干货合集 [read](https://www.uisdc.com/2022-2-design-resources-vol2)
 
-   尼尔森团队出品！让用户沉迷产品的3个心理要素 [read](https://www.uisdc.com/autonomy-relatedness-competence)
+   哪些领域私单多？2022六大新消费趋势场景发布 [read](https://www.uisdc.com/6-consumer-trends)
 
-   免费可商用！西文等宽字体 LL BLACK MATRIX 2.0开放下载！ [read](https://www.uisdc.com/ll-black-matrix-2-0)
+   任天堂设计师出品！700+免费可商用的粗点像素风素材打包下载！ [read](https://www.uisdc.com/dotown)
 
    银发青松助手 [read](https://11.146.83.18/2022/01/26/%e9%93%b6%e5%8f%91%e9%9d%92%e6%9d%be%e5%8a%a9%e6%89%8b/)
 
