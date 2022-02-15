@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MaldivesHeart_EN-US8259467454_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ChengduLanterns_EN-US7601052983_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   成为风暴眼的俄罗斯花滑女孩 [read](http://www.huxiu.com/article/498134.html?f=wangzhan)
+   十问紫燕食品 [read](http://www.huxiu.com/article/498329.html?f=wangzhan)
 
-   电影商人王晶和“夕阳红”倚天屠龙记 [read](http://www.huxiu.com/article/497996.html?f=wangzhan)
+   《2002年的第一场雪》，下了20年 [read](http://www.huxiu.com/article/498375.html?f=wangzhan)
 
-   自由式滑雪的空中技巧和大跳台，到底有什么区别？ [read](http://www.huxiu.com/article/498024.html?f=wangzhan)
+   从0到1，如何科学打造新品牌？ [read](http://www.huxiu.com/article/498239.html?f=wangzhan)
 
-   消息称苹果启动iPhone SE3生产，支持5G+A15处理器；黑莓5G手机宣告失败 \| 36氪5G创新日报0214 [read](https://36kr.com/p/1614909419555586)
+   青岛联通轮驳船5G机舱远程监测系统将上线；河北移动携手华为实现5G新通话行业应用首呼 \| 36氪5G创新日报0215 [read](https://36kr.com/p/1616299292290821)
 
-   董事长刘平带队斥资850万 保利发展高管逆势增持背后 [read](https://36kr.com/p/1614965462452742)
+   狂飙之后，汽车产业的新机会在哪？ \| 36氪【数字时氪】微信社群活动实录 [read](https://36kr.com/p/1614994429430280)
 
-   氪星晚报 \| 特斯拉Model 3部分版本欧洲多国订单已排至11月份，国内最快12周交付；IPO在审企业逾800家，投行忙到“飞起”；教育部：“双一流”建设高校及建设学科名单更新公布 [read](https://36kr.com/p/1614768582953475)
+   氪星晚报 \| 蔚来汽车科技公司已注销；米哈游推出元宇宙品牌HoYovers；马斯克向一家慈善机构捐赠超过500万股特斯拉股票，价值约57亿美元 [read](https://36kr.com/p/1616186941990147)
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
-   「大女主」手游正在掘金东南亚 [read](http://www.geekpark.net/news/298337)
+   冬奥冠军徐梦桃背后的「非人类」教练 [read](http://www.geekpark.net/news/298398)
 
-   「云聚」奥运：数字化背后的技术与温度 [read](http://www.geekpark.net/news/298326)
+   「美国春晚」超级碗背后：这些科技公司重金「砸」出未来 [read](http://www.geekpark.net/news/298377)
 
-   宁德时代回应与特斯拉谈崩等谣言：已报案；相关人员否认薇娅将在 3 月复出；暴雪《魔兽》设计师离职 [read](http://www.geekpark.net/news/298314)
+   体验｜手机厂商还在卷 Android 12，今年的 Android 13 就已经来了 [read](http://www.geekpark.net/news/298344)
 
 ### 金融类
 
-   红利指数基金是什么？能每年稳定分红吗？ [read](http://xueqiu.com/4702777162/211409077)
+   【调研团招募】走进肺部疾病诊疗先锋堃博医疗 [read](http://xueqiu.com/9101416054/211545511)
 
-   近1年涨幅37%，传统基建板块投资价值如何？ [read](http://xueqiu.com/4433266172/211438123)
+   超深度解读：华安合鑫袁巍的投资之路 [read](http://xueqiu.com/6278433034/211543192)
 
-   情人节，看看基金夫妻们之间的PK [read](http://xueqiu.com/1005019109/211433178)
+   从研发说起，恒瑞医药凭什么做行业老大？ [read](http://xueqiu.com/1830902728/211528928)
 
 ### 学习类
 
@@ -114,12 +114,6 @@ title: "今日资讯"
 
    This Week in Rust 427 [read](https://this-week-in-rust.org/blog/2022/01/26/this-week-in-rust-427/)
 
-   “一把梭：REST API 全用 POST ” [read](https://coolshell.cn/articles/22173.html)
-
-   谈谈公司对员工的监控 [read](https://coolshell.cn/articles/22157.html)
-
-   网络数字身份认证术 [read](https://coolshell.cn/articles/21708.html)
-
    为什么会有公司愿意花钱去买软件，而不去用开源的免费软件 [read](https://wanqu.co/p/7581?s=rss)
 
    一家奇怪的创业公司 [read](https://wanqu.co/p/7580?s=rss)
@@ -128,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Archimat identity [read](https://www.behance.net/gallery/119951889/Archimat-identity)
+   Someone I love II [read](https://www.behance.net/gallery/137423887/Someone-I-love-II)
 
-   58th Golden Horse Award Ceremony ???58???? [read](https://www.behance.net/gallery/132255919/58th-Golden-Horse-Award-Ceremony-58)
+   METAVERSE 2.0 [read](https://www.behance.net/gallery/137308215/METAVERSE-20)
 
-   LIFE GOES ON [read](https://www.behance.net/gallery/136991873/LIFE-GOES-ON)
+   Spencer Lowell [read](https://www.behance.net/gallery/137359981/Spencer-Lowell)
 
    Meet This Month’s Guest Curator: Huston Wilson [read](https://medium.com/behance-blog/meet-this-months-guest-curator-huston-wilson-313b75929ab3?source=rss-f5272b7f3182------2)
 
@@ -148,9 +142,9 @@ title: "今日资讯"
 
    第二波！2022年2月精选实用设计干货合集 [read](https://www.uisdc.com/2022-2-design-resources-vol2)
 
-   哪些领域私单多？2022六大新消费趋势场景发布 [read](https://www.uisdc.com/6-consumer-trends)
+   超实用！这款神器只用 6 招，帮你解决设计文件管理痛点！ [read](https://www.uisdc.com/js-design)
 
-   任天堂设计师出品！700+免费可商用的粗点像素风素材打包下载！ [read](https://www.uisdc.com/dotown)
+   天猫出品！一文看懂「全景视频」在电商设计的应用 [read](https://www.uisdc.com/panoramic-video-application)
 
    银发青松助手 [read](https://11.146.83.18/2022/01/26/%e9%93%b6%e5%8f%91%e9%9d%92%e6%9d%be%e5%8a%a9%e6%89%8b/)
 
