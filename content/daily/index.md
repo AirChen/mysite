@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ChengduLanterns_EN-US7601052983_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CranborneChase_EN-US7744531561_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   都是冰上项目，为啥冰刀差别这么大？ [read](http://www.huxiu.com/article/498603.html?f=wangzhan)
+
+   听说学霸都是这样用微信的 [read](http://www.huxiu.com/article/498423.html?f=wangzhan)
+
    十问紫燕食品 [read](http://www.huxiu.com/article/498329.html?f=wangzhan)
 
-   《2002年的第一场雪》，下了20年 [read](http://www.huxiu.com/article/498375.html?f=wangzhan)
+   氪星晚报｜反垄断审查一年多，Meta完成10亿美元收购Kustomer；苹果和谷歌应用商店将面临数十亿欧元的集体诉讼；自动驾驶卡车公司“主线科技”宣布完成B轮融资 [read](https://36kr.com/p/1617423092428290)
 
-   从0到1，如何科学打造新品牌？ [read](http://www.huxiu.com/article/498239.html?f=wangzhan)
+   市场日报｜大基建板块稳居稳居C位，领涨龙头8天7板；俄乌局势缓和，避险资产杀跌，黄金原油全天低迷 [read](https://36kr.com/p/1617548060487171)
 
-   青岛联通轮驳船5G机舱远程监测系统将上线；河北移动携手华为实现5G新通话行业应用首呼 \| 36氪5G创新日报0215 [read](https://36kr.com/p/1616299292290821)
-
-   狂飙之后，汽车产业的新机会在哪？ \| 36氪【数字时氪】微信社群活动实录 [read](https://36kr.com/p/1614994429430280)
-
-   氪星晚报 \| 蔚来汽车科技公司已注销；米哈游推出元宇宙品牌HoYovers；马斯克向一家慈善机构捐赠超过500万股特斯拉股票，价值约57亿美元 [read](https://36kr.com/p/1616186941990147)
+   燃烧吧！元宇宙 \| 36氪【数字时氪】微信社群活动 [read](https://36kr.com/p/1617463795953155)
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
 
-   冬奥冠军徐梦桃背后的「非人类」教练 [read](http://www.geekpark.net/news/298398)
+   Redmi K50 电竞版评测：用料十足的骁龙 8 Gen 1 手机，能否成为「驯龙高手」？ [read](http://www.geekpark.net/news/298268)
 
-   「美国春晚」超级碗背后：这些科技公司重金「砸」出未来 [read](http://www.geekpark.net/news/298377)
+   Redmi 电竞路由器 AX5400 首发到手 549 元，2.5G 网口跨级进入千元电竞路由市场 [read](http://www.geekpark.net/news/298546)
 
-   体验｜手机厂商还在卷 Android 12，今年的 Android 13 就已经来了 [read](http://www.geekpark.net/news/298344)
+   谷歌怒砍 Stadia，为什么「云游戏」注定「没戏」 [read](http://www.geekpark.net/news/298372)
 
 ### 金融类
 
-   【调研团招募】走进肺部疾病诊疗先锋堃博医疗 [read](http://xueqiu.com/9101416054/211545511)
+   雪球专刊丨8位基金达人的真实故事 [read](http://xueqiu.com/3746414875/211630199)
 
-   超深度解读：华安合鑫袁巍的投资之路 [read](http://xueqiu.com/6278433034/211543192)
+   来福小犬爹：不会买基的投资者不是一位好的“包租公” [read](http://xueqiu.com/1876906471/211607087)
 
-   从研发说起，恒瑞医药凭什么做行业老大？ [read](http://xueqiu.com/1830902728/211528928)
+   普通投资者如何通过基金投资港股？ [read](http://xueqiu.com/2356382715/211574702)
 
 ### 学习类
 
@@ -114,6 +114,12 @@ title: "今日资讯"
 
    This Week in Rust 427 [read](https://this-week-in-rust.org/blog/2022/01/26/this-week-in-rust-427/)
 
+   “一把梭：REST API 全用 POST ” [read](https://coolshell.cn/articles/22173.html)
+
+   谈谈公司对员工的监控 [read](https://coolshell.cn/articles/22157.html)
+
+   网络数字身份认证术 [read](https://coolshell.cn/articles/21708.html)
+
    为什么会有公司愿意花钱去买软件，而不去用开源的免费软件 [read](https://wanqu.co/p/7581?s=rss)
 
    一家奇怪的创业公司 [read](https://wanqu.co/p/7580?s=rss)
@@ -122,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Someone I love II [read](https://www.behance.net/gallery/137423887/Someone-I-love-II)
+   Helping Budapest's cafés [read](https://www.behance.net/gallery/113535833/Helping-Budapests-cafs)
 
-   METAVERSE 2.0 [read](https://www.behance.net/gallery/137308215/METAVERSE-20)
+   Dua Wear [read](https://www.behance.net/gallery/137278457/Dua-Wear)
 
-   Spencer Lowell [read](https://www.behance.net/gallery/137359981/Spencer-Lowell)
+   Character &amp; Illustration 10 [read](https://www.behance.net/gallery/137469583/Character-Illustration-10)
 
    Meet This Month’s Guest Curator: Huston Wilson [read](https://medium.com/behance-blog/meet-this-months-guest-curator-huston-wilson-313b75929ab3?source=rss-f5272b7f3182------2)
 
@@ -140,15 +146,15 @@ title: "今日资讯"
 
    Nichole Barnes Marshall joins Pinterest as Global Head of Inclusion and Diversity [read](https://newsroom.pinterest.com/en/post/nichole-barnes-marshall-joins-pinterest-as-global-head-of-inclusion-and-diversity)
 
-   第二波！2022年2月精选实用设计干货合集 [read](https://www.uisdc.com/2022-2-design-resources-vol2)
+   上万字干货！设计师如何准备简历和作品集？（提升篇） [read](https://www.uisdc.com/designer-resume-2)
 
-   超实用！这款神器只用 6 招，帮你解决设计文件管理痛点！ [read](https://www.uisdc.com/js-design)
+   Material Design 折叠屏设计指南（1）：概述 [read](https://www.uisdc.com/folding-screen-design-2)
 
-   天猫出品！一文看懂「全景视频」在电商设计的应用 [read](https://www.uisdc.com/panoramic-video-application)
+   想借鉴高手的配色体系？试试网页取色神器 Alwane [read](https://www.uisdc.com/alwane)
+
+   做个“人格分裂”的研究者——质性研究中研究关系探讨 [read](https://11.146.83.18/2022/02/16/%e5%81%9a%e4%b8%aa%e4%ba%ba%e6%a0%bc%e5%88%86%e8%a3%82%e7%9a%84%e7%a0%94%e7%a9%b6%e8%80%85-%e8%b4%a8%e6%80%a7%e7%a0%94%e7%a9%b6%e4%b8%ad%e7%a0%94%e7%a9%b6%e5%85%b3/)
+
+   后台审批流系统设计指南 [read](https://11.146.83.18/2022/02/08/%e5%90%8e%e5%8f%b0%e5%ae%a1%e6%89%b9%e6%b5%81%e7%b3%bb%e7%bb%9f%e8%ae%be%e8%ae%a1%e6%8c%87%e5%8d%97/)
 
    银发青松助手 [read](https://11.146.83.18/2022/01/26/%e9%93%b6%e5%8f%91%e9%9d%92%e6%9d%be%e5%8a%a9%e6%89%8b/)
-
-   腾讯微光行动 [read](https://11.146.83.18/2022/01/26/%e8%85%be%e8%ae%af%e5%be%ae%e5%85%89%e8%a1%8c%e5%8a%a8/)
-
-   你可能忽略的产品设计细节——初探适老化与无障碍改造 [read](https://11.146.83.18/2022/01/21/%e4%bd%a0%e5%8f%af%e8%83%bd%e5%bf%bd%e7%95%a5%e7%9a%84%e4%ba%a7%e5%93%81%e8%ae%be%e8%ae%a1%e7%bb%86%e8%8a%82-%e5%88%9d%e6%8e%a2%e9%80%82%e8%80%81%e5%8c%96%e4%b8%8e%e6%97%a0%e9%9a%9c/)
 
