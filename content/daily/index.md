@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CranborneChase_EN-US7744531561_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FlamencoDance_EN-US9399847343_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]如何使用高阶函数编程提升代码的简洁性 [read](https://blog.csdn.net/ByteDanceTech/article/details/122974828)
+
    \[原\]一文读懂直播卡顿优化那些事儿 [read](https://blog.csdn.net/ByteDanceTech/article/details/122852655)
 
    \[原\]字节技术年货之实践篇：微服务架构演进、全链路压测、埋点数据治理…… [read](https://blog.csdn.net/ByteDanceTech/article/details/122795074)
-
-   \[原\]不完整收录：2021年字节自研的8项“黑科技” \| 字节技术年货 [read](https://blog.csdn.net/ByteDanceTech/article/details/122780702)
 
    美团技术年货：1200+页电子书，覆盖前后端、算法、数据、安全、测试、顶会论文 [read](https://tech.meituan.com/2022/01/20/2022-happy-new-year.html)
 
@@ -68,51 +68,51 @@ title: "今日资讯"
 
 ### 互联网类
 
-   都是冰上项目，为啥冰刀差别这么大？ [read](http://www.huxiu.com/article/498603.html?f=wangzhan)
+   冬奥会的雪上项目，为什么有4个大跳台？ [read](http://www.huxiu.com/article/499173.html?f=wangzhan)
 
-   听说学霸都是这样用微信的 [read](http://www.huxiu.com/article/498423.html?f=wangzhan)
+   5分钟，看懂虚拟人的千亿市场价值 [read](http://www.huxiu.com/article/498963.html?f=wangzhan)
 
-   十问紫燕食品 [read](http://www.huxiu.com/article/498329.html?f=wangzhan)
+   “遛弯儿大爷”王濛，当年有多强？ [read](http://www.huxiu.com/article/498971.html?f=wangzhan)
 
-   氪星晚报｜反垄断审查一年多，Meta完成10亿美元收购Kustomer；苹果和谷歌应用商店将面临数十亿欧元的集体诉讼；自动驾驶卡车公司“主线科技”宣布完成B轮融资 [read](https://36kr.com/p/1617423092428290)
+   氪星晚报丨苹果CEO库克薪酬达员工1400倍，机构建议给其降薪；Meta重大人事调整：前英国副首相将领导所有政策事务 [read](https://36kr.com/p/1618856632708609)
 
-   市场日报｜大基建板块稳居稳居C位，领涨龙头8天7板；俄乌局势缓和，避险资产杀跌，黄金原油全天低迷 [read](https://36kr.com/p/1617548060487171)
+   36氪首发 \| 提供专业级助听器，「爱听科技」获数千万元A轮融资 [read](https://36kr.com/p/1614824878901768)
 
-   燃烧吧！元宇宙 \| 36氪【数字时氪】微信社群活动 [read](https://36kr.com/p/1617463795953155)
+   36氪研究院 \| 2022年中国小家电及智能家居兴趣人群洞察报告 [read](https://36kr.com/p/1618963914682120)
+
+   气候变化、流行病、发展鸿沟…… 应对这些挑战我们还要做些什么？ [read](https://www.msra.cn/zh-cn/news/features/pursuing-a-resilient-and-sustainable-global-society)
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
    在科学“法师们”的眼中，科研合作有怎样的魔力？ [read](https://www.msra.cn/zh-cn/news/features/on-the-magic-of-collaboration-in-science-technology)
 
-   微软亚洲研究院副院长刘铁岩博士获选2021 ACM Fellow [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-acm-fellow)
+   继苹果之后，谷歌也要修改隐私规则了 [read](http://www.geekpark.net/news/298706)
 
-   Redmi K50 电竞版评测：用料十足的骁龙 8 Gen 1 手机，能否成为「驯龙高手」？ [read](http://www.geekpark.net/news/298268)
+   红魔 7 评测：全新骁龙 8+165W 充电器，「老派游戏品牌」如何做游戏手机？ [read](http://www.geekpark.net/news/298141)
 
-   Redmi 电竞路由器 AX5400 首发到手 549 元，2.5G 网口跨级进入千元电竞路由市场 [read](http://www.geekpark.net/news/298546)
-
-   谷歌怒砍 Stadia，为什么「云游戏」注定「没戏」 [read](http://www.geekpark.net/news/298372)
+   宁德时代的引路人，走了 [read](http://www.geekpark.net/news/298649)
 
 ### 金融类
 
-   雪球专刊丨8位基金达人的真实故事 [read](http://xueqiu.com/3746414875/211630199)
+   一篇文章教会你如何买货币基金（文末附基金推荐） [read](http://xueqiu.com/8399405506/211747531)
 
-   来福小犬爹：不会买基的投资者不是一位好的“包租公” [read](http://xueqiu.com/1876906471/211607087)
+   基金投资不可不知的硬知识：从换手率看投资风格 [read](http://xueqiu.com/8858187812/211748013)
 
-   普通投资者如何通过基金投资港股？ [read](http://xueqiu.com/2356382715/211574702)
+   真实的资本回报 [read](http://xueqiu.com/2781746060/211745414)
 
 ### 学习类
+
+   💻 Issue 295 - A Rust match made in hell [read](https://rust.libhunt.com/newsletter/295)
 
    💻 Issue 294 - Async Rust in 2022 [read](https://rust.libhunt.com/newsletter/294)
 
    💻 Issue 293 - Amazon Prime Video uses Wasm, and egui with 37,000 lines of Rust code [read](https://rust.libhunt.com/newsletter/293)
 
-   💻 Issue 292 - #\[you_can::turn_off_the_borrow_checker\] [read](https://rust.libhunt.com/newsletter/292)
+   This Week in Rust 430 [read](https://this-week-in-rust.org/blog/2022/02/16/this-week-in-rust-430/)
 
    This Week in Rust 429 [read](https://this-week-in-rust.org/blog/2022/02/09/this-week-in-rust-429/)
 
    This Week in Rust 428 [read](https://this-week-in-rust.org/blog/2022/02/02/this-week-in-rust-428/)
-
-   This Week in Rust 427 [read](https://this-week-in-rust.org/blog/2022/01/26/this-week-in-rust-427/)
 
    “一把梭：REST API 全用 POST ” [read](https://coolshell.cn/articles/22173.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Helping Budapest's cafés [read](https://www.behance.net/gallery/113535833/Helping-Budapests-cafs)
+   Stickermania character design [read](https://www.behance.net/gallery/137406651/Stickermania-character-design)
 
-   Dua Wear [read](https://www.behance.net/gallery/137278457/Dua-Wear)
+   Allente - E-Commerce Website [read](https://www.behance.net/gallery/126874599/Allente-E-Commerce-Website)
 
-   Character &amp; Illustration 10 [read](https://www.behance.net/gallery/137469583/Character-Illustration-10)
+   Compilation [read](https://www.behance.net/gallery/136947489/Compilation)
 
    Meet This Month’s Guest Curator: Huston Wilson [read](https://medium.com/behance-blog/meet-this-months-guest-curator-huston-wilson-313b75929ab3?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Nichole Barnes Marshall joins Pinterest as Global Head of Inclusion and Diversity [read](https://newsroom.pinterest.com/en/post/nichole-barnes-marshall-joins-pinterest-as-global-head-of-inclusion-and-diversity)
 
-   上万字干货！设计师如何准备简历和作品集？（提升篇） [read](https://www.uisdc.com/designer-resume-2)
+   开关、复选框和单选组件如何区别应用？看完这篇保证会！ [read](https://www.uisdc.com/switch-checkbox-radio)
 
-   Material Design 折叠屏设计指南（1）：概述 [read](https://www.uisdc.com/folding-screen-design-2)
+   Material Design 折叠屏设计指南（2）：布局 [read](https://www.uisdc.com/material-design-foldable-devices)
 
-   想借鉴高手的配色体系？试试网页取色神器 Alwane [read](https://www.uisdc.com/alwane)
+   设计自驱是伪命题？这4步让你从零开始做到设计驱动项目！ [read](https://www.uisdc.com/self-driving-design)
 
    做个“人格分裂”的研究者——质性研究中研究关系探讨 [read](https://11.146.83.18/2022/02/16/%e5%81%9a%e4%b8%aa%e4%ba%ba%e6%a0%bc%e5%88%86%e8%a3%82%e7%9a%84%e7%a0%94%e7%a9%b6%e8%80%85-%e8%b4%a8%e6%80%a7%e7%a0%94%e7%a9%b6%e4%b8%ad%e7%a0%94%e7%a9%b6%e5%85%b3/)
 
