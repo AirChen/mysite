@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FlamencoDance_EN-US9399847343_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GreatTits_EN-US6474534267_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 194 期）：悲观者正确，乐观者成功 [read](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-194.html)
+   科技爱好者周刊（第 195 期）：你做过不在乎结果的项目吗？ [read](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-195.html)
 
-   万兆家庭网络的时代 [read](http://www.ruanyifeng.com/blog/2022/02/10g-ethernet.html)
+   科技爱好者周刊（第 194 期）：悲观者正确，乐观者成功 [read](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-194.html)
 
    Factorio 的乐趣 [read](https://blog.codingnow.com/2022/02/factorio.html)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 435 期 [read](https://weekly.75.team/issue435.html)
+
    奇舞周刊第 434 期 [read](https://weekly.75.team/issue434.html)
 
    奇舞周刊第 433 期 [read](https://weekly.75.team/issue433.html)
-
-   奇舞周刊第 432 期 [read](https://weekly.75.team/issue432.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -54,11 +54,11 @@ title: "今日资讯"
 
    \[原\]字节技术年货之实践篇：微服务架构演进、全链路压测、埋点数据治理…… [read](https://blog.csdn.net/ByteDanceTech/article/details/122795074)
 
+   美团搜索中查询改写技术的探索与实践 [read](https://tech.meituan.com/2022/02/17/exploration-and-practice-of-query-rewriting-in-meituan-search.html)
+
+   美团集群调度系统的云原生实践 [read](https://tech.meituan.com/2022/02/17/kubernetes-cloudnative-practices.html)
+
    美团技术年货：1200+页电子书，覆盖前后端、算法、数据、安全、测试、顶会论文 [read](https://tech.meituan.com/2022/01/20/2022-happy-new-year.html)
-
-   DSTC10开放领域对话评估比赛冠军方法总结 [read](https://tech.meituan.com/2022/01/13/dstc10.html)
-
-   从0到1：美团端侧CDN容灾解决方案 [read](https://tech.meituan.com/2022/01/13/phoenix-cdn.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   冬奥会的雪上项目，为什么有4个大跳台？ [read](http://www.huxiu.com/article/499173.html?f=wangzhan)
+   为什么大家都说“微信读书yyds”？ [read](http://www.huxiu.com/article/499344.html?f=wangzhan)
 
-   5分钟，看懂虚拟人的千亿市场价值 [read](http://www.huxiu.com/article/498963.html?f=wangzhan)
+   2022，投资人为什么要关注“影响力”？ [read](http://www.huxiu.com/article/499461.html?f=wangzhan)
 
-   “遛弯儿大爷”王濛，当年有多强？ [read](http://www.huxiu.com/article/498971.html?f=wangzhan)
+   大众怎么就看上华为了？ [read](http://www.huxiu.com/article/499476.html?f=wangzhan)
 
-   氪星晚报丨苹果CEO库克薪酬达员工1400倍，机构建议给其降薪；Meta重大人事调整：前英国副首相将领导所有政策事务 [read](https://36kr.com/p/1618856632708609)
+   滑雪、露营、说唱、潮玩、剧本杀，新型兴趣圈你跨了几个？｜「潮流爱好」小调查 [read](https://36kr.com/p/1620770374596104)
 
-   36氪首发 \| 提供专业级助听器，「爱听科技」获数千万元A轮融资 [read](https://36kr.com/p/1614824878901768)
+   南通建成江苏省首个中近海海域80米风机5G基站；南华附二血管外科首开5G远程会诊手术 \| 36氪5G创新日报0217 [read](https://36kr.com/p/1619486699992835)
 
-   36氪研究院 \| 2022年中国小家电及智能家居兴趣人群洞察报告 [read](https://36kr.com/p/1618963914682120)
+   王濛「带飞」咪咕｜营销看点Vol.18 [read](https://36kr.com/p/1620485108397831)
 
    气候变化、流行病、发展鸿沟…… 应对这些挑战我们还要做些什么？ [read](https://www.msra.cn/zh-cn/news/features/pursuing-a-resilient-and-sustainable-global-society)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    在科学“法师们”的眼中，科研合作有怎样的魔力？ [read](https://www.msra.cn/zh-cn/news/features/on-the-magic-of-collaboration-in-science-technology)
 
-   继苹果之后，谷歌也要修改隐私规则了 [read](http://www.geekpark.net/news/298706)
+   这个「6 秒钟商店」，有让人意想不到的脑洞 [read](http://www.geekpark.net/news/298740)
 
-   红魔 7 评测：全新骁龙 8+165W 充电器，「老派游戏品牌」如何做游戏手机？ [read](http://www.geekpark.net/news/298141)
+   Redmi K50 冠军版图赏：随处可见 AMG-F1 元素，令人心动的「那抹蓝」 [read](http://www.geekpark.net/news/298713)
 
-   宁德时代的引路人，走了 [read](http://www.geekpark.net/news/298649)
+   短视频时代，音乐行业在面临变局吗？ [read](http://www.geekpark.net/news/298772)
 
 ### 金融类
 
-   一篇文章教会你如何买货币基金（文末附基金推荐） [read](http://xueqiu.com/8399405506/211747531)
+   亏钱绝不应该是卖基金的理由 [read](http://xueqiu.com/8554675668/211853808)
 
-   基金投资不可不知的硬知识：从换手率看投资风格 [read](http://xueqiu.com/8858187812/211748013)
+   一文读懂证券投资基金名字后面的ABC的区别 [read](http://xueqiu.com/5741533232/211837270)
 
-   真实的资本回报 [read](http://xueqiu.com/2781746060/211745414)
+   华安纳斯达克100全方位测评 [read](http://xueqiu.com/8959134488/211815338)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Stickermania character design [read](https://www.behance.net/gallery/137406651/Stickermania-character-design)
+   Sigilo [read](https://www.behance.net/gallery/137117661/Sigilo)
 
-   Allente - E-Commerce Website [read](https://www.behance.net/gallery/126874599/Allente-E-Commerce-Website)
+   Nike - Air Is Everything [read](https://www.behance.net/gallery/136408877/Nike-Air-Is-Everything)
 
-   Compilation [read](https://www.behance.net/gallery/136947489/Compilation)
+   INDEX [read](https://www.behance.net/gallery/111205473/INDEX)
 
    Meet This Month’s Guest Curator: Huston Wilson [read](https://medium.com/behance-blog/meet-this-months-guest-curator-huston-wilson-313b75929ab3?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Nichole Barnes Marshall joins Pinterest as Global Head of Inclusion and Diversity [read](https://newsroom.pinterest.com/en/post/nichole-barnes-marshall-joins-pinterest-as-global-head-of-inclusion-and-diversity)
 
-   开关、复选框和单选组件如何区别应用？看完这篇保证会！ [read](https://www.uisdc.com/switch-checkbox-radio)
+   含金量高！适合大学生参加的 9 个设计类比赛 [read](https://www.uisdc.com/9-design-competition-2022)
 
-   Material Design 折叠屏设计指南（2）：布局 [read](https://www.uisdc.com/material-design-foldable-devices)
+   蝙蝠侠主创教你画人物！这5门大师级课程全是免费的！ [read](https://www.uisdc.com/artstation-course)
 
-   设计自驱是伪命题？这4步让你从零开始做到设计驱动项目！ [read](https://www.uisdc.com/self-driving-design)
+   5000字干货！让界面设计更出彩的图片使用指南 [read](https://www.uisdc.com/ui-photo-guide)
 
    做个“人格分裂”的研究者——质性研究中研究关系探讨 [read](https://11.146.83.18/2022/02/16/%e5%81%9a%e4%b8%aa%e4%ba%ba%e6%a0%bc%e5%88%86%e8%a3%82%e7%9a%84%e7%a0%94%e7%a9%b6%e8%80%85-%e8%b4%a8%e6%80%a7%e7%a0%94%e7%a9%b6%e4%b8%ad%e7%a0%94%e7%a9%b6%e5%85%b3/)
 
