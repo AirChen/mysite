@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GreatTits_EN-US6474534267_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.LoganClouds_EN-US6578910655_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   为什么大家都说“微信读书yyds”？ [read](http://www.huxiu.com/article/499344.html?f=wangzhan)
+   谁耽误了奔驰电动车？ [read](http://www.huxiu.com/article/499698.html?f=wangzhan)
 
-   2022，投资人为什么要关注“影响力”？ [read](http://www.huxiu.com/article/499461.html?f=wangzhan)
+   古典“微商”，改写平民创业者命运 [read](http://www.huxiu.com/article/499643.html?f=wangzhan)
 
-   大众怎么就看上华为了？ [read](http://www.huxiu.com/article/499476.html?f=wangzhan)
+   文艺青年徐峥，如何成为资本玩家？ [read](http://www.huxiu.com/article/499627.html?f=wangzhan)
 
-   滑雪、露营、说唱、潮玩、剧本杀，新型兴趣圈你跨了几个？｜「潮流爱好」小调查 [read](https://36kr.com/p/1620770374596104)
+   本周国内融资金额超201.9亿元人民币，过亿元融资交易达23笔 \| TO B投融资周报0210-0217 [read](https://36kr.com/p/1621455253010181)
 
-   南通建成江苏省首个中近海海域80米风机5G基站；南华附二血管外科首开5G远程会诊手术 \| 36氪5G创新日报0217 [read](https://36kr.com/p/1619486699992835)
+   上海出台就医数字化2.0版；宝信软件与腾讯云达成战略合作；星宇股份与华为就智能车灯达成合作 \| 36氪大公司数字创新指南0218 [read](https://36kr.com/p/1620678389036553)
 
-   王濛「带飞」咪咕｜营销看点Vol.18 [read](https://36kr.com/p/1620485108397831)
+   工资条上被扣的医保钱，你真的会用吗？ [read](https://36kr.com/p/1620776624207363)
 
    气候变化、流行病、发展鸿沟…… 应对这些挑战我们还要做些什么？ [read](https://www.msra.cn/zh-cn/news/features/pursuing-a-resilient-and-sustainable-global-society)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    在科学“法师们”的眼中，科研合作有怎样的魔力？ [read](https://www.msra.cn/zh-cn/news/features/on-the-magic-of-collaboration-in-science-technology)
 
+   华为会卖掉「自动驾驶」吗？ [read](http://www.geekpark.net/news/298790)
+
+   微信试行「1065」工作制；58 同城回应血奴事件：未查到相关招聘信息；服务商：秘密监控员工只需 350 元 [read](http://www.geekpark.net/news/298789)
+
    这个「6 秒钟商店」，有让人意想不到的脑洞 [read](http://www.geekpark.net/news/298740)
-
-   Redmi K50 冠军版图赏：随处可见 AMG-F1 元素，令人心动的「那抹蓝」 [read](http://www.geekpark.net/news/298713)
-
-   短视频时代，音乐行业在面临变局吗？ [read](http://www.geekpark.net/news/298772)
 
 ### 金融类
 
-   亏钱绝不应该是卖基金的理由 [read](http://xueqiu.com/8554675668/211853808)
+   罚款电价对于高能耗以及工业硅的详解 [read](http://xueqiu.com/1169662543/211890192)
 
-   一文读懂证券投资基金名字后面的ABC的区别 [read](http://xueqiu.com/5741533232/211837270)
+   白马股长期低估的心理学基础 [read](http://xueqiu.com/4206051491/211856533)
 
-   华安纳斯达克100全方位测评 [read](http://xueqiu.com/8959134488/211815338)
+   “东数西算”：这是一个没有天花板的行业 [read](http://xueqiu.com/8080109502/211850870)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Sigilo [read](https://www.behance.net/gallery/137117661/Sigilo)
+   SM2 [read](https://www.behance.net/gallery/136976835/SM2)
 
-   Nike - Air Is Everything [read](https://www.behance.net/gallery/136408877/Nike-Air-Is-Everything)
+   2021 paintings - 2 [read](https://www.behance.net/gallery/137018019/2021-paintings-2)
 
-   INDEX [read](https://www.behance.net/gallery/111205473/INDEX)
+   Gledalo Exhibition - Visual Identity [read](https://www.behance.net/gallery/137547151/Gledalo-Exhibition-Visual-Identity)
 
    Meet This Month’s Guest Curator: Huston Wilson [read](https://medium.com/behance-blog/meet-this-months-guest-curator-huston-wilson-313b75929ab3?source=rss-f5272b7f3182------2)
 
