@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.LoganClouds_EN-US6578910655_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WhalesDolphins_EN-US8179813228_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   为什么说可以永远相信“葱桶组合”？ [read](http://www.huxiu.com/article/499775.html?f=wangzhan)
+
    谁耽误了奔驰电动车？ [read](http://www.huxiu.com/article/499698.html?f=wangzhan)
 
    古典“微商”，改写平民创业者命运 [read](http://www.huxiu.com/article/499643.html?f=wangzhan)
 
-   文艺青年徐峥，如何成为资本玩家？ [read](http://www.huxiu.com/article/499627.html?f=wangzhan)
+   医疗健康行业周报 \|「勤浩医药」完成数亿元B轮融资；「复向医疗」聚焦生物医学组织工程修复 [read](https://36kr.com/p/1623059199358720)
+
+   陪购师自述：2小时赚3000元，我的工作是陪你「买买买」 [read](https://36kr.com/p/1620773577094665)
 
    本周国内融资金额超201.9亿元人民币，过亿元融资交易达23笔 \| TO B投融资周报0210-0217 [read](https://36kr.com/p/1621455253010181)
-
-   上海出台就医数字化2.0版；宝信软件与腾讯云达成战略合作；星宇股份与华为就智能车灯达成合作 \| 36氪大公司数字创新指南0218 [read](https://36kr.com/p/1620678389036553)
-
-   工资条上被扣的医保钱，你真的会用吗？ [read](https://36kr.com/p/1620776624207363)
 
    气候变化、流行病、发展鸿沟…… 应对这些挑战我们还要做些什么？ [read](https://www.msra.cn/zh-cn/news/features/pursuing-a-resilient-and-sustainable-global-society)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    在科学“法师们”的眼中，科研合作有怎样的魔力？ [read](https://www.msra.cn/zh-cn/news/features/on-the-magic-of-collaboration-in-science-technology)
 
+   极客简报｜iPhone 14 内存「大」升级；大众看好华为造车；北京冬奥创造历史 [read](http://www.geekpark.net/news/298794)
+
+   冬奥中国奖牌榜第三超美国；Meta：混合现实走向市场还需数年；特斯拉中国召回超2.6万辆 [read](http://www.geekpark.net/news/298792)
+
    华为会卖掉「自动驾驶」吗？ [read](http://www.geekpark.net/news/298790)
-
-   微信试行「1065」工作制；58 同城回应血奴事件：未查到相关招聘信息；服务商：秘密监控员工只需 350 元 [read](http://www.geekpark.net/news/298789)
-
-   这个「6 秒钟商店」，有让人意想不到的脑洞 [read](http://www.geekpark.net/news/298740)
 
 ### 金融类
 
-   罚款电价对于高能耗以及工业硅的详解 [read](http://xueqiu.com/1169662543/211890192)
+   时间与变化——谈投资的真谛 [read](http://xueqiu.com/8094080648/211936562)
 
-   白马股长期低估的心理学基础 [read](http://xueqiu.com/4206051491/211856533)
+   水泥是个好行业吗? [read](http://xueqiu.com/3962407853/211937508)
 
-   “东数西算”：这是一个没有天花板的行业 [read](http://xueqiu.com/8080109502/211850870)
+   资产配置利器—雪球私募CTA策略会 [read](http://xueqiu.com/5828665454/211847457)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   SM2 [read](https://www.behance.net/gallery/136976835/SM2)
+   SANSOOIN Identity&amp;Application [read](https://www.behance.net/gallery/136906243/SANSOOIN-Identity-Application)
 
-   2021 paintings - 2 [read](https://www.behance.net/gallery/137018019/2021-paintings-2)
+   Nature &amp; Nicegirl [read](https://www.behance.net/gallery/137265961/Nature-Nicegirl)
 
-   Gledalo Exhibition - Visual Identity [read](https://www.behance.net/gallery/137547151/Gledalo-Exhibition-Visual-Identity)
+   ESPN Hype Hits [read](https://www.behance.net/gallery/137728113/ESPN-Hype-Hits)
 
    Meet This Month’s Guest Curator: Huston Wilson [read](https://medium.com/behance-blog/meet-this-months-guest-curator-huston-wilson-313b75929ab3?source=rss-f5272b7f3182------2)
 
