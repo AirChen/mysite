@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WhalesDolphins_EN-US8179813228_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.PrezMonument_EN-US6640683728_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   为什么说可以永远相信“葱桶组合”？ [read](http://www.huxiu.com/article/499775.html?f=wangzhan)
+   监控你上班时间投简历，依的什么法？ [read](http://www.huxiu.com/article/500337.html?f=wangzhan)
 
-   谁耽误了奔驰电动车？ [read](http://www.huxiu.com/article/499698.html?f=wangzhan)
+   冬奥奖牌榜第一的国家，是国产电车的试验田 [read](http://www.huxiu.com/article/500288.html?f=wangzhan)
 
-   古典“微商”，改写平民创业者命运 [read](http://www.huxiu.com/article/499643.html?f=wangzhan)
+   2022全球手机产业链：中国企业实力如何？ [read](http://www.huxiu.com/article/500224.html?f=wangzhan)
 
-   医疗健康行业周报 \|「勤浩医药」完成数亿元B轮融资；「复向医疗」聚焦生物医学组织工程修复 [read](https://36kr.com/p/1623059199358720)
+   2022，房地产科技能否让“大象转身”？谁来推掌？ [read](https://36kr.com/p/1620433769362952)
 
-   陪购师自述：2小时赚3000元，我的工作是陪你「买买买」 [read](https://36kr.com/p/1620773577094665)
+   安永：推动企业可持续发展，助力企业打造绿色竞争力 [read](https://36kr.com/p/1624750385444352)
 
-   本周国内融资金额超201.9亿元人民币，过亿元融资交易达23笔 \| TO B投融资周报0210-0217 [read](https://36kr.com/p/1621455253010181)
+   36氪独家｜快手签下欧冠版权 [read](https://36kr.com/p/1624724501165575)
 
    气候变化、流行病、发展鸿沟…… 应对这些挑战我们还要做些什么？ [read](https://www.msra.cn/zh-cn/news/features/pursuing-a-resilient-and-sustainable-global-society)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    在科学“法师们”的眼中，科研合作有怎样的魔力？ [read](https://www.msra.cn/zh-cn/news/features/on-the-magic-of-collaboration-in-science-technology)
 
-   极客简报｜iPhone 14 内存「大」升级；大众看好华为造车；北京冬奥创造历史 [read](http://www.geekpark.net/news/298794)
+   红魔 7 Pro 体验：首款屏下摄像游戏手机，方向对了 [read](http://www.geekpark.net/news/298848)
 
-   冬奥中国奖牌榜第三超美国；Meta：混合现实走向市场还需数年；特斯拉中国召回超2.6万辆 [read](http://www.geekpark.net/news/298792)
+   双减过后，一个教育创业者的自白 [read](http://www.geekpark.net/news/298798)
 
-   华为会卖掉「自动驾驶」吗？ [read](http://www.geekpark.net/news/298790)
+   伟大的三体舰队已经起航 [read](http://www.geekpark.net/news/298797)
 
 ### 金融类
 
-   时间与变化——谈投资的真谛 [read](http://xueqiu.com/8094080648/211936562)
+   持有中远海控的神奇经历 [read](http://xueqiu.com/5273564401/212008756)
 
-   水泥是个好行业吗? [read](http://xueqiu.com/3962407853/211937508)
+   公募为何没有CTA？ [read](http://xueqiu.com/6677571733/212044196)
 
-   资产配置利器—雪球私募CTA策略会 [read](http://xueqiu.com/5828665454/211847457)
+   基金研究第一步：科学的基金分类 [read](http://xueqiu.com/4778574435/212028658)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   SANSOOIN Identity&amp;Application [read](https://www.behance.net/gallery/136906243/SANSOOIN-Identity-Application)
+   Lenovo Yoga ? Series 9 [read](https://www.behance.net/gallery/134357017/Lenovo-Yoga-Series-9)
 
-   Nature &amp; Nicegirl [read](https://www.behance.net/gallery/137265961/Nature-Nicegirl)
+   Karafuu, Coffee House [read](https://www.behance.net/gallery/137789703/Karafuu-Coffee-House)
 
-   ESPN Hype Hits [read](https://www.behance.net/gallery/137728113/ESPN-Hype-Hits)
+   R A U N V E R A N [read](https://www.behance.net/gallery/130948193/R-A-U-N-V-E-R-A-N)
 
    Meet This Month’s Guest Curator: Huston Wilson [read](https://medium.com/behance-blog/meet-this-months-guest-curator-huston-wilson-313b75929ab3?source=rss-f5272b7f3182------2)
 
