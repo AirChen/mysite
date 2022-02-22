@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.PrezMonument_EN-US6640683728_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BactrianCamels_EN-US6701629967_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -36,23 +36,17 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
-   奇舞周刊第 435 期 [read](https://weekly.75.team/issue435.html)
-
-   奇舞周刊第 434 期 [read](https://weekly.75.team/issue434.html)
-
-   奇舞周刊第 433 期 [read](https://weekly.75.team/issue433.html)
-
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
    服饰3D柔性渲染调研及实践 [read](https://fed.taobao.org/blog/taofed/do71ct/fufsgh)
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]深入理解 Gradle Tooling API [read](https://blog.csdn.net/ByteDanceTech/article/details/123059368)
+
    \[原\]如何使用高阶函数编程提升代码的简洁性 [read](https://blog.csdn.net/ByteDanceTech/article/details/122974828)
 
    \[原\]一文读懂直播卡顿优化那些事儿 [read](https://blog.csdn.net/ByteDanceTech/article/details/122852655)
-
-   \[原\]字节技术年货之实践篇：微服务架构演进、全链路压测、埋点数据治理…… [read](https://blog.csdn.net/ByteDanceTech/article/details/122795074)
 
    美团搜索中查询改写技术的探索与实践 [read](https://tech.meituan.com/2022/02/17/exploration-and-practice-of-query-rewriting-in-meituan-search.html)
 
@@ -68,37 +62,37 @@ title: "今日资讯"
 
 ### 互联网类
 
-   监控你上班时间投简历，依的什么法？ [read](http://www.huxiu.com/article/500337.html?f=wangzhan)
+   电影里的声音，是如何“骗”过你的耳朵的？ [read](http://www.huxiu.com/article/500629.html?f=wangzhan)
 
-   冬奥奖牌榜第一的国家，是国产电车的试验田 [read](http://www.huxiu.com/article/500288.html?f=wangzhan)
+   一张截图何以“锤跌”腾讯2000亿？ [read](http://www.huxiu.com/article/500469.html?f=wangzhan)
 
-   2022全球手机产业链：中国企业实力如何？ [read](http://www.huxiu.com/article/500224.html?f=wangzhan)
+   算法是如何榨干我们的？ [read](http://www.huxiu.com/article/500278.html?f=wangzhan)
 
-   2022，房地产科技能否让“大象转身”？谁来推掌？ [read](https://36kr.com/p/1620433769362952)
+   国外创投新闻 \| 瑞典电动汽车公司Volta获C轮投资2.6亿美元,将用于全球首台全电动商用货车生产 [read](https://36kr.com/p/1626129144247814)
 
-   安永：推动企业可持续发展，助力企业打造绿色竞争力 [read](https://36kr.com/p/1624750385444352)
+   36氪独家 \| 蔚来进军手机行业，原美图总裁尹水军加盟负责 [read](https://36kr.com/p/1626116063344391)
 
-   36氪独家｜快手签下欧冠版权 [read](https://36kr.com/p/1624724501165575)
+   氪星晚报丨分析师称苹果在探讨折叠屏MacBook，预计2025年后推出；特朗普社交应用登苹果App Store下载量榜首；沃尔玛持续发力时尚领域，推出自有服装品牌春季系列 [read](https://36kr.com/p/1626151454799617)
+
+   你真的了解计算生物学和AI for Science吗？ [read](https://www.msra.cn/zh-cn/news/features/qbitai-ai-for-science)
 
    气候变化、流行病、发展鸿沟…… 应对这些挑战我们还要做些什么？ [read](https://www.msra.cn/zh-cn/news/features/pursuing-a-resilient-and-sustainable-global-society)
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
-   在科学“法师们”的眼中，科研合作有怎样的魔力？ [read](https://www.msra.cn/zh-cn/news/features/on-the-magic-of-collaboration-in-science-technology)
+   比亚迪「偷师」小米，车标未来一定要扁平化吗？ [read](http://www.geekpark.net/news/298876)
 
-   红魔 7 Pro 体验：首款屏下摄像游戏手机，方向对了 [read](http://www.geekpark.net/news/298848)
+   大厂 HR 的新使命 [read](http://www.geekpark.net/news/298856)
 
-   双减过后，一个教育创业者的自白 [read](http://www.geekpark.net/news/298798)
-
-   伟大的三体舰队已经起航 [read](http://www.geekpark.net/news/298797)
+   游戏工委：「2022 不发新游戏版号」消息不实；iPhone 14 开始试产；川普推自研社交应用Truth，上线即宕机 [read](http://www.geekpark.net/news/298853)
 
 ### 金融类
 
-   持有中远海控的神奇经历 [read](http://xueqiu.com/5273564401/212008756)
+   聊聊兴业银行中层持股 [read](http://xueqiu.com/8164125924/212065374)
 
-   公募为何没有CTA？ [read](http://xueqiu.com/6677571733/212044196)
+   从两本书回顾25年投资路 [read](http://xueqiu.com/8801393218/211947097)
 
-   基金研究第一步：科学的基金分类 [read](http://xueqiu.com/4778574435/212028658)
+   这只满仓黄金股的主动基金过去4年跑赢所有黄金股 [read](http://xueqiu.com/9350291617/211864270)
 
 ### 学习类
 
@@ -128,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Lenovo Yoga ? Series 9 [read](https://www.behance.net/gallery/134357017/Lenovo-Yoga-Series-9)
+   Thomas Edwards, Brand Identity [read](https://www.behance.net/gallery/137027879/Thomas-Edwards-Brand-Identity)
 
-   Karafuu, Coffee House [read](https://www.behance.net/gallery/137789703/Karafuu-Coffee-House)
+   Birds, Plants &amp; Music [read](https://www.behance.net/gallery/137900417/Birds-Plants-Music)
 
-   R A U N V E R A N [read](https://www.behance.net/gallery/130948193/R-A-U-N-V-E-R-A-N)
+   Lamborghini Time Traveller [read](https://www.behance.net/gallery/137883105/Lamborghini-Time-Traveller)
 
    Meet This Month’s Guest Curator: Huston Wilson [read](https://medium.com/behance-blog/meet-this-months-guest-curator-huston-wilson-313b75929ab3?source=rss-f5272b7f3182------2)
 
@@ -152,9 +146,9 @@ title: "今日资讯"
 
    5000字干货！让界面设计更出彩的图片使用指南 [read](https://www.uisdc.com/ui-photo-guide)
 
+   微前端框架核心技术揭秘 [read](https://11.146.83.18/2022/02/22/micro-frontend-framework/)
+
    做个“人格分裂”的研究者——质性研究中研究关系探讨 [read](https://11.146.83.18/2022/02/16/%e5%81%9a%e4%b8%aa%e4%ba%ba%e6%a0%bc%e5%88%86%e8%a3%82%e7%9a%84%e7%a0%94%e7%a9%b6%e8%80%85-%e8%b4%a8%e6%80%a7%e7%a0%94%e7%a9%b6%e4%b8%ad%e7%a0%94%e7%a9%b6%e5%85%b3/)
 
    后台审批流系统设计指南 [read](https://11.146.83.18/2022/02/08/%e5%90%8e%e5%8f%b0%e5%ae%a1%e6%89%b9%e6%b5%81%e7%b3%bb%e7%bb%9f%e8%ae%be%e8%ae%a1%e6%8c%87%e5%8d%97/)
-
-   银发青松助手 [read](https://11.146.83.18/2022/01/26/%e9%93%b6%e5%8f%91%e9%9d%92%e6%9d%be%e5%8a%a9%e6%89%8b/)
 
