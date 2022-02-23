@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BactrianCamels_EN-US6701629967_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CypressTunnel_EN-US8549840019_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -10,11 +10,11 @@ title: "今日资讯"
 
    科技爱好者周刊（第 194 期）：悲观者正确，乐观者成功 [read](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-194.html)
 
+   信息茧房 [read](https://blog.codingnow.com/2022/02/information_cocoons.html)
+
    Factorio 的乐趣 [read](https://blog.codingnow.com/2022/02/factorio.html)
 
    支持惰性展开和差异更新的 Lua 表 [read](https://blog.codingnow.com/2022/01/lua_datatree.html)
-
-   我们需要一个怎样的动画模块 [read](https://blog.codingnow.com/2022/01/animation.html)
 
    一个付费 chrome 插件的一生 [read](https://blog.t9t.io/star-history-2021-01-21/)
 
@@ -35,6 +35,12 @@ title: "今日资讯"
    yield 学习 [read](http://www.alloyteam.com/2021/03/15427/)
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
+
+   奇舞周刊第 435 期 [read](https://weekly.75.team/issue435.html)
+
+   奇舞周刊第 434 期 [read](https://weekly.75.team/issue434.html)
+
+   奇舞周刊第 433 期 [read](https://weekly.75.team/issue433.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -62,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   电影里的声音，是如何“骗”过你的耳朵的？ [read](http://www.huxiu.com/article/500629.html?f=wangzhan)
+   数据治理：自动驾驶汽车上路必备 [read](http://www.huxiu.com/article/501027.html?f=wangzhan)
 
-   一张截图何以“锤跌”腾讯2000亿？ [read](http://www.huxiu.com/article/500469.html?f=wangzhan)
+   车企造手机，复仇之外的一盘大棋 [read](http://www.huxiu.com/article/501002.html?f=wangzhan)
 
-   算法是如何榨干我们的？ [read](http://www.huxiu.com/article/500278.html?f=wangzhan)
+   喜剧热潮迭代，谁在造浪？ [read](http://www.huxiu.com/article/500707.html?f=wangzhan)
 
-   国外创投新闻 \| 瑞典电动汽车公司Volta获C轮投资2.6亿美元,将用于全球首台全电动商用货车生产 [read](https://36kr.com/p/1626129144247814)
+   业绩快报｜唯品会2021年营收达1171亿，核心SVIP活跃用户数增50% [read](https://36kr.com/p/1627635970455300)
 
-   36氪独家 \| 蔚来进军手机行业，原美图总裁尹水军加盟负责 [read](https://36kr.com/p/1626116063344391)
+   通过SPAC再破局，开源数据库厂商MariaDB的新征程 [read](https://36kr.com/p/1627332759156225)
 
-   氪星晚报丨分析师称苹果在探讨折叠屏MacBook，预计2025年后推出；特朗普社交应用登苹果App Store下载量榜首；沃尔玛持续发力时尚领域，推出自有服装品牌春季系列 [read](https://36kr.com/p/1626151454799617)
+   氪星晚报｜字节跳动证实28岁员工猝死消息：吴同学已不幸离世；杨国福向港交所提交上市申请书；为抢占短视频市场，Meta向全球Facebook用户开放Reels功能 [read](https://36kr.com/p/1627526959249152)
 
    你真的了解计算生物学和AI for Science吗？ [read](https://www.msra.cn/zh-cn/news/features/qbitai-ai-for-science)
 
@@ -80,19 +86,19 @@ title: "今日资讯"
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
-   比亚迪「偷师」小米，车标未来一定要扁平化吗？ [read](http://www.geekpark.net/news/298876)
+   腾讯、字节、阿里们，正在缩回「探索」的手 [read](http://www.geekpark.net/news/298949)
 
-   大厂 HR 的新使命 [read](http://www.geekpark.net/news/298856)
+   川普推出社交应用Truth，他能让社交媒体「再次伟大」吗？ [read](http://www.geekpark.net/news/298889)
 
-   游戏工委：「2022 不发新游戏版号」消息不实；iPhone 14 开始试产；川普推自研社交应用Truth，上线即宕机 [read](http://www.geekpark.net/news/298853)
+   主播「驴嫂」偷税被罚 6000 万封号；索尼曝 PlayStation VR2 外观；韦伯太空望远镜或可检测外星文明 \| 极客早知道 [read](http://www.geekpark.net/news/298892)
 
 ### 金融类
 
+   这家私募“养老基金”，业绩曲线有点惊艳 [read](http://xueqiu.com/6742000147/212257769)
+
+   估值探底！银保地三傻能够价值回归吗？ [read](http://xueqiu.com/1632743930/212137586)
+
    聊聊兴业银行中层持股 [read](http://xueqiu.com/8164125924/212065374)
-
-   从两本书回顾25年投资路 [read](http://xueqiu.com/8801393218/211947097)
-
-   这只满仓黄金股的主动基金过去4年跑赢所有黄金股 [read](http://xueqiu.com/9350291617/211864270)
 
 ### 学习类
 
@@ -122,17 +128,17 @@ title: "今日资讯"
 
 ### 设计类
 
-   Thomas Edwards, Brand Identity [read](https://www.behance.net/gallery/137027879/Thomas-Edwards-Brand-Identity)
+   BlueBenx [read](https://www.behance.net/gallery/106926043/BlueBenx)
 
-   Birds, Plants &amp; Music [read](https://www.behance.net/gallery/137900417/Birds-Plants-Music)
+   Furla - Re Candy [read](https://www.behance.net/gallery/138009679/Furla-Re-Candy)
 
-   Lamborghini Time Traveller [read](https://www.behance.net/gallery/137883105/Lamborghini-Time-Traveller)
+   Branding - Baby Q [read](https://www.behance.net/gallery/134873533/Branding-Baby-Q)
+
+   Drawing History with Wiki Unseen [read](https://medium.com/behance-blog/drawing-history-with-wiki-unseen-5b8e35bfd8a3?source=rss-f5272b7f3182------2)
 
    Meet This Month’s Guest Curator: Huston Wilson [read](https://medium.com/behance-blog/meet-this-months-guest-curator-huston-wilson-313b75929ab3?source=rss-f5272b7f3182------2)
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
-
-   Creatives Resolutions for 2022 [read](https://medium.com/behance-blog/creatives-resolutions-for-2022-b9db323f8fea?source=rss-f5272b7f3182------2)
 
    Pinterest Celebrates Black History Month with Soul Food: Nourish Your Soul [read](https://newsroom.pinterest.com/en/post/pinterest-celebrates-black-history-month-with-soul-food-nourish-your-soul)
 
