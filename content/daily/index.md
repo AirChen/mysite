@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CypressTunnel_EN-US8549840019_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CrystalCave_EN-US8679086426_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]自动拦截 50% crash，字节自研 Fastbot 如何助力今日头条稳定性测试 [read](https://blog.csdn.net/ByteDanceTech/article/details/123102759)
+
    \[原\]深入理解 Gradle Tooling API [read](https://blog.csdn.net/ByteDanceTech/article/details/123059368)
 
    \[原\]如何使用高阶函数编程提升代码的简洁性 [read](https://blog.csdn.net/ByteDanceTech/article/details/122974828)
-
-   \[原\]一文读懂直播卡顿优化那些事儿 [read](https://blog.csdn.net/ByteDanceTech/article/details/122852655)
 
    美团搜索中查询改写技术的探索与实践 [read](https://tech.meituan.com/2022/02/17/exploration-and-practice-of-query-rewriting-in-meituan-search.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   数据治理：自动驾驶汽车上路必备 [read](http://www.huxiu.com/article/501027.html?f=wangzhan)
+   杨国福等10余家餐企竞相IPO，餐饮上市潮来了？ [read](http://www.huxiu.com/article/501290.html?f=wangzhan)
 
-   车企造手机，复仇之外的一盘大棋 [read](http://www.huxiu.com/article/501002.html?f=wangzhan)
+   新能源车的遮羞布，快被扯干净了 [read](http://www.huxiu.com/article/501393.html?f=wangzhan)
 
-   喜剧热潮迭代，谁在造浪？ [read](http://www.huxiu.com/article/500707.html?f=wangzhan)
+   “妈系”婚姻，也可以很幸福 [read](http://www.huxiu.com/article/501296.html?f=wangzhan)
 
-   业绩快报｜唯品会2021年营收达1171亿，核心SVIP活跃用户数增50% [read](https://36kr.com/p/1627635970455300)
+   最前线丨OPPO Find X5系列发布：首次搭载自研NPU芯片，3999元起售 [read](https://36kr.com/p/1629170567116553)
 
-   通过SPAC再破局，开源数据库厂商MariaDB的新征程 [read](https://36kr.com/p/1627332759156225)
+   氪星晚报｜腾讯报告计划到2030年实现碳中和；J&T极兔速递进军拉丁美洲市场，在墨西哥起网运营；Meta正在为元宇宙研发AI语音助手 [read](https://36kr.com/p/1628933107955462)
 
-   氪星晚报｜字节跳动证实28岁员工猝死消息：吴同学已不幸离世；杨国福向港交所提交上市申请书；为抢占短视频市场，Meta向全球Facebook用户开放Reels功能 [read](https://36kr.com/p/1627526959249152)
+   业绩快报 \| 网易2021四季度及全年业绩发布，全年净收入 876 亿元人民币 [read](https://36kr.com/p/1628919207802369)
 
    你真的了解计算生物学和AI for Science吗？ [read](https://www.msra.cn/zh-cn/news/features/qbitai-ai-for-science)
 
@@ -86,33 +86,33 @@ title: "今日资讯"
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
-   腾讯、字节、阿里们，正在缩回「探索」的手 [read](http://www.geekpark.net/news/298949)
+   OPPO Find X5 Pro 评测：首发马里亚纳 X 自研芯片，安卓也有了看齐 iPhone 的视频能力 [read](http://www.geekpark.net/news/298993)
 
-   川普推出社交应用Truth，他能让社交媒体「再次伟大」吗？ [read](http://www.geekpark.net/news/298889)
+   OPPO Pad 评测：硬件无短板，系统还算第一梯队吗？ [read](http://www.geekpark.net/news/299008)
 
-   主播「驴嫂」偷税被罚 6000 万封号；索尼曝 PlayStation VR2 外观；韦伯太空望远镜或可检测外星文明 \| 极客早知道 [read](http://www.geekpark.net/news/298892)
+   「上云」之后，企业数字化的下一步是开源 [read](http://www.geekpark.net/news/299006)
 
 ### 金融类
 
-   这家私募“养老基金”，业绩曲线有点惊艳 [read](http://xueqiu.com/6742000147/212257769)
+   再谈白酒周期 [read](http://xueqiu.com/7252315546/212312193)
 
-   估值探底！银保地三傻能够价值回归吗？ [read](http://xueqiu.com/1632743930/212137586)
+   阿里的关键是客户管理收入 [read](http://xueqiu.com/2107541144/212390888)
 
-   聊聊兴业银行中层持股 [read](http://xueqiu.com/8164125924/212065374)
+   挖到1只“稳增长”方向优更优的基金！ [read](http://xueqiu.com/2217395043/212368522)
 
 ### 学习类
+
+   💻 Issue 296 - rust-analyzer joins the Rust organization! \| Rust Blog [read](https://rust.libhunt.com/newsletter/296)
 
    💻 Issue 295 - A Rust match made in hell [read](https://rust.libhunt.com/newsletter/295)
 
    💻 Issue 294 - Async Rust in 2022 [read](https://rust.libhunt.com/newsletter/294)
 
-   💻 Issue 293 - Amazon Prime Video uses Wasm, and egui with 37,000 lines of Rust code [read](https://rust.libhunt.com/newsletter/293)
+   This Week in Rust 431 [read](https://this-week-in-rust.org/blog/2022/02/23/this-week-in-rust-431/)
 
    This Week in Rust 430 [read](https://this-week-in-rust.org/blog/2022/02/16/this-week-in-rust-430/)
 
    This Week in Rust 429 [read](https://this-week-in-rust.org/blog/2022/02/09/this-week-in-rust-429/)
-
-   This Week in Rust 428 [read](https://this-week-in-rust.org/blog/2022/02/02/this-week-in-rust-428/)
 
    “一把梭：REST API 全用 POST ” [read](https://coolshell.cn/articles/22173.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   BlueBenx [read](https://www.behance.net/gallery/106926043/BlueBenx)
+   Abstrud 1 [read](https://www.behance.net/gallery/137863251/Abstrud-1)
 
-   Furla - Re Candy [read](https://www.behance.net/gallery/138009679/Furla-Re-Candy)
+   PLASTICPeople Sample Box 2022 [read](https://www.behance.net/gallery/137967269/PLASTICPeople-Sample-Box-2022)
 
-   Branding - Baby Q [read](https://www.behance.net/gallery/134873533/Branding-Baby-Q)
+   The World is Your Canvas / Adobe Photoshop [read](https://www.behance.net/gallery/137714663/The-World-is-Your-Canvas-Adobe-Photoshop)
 
    Drawing History with Wiki Unseen [read](https://medium.com/behance-blog/drawing-history-with-wiki-unseen-5b8e35bfd8a3?source=rss-f5272b7f3182------2)
 
