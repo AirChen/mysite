@@ -2,19 +2,19 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CrystalCave_EN-US8679086426_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.LegacyMural_EN-US8368318184_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
+   科技爱好者周刊（第 196 期）：掌机的未来 [read](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html)
+
    科技爱好者周刊（第 195 期）：你做过不在乎结果的项目吗？ [read](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-195.html)
 
-   科技爱好者周刊（第 194 期）：悲观者正确，乐观者成功 [read](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-194.html)
+   ECS 中的对象引用 [read](https://blog.codingnow.com/2022/02/ecs_entity_reference.html)
 
    信息茧房 [read](https://blog.codingnow.com/2022/02/information_cocoons.html)
 
    Factorio 的乐趣 [read](https://blog.codingnow.com/2022/02/factorio.html)
-
-   支持惰性展开和差异更新的 Lua 表 [read](https://blog.codingnow.com/2022/01/lua_datatree.html)
 
    一个付费 chrome 插件的一生 [read](https://blog.t9t.io/star-history-2021-01-21/)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 436 期 [read](https://weekly.75.team/issue436.html)
+
    奇舞周刊第 435 期 [read](https://weekly.75.team/issue435.html)
 
    奇舞周刊第 434 期 [read](https://weekly.75.team/issue434.html)
-
-   奇舞周刊第 433 期 [read](https://weekly.75.team/issue433.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   新综艺们裸播到底，赞助商都去哪儿了？ [read](http://www.huxiu.com/article/501576.html?f=wangzhan)
+
    杨国福等10余家餐企竞相IPO，餐饮上市潮来了？ [read](http://www.huxiu.com/article/501290.html?f=wangzhan)
 
    新能源车的遮羞布，快被扯干净了 [read](http://www.huxiu.com/article/501393.html?f=wangzhan)
 
-   “妈系”婚姻，也可以很幸福 [read](http://www.huxiu.com/article/501296.html?f=wangzhan)
+   最前线｜京东将完成对达达集团股份增持，继续加码即时零售 [read](https://36kr.com/p/1628930769597952)
 
-   最前线丨OPPO Find X5系列发布：首次搭载自研NPU芯片，3999元起售 [read](https://36kr.com/p/1629170567116553)
+   「香菜」流量进了谁的口袋？｜营销观察 [read](https://36kr.com/p/1630439463565056)
 
-   氪星晚报｜腾讯报告计划到2030年实现碳中和；J&T极兔速递进军拉丁美洲市场，在墨西哥起网运营；Meta正在为元宇宙研发AI语音助手 [read](https://36kr.com/p/1628933107955462)
-
-   业绩快报 \| 网易2021四季度及全年业绩发布，全年净收入 876 亿元人民币 [read](https://36kr.com/p/1628919207802369)
+   兴趣电商时代，新锐食饮品牌如何突出重围？ [read](https://36kr.com/p/1628862860031497)
 
    你真的了解计算生物学和AI for Science吗？ [read](https://www.msra.cn/zh-cn/news/features/qbitai-ai-for-science)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
-   OPPO Find X5 Pro 评测：首发马里亚纳 X 自研芯片，安卓也有了看齐 iPhone 的视频能力 [read](http://www.geekpark.net/news/298993)
+   是什么力量，让阿里云腾讯云和火山引擎走到了一起 [read](http://www.geekpark.net/news/299077)
 
-   OPPO Pad 评测：硬件无短板，系统还算第一梯队吗？ [read](http://www.geekpark.net/news/299008)
+   阿里的挑战，不止反垄断 [read](http://www.geekpark.net/news/299064)
 
-   「上云」之后，企业数字化的下一步是开源 [read](http://www.geekpark.net/news/299006)
+   快手上的长视频播放数据曝光，新趋势正在凸显 [read](http://www.geekpark.net/news/299063)
 
 ### 金融类
 
-   再谈白酒周期 [read](http://xueqiu.com/7252315546/212312193)
+   高点买入的基金，什么时候能回本？ [read](http://xueqiu.com/7887458466/212462978)
 
-   阿里的关键是客户管理收入 [read](http://xueqiu.com/2107541144/212390888)
+   指增还是指减？ [read](http://xueqiu.com/4778574435/212481280)
 
-   挖到1只“稳增长”方向优更优的基金！ [read](http://xueqiu.com/2217395043/212368522)
+   简单说一下CCFI [read](http://xueqiu.com/6395425170/212474831)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Abstrud 1 [read](https://www.behance.net/gallery/137863251/Abstrud-1)
+   AREA Brand Identity Design [read](https://www.behance.net/gallery/137381861/AREA-Brand-Identity-Design)
 
-   PLASTICPeople Sample Box 2022 [read](https://www.behance.net/gallery/137967269/PLASTICPeople-Sample-Box-2022)
+   Bigger is Better [read](https://www.behance.net/gallery/137335803/Bigger-is-Better)
 
-   The World is Your Canvas / Adobe Photoshop [read](https://www.behance.net/gallery/137714663/The-World-is-Your-Canvas-Adobe-Photoshop)
+   Logotypes 2021/22 [read](https://www.behance.net/gallery/138098775/Logotypes-202122)
 
    Drawing History with Wiki Unseen [read](https://medium.com/behance-blog/drawing-history-with-wiki-unseen-5b8e35bfd8a3?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Nichole Barnes Marshall joins Pinterest as Global Head of Inclusion and Diversity [read](https://newsroom.pinterest.com/en/post/nichole-barnes-marshall-joins-pinterest-as-global-head-of-inclusion-and-diversity)
 
-   含金量高！适合大学生参加的 9 个设计类比赛 [read](https://www.uisdc.com/9-design-competition-2022)
+   免费用上手快！快来试试这款 3D 设计神器 MagicaCSG [read](https://www.uisdc.com/magicacsg)
 
-   蝙蝠侠主创教你画人物！这5门大师级课程全是免费的！ [read](https://www.uisdc.com/artstation-course)
+   从大厂收集了1000张配图，总结出的作品集套路：滴滴篇 [read](https://www.uisdc.com/portfolio-design-routines)
 
-   5000字干货！让界面设计更出彩的图片使用指南 [read](https://www.uisdc.com/ui-photo-guide)
+   从3个方面，详细分析B端和C端的差异化 [read](https://www.uisdc.com/b-and-c-difference)
 
    微前端框架核心技术揭秘 [read](https://11.146.83.18/2022/02/22/micro-frontend-framework/)
 
