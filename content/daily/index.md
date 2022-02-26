@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.LegacyMural_EN-US8368318184_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.LamplughGlacier_EN-US2202288609_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   新综艺们裸播到底，赞助商都去哪儿了？ [read](http://www.huxiu.com/article/501576.html?f=wangzhan)
+   奶茶的泡沫，终于要破了 [read](http://www.huxiu.com/article/501905.html?f=wangzhan)
 
-   杨国福等10余家餐企竞相IPO，餐饮上市潮来了？ [read](http://www.huxiu.com/article/501290.html?f=wangzhan)
+   薇娅雪梨借“徒弟们”复出，会重塑直播市场格局吗？ [read](http://www.huxiu.com/article/501784.html?f=wangzhan)
 
-   新能源车的遮羞布，快被扯干净了 [read](http://www.huxiu.com/article/501393.html?f=wangzhan)
+   《人世间》细思极恐的细节：在一地鸡毛中揭开女性之困 [read](http://www.huxiu.com/article/501860.html?f=wangzhan)
 
-   最前线｜京东将完成对达达集团股份增持，继续加码即时零售 [read](https://36kr.com/p/1628930769597952)
+   36氪独家 \| TikTok电商 2021年GMV最高近60亿，今年目标翻一倍 [read](https://36kr.com/p/1626056933176837)
 
-   「香菜」流量进了谁的口袋？｜营销观察 [read](https://36kr.com/p/1630439463565056)
+   西点药业上市三天涨170%，市盈率百倍！销售费用率57%的东北老牌药企回春了？\| IPO观察 [read](https://36kr.com/p/1631620979275273)
 
-   兴趣电商时代，新锐食饮品牌如何突出重围？ [read](https://36kr.com/p/1628862860031497)
+   最前线 \| 汇天网络与华为数字能源签约，将共同建立零碳数据中心 [read](https://36kr.com/p/1631530282006023)
 
    你真的了解计算生物学和AI for Science吗？ [read](https://www.msra.cn/zh-cn/news/features/qbitai-ai-for-science)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
-   是什么力量，让阿里云腾讯云和火山引擎走到了一起 [read](http://www.geekpark.net/news/299077)
+   iQOO 9 Pro 赛道版图赏：全新芳纶纤维材质 3D 后盖，好看还舒服 [read](http://www.geekpark.net/news/299007)
 
-   阿里的挑战，不止反垄断 [read](http://www.geekpark.net/news/299064)
+   美军 20 年前的「军事元宇宙」，下线了 [read](http://www.geekpark.net/news/298974)
 
-   快手上的长视频播放数据曝光，新趋势正在凸显 [read](http://www.geekpark.net/news/299063)
+   百度多业务线减员；华为鸿蒙汽车「问界M5」曝定价 24.9 万元起；Steam 掌机开售，2500 元起 [read](http://www.geekpark.net/news/299078)
 
 ### 金融类
 
-   高点买入的基金，什么时候能回本？ [read](http://xueqiu.com/7887458466/212462978)
+   主流电商平台复盘：阿里电商压力大吗？ [read](http://xueqiu.com/2893497429/211940638)
 
-   指增还是指减？ [read](http://xueqiu.com/4778574435/212481280)
+   这些年我与银行发生过的零售贷款业务总结 [read](http://xueqiu.com/8534614057/212514297)
 
-   简单说一下CCFI [read](http://xueqiu.com/6395425170/212474831)
+   手把手教你选择债券基金 [read](http://xueqiu.com/8399405506/212509857)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   AREA Brand Identity Design [read](https://www.behance.net/gallery/137381861/AREA-Brand-Identity-Design)
+   Kobo [read](https://www.behance.net/gallery/138022673/Kobo)
 
-   Bigger is Better [read](https://www.behance.net/gallery/137335803/Bigger-is-Better)
+   Coffee Beans - Illustration [read](https://www.behance.net/gallery/135897439/Coffee-Beans-Illustration)
 
-   Logotypes 2021/22 [read](https://www.behance.net/gallery/138098775/Logotypes-202122)
+   Technical City - brand identity [read](https://www.behance.net/gallery/136470179/Technical-City-brand-identity)
 
    Drawing History with Wiki Unseen [read](https://medium.com/behance-blog/drawing-history-with-wiki-unseen-5b8e35bfd8a3?source=rss-f5272b7f3182------2)
 
