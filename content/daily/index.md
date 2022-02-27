@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.LamplughGlacier_EN-US2202288609_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.IPBDMom_EN-US5866127837_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   不谈刑侦，国产悬疑还能行吗？ [read](http://www.huxiu.com/article/502154.html?f=wangzhan)
+
+   李想：十年以后，做成苹果水准 [read](http://www.huxiu.com/article/501963.html?f=wangzhan)
+
    奶茶的泡沫，终于要破了 [read](http://www.huxiu.com/article/501905.html?f=wangzhan)
 
-   薇娅雪梨借“徒弟们”复出，会重塑直播市场格局吗？ [read](http://www.huxiu.com/article/501784.html?f=wangzhan)
+   焦点分析｜Keep不是健身App [read](https://36kr.com/p/1631332297405959)
 
-   《人世间》细思极恐的细节：在一地鸡毛中揭开女性之困 [read](http://www.huxiu.com/article/501860.html?f=wangzhan)
+   医疗健康行业周报 \|「德康医疗」完成5亿元B轮融资；丁香园李天天谈互联网医疗 [read](https://36kr.com/p/1633242342487559)
 
-   36氪独家 \| TikTok电商 2021年GMV最高近60亿，今年目标翻一倍 [read](https://36kr.com/p/1626056933176837)
-
-   西点药业上市三天涨170%，市盈率百倍！销售费用率57%的东北老牌药企回春了？\| IPO观察 [read](https://36kr.com/p/1631620979275273)
-
-   最前线 \| 汇天网络与华为数字能源签约，将共同建立零碳数据中心 [read](https://36kr.com/p/1631530282006023)
+   为了营销新品，消费品牌都开始做游戏了｜营销看点Vol.19 [read](https://36kr.com/p/1632997581321991)
 
    你真的了解计算生物学和AI for Science吗？ [read](https://www.msra.cn/zh-cn/news/features/qbitai-ai-for-science)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
-   iQOO 9 Pro 赛道版图赏：全新芳纶纤维材质 3D 后盖，好看还舒服 [read](http://www.geekpark.net/news/299007)
+   一加 10 Pro 胖达白至尊版图赏：很干净的白色，还升级了超大存储组合 [read](http://www.geekpark.net/news/299061)
 
-   美军 20 年前的「军事元宇宙」，下线了 [read](http://www.geekpark.net/news/298974)
+   极客简报｜iPhone 14 打孔药丸全都有；联发科终有扬眉吐气时；人民日报批阅读全文跳转下载 [read](http://www.geekpark.net/news/299087)
 
-   百度多业务线减员；华为鸿蒙汽车「问界M5」曝定价 24.9 万元起；Steam 掌机开售，2500 元起 [read](http://www.geekpark.net/news/299078)
+   14 年前「洗劫」欧洲资本的保时捷，要在欧洲上市了 [read](http://www.geekpark.net/news/299086)
 
 ### 金融类
 
-   主流电商平台复盘：阿里电商压力大吗？ [read](http://xueqiu.com/2893497429/211940638)
+   盘点那些沪深300增强型均衡选手 [read](http://xueqiu.com/9371934674/212569936)
 
-   这些年我与银行发生过的零售贷款业务总结 [read](http://xueqiu.com/8534614057/212514297)
+   这些重仓坚守腾讯阿里的基金经理，在想什么？ [read](http://xueqiu.com/1489509056/212519233)
 
-   手把手教你选择债券基金 [read](http://xueqiu.com/8399405506/212509857)
+   公募小败局：一场事先张扬的新发基金溃败 [read](http://xueqiu.com/4573323809/212535847)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Kobo [read](https://www.behance.net/gallery/138022673/Kobo)
+   Kata Kita [read](https://www.behance.net/gallery/138048271/Kata-Kita)
 
-   Coffee Beans - Illustration [read](https://www.behance.net/gallery/135897439/Coffee-Beans-Illustration)
+   random drawings 2022 [read](https://www.behance.net/gallery/138262501/random-drawings-2022)
 
-   Technical City - brand identity [read](https://www.behance.net/gallery/136470179/Technical-City-brand-identity)
+   Art and literature at lake constance. ? Exhibition [read](https://www.behance.net/gallery/136648693/Art-and-literature-at-lake-constance-Exhibition)
 
    Drawing History with Wiki Unseen [read](https://medium.com/behance-blog/drawing-history-with-wiki-unseen-5b8e35bfd8a3?source=rss-f5272b7f3182------2)
 
