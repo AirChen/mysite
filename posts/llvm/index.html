@@ -1,9 +1,8 @@
 <!doctype html><html lang=zh-ch>
 <head>
-<title>LLVM 使用手册 // AirChen Blog</title>
-<link rel="shortcut icon" href=pikachu.ico>
+<title>LLVM 使用手册 // AirChen Blog</title><link rel="shortcut icon" href=pikachu.ico>
 <meta charset=utf-8>
-<meta name=generator content="Hugo 0.92.2">
+<meta name=generator content="Hugo 0.93.0">
 <meta name=viewport content="width=device-width,initial-scale=1">
 <meta name=author content="AirChen">
 <meta name=description content>
@@ -27,143 +26,75 @@ clang -c -emit-llvm -Xclang -disable-O0-optnone const.c -o const.bc llvm tools �
 <meta property="og:url" content="https://blog.airchen-space.top/posts/llvm/"><meta property="article:section" content="posts">
 <meta property="article:published_time" content="2020-02-09T17:19:51+08:00">
 <meta property="article:modified_time" content="2020-02-09T17:19:51+08:00">
-</head>
-<body>
+</head><body>
 <header class=app-header>
 <a href=https://blog.airchen-space.top/><img class=app-header-avatar src=/log.jpeg alt=AirChen></a>
-<h1>AirChen Blog</h1>
-<nav class=app-header-menu>
+<h1>AirChen Blog</h1><nav class=app-header-menu>
 <a class=app-header-menu-item href=/>Home</a>
 -
 <a class=app-header-menu-item href=/daily/>Tags</a>
 -
 <a class=app-header-menu-item href=/about/>About</a>
-</nav>
-<p>以最放松的心态对待一切艰难</p>
-<div class=app-header-social>
+</nav><p>以最放松的心态对待一切艰难</p><div class=app-header-social>
 <a href=https://github.com/AirChen target=_blank rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github"><title>My Github</title><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37.0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44.0 0020 4.77 5.07 5.07.0 0019.91 1S18.73.65 16 2.48a13.38 13.38.0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07.0 005 4.77 5.44 5.44.0 003.5 8.55c0 5.42 3.3 6.61 6.44 7A3.37 3.37.0 009 18.13V22"/></svg>
 </a>
 <a href=renzhichen2012@163.com target=_blank rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-mail"><title>My Email</title><path d="M4 4h16c1.1.0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1.0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
 </a>
-</div>
-</header>
-<main class=app-container>
+</div></header><main class=app-container>
 <article class=post>
 <header class=post-header>
-<h1 class=post-title>LLVM 使用手册</h1>
-<div class=post-meta>
+<h1 class=post-title>LLVM 使用手册</h1><div class=post-meta>
 <div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar"><title>calendar</title><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
 Feb 9, 2020
-</div>
-<div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock"><title>clock</title><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+</div><div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock"><title>clock</title><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
 2 min read
-</div>
-</div>
-</header>
-<div class=post-content>
-<h3 id=简介>简介</h3>
-<p>LLVM 是一个发展中的前言编辑器技术框架，它易于扩展并设计成多个库的形式，可以为编译器开发者提供流畅的体验，并能使编译器开发所涉及的学习过程变得非常流畅。</p>
-<h4 id=llvm-架构特性>LLVM 架构特性</h4>
-<ol>
-<li>C++ 语言实现</li>
-<li>前端与后端分离，支持多种前端和后端，使用中间代码 IR 进行衔接</li>
-</ol>
-<p><img src=images/frame_llvm.png alt="LLVM 架构组成"></p>
-<ol start=3>
-<li>第一个 Release 版本发布于 2003 年，代码开源</li>
-<li>提供了很多工具用于编译和优化代码</li>
-</ol>
-<p><img src=images/tools_llvm.png alt="LLVM 工具集"></p>
-<ol start=5>
-<li>与 GCC 相比，编译出的程序运行效率更高</li>
-</ol>
-<h3 id=tools-使用>Tools 使用</h3>
-<p>LLVM 的一些优化和绘图都针对 bitcode 文件，这里介绍与之相关的工具使用</p>
-<p>从 源文件 生成 bitcode 文件</p>
-<pre tabindex=0><code>clang -c -emit-llvm const.c -o const.bc
-</code></pre><p>clang 是 LLVM 的前端编译工具，可以用它来生成目标文件，这个指令将 .c 代码生成 .bc 文件.</p>
-<p>warning:
-使用这个命令的时候会自动带有 -O0 级别的优化（新版本中），可以禁止它，<a href="https://stackoverflow.com/questions/46513801/llvm-opt-mem2reg-has-no-effect?noredirect=1">参考</a></p>
-<pre tabindex=0><code>clang -c -emit-llvm -Xclang -disable-O0-optnone const.c -o const.bc    
+</div></div></header><div class=post-content>
+<h3 id=简介>简介</h3><p>LLVM 是一个发展中的前言编辑器技术框架，它易于扩展并设计成多个库的形式，可以为编译器开发者提供流畅的体验，并能使编译器开发所涉及的学习过程变得非常流畅。</p><h4 id=llvm-架构特性>LLVM 架构特性</h4><ol>
+<li>C++ 语言实现</li><li>前端与后端分离，支持多种前端和后端，使用中间代码 IR 进行衔接</li></ol><p><img src=images/frame_llvm.png alt="LLVM 架构组成"></p><ol start=3>
+<li>第一个 Release 版本发布于 2003 年，代码开源</li><li>提供了很多工具用于编译和优化代码</li></ol><p><img src=images/tools_llvm.png alt="LLVM 工具集"></p><ol start=5>
+<li>与 GCC 相比，编译出的程序运行效率更高</li></ol><h3 id=tools-使用>Tools 使用</h3><p>LLVM 的一些优化和绘图都针对 bitcode 文件，这里介绍与之相关的工具使用</p><p>从 源文件 生成 bitcode 文件</p><pre tabindex=0><code>clang -c -emit-llvm const.c -o const.bc
+</code></pre><p>clang 是 LLVM 的前端编译工具，可以用它来生成目标文件，这个指令将 .c 代码生成 .bc 文件.</p><p>warning:
+使用这个命令的时候会自动带有 -O0 级别的优化（新版本中），可以禁止它，<a href="https://stackoverflow.com/questions/46513801/llvm-opt-mem2reg-has-no-effect?noredirect=1">参考</a></p><pre tabindex=0><code>clang -c -emit-llvm -Xclang -disable-O0-optnone const.c -o const.bc    
 </code></pre><p>llvm tools 提供了产生 cfg callgraph 等图片参数的工具（opt），注意，不会自己生成图片，还需要工具（如：graphviz MacOS下安装 brew install graphviz）
-cfg 图</p>
-<pre tabindex=0><code>opt –view-cfg const.bc
-</code></pre><p>call 图</p>
-<pre tabindex=0><code>opt -view-callgraph file.bc
+cfg 图</p><pre tabindex=0><code>opt –view-cfg const.bc
+</code></pre><p>call 图</p><pre tabindex=0><code>opt -view-callgraph file.bc
 </code></pre><p>中间代码优化
-用 opt ，还可以调用 LLVM 提供的优化器对 bitcode 文件进行代码优化</p>
-<pre tabindex=0><code>opt -mem2reg const.bc -o const.reg.bc
+用 opt ，还可以调用 LLVM 提供的优化器对 bitcode 文件进行代码优化</p><pre tabindex=0><code>opt -mem2reg const.bc -o const.reg.bc
 </code></pre><p>-constprop 临时变量
 -early-cse 消除公共部分
-运行 help ，可以查看 LLVM 提供的优化器</p>
-<pre tabindex=0><code>opt -help
-</code></pre><p>-load 可以加载自定义的优化器（或其他分析器），如</p>
-<pre tabindex=0><code>opt -load LLVMCountOp.dylib -opCounter file.bc -o file.oc.bc
+运行 help ，可以查看 LLVM 提供的优化器</p><pre tabindex=0><code>opt -help
+</code></pre><p>-load 可以加载自定义的优化器（或其他分析器），如</p><pre tabindex=0><code>opt -load LLVMCountOp.dylib -opCounter file.bc -o file.oc.bc
 opt -load LLVMCountOp.dylib -help
-</code></pre><p>-opCounter LLVMCountOp.dylib 里面 Pass 的注册标记</p>
-<p>如果仅仅分析代码，可以用 -disable-output 禁用输出</p>
-<pre tabindex=0><code>opt -load LLVMCountOp.dylib -opCounter -disable-output -time-passes file.bc
-</code></pre><p>-time-passes pass 运行时间</p>
-<p>bitcode 文件生产 .ll ,中间代码 IR 文件</p>
-<pre tabindex=0><code>llvm-dis const.bc  
-</code></pre><p>可以对 .ll 进行即时运行（JIT）</p>
-<pre tabindex=0><code>lli const.ll   
-</code></pre><p>bitcode 文件生成可执行文件</p>
-<pre tabindex=0><code>clang const.ll
+</code></pre><p>-opCounter LLVMCountOp.dylib 里面 Pass 的注册标记</p><p>如果仅仅分析代码，可以用 -disable-output 禁用输出</p><pre tabindex=0><code>opt -load LLVMCountOp.dylib -opCounter -disable-output -time-passes file.bc
+</code></pre><p>-time-passes pass 运行时间</p><p>bitcode 文件生产 .ll ,中间代码 IR 文件</p><pre tabindex=0><code>llvm-dis const.bc  
+</code></pre><p>可以对 .ll 进行即时运行（JIT）</p><pre tabindex=0><code>lli const.ll   
+</code></pre><p>bitcode 文件生成可执行文件</p><pre tabindex=0><code>clang const.ll
 ./a.out
-</code></pre><p>bitcode 文件生成目标平台机器码</p>
-<pre tabindex=0><code>llc -march=x86 ex0.reg.bc -o ex0.reg.x86
-</code></pre><h3 id=使用官方二进制库>使用官方二进制库</h3>
-<p>LLVM 官网提供了各个版本的下载，有二进制文件和源码，使用二进制文件中包含了可以直接运行在目标平台的 Tools 和 LLVM 的基础功能静态库。
+</code></pre><p>bitcode 文件生成目标平台机器码</p><pre tabindex=0><code>llc -march=x86 ex0.reg.bc -o ex0.reg.x86
+</code></pre><h3 id=使用官方二进制库>使用官方二进制库</h3><p>LLVM 官网提供了各个版本的下载，有二进制文件和源码，使用二进制文件中包含了可以直接运行在目标平台的 Tools 和 LLVM 的基础功能静态库。
 直接使用二进制静态库，可以开发出我们自己的编译工具，Tools 里有 llvm-config 提供了补充 LLVM 各个依赖参数功能，可以方便编写 MakeFile 文件，编译工程。
-<a href=https://github.com/AirChen/llvm-play>仓库</a>下 JIT 提供了一个编译工具的工程，依赖的 LLVM 版本是 3.4 。提供了一个通用的 MakeFile 模板。</p>
-<p>{% highlight sh %}
-LLVM_CONFIG ?= ../bin_3.4/bin/llvm-config</p>
-<p>ifndef VERBOSE
+<a href=https://github.com/AirChen/llvm-play>仓库</a>下 JIT 提供了一个编译工具的工程，依赖的 LLVM 版本是 3.4 。提供了一个通用的 MakeFile 模板。</p><p>{% highlight sh %}
+LLVM_CONFIG ?= ../bin_3.4/bin/llvm-config</p><p>ifndef VERBOSE
 QUIET := @
-endif</p>
-<p>SRC_DIR ?= $(PWD)</p>
-<p>LLVM_LDFLAGS := $(shell $(LLVM_CONFIG) &ndash;ldflags)
+endif</p><p>SRC_DIR ?= $(PWD)</p><p>LLVM_LDFLAGS := $(shell $(LLVM_CONFIG) &ndash;ldflags)
 COMMON_FLAGS = -Wall -Wextra
 LLVM_CXXFLAGS += $(COMMON_FLAGS) $(shell $(LLVM_CONFIG) &ndash;cxxflags)
 LLVM_CPPFLAGS += $(shell $(LLVM_CONFIG) &ndash;cppflags) -I$(SRC_DIR)
-LLVM_LIBS = $(shell $(LLVM_CONFIG) &ndash;libs jit interpreter nativecodegen)</p>
-<p>objects = Driver.o Expr.o Lexer.o Parser.o
-name = driver</p>
-<p>default: $(name)</p>
-<p>$(name) : $(objects)
+LLVM_LIBS = $(shell $(LLVM_CONFIG) &ndash;libs jit interpreter nativecodegen)</p><p>objects = Driver.o Expr.o Lexer.o Parser.o
+name = driver</p><p>default: $(name)</p><p>$(name) : $(objects)
 @echo Linking $@
-$(QUIET)$(CXX) -o $@ $(LLVM_CXXFLAGS) $(LLVM_LDFLAGS) $^ $(LLVM_LIBS)</p>
-<p>%.o : %.cpp
+$(QUIET)$(CXX) -o $@ $(LLVM_CXXFLAGS) $(LLVM_LDFLAGS) $^ $(LLVM_LIBS)</p><p>%.o : %.cpp
 @echo Compiling $*.cpp
-$(QUIET)$(CXX) -c $&lt; $(LLVM_CPPFLAGS) -o $@</p>
-<p>clean::
+$(QUIET)$(CXX) -c $&lt; $(LLVM_CPPFLAGS) -o $@</p><p>clean::
 $(QUIET)rm -f $(name) $(objects)
 {% endhighlight %}
-系统下配置好 clang 环境，然后设置好 LLVM_CONFIG 目录，即可运行 make 命令，进行编译。</p>
-<h3 id=使用官方源码>使用官方源码</h3>
-<p>借助于官网提供的源代码也能开发出高效工具，这里以 Pass 的开发为例。
-从官网找到一个版本（如:3.4）的代码后，下载到本地，代码工程由 cmake 工具组织，可以在工程下创建目录llvm_xcode，然后进入目录执行</p>
-<pre tabindex=0><code>cmake -G Xcode ../llvm 
+系统下配置好 clang 环境，然后设置好 LLVM_CONFIG 目录，即可运行 make 命令，进行编译。</p><h3 id=使用官方源码>使用官方源码</h3><p>借助于官网提供的源代码也能开发出高效工具，这里以 Pass 的开发为例。
+从官网找到一个版本（如:3.4）的代码后，下载到本地，代码工程由 cmake 工具组织，可以在工程下创建目录llvm_xcode，然后进入目录执行</p><pre tabindex=0><code>cmake -G Xcode ../llvm 
 </code></pre><p>就能生成支持 Xcode 的项目，用 Xcode IDE 可以打开工程（还支持其他IDE工具，详情参考<a href=http://llvm.org/docs/GettingStarted.html>官网</a>）。
 在源码工程下我们可以找到一个实例工程 Hello ，这是一个 Pass 工程，在 llvm/lib/Transforms 目录下（不是 llvm_xcode 下的 lib）。我们使用目录工具进入该文件下，模仿Hello工程的配置，新建自己的工程，修改 Transforms 目录下的 CMakeList.txt Makefile 和 子目录下的文件。然后回到 llvm_xcode 目录下，再执行一遍 cmake 指令。
-Xcode IDE 可以对工程代码进行编辑，编译完成后，可以对目标 Target 进行编译。会生成以动态链接库，放在工程下验证， <a href=https://github.com/AirChen/llvm-play>仓库</a> Passes 下提供了编译好的库，可以直接使用。</p>
-<h4 id=常见错误>常见错误：</h4>
-<p>{% highlight sh %}
+Xcode IDE 可以对工程代码进行编辑，编译完成后，可以对目标 Target 进行编译。会生成以动态链接库，放在工程下验证， <a href=https://github.com/AirChen/llvm-play>仓库</a> Passes 下提供了编译好的库，可以直接使用。</p><h4 id=常见错误>常见错误：</h4><p>{% highlight sh %}
 Error opening &lsquo;LLVMCountOp.dylib&rsquo;: dlopen(LLVMCountOp.dylib, 9): Symbol not found: __ZN4llvm12FunctionPass17assignPassManagerERNS_7PMStackENS_15PassManagerTypeE
 Referenced from: LLVMCountOp.dylib
 Expected in: flat namespace
-{% endhighlight %}</p>
-<p>加载的 Pass 和 opt 版本不对，或者 Release Debug 不一致</p>
-<h3 id=参考>参考</h3>
-<p><a href=https://blog.csdn.net/snsn1984/article/details/41477351>Makefile 调用 llvm-config</a></p>
-<p><a href=https://releases.llvm.org/2.7/docs/CommandGuide/html/llvm-config.html>llvm-config 官文</a></p>
-<p><a href=http://www.gnu.org/software/make/manual/make.html#Introduction>Makefile 官文</a></p>
-<p><a href=https://homepages.dcc.ufmg.br/~fernando/classes/dcc888/ementa/>课件官网</a></p>
-</div>
-<div class=post-footer>
-</div>
-</article>
-</main>
-</body>
-</html>
+{% endhighlight %}</p><p>加载的 Pass 和 opt 版本不对，或者 Release Debug 不一致</p><h3 id=参考>参考</h3><p><a href=https://blog.csdn.net/snsn1984/article/details/41477351>Makefile 调用 llvm-config</a></p><p><a href=https://releases.llvm.org/2.7/docs/CommandGuide/html/llvm-config.html>llvm-config 官文</a></p><p><a href=http://www.gnu.org/software/make/manual/make.html#Introduction>Makefile 官文</a></p><p><a href=https://homepages.dcc.ufmg.br/~fernando/classes/dcc888/ementa/>课件官网</a></p></div><div class=post-footer>
+</div></article></main></body></html>

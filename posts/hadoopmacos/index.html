@@ -1,9 +1,8 @@
 <!doctype html><html lang=zh-ch>
 <head>
-<title>MacOS下Hadoop环境搭建 // AirChen Blog</title>
-<link rel="shortcut icon" href=pikachu.ico>
+<title>MacOS下Hadoop环境搭建 // AirChen Blog</title><link rel="shortcut icon" href=pikachu.ico>
 <meta charset=utf-8>
-<meta name=generator content="Hugo 0.92.2">
+<meta name=generator content="Hugo 0.93.0">
 <meta name=viewport content="width=device-width,initial-scale=1">
 <meta name=author content="AirChen">
 <meta name=description content>
@@ -25,51 +24,31 @@ Standalone (or local) mode There are no daemons running and everything runs in a
 <meta property="og:url" content="https://blog.airchen-space.top/posts/hadoopmacos/"><meta property="article:section" content="posts">
 <meta property="article:published_time" content="2017-07-22T17:19:51+08:00">
 <meta property="article:modified_time" content="2017-07-22T17:19:51+08:00">
-</head>
-<body>
+</head><body>
 <header class=app-header>
 <a href=https://blog.airchen-space.top/><img class=app-header-avatar src=/log.jpeg alt=AirChen></a>
-<h1>AirChen Blog</h1>
-<nav class=app-header-menu>
+<h1>AirChen Blog</h1><nav class=app-header-menu>
 <a class=app-header-menu-item href=/>Home</a>
 -
 <a class=app-header-menu-item href=/daily/>Tags</a>
 -
 <a class=app-header-menu-item href=/about/>About</a>
-</nav>
-<p>以最放松的心态对待一切艰难</p>
-<div class=app-header-social>
+</nav><p>以最放松的心态对待一切艰难</p><div class=app-header-social>
 <a href=https://github.com/AirChen target=_blank rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github"><title>My Github</title><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37.0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44.0 0020 4.77 5.07 5.07.0 0019.91 1S18.73.65 16 2.48a13.38 13.38.0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07.0 005 4.77 5.44 5.44.0 003.5 8.55c0 5.42 3.3 6.61 6.44 7A3.37 3.37.0 009 18.13V22"/></svg>
 </a>
 <a href=renzhichen2012@163.com target=_blank rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-mail"><title>My Email</title><path d="M4 4h16c1.1.0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1.0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
 </a>
-</div>
-</header>
-<main class=app-container>
+</div></header><main class=app-container>
 <article class=post>
 <header class=post-header>
-<h1 class=post-title>MacOS下Hadoop环境搭建</h1>
-<div class=post-meta>
+<h1 class=post-title>MacOS下Hadoop环境搭建</h1><div class=post-meta>
 <div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar"><title>calendar</title><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
 Jul 22, 2017
-</div>
-<div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock"><title>clock</title><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+</div><div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock"><title>clock</title><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
 1 min read
-</div>
-</div>
-</header>
-<div class=post-content>
-<h3 id=安装>安装</h3>
-<p>Homebrew是MacOs系统下一款强大的软件包管理工具，通过它可以安装git、wget等工具，同样Hadoop的安装也可以通过它来进行：</p>
-<pre tabindex=0><code>brew install hadoop
-</code></pre><p>这样hadoop被安装在系统的 /usr/local/Cellar/hadoop 目录之下。</p>
-<h3 id=配置>配置</h3>
-<p>hadoop安装后，提供三种运行模式：</p>
-<h6 id=独立模式>独立模式</h6>
-<h6 id=伪分布模式>伪分布模式</h6>
-<h6 id=完全分布式>完全分布式</h6>
-<p>以下是《Hadoop权威指南》对这三种模式的解释：</p>
-<pre tabindex=0><code>Standalone (or local) mode
+</div></div></header><div class=post-content>
+<h3 id=安装>安装</h3><p>Homebrew是MacOs系统下一款强大的软件包管理工具，通过它可以安装git、wget等工具，同样Hadoop的安装也可以通过它来进行：</p><pre tabindex=0><code>brew install hadoop
+</code></pre><p>这样hadoop被安装在系统的 /usr/local/Cellar/hadoop 目录之下。</p><h3 id=配置>配置</h3><p>hadoop安装后，提供三种运行模式：</p><h6 id=独立模式>独立模式</h6><h6 id=伪分布模式>伪分布模式</h6><h6 id=完全分布式>完全分布式</h6><p>以下是《Hadoop权威指南》对这三种模式的解释：</p><pre tabindex=0><code>Standalone (or local) mode
 There are no daemons running and everything runs in a single JVM. Standalone
 mode is suitable for running MapReduce programs during development, since it is
 easy to test and debug them.
@@ -80,10 +59,7 @@ scale.
 
 Fully distributed mode
 The Hadoop daemons run on a cluster of machines.
-</code></pre><p>在用brew安装完成后，Hadoop默认是独立模式，这种模式没有开辟守护进程，运行与JVM虚拟机上，适合MapReduce的测试与调试。而伪分布式模式会开辟守护进程，运行效果和在集群上类似，所以这里，我们将在电脑上进行伪分布模式的配置。</p>
-<h4 id=1配置文件>1.配置文件</h4>
-<p>在目录/usr/local/Cellar/hadoop/xxxxx/libexec/etc/hadoop/下进行配置：</p>
-<pre tabindex=0><code>&lt;?xml version=&quot;1.0&quot;?&gt;
+</code></pre><p>在用brew安装完成后，Hadoop默认是独立模式，这种模式没有开辟守护进程，运行与JVM虚拟机上，适合MapReduce的测试与调试。而伪分布式模式会开辟守护进程，运行效果和在集群上类似，所以这里，我们将在电脑上进行伪分布模式的配置。</p><h4 id=1配置文件>1.配置文件</h4><p>在目录/usr/local/Cellar/hadoop/xxxxx/libexec/etc/hadoop/下进行配置：</p><pre tabindex=0><code>&lt;?xml version=&#34;1.0&#34;?&gt;
 &lt;!-- core-site.xml --&gt;
 &lt;configuration&gt;
 &lt;property&gt;
@@ -92,7 +68,7 @@ The Hadoop daemons run on a cluster of machines.
 &lt;/property&gt;
 &lt;/configuration&gt;
 
-&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;?xml version=&#34;1.0&#34;?&gt;
 &lt;!-- hdfs-site.xml --&gt;
 &lt;configuration&gt;
 &lt;property&gt;
@@ -101,7 +77,7 @@ The Hadoop daemons run on a cluster of machines.
 &lt;/property&gt;
 &lt;/configuration&gt;
 
-&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;?xml version=&#34;1.0&#34;?&gt;
 &lt;!-- mapred-site.xml --&gt;
 &lt;configuration&gt;
 &lt;property&gt;
@@ -110,7 +86,7 @@ The Hadoop daemons run on a cluster of machines.
 &lt;/property&gt;
 &lt;/configuration&gt;
 
-&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;?xml version=&#34;1.0&#34;?&gt;
 &lt;!-- yarn-site.xml --&gt;
 &lt;configuration&gt;
 &lt;property&gt;
@@ -122,53 +98,26 @@ The Hadoop daemons run on a cluster of machines.
 &lt;value&gt;mapreduce_shuffle&lt;/value&gt;
 &lt;/property&gt;
 &lt;/configuration&gt;
-</code></pre><p>需要对core-site.xml、hdfs-site.xml、mapred-site.xml、yarn-site.xml四个文件添加这些键值对。（可以将该文件夹复制多份，开启Hadoop时调用不同的文件下从而可以开启不同的模式）</p>
-<h4 id=2ssh登陆配置>2.ssh登陆配置</h4>
-<p>在伪分布模式下，Hadoop是需要通过ssh来登陆的，如果配置了ssh秘钥，登陆就不需要做密码输入。先查看本地目录~/.ssh/下是否存在id_rsa和id_rsa.pub文件，如果没有的话，可以通过：</p>
-<pre tabindex=0><code>ssh-keygen -t rsa
+</code></pre><p>需要对core-site.xml、hdfs-site.xml、mapred-site.xml、yarn-site.xml四个文件添加这些键值对。（可以将该文件夹复制多份，开启Hadoop时调用不同的文件下从而可以开启不同的模式）</p><h4 id=2ssh登陆配置>2.ssh登陆配置</h4><p>在伪分布模式下，Hadoop是需要通过ssh来登陆的，如果配置了ssh秘钥，登陆就不需要做密码输入。先查看本地目录~/.ssh/下是否存在id_rsa和id_rsa.pub文件，如果没有的话，可以通过：</p><pre tabindex=0><code>ssh-keygen -t rsa
 </code></pre><p>进行生成。如果没有~/.ssh/文件夹，需要先手动创立一下，然后在此文件夹下操作。
-为了让系统接受登陆，需要将共钥传入authorized_keys文件：</p>
-<pre tabindex=0><code>cat id_rsa.pub &gt;&gt; authorized_keys
-</code></pre><p>最后，在MacOs下，需要在设置里面打开远程登录权限，进入系统偏好设置 &#187; 共享 &#187; 远程登录。将其设置为开启就可以了。</p>
-<p><img src=images/setting.png alt=系统偏好设置>
-<img src=images/share.png alt=共享></p>
-<p>通过命令行运行：</p>
-<pre tabindex=0><code>ssh localhost
+为了让系统接受登陆，需要将共钥传入authorized_keys文件：</p><pre tabindex=0><code>cat id_rsa.pub &gt;&gt; authorized_keys
+</code></pre><p>最后，在MacOs下，需要在设置里面打开远程登录权限，进入系统偏好设置 &#187; 共享 &#187; 远程登录。将其设置为开启就可以了。</p><p><img src=images/setting.png alt=系统偏好设置>
+<img src=images/share.png alt=共享></p><p>通过命令行运行：</p><pre tabindex=0><code>ssh localhost
 
 exit
-</code></pre><p>查看能够登录成功。</p>
-<h4 id=3格式化namenode节点>3.格式化namenode节点</h4>
-<p>配置的最后一步是格式化namenode节点，在命令行运行：</p>
-<pre tabindex=0><code>hdfs namenode -format
-</code></pre><p>该操作会对系统临时文件夹下的目录进行操作，不会对硬盘产生格式化。</p>
-<h3 id=启动与关闭hadoop>启动与关闭Hadoop</h3>
-<p>进入 /usr/local/Cellar/hadoop/xxxxxx/sbin/ 目录
-启动调用以下脚本：</p>
-<pre tabindex=0><code>% start-dfs.sh
+</code></pre><p>查看能够登录成功。</p><h4 id=3格式化namenode节点>3.格式化namenode节点</h4><p>配置的最后一步是格式化namenode节点，在命令行运行：</p><pre tabindex=0><code>hdfs namenode -format
+</code></pre><p>该操作会对系统临时文件夹下的目录进行操作，不会对硬盘产生格式化。</p><h3 id=启动与关闭hadoop>启动与关闭Hadoop</h3><p>进入 /usr/local/Cellar/hadoop/xxxxxx/sbin/ 目录
+启动调用以下脚本：</p><pre tabindex=0><code>% start-dfs.sh
 % start-yarn.sh
 % mr-jobhistory-daemon.sh start historyserver
-</code></pre><p>关闭调用以下脚本：</p>
-<pre tabindex=0><code>% mr-jobhistory-daemon.sh stop historyserver
+</code></pre><p>关闭调用以下脚本：</p><pre tabindex=0><code>% mr-jobhistory-daemon.sh stop historyserver
 % stop-yarn.sh
 % stop-dfs.sh
-</code></pre><p>程序默认的是调用hadoop配置文件夹下的配置文件，当我们做了多个配置文件夹，可以这样启动其他的配置模式。</p>
-<pre tabindex=0><code>% start-dfs.sh --config path-to-config-directory
+</code></pre><p>程序默认的是调用hadoop配置文件夹下的配置文件，当我们做了多个配置文件夹，可以这样启动其他的配置模式。</p><pre tabindex=0><code>% start-dfs.sh --config path-to-config-directory
 % start-yarn.sh --config path-to-config-directory
 % mr-jobhistory-daemon.sh --config path-to-config-directory start historyserver
-</code></pre><h3 id=状态查看>状态查看</h3>
-<p>Hadoop的运行状态怎样？光启动和关闭看不出什么状况，甚至都不知道有没有启动成功。这里有两种方式可以验证Hadoop的运行状况。</p>
-<h4 id=1命令行jps>1.命令行jps</h4>
-<p>在命令行输入jps，可以查看到java进程的，当没有启动Hadoop时，只看得到jps一个进程。如果启动成功会多出许多进程，同样，关闭后这些进程就没有了。</p>
-<h4 id=2网页>2.网页</h4>
-<p>在浏览器打开如下链接可以进入不同的管理界面：</p>
-<pre tabindex=0><code>Resource Manager: http://localhost:50070
+</code></pre><h3 id=状态查看>状态查看</h3><p>Hadoop的运行状态怎样？光启动和关闭看不出什么状况，甚至都不知道有没有启动成功。这里有两种方式可以验证Hadoop的运行状况。</p><h4 id=1命令行jps>1.命令行jps</h4><p>在命令行输入jps，可以查看到java进程的，当没有启动Hadoop时，只看得到jps一个进程。如果启动成功会多出许多进程，同样，关闭后这些进程就没有了。</p><h4 id=2网页>2.网页</h4><p>在浏览器打开如下链接可以进入不同的管理界面：</p><pre tabindex=0><code>Resource Manager: http://localhost:50070
 JobTracker: http://localhost:8088
 Specific Node Information: http://localhost:8042
-</code></pre><p><a href=https://amodernstory.com/2014/09/23/installing-hadoop-on-mac-osx-yosemite/>参考文献</a></p>
-</div>
-<div class=post-footer>
-</div>
-</article>
-</main>
-</body>
-</html>
+</code></pre><p><a href=https://amodernstory.com/2014/09/23/installing-hadoop-on-mac-osx-yosemite/>参考文献</a></p></div><div class=post-footer>
+</div></article></main></body></html>
