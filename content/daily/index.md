@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WinterCotswolds_EN-US6070178452_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.USArmyNurse_EN-US6247095196_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]OpenJDK16 ZGC 源码分析 [read](https://blog.csdn.net/ByteDanceTech/article/details/123196150)
+
    \[原\]自动拦截 50% crash，字节自研 Fastbot 如何助力今日头条稳定性测试 [read](https://blog.csdn.net/ByteDanceTech/article/details/123102759)
 
    \[原\]深入理解 Gradle Tooling API [read](https://blog.csdn.net/ByteDanceTech/article/details/123059368)
-
-   \[原\]如何使用高阶函数编程提升代码的简洁性 [read](https://blog.csdn.net/ByteDanceTech/article/details/122974828)
 
    数据治理一体化实践之体系化建模 [read](https://tech.meituan.com/2022/02/24/systematic-modeling-of-data-development-and-governance-integration-practice.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   25岁为了逃离内卷，我从德国来到中国 [read](http://www.huxiu.com/article/502424.html?f=wangzhan)
+   大数据治税盯上网红主播，普通纳税人的隐私如何保护？ [read](http://www.huxiu.com/article/502760.html?f=wangzhan)
 
-   三星想重返中国？先学学苹果 [read](http://www.huxiu.com/article/502188.html?f=wangzhan)
+   只顾吃肉的造车新势力，活不到下一集 [read](http://www.huxiu.com/article/502954.html?f=wangzhan)
 
-   无人驾驶进入真正“艰难求存期” [read](http://www.huxiu.com/article/502144.html?f=wangzhan)
+   我是怎么被2个数字毁掉，又重生的？ [read](http://www.huxiu.com/article/502749.html?f=wangzhan)
 
-   苏州移动联合盖睿科技打造“5G智能发热哨点诊室”；高通发布第五代基带芯片骁龙 X70：首个5G AI 处理器，支持10Gbps传输速度 \| 36氪5G创新日报0228 [read](https://36kr.com/p/1634988962140545)
+   对话同仁堂知嘛健康：中医养生走向“好玩”｜老字号新生vol.2 [read](https://36kr.com/p/1636114342973832)
 
-   着眼靶点的动态模拟，「予路乾行」要用AI推进新药研发 [read](https://36kr.com/p/1634281456498432)
+   最前线｜百度发布2021全年及Q4财报，全年营收1245亿元 [read](https://36kr.com/p/1636022970339465)
 
-   科氪 \| 荣耀Magic4系列海外发布，荣耀强力冲击全球市场 [read](https://36kr.com/p/1634925681709449)
+   氪星晚报｜高通与字节跳动宣布合作，共建XR生态；特斯拉柏林工厂审批程序已进入最后阶段；腾讯区块链交易方法专利公布 [read](https://36kr.com/p/1636035345420676)
 
    你真的了解计算生物学和AI for Science吗？ [read](https://www.msra.cn/zh-cn/news/features/qbitai-ai-for-science)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
-   荣耀Magic4上手：5倍光学潜望长焦、还有 LTPO + 高频 PWM [read](http://www.geekpark.net/news/299130)
+   拯救者 Y90 评测：SSD、双马达、双风扇，真·游戏手机天花板 [read](http://www.geekpark.net/news/299153)
 
-   元宇宙在出圈，「空间数字化」在落地 [read](http://www.geekpark.net/news/299147)
+   突发 \| 美团回应餐饮业纾困政策：困难中小商户佣金 5% 封顶 [read](http://www.geekpark.net/news/299213)
 
-   爆雷两年后，瑞幸如何上演教科书式的自救 [read](http://www.geekpark.net/news/299146)
+   一年 6800 亿的快手电商，关上了留给淘宝、京东的后门 [read](http://www.geekpark.net/news/299212)
 
 ### 金融类
 
-   价值投资的四大核心，长期投资盈利的关键 [read](http://xueqiu.com/4433266172/212663669)
+   首次格力股东大会之个人思考 [read](http://xueqiu.com/2175087303/212731450)
 
-   2月份消费品调研 [read](http://xueqiu.com/7636370672/212625732)
+   热管理赛道中制冷剂带来的变化思考 [read](http://xueqiu.com/1577913976/212708700)
 
-   【有奖征集】老司基硬核测评第四期！13只消费医药基金邀你来评测 [read](http://xueqiu.com/8152922548/212654801)
+   雪球专刊——如何选择港美基金 [read](http://xueqiu.com/3746414875/212771663)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Igloofest [read](https://www.behance.net/gallery/136169927/Igloofest)
+   Fermé [read](https://www.behance.net/gallery/118492877/Ferm)
 
-   Hibrayer illustration challenge [read](https://www.behance.net/gallery/138312891/Hibrayer-illustration-challenge)
+   Floating Alone [read](https://www.behance.net/gallery/134328993/Floating-Alone)
 
-   Rogan Nash Architects [read](https://www.behance.net/gallery/138099579/Rogan-Nash-Architects)
+   ArctiConnexion [read](https://www.behance.net/gallery/138170211/ArctiConnexion)
 
    Drawing History with Wiki Unseen [read](https://medium.com/behance-blog/drawing-history-with-wiki-unseen-5b8e35bfd8a3?source=rss-f5272b7f3182------2)
 
@@ -140,11 +140,11 @@ title: "今日资讯"
 
    Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
 
+   Pinterest Elevates program marks Women’s History Month with all women-owned business cohort [read](https://newsroom.pinterest.com/en/post/pinterest-elevates-program-marks-womens-history-month-with-all-women-owned-business-cohort)
+
+   Pinterest is now available in Hebrew [read](https://newsroom.pinterest.com/en/post/pinterest-is-now-available-in-hebrew)
+
    Pinterest Celebrates Black History Month with Soul Food: Nourish Your Soul [read](https://newsroom.pinterest.com/en/post/pinterest-celebrates-black-history-month-with-soul-food-nourish-your-soul)
-
-   Pinterest introduces AR Try On for Home Decor for the ultimate online home shopping experience [read](https://newsroom.pinterest.com/en/post/pinterest-introduces-ar-try-on-for-home-decor-for-the-ultimate-online-home-shopping-experience)
-
-   Nichole Barnes Marshall joins Pinterest as Global Head of Inclusion and Diversity [read](https://newsroom.pinterest.com/en/post/nichole-barnes-marshall-joins-pinterest-as-global-head-of-inclusion-and-diversity)
 
    免费用上手快！快来试试这款 3D 设计神器 MagicaCSG [read](https://www.uisdc.com/magicacsg)
 
