@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.USArmyNurse_EN-US6247095196_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MoonlightRainier_EN-US6336057354_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   大数据治税盯上网红主播，普通纳税人的隐私如何保护？ [read](http://www.huxiu.com/article/502760.html?f=wangzhan)
+   罗永浩，故人难寻 [read](http://www.huxiu.com/article/503230.html?f=wangzhan)
 
-   只顾吃肉的造车新势力，活不到下一集 [read](http://www.huxiu.com/article/502954.html?f=wangzhan)
+   战争之后，讨论伍迪·艾伦是残忍的 [read](http://www.huxiu.com/article/503312.html?f=wangzhan)
 
-   我是怎么被2个数字毁掉，又重生的？ [read](http://www.huxiu.com/article/502749.html?f=wangzhan)
+   造车就是造富 [read](http://www.huxiu.com/article/502660.html?f=wangzhan)
 
-   对话同仁堂知嘛健康：中医养生走向“好玩”｜老字号新生vol.2 [read](https://36kr.com/p/1636114342973832)
+   莆田移动搭建“5G+院前急救系统”助力智慧医疗；中国电信在广州开通联合国首个全球人道主义应急枢纽5G专网 \| 36氪5G创新日报0302 [read](https://36kr.com/p/1637722266165382)
 
-   最前线｜百度发布2021全年及Q4财报，全年营收1245亿元 [read](https://36kr.com/p/1636022970339465)
+   氪星晚报 \| 卡地亚起诉蒂芙尼窃取商业机密；海底捞公布新任命：张勇卸任CEO，杨利娟接任；拼多多申请注册“拼众筹”商标 [read](https://36kr.com/p/1637492234051207)
 
-   氪星晚报｜高通与字节跳动宣布合作，共建XR生态；特斯拉柏林工厂审批程序已进入最后阶段；腾讯区块链交易方法专利公布 [read](https://36kr.com/p/1636035345420676)
+   市场日报｜沪指终结三连阳，原油价格飙升引爆资源股，油气大涨石化领跌，地产铝业全天活跃 [read](https://36kr.com/p/1637346121653891)
 
    你真的了解计算生物学和AI for Science吗？ [read](https://www.msra.cn/zh-cn/news/features/qbitai-ai-for-science)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
 
-   拯救者 Y90 评测：SSD、双马达、双风扇，真·游戏手机天花板 [read](http://www.geekpark.net/news/299153)
+   ​韶音 OpenRun Pro 体验：新方案低音显著增强，续航充电全方位提升 [read](http://www.geekpark.net/news/298929)
 
-   突发 \| 美团回应餐饮业纾困政策：困难中小商户佣金 5% 封顶 [read](http://www.geekpark.net/news/299213)
+   监管趋严，「素质教育」何去何从？ [read](http://www.geekpark.net/news/299259)
 
-   一年 6800 亿的快手电商，关上了留给淘宝、京东的后门 [read](http://www.geekpark.net/news/299212)
+   加密艺术复兴，NFT 真的「破圈」了吗？ [read](http://www.geekpark.net/news/299214)
 
 ### 金融类
 
-   首次格力股东大会之个人思考 [read](http://xueqiu.com/2175087303/212731450)
+   消费中的“白酒”，永恒不变的长牛主题！ [read](http://xueqiu.com/1632743930/212868724)
 
-   热管理赛道中制冷剂带来的变化思考 [read](http://xueqiu.com/1577913976/212708700)
+   别急着骂，基金经理亏30%是好事 [read](http://xueqiu.com/4573323809/212773756)
 
-   雪球专刊——如何选择港美基金 [read](http://xueqiu.com/3746414875/212771663)
+   2022年2月总结，年报行情的来临 [read](http://xueqiu.com/6451611049/212790246)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Fermé [read](https://www.behance.net/gallery/118492877/Ferm)
+   Future Space [read](https://www.behance.net/gallery/135579705/Future-Space)
 
-   Floating Alone [read](https://www.behance.net/gallery/134328993/Floating-Alone)
+   Auckland Lantern Festival 2022 [read](https://www.behance.net/gallery/137418887/Auckland-Lantern-Festival-2022)
 
-   ArctiConnexion [read](https://www.behance.net/gallery/138170211/ArctiConnexion)
+   Kistefos [read](https://www.behance.net/gallery/138375255/Kistefos)
 
    Drawing History with Wiki Unseen [read](https://medium.com/behance-blog/drawing-history-with-wiki-unseen-5b8e35bfd8a3?source=rss-f5272b7f3182------2)
 
