@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MoonlightRainier_EN-US6336057354_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.RhinocerosUnicornis_EN-US6415146430_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,51 +68,51 @@ title: "今日资讯"
 
 ### 互联网类
 
-   罗永浩，故人难寻 [read](http://www.huxiu.com/article/503230.html?f=wangzhan)
+   国产剧糊弄不了打工人 [read](http://www.huxiu.com/article/503846.html?f=wangzhan)
 
-   战争之后，讨论伍迪·艾伦是残忍的 [read](http://www.huxiu.com/article/503312.html?f=wangzhan)
+   一个“男公关”每天都干什么正经事？ [read](http://www.huxiu.com/article/503879.html?f=wangzhan)
 
-   造车就是造富 [read](http://www.huxiu.com/article/502660.html?f=wangzhan)
+   两会开幕的时间，为什么在三月？ [read](http://www.huxiu.com/article/503715.html?f=wangzhan)
 
-   莆田移动搭建“5G+院前急救系统”助力智慧医疗；中国电信在广州开通联合国首个全球人道主义应急枢纽5G专网 \| 36氪5G创新日报0302 [read](https://36kr.com/p/1637722266165382)
+   深圳电信5G无人机硬核抗疫；广和通5G智能模组SC171正式发布 \| 36氪5G创新日报0303 [read](https://36kr.com/p/1639167663694464)
 
-   氪星晚报 \| 卡地亚起诉蒂芙尼窃取商业机密；海底捞公布新任命：张勇卸任CEO，杨利娟接任；拼多多申请注册“拼众筹”商标 [read](https://36kr.com/p/1637492234051207)
+   从解决足球教练痛点切入，「涨球」打造⼀站式足球青训平台 [read](https://36kr.com/p/1631912683369991)
 
-   市场日报｜沪指终结三连阳，原油价格飙升引爆资源股，油气大涨石化领跌，地产铝业全天活跃 [read](https://36kr.com/p/1637346121653891)
+   最前线 \| 腾讯发起“天籁行动”，帮助听障人士融入数字社会 [read](https://36kr.com/p/1638751594946947)
+
+   微软亚洲研究院多模态模型NÜWA：以自然语言创造视觉内容 [read](https://www.msra.cn/zh-cn/news/features/nuwa)
 
    你真的了解计算生物学和AI for Science吗？ [read](https://www.msra.cn/zh-cn/news/features/qbitai-ai-for-science)
 
    气候变化、流行病、发展鸿沟…… 应对这些挑战我们还要做些什么？ [read](https://www.msra.cn/zh-cn/news/features/pursuing-a-resilient-and-sustainable-global-society)
 
-   AAAI 2022｜AI顶会论文究竟关注什么？ [read](https://www.msra.cn/zh-cn/news/features/aaai-2022)
+   百度造车一周年，负责人首谈进展 [read](http://www.geekpark.net/news/299319)
 
-   ​韶音 OpenRun Pro 体验：新方案低音显著增强，续航充电全方位提升 [read](http://www.geekpark.net/news/298929)
+   「新国潮」加「新电商」，开辟国货超车新弯道？ [read](http://www.geekpark.net/news/299304)
 
-   监管趋严，「素质教育」何去何从？ [read](http://www.geekpark.net/news/299259)
-
-   加密艺术复兴，NFT 真的「破圈」了吗？ [read](http://www.geekpark.net/news/299214)
+   一场战争，让 Web 3「精神分裂」了 [read](http://www.geekpark.net/news/299263)
 
 ### 金融类
 
-   消费中的“白酒”，永恒不变的长牛主题！ [read](http://xueqiu.com/1632743930/212868724)
+   比亚迪2月销量解读：谁说春节是淡季？ [read](http://xueqiu.com/6608397942/212987845)
 
-   别急着骂，基金经理亏30%是好事 [read](http://xueqiu.com/4573323809/212773756)
+   在最困难时候成立的基金，后来都怎样了？ [read](http://xueqiu.com/1368625563/212921196)
 
-   2022年2月总结，年报行情的来临 [read](http://xueqiu.com/6451611049/212790246)
+   格力与美的两家公司的股票能否共荣辱？ [read](http://xueqiu.com/7228103229/212830988)
 
 ### 学习类
+
+   💻 Issue 297 - Lapce – open source code editor inspired by Xi-editor [read](https://rust.libhunt.com/newsletter/297)
 
    💻 Issue 296 - rust-analyzer joins the Rust organization! \| Rust Blog [read](https://rust.libhunt.com/newsletter/296)
 
    💻 Issue 295 - A Rust match made in hell [read](https://rust.libhunt.com/newsletter/295)
 
-   💻 Issue 294 - Async Rust in 2022 [read](https://rust.libhunt.com/newsletter/294)
+   This Week in Rust 432 [read](https://this-week-in-rust.org/blog/2022/03/02/this-week-in-rust-432/)
 
    This Week in Rust 431 [read](https://this-week-in-rust.org/blog/2022/02/23/this-week-in-rust-431/)
 
    This Week in Rust 430 [read](https://this-week-in-rust.org/blog/2022/02/16/this-week-in-rust-430/)
-
-   This Week in Rust 429 [read](https://this-week-in-rust.org/blog/2022/02/09/this-week-in-rust-429/)
 
    “一把梭：REST API 全用 POST” [read](https://coolshell.cn/articles/22173.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Future Space [read](https://www.behance.net/gallery/135579705/Future-Space)
+   Felleskjøpet [read](https://www.behance.net/gallery/136645027/Felleskjoepet)
 
-   Auckland Lantern Festival 2022 [read](https://www.behance.net/gallery/137418887/Auckland-Lantern-Festival-2022)
+   KK Company [read](https://www.behance.net/gallery/131950969/KK-Company)
 
-   Kistefos [read](https://www.behance.net/gallery/138375255/Kistefos)
+   TX?A? [read](https://www.behance.net/gallery/138485673/TXA)
 
    Drawing History with Wiki Unseen [read](https://medium.com/behance-blog/drawing-history-with-wiki-unseen-5b8e35bfd8a3?source=rss-f5272b7f3182------2)
 
