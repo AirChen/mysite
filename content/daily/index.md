@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.RhinocerosUnicornis_EN-US6415146430_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ParalympicCurling_EN-US6499596752_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 196 期）：掌机的未来 [read](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html)
+   科技爱好者周刊（第 197 期）：如果这个世界有快乐机 [read](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html)
 
-   科技爱好者周刊（第 195 期）：你做过不在乎结果的项目吗？ [read](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-195.html)
+   科技爱好者周刊（第 196 期）：掌机的未来 [read](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html)
 
    ECS 中的对象引用 [read](https://blog.codingnow.com/2022/02/ecs_entity_reference.html)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 437 期 [read](https://weekly.75.team/issue437.html)
+
    奇舞周刊第 436 期 [read](https://weekly.75.team/issue436.html)
 
    奇舞周刊第 435 期 [read](https://weekly.75.team/issue435.html)
-
-   奇舞周刊第 434 期 [read](https://weekly.75.team/issue434.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -54,11 +54,11 @@ title: "今日资讯"
 
    \[原\]深入理解 Gradle Tooling API [read](https://blog.csdn.net/ByteDanceTech/article/details/123059368)
 
+   GPU在外卖场景精排模型预估中的应用实践 [read](https://tech.meituan.com/2022/03/03/ctr-gpu-inference.html)
+
+   广告平台化的探索与实践 \| 美团外卖广告工程实践专题连载 [read](https://tech.meituan.com/2022/03/03/exploration-and-practice-of-advertising-engine-platforming.html)
+
    数据治理一体化实践之体系化建模 [read](https://tech.meituan.com/2022/02/24/systematic-modeling-of-data-development-and-governance-integration-practice.html)
-
-   端智能在大众点评搜索重排序的应用实践 [read](https://tech.meituan.com/2022/02/24/edge-search-rerank.html)
-
-   美团搜索中查询改写技术的探索与实践 [read](https://tech.meituan.com/2022/02/17/exploration-and-practice-of-query-rewriting-in-meituan-search.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   国产剧糊弄不了打工人 [read](http://www.huxiu.com/article/503846.html?f=wangzhan)
+   猝死阴影下，为什么年轻人还不离开大厂？ [read](http://www.huxiu.com/article/504261.html?f=wangzhan)
 
-   一个“男公关”每天都干什么正经事？ [read](http://www.huxiu.com/article/503879.html?f=wangzhan)
+   碳普惠，离“大众自愿减排”还有多远？ [read](http://www.huxiu.com/article/504167.html?f=wangzhan)
 
-   两会开幕的时间，为什么在三月？ [read](http://www.huxiu.com/article/503715.html?f=wangzhan)
+   实现可控核聚变意味着什么？ [read](http://www.huxiu.com/article/503936.html?f=wangzhan)
 
-   深圳电信5G无人机硬核抗疫；广和通5G智能模组SC171正式发布 \| 36氪5G创新日报0303 [read](https://36kr.com/p/1639167663694464)
+   科氪 \| 新声不凡，森海塞尔全新高保真耳机IE 600正式发布 [read](https://36kr.com/p/1640441418588807)
 
-   从解决足球教练痛点切入，「涨球」打造⼀站式足球青训平台 [read](https://36kr.com/p/1631912683369991)
+   年轻人，你买下第一套房了吗？｜「买房」小调查 [read](https://36kr.com/p/1640369684882306)
 
-   最前线 \| 腾讯发起“天籁行动”，帮助听障人士融入数字社会 [read](https://36kr.com/p/1638751594946947)
+   5万预算涨粉百万，网友喜欢摆烂？｜营销看点Vol.20 [read](https://36kr.com/p/1640356708180610)
 
    微软亚洲研究院多模态模型NÜWA：以自然语言创造视觉内容 [read](https://www.msra.cn/zh-cn/news/features/nuwa)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    气候变化、流行病、发展鸿沟…… 应对这些挑战我们还要做些什么？ [read](https://www.msra.cn/zh-cn/news/features/pursuing-a-resilient-and-sustainable-global-society)
 
+   关店、换帅，救得了爆亏 45 亿的海底捞吗 [read](http://www.geekpark.net/news/299338)
+
+   美团改骑手评价新规：扣钱改扣分；抖音多位内容负责人转做 VR；中国空间站今年落成 \| 极客早知道 [read](http://www.geekpark.net/news/299324)
+
    百度造车一周年，负责人首谈进展 [read](http://www.geekpark.net/news/299319)
-
-   「新国潮」加「新电商」，开辟国货超车新弯道？ [read](http://www.geekpark.net/news/299304)
-
-   一场战争，让 Web 3「精神分裂」了 [read](http://www.geekpark.net/news/299263)
 
 ### 金融类
 
-   比亚迪2月销量解读：谁说春节是淡季？ [read](http://xueqiu.com/6608397942/212987845)
+   高分红股票与高分红基金，怎么选？ [read](http://xueqiu.com/8529783827/212913216)
 
-   在最困难时候成立的基金，后来都怎样了？ [read](http://xueqiu.com/1368625563/212921196)
+   几只“顶流”消费主题主动基金与指数基金的评测比较 [read](http://xueqiu.com/2356382715/213086321)
 
-   格力与美的两家公司的股票能否共荣辱？ [read](http://xueqiu.com/7228103229/212830988)
+   这些高位限购的基金经理，值得珍惜 [read](http://xueqiu.com/1489509056/213098209)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Felleskjøpet [read](https://www.behance.net/gallery/136645027/Felleskjoepet)
+   Design for Social Innovation [read](https://www.behance.net/gallery/138598061/Design-for-Social-Innovation)
 
-   KK Company [read](https://www.behance.net/gallery/131950969/KK-Company)
+   The Age of Uprisings [read](https://www.behance.net/gallery/137983579/The-Age-of-Uprisings)
 
-   TX?A? [read](https://www.behance.net/gallery/138485673/TXA)
+   Sporveien ? Brand Identity [read](https://www.behance.net/gallery/138526525/Sporveien-Brand-Identity)
 
    Drawing History with Wiki Unseen [read](https://medium.com/behance-blog/drawing-history-with-wiki-unseen-5b8e35bfd8a3?source=rss-f5272b7f3182------2)
 
