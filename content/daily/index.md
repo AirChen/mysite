@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ParalympicCurling_EN-US6499596752_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.NormandyMont_EN-US8981907834_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   联合国出手，历史性“限塑令”要来了 [read](http://www.huxiu.com/article/504662.html?f=wangzhan)
+
+   惊天比特币盗窃案告破：雌雄大盗黑走45亿美元 [read](http://www.huxiu.com/article/504425.html?f=wangzhan)
+
    猝死阴影下，为什么年轻人还不离开大厂？ [read](http://www.huxiu.com/article/504261.html?f=wangzhan)
 
-   碳普惠，离“大众自愿减排”还有多远？ [read](http://www.huxiu.com/article/504167.html?f=wangzhan)
+   本周国内融资金额超114.86亿元人民币，过亿元融资交易达39笔 \| TO B投融资周报0225-0303 [read](https://36kr.com/p/1640604623594120)
 
-   实现可控核聚变意味着什么？ [read](http://www.huxiu.com/article/503936.html?f=wangzhan)
+   全球移动通信系统协会称5G连接年内将超10亿；世界采矿行业最大企业级5G专网建成 \| 36氪5G创新日报0304 [read](https://36kr.com/p/1640490593461122)
 
-   科氪 \| 新声不凡，森海塞尔全新高保真耳机IE 600正式发布 [read](https://36kr.com/p/1640441418588807)
-
-   年轻人，你买下第一套房了吗？｜「买房」小调查 [read](https://36kr.com/p/1640369684882306)
-
-   5万预算涨粉百万，网友喜欢摆烂？｜营销看点Vol.20 [read](https://36kr.com/p/1640356708180610)
+   辽宁省锦州市投资2.56亿元推进数字城建设；华为新发布融合计费系统和“云客服”CEC \| 36氪大公司数字创新指南0304 [read](https://36kr.com/p/1640463159026306)
 
    微软亚洲研究院多模态模型NÜWA：以自然语言创造视觉内容 [read](https://www.msra.cn/zh-cn/news/features/nuwa)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    气候变化、流行病、发展鸿沟…… 应对这些挑战我们还要做些什么？ [read](https://www.msra.cn/zh-cn/news/features/pursuing-a-resilient-and-sustainable-global-society)
 
+   苹果春季发布会：旧瓶新酒的 iPhone SE 与 Mac，还有新配色 [read](http://www.geekpark.net/news/299370)
+
+   索尼+本田合作开发电动车；马斯克弟弟：执着于金钱很无聊；科技巨头两会提案曝光 [read](http://www.geekpark.net/news/299369)
+
    关店、换帅，救得了爆亏 45 亿的海底捞吗 [read](http://www.geekpark.net/news/299338)
-
-   美团改骑手评价新规：扣钱改扣分；抖音多位内容负责人转做 VR；中国空间站今年落成 \| 极客早知道 [read](http://www.geekpark.net/news/299324)
-
-   百度造车一周年，负责人首谈进展 [read](http://www.geekpark.net/news/299319)
 
 ### 金融类
 
-   高分红股票与高分红基金，怎么选？ [read](http://xueqiu.com/8529783827/212913216)
+   说说我的历史上最大亏损 [read](http://xueqiu.com/6146592061/213138572)
 
-   几只“顶流”消费主题主动基金与指数基金的评测比较 [read](http://xueqiu.com/2356382715/213086321)
+   选万科还是保利？从事实出发来寻找答案 [read](http://xueqiu.com/3491589810/213122540)
 
-   这些高位限购的基金经理，值得珍惜 [read](http://xueqiu.com/1489509056/213098209)
+   解析张坤在港股的主动管理能力 [read](http://xueqiu.com/4778574435/213087761)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Design for Social Innovation [read](https://www.behance.net/gallery/138598061/Design-for-Social-Innovation)
+   Salut De Salonique Branding [read](https://www.behance.net/gallery/137608799/Salut-De-Salonique-Branding)
 
-   The Age of Uprisings [read](https://www.behance.net/gallery/137983579/The-Age-of-Uprisings)
+   Mindfilm / Brand New Cherry Flavour [read](https://www.behance.net/gallery/138716907/Mindfilm-Brand-New-Cherry-Flavour)
 
-   Sporveien ? Brand Identity [read](https://www.behance.net/gallery/138526525/Sporveien-Brand-Identity)
+   Studio Ma [read](https://www.behance.net/gallery/138566215/Studio-Ma)
 
    Drawing History with Wiki Unseen [read](https://medium.com/behance-blog/drawing-history-with-wiki-unseen-5b8e35bfd8a3?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Celebrates Black History Month with Soul Food: Nourish Your Soul [read](https://newsroom.pinterest.com/en/post/pinterest-celebrates-black-history-month-with-soul-food-nourish-your-soul)
 
-   免费用上手快！快来试试这款 3D 设计神器 MagicaCSG [read](https://www.uisdc.com/magicacsg)
+   从4个方面，聊聊极其重要但经常被忽视的文案体验设计 [read](https://www.uisdc.com/copywriting-experience)
 
-   从大厂收集了1000张配图，总结出的作品集套路：滴滴篇 [read](https://www.uisdc.com/portfolio-design-routines)
+   免费开源！繁体中文字体芫荽打包下载！ [read](https://www.uisdc.com/iansui)
 
-   从3个方面，详细分析B端和C端的差异化 [read](https://www.uisdc.com/b-and-c-difference)
+   万字干货！9个方面帮你完整掌握可用性测试 [read](https://www.uisdc.com/usability-testing-buff)
 
    微前端框架核心技术揭秘 [read](https://11.146.83.18/2022/02/22/micro-frontend-framework/)
 
