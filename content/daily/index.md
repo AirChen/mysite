@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.NormandyMont_EN-US8981907834_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GreatCormorants_EN-US6757700805_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   联合国出手，历史性“限塑令”要来了 [read](http://www.huxiu.com/article/504662.html?f=wangzhan)
+   A岛沉没，净土难寻 [read](http://www.huxiu.com/article/504820.html?f=wangzhan)
 
-   惊天比特币盗窃案告破：雌雄大盗黑走45亿美元 [read](http://www.huxiu.com/article/504425.html?f=wangzhan)
+   拥有一份年入百万的自由职业，她却不想再继续了 [read](http://www.huxiu.com/article/504812.html?f=wangzhan)
 
-   猝死阴影下，为什么年轻人还不离开大厂？ [read](http://www.huxiu.com/article/504261.html?f=wangzhan)
+   收紧游戏版号发放，对游戏公司有什么影响？ [read](http://www.huxiu.com/article/504614.html?f=wangzhan)
+
+   医疗健康行业周报 \|「​诺尔医疗」获得亿元A轮融资；医疗机构检查检验结果互认正式实施 [read](https://36kr.com/p/1642835827057545)
 
    本周国内融资金额超114.86亿元人民币，过亿元融资交易达39笔 \| TO B投融资周报0225-0303 [read](https://36kr.com/p/1640604623594120)
 
    全球移动通信系统协会称5G连接年内将超10亿；世界采矿行业最大企业级5G专网建成 \| 36氪5G创新日报0304 [read](https://36kr.com/p/1640490593461122)
-
-   辽宁省锦州市投资2.56亿元推进数字城建设；华为新发布融合计费系统和“云客服”CEC \| 36氪大公司数字创新指南0304 [read](https://36kr.com/p/1640463159026306)
 
    微软亚洲研究院多模态模型NÜWA：以自然语言创造视觉内容 [read](https://www.msra.cn/zh-cn/news/features/nuwa)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    气候变化、流行病、发展鸿沟…… 应对这些挑战我们还要做些什么？ [read](https://www.msra.cn/zh-cn/news/features/pursuing-a-resilient-and-sustainable-global-society)
 
-   苹果春季发布会：旧瓶新酒的 iPhone SE 与 Mac，还有新配色 [read](http://www.geekpark.net/news/299370)
+   极客简报｜苹果发布会高能来袭；工信部出手整治「阅读全文」；中国空间站今年建成 [read](http://www.geekpark.net/news/299373)
 
-   索尼+本田合作开发电动车；马斯克弟弟：执着于金钱很无聊；科技巨头两会提案曝光 [read](http://www.geekpark.net/news/299369)
+   视障工程师：数字化的世界里，盲文是无用的 [read](http://www.geekpark.net/news/299199)
 
-   关店、换帅，救得了爆亏 45 亿的海底捞吗 [read](http://www.geekpark.net/news/299338)
+   苹果股东大会批准库克近 1 亿美元年薪；英特尔中国董事长：国内目前没有竞争对手；2022 年 中国GDP 目标增长 5.5% [read](http://www.geekpark.net/news/299371)
 
 ### 金融类
 
-   说说我的历史上最大亏损 [read](http://xueqiu.com/6146592061/213138572)
+   当前MSCI中国A50估值合理吗？ [read](http://xueqiu.com/4778574435/213177200)
 
-   选万科还是保利？从事实出发来寻找答案 [read](http://xueqiu.com/3491589810/213122540)
+   煮酒论市：地产已经打开修复之门，但别忘了防雷 [read](http://xueqiu.com/6056806984/213179468)
 
-   解析张坤在港股的主动管理能力 [read](http://xueqiu.com/4778574435/213087761)
+   对于澄星重整节奏和方案的思考 [read](http://xueqiu.com/3949100611/213150512)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Salut De Salonique Branding [read](https://www.behance.net/gallery/137608799/Salut-De-Salonique-Branding)
+   Charles Liégeois [read](https://www.behance.net/gallery/137965395/Charles-Ligeois)
 
-   Mindfilm / Brand New Cherry Flavour [read](https://www.behance.net/gallery/138716907/Mindfilm-Brand-New-Cherry-Flavour)
+   Monocle Type Photoshoot [read](https://www.behance.net/gallery/138393507/Monocle-Type-Photoshoot)
 
-   Studio Ma [read](https://www.behance.net/gallery/138566215/Studio-Ma)
+   FPDB Creative [read](https://www.behance.net/gallery/138589047/FPDB-Creative)
 
    Drawing History with Wiki Unseen [read](https://medium.com/behance-blog/drawing-history-with-wiki-unseen-5b8e35bfd8a3?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Celebrates Black History Month with Soul Food: Nourish Your Soul [read](https://newsroom.pinterest.com/en/post/pinterest-celebrates-black-history-month-with-soul-food-nourish-your-soul)
 
+   贝壳实战案例！如何做好投影情境设计？ [read](https://www.uisdc.com/scenario-experience-design)
+
    从4个方面，聊聊极其重要但经常被忽视的文案体验设计 [read](https://www.uisdc.com/copywriting-experience)
 
    免费开源！繁体中文字体芫荽打包下载！ [read](https://www.uisdc.com/iansui)
-
-   万字干货！9个方面帮你完整掌握可用性测试 [read](https://www.uisdc.com/usability-testing-buff)
 
    微前端框架核心技术揭秘 [read](https://11.146.83.18/2022/02/22/micro-frontend-framework/)
 
