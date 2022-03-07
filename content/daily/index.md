@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GreatCormorants_EN-US6757700805_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.NZTekapo_EN-US6844591784_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -22,11 +22,11 @@ title: "今日资讯"
 
    让用户决定软件长什么样 [read](https://blog.t9t.io/let-user-design-2020-06-18/)
 
+   基于 C++ 的 Android 协程设计 [read](https://www.kymjs.com/code/2022/02/26/01)
+
    自定义C/C++日志输出函数 [read](https://www.kymjs.com/code/2020/08/07/01)
 
    再聊 Git Flow [read](https://www.kymjs.com/manager/2020/05/29/01)
-
-   Flutter 设置控件是否可见 [read](https://www.kymjs.com/note/2020/03/19/01)
 
 ### IT团队博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   A岛沉没，净土难寻 [read](http://www.huxiu.com/article/504820.html?f=wangzhan)
+   业界需要的“开放世界”，不止《艾尔登法环》 [read](http://www.huxiu.com/article/505330.html?f=wangzhan)
 
-   拥有一份年入百万的自由职业，她却不想再继续了 [read](http://www.huxiu.com/article/504812.html?f=wangzhan)
+   成功率91%，最强习惯养成技巧 [read](http://www.huxiu.com/article/504887.html?f=wangzhan)
 
-   收紧游戏版号发放，对游戏公司有什么影响？ [read](http://www.huxiu.com/article/504614.html?f=wangzhan)
+   生活需要仪式感，商家也需要 [read](http://www.huxiu.com/article/505046.html?f=wangzhan)
 
-   医疗健康行业周报 \|「​诺尔医疗」获得亿元A轮融资；医疗机构检查检验结果互认正式实施 [read](https://36kr.com/p/1642835827057545)
+   氪星晚报｜新东方在线与京东物流教育达成战略合作；南京银行：拟取得苏宁消金的控股权；苹果发新PK华为“折叠风”，屏显与铰链企业或成大赢家 [read](https://36kr.com/p/1644544660284034)
 
-   本周国内融资金额超114.86亿元人民币，过亿元融资交易达39笔 \| TO B投融资周报0225-0303 [read](https://36kr.com/p/1640604623594120)
+   对话邢杰：在医药数字化转型这一垂直领域，明度智云要做到一百米深 \| 超级观点 [read](https://36kr.com/p/1644335609144193)
 
-   全球移动通信系统协会称5G连接年内将超10亿；世界采矿行业最大企业级5G专网建成 \| 36氪5G创新日报0304 [read](https://36kr.com/p/1640490593461122)
+   智氪｜跨越周期净利润大幅增长超1.5倍，叶国富做对了什么？ [read](https://36kr.com/p/1642992981959298)
 
    微软亚洲研究院多模态模型NÜWA：以自然语言创造视觉内容 [read](https://www.msra.cn/zh-cn/news/features/nuwa)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    气候变化、流行病、发展鸿沟…… 应对这些挑战我们还要做些什么？ [read](https://www.msra.cn/zh-cn/news/features/pursuing-a-resilient-and-sustainable-global-society)
 
+   中国的「无人超市」早就死了，为什么美国的亚马逊还在坚持？ [read](http://www.geekpark.net/news/299395)
+
+   微软 197 亿美元成功收购 Nuance ；英特尔、英伟达、AMD 显卡齐发；杨利伟：普通人十年内可进入中国空间站 [read](http://www.geekpark.net/news/299375)
+
    极客简报｜苹果发布会高能来袭；工信部出手整治「阅读全文」；中国空间站今年建成 [read](http://www.geekpark.net/news/299373)
-
-   视障工程师：数字化的世界里，盲文是无用的 [read](http://www.geekpark.net/news/299199)
-
-   苹果股东大会批准库克近 1 亿美元年薪；英特尔中国董事长：国内目前没有竞争对手；2022 年 中国GDP 目标增长 5.5% [read](http://www.geekpark.net/news/299371)
 
 ### 金融类
 
-   当前MSCI中国A50估值合理吗？ [read](http://xueqiu.com/4778574435/213177200)
+   中概与恒生科技这个大坑，让我破防了！（周报134期） [read](http://xueqiu.com/4579887327/213192592)
 
-   煮酒论市：地产已经打开修复之门，但别忘了防雷 [read](http://xueqiu.com/6056806984/213179468)
+   持有低估值蓝筹股的4大乐观理由：低估+天生乐观 [read](http://xueqiu.com/8534614057/213289410)
 
-   对于澄星重整节奏和方案的思考 [read](http://xueqiu.com/3949100611/213150512)
+   什么是量化？什么是指增？ [read](http://xueqiu.com/8048575055/213282627)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Charles Liégeois [read](https://www.behance.net/gallery/137965395/Charles-Ligeois)
+   Coexistence [read](https://www.behance.net/gallery/138868901/Coexistence)
 
-   Monocle Type Photoshoot [read](https://www.behance.net/gallery/138393507/Monocle-Type-Photoshoot)
+   Fairytales, dreams and nightmares [read](https://www.behance.net/gallery/137896551/Fairytales-dreams-and-nightmares)
 
-   FPDB Creative [read](https://www.behance.net/gallery/138589047/FPDB-Creative)
+   Amine Mesnaoui x Labelle ? African Prayers [read](https://www.behance.net/gallery/138775975/Amine-Mesnaoui-x-Labelle-African-Prayers)
 
    Drawing History with Wiki Unseen [read](https://medium.com/behance-blog/drawing-history-with-wiki-unseen-5b8e35bfd8a3?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Celebrates Black History Month with Soul Food: Nourish Your Soul [read](https://newsroom.pinterest.com/en/post/pinterest-celebrates-black-history-month-with-soul-food-nourish-your-soul)
 
-   贝壳实战案例！如何做好投影情境设计？ [read](https://www.uisdc.com/scenario-experience-design)
+   第十一波！快速提升 UI 设计效果的 6 个小技巧 [read](https://www.uisdc.com/improve-ui-designs-faster-11)
 
-   从4个方面，聊聊极其重要但经常被忽视的文案体验设计 [read](https://www.uisdc.com/copywriting-experience)
+   在线编辑渲染超快！免费的 3D 模型集合站 VERTEX [read](https://www.uisdc.com/vertex)
 
-   免费开源！繁体中文字体芫荽打包下载！ [read](https://www.uisdc.com/iansui)
+   10个产品细节剖析，让你看看大厂是如何做设计的！ [read](https://www.uisdc.com/ui-design-skills-2)
 
    微前端框架核心技术揭秘 [read](https://11.146.83.18/2022/02/22/micro-frontend-framework/)
 
