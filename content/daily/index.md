@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.NZTekapo_EN-US6844591784_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BrokenGlass_EN-US4411138843_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]一文读懂 Android FFmpeg 视频解码过程与实战分析 [read](https://blog.csdn.net/ByteDanceTech/article/details/123343422)
+
    \[原\]OpenJDK16 ZGC 源码分析 [read](https://blog.csdn.net/ByteDanceTech/article/details/123196150)
 
    \[原\]自动拦截 50% crash，字节自研 Fastbot 如何助力今日头条稳定性测试 [read](https://blog.csdn.net/ByteDanceTech/article/details/123102759)
-
-   \[原\]深入理解 Gradle Tooling API [read](https://blog.csdn.net/ByteDanceTech/article/details/123059368)
 
    GPU在外卖场景精排模型预估中的应用实践 [read](https://tech.meituan.com/2022/03/03/ctr-gpu-inference.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   业界需要的“开放世界”，不止《艾尔登法环》 [read](http://www.huxiu.com/article/505330.html?f=wangzhan)
+   “浪胃仙”出走：和MCN闹翻的千万级网红，还会有多少？ [read](http://www.huxiu.com/article/505806.html?f=wangzhan)
 
-   成功率91%，最强习惯养成技巧 [read](http://www.huxiu.com/article/504887.html?f=wangzhan)
+   为了拍一张优雅的滑雪照，我差点倾家荡产 [read](http://www.huxiu.com/article/505900.html?f=wangzhan)
 
-   生活需要仪式感，商家也需要 [read](http://www.huxiu.com/article/505046.html?f=wangzhan)
+   两会提案，是如何被纳入法律的？ [read](http://www.huxiu.com/article/505822.html?f=wangzhan)
 
-   氪星晚报｜新东方在线与京东物流教育达成战略合作；南京银行：拟取得苏宁消金的控股权；苹果发新PK华为“折叠风”，屏显与铰链企业或成大赢家 [read](https://36kr.com/p/1644544660284034)
+   全程回顾 \| 苹果召开2022年第一场发布会，iPhone SE3、 M1芯片升级版、Mac Studio新品亮相 [read](https://36kr.com/p/1646429630800518)
 
-   对话邢杰：在医药数字化转型这一垂直领域，明度智云要做到一百米深 \| 超级观点 [read](https://36kr.com/p/1644335609144193)
+   最前线｜华大北斗完成C轮融资加码芯片研发，国开科创等参与战投 [read](https://36kr.com/p/1644163815252614)
 
-   智氪｜跨越周期净利润大幅增长超1.5倍，叶国富做对了什么？ [read](https://36kr.com/p/1642992981959298)
+   氪星晚报丨瑞幸咖啡宣布境外临时清算程序圆满结束；抖音电商运营团队调整薪资：降低每月基本工资，15薪改18薪；华为拟再发30亿短债 [read](https://36kr.com/p/1645911358137218)
 
    微软亚洲研究院多模态模型NÜWA：以自然语言创造视觉内容 [read](https://www.msra.cn/zh-cn/news/features/nuwa)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    气候变化、流行病、发展鸿沟…… 应对这些挑战我们还要做些什么？ [read](https://www.msra.cn/zh-cn/news/features/pursuing-a-resilient-and-sustainable-global-society)
 
-   中国的「无人超市」早就死了，为什么美国的亚马逊还在坚持？ [read](http://www.geekpark.net/news/299395)
+   打破偏见，这天你该知晓她姓名 [read](http://www.geekpark.net/news/299464)
 
-   微软 197 亿美元成功收购 Nuance ；英特尔、英伟达、AMD 显卡齐发；杨利伟：普通人十年内可进入中国空间站 [read](http://www.geekpark.net/news/299375)
+   巨亏 55 亿，你的「三连」为何救不了 B 站？ [read](http://www.geekpark.net/news/299434)
 
-   极客简报｜苹果发布会高能来袭；工信部出手整治「阅读全文」；中国空间站今年建成 [read](http://www.geekpark.net/news/299373)
+   realme 真我 V25 上手：带来「光致变色」后盖，千元档新选择 [read](http://www.geekpark.net/news/299247)
 
 ### 金融类
 
-   中概与恒生科技这个大坑，让我破防了！（周报134期） [read](http://xueqiu.com/4579887327/213192592)
+   经过今年炼狱般的行情，还有哪些私募更值得关注？ [read](http://xueqiu.com/9047540546/213407831)
 
-   持有低估值蓝筹股的4大乐观理由：低估+天生乐观 [read](http://xueqiu.com/8534614057/213289410)
+   从业时间最长的10位“固收女神”&代表作品 [read](http://xueqiu.com/8092949786/213373518)
 
-   什么是量化？什么是指增？ [read](http://xueqiu.com/8048575055/213282627)
+   刀片电池与4680电池的对比分析 [read](http://xueqiu.com/1381530078/213267294)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Coexistence [read](https://www.behance.net/gallery/138868901/Coexistence)
+   Natron Lakes [read](https://www.behance.net/gallery/138828837/Natron-Lakes)
 
-   Fairytales, dreams and nightmares [read](https://www.behance.net/gallery/137896551/Fairytales-dreams-and-nightmares)
+   Absolutely On Music [read](https://www.behance.net/gallery/137510649/Absolutely-On-Music)
 
-   Amine Mesnaoui x Labelle ? African Prayers [read](https://www.behance.net/gallery/138775975/Amine-Mesnaoui-x-Labelle-African-Prayers)
+   Nothing is Permanent except Change [read](https://www.behance.net/gallery/138284865/Nothing-is-Permanent-except-Change)
 
    Drawing History with Wiki Unseen [read](https://medium.com/behance-blog/drawing-history-with-wiki-unseen-5b8e35bfd8a3?source=rss-f5272b7f3182------2)
 
