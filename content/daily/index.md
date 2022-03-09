@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BrokenGlass_EN-US4411138843_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FlowerofLife_EN-US7000703872_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   “浪胃仙”出走：和MCN闹翻的千万级网红，还会有多少？ [read](http://www.huxiu.com/article/505806.html?f=wangzhan)
+   中国航天的6个计划，超大火箭长征9号值得期待 [read](http://www.huxiu.com/article/506200.html?f=wangzhan)
 
-   为了拍一张优雅的滑雪照，我差点倾家荡产 [read](http://www.huxiu.com/article/505900.html?f=wangzhan)
+   电饭煲怎么知道饭熟了？ [read](http://www.huxiu.com/article/506116.html?f=wangzhan)
 
-   两会提案，是如何被纳入法律的？ [read](http://www.huxiu.com/article/505822.html?f=wangzhan)
+   《半熟恋人》罗拉：离婚不是失败，也并非缺陷 [read](http://www.huxiu.com/article/505874.html?f=wangzhan)
 
-   全程回顾 \| 苹果召开2022年第一场发布会，iPhone SE3、 M1芯片升级版、Mac Studio新品亮相 [read](https://36kr.com/p/1646429630800518)
+   消费品牌能在游戏领域找到新流量吗？ [read](https://36kr.com/p/1647436101002121)
 
-   最前线｜华大北斗完成C轮融资加码芯片研发，国开科创等参与战投 [read](https://36kr.com/p/1644163815252614)
+   氪星晚报丨特斯拉承认Autopilot需司机持续监控，参议员：特斯拉在逃避问题；沃尔玛将为其美国员工免费提供Walmart Plus会员服务 [read](https://36kr.com/p/1647392914350977)
 
-   氪星晚报丨瑞幸咖啡宣布境外临时清算程序圆满结束；抖音电商运营团队调整薪资：降低每月基本工资，15薪改18薪；华为拟再发30亿短债 [read](https://36kr.com/p/1645911358137218)
+   焦点分析 \| 「东数西算」启动，腾讯华为要攻克「电老虎」 [read](https://36kr.com/p/1620805238175235)
 
    微软亚洲研究院多模态模型NÜWA：以自然语言创造视觉内容 [read](https://www.msra.cn/zh-cn/news/features/nuwa)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    气候变化、流行病、发展鸿沟…… 应对这些挑战我们还要做些什么？ [read](https://www.msra.cn/zh-cn/news/features/pursuing-a-resilient-and-sustainable-global-society)
 
-   打破偏见，这天你该知晓她姓名 [read](http://www.geekpark.net/news/299464)
+   在北京郊区，做一场最难的「实验」 [read](http://www.geekpark.net/news/299502)
 
-   巨亏 55 亿，你的「三连」为何救不了 B 站？ [read](http://www.geekpark.net/news/299434)
+   苹果发布 M1 Ultra 芯片及 Mac Studio；比亚迪回应王传福卸任董事长：不影响业务；「权游」制片人伦敦拍「三体」 [read](http://www.geekpark.net/news/299466)
 
-   realme 真我 V25 上手：带来「光致变色」后盖，千元档新选择 [read](http://www.geekpark.net/news/299247)
+   苹果发布会：带点绿的 iPhone 13、涨价的 iPhone SE 3、再次壮大的 M1 宇宙 [read](http://www.geekpark.net/news/299446)
 
 ### 金融类
 
-   经过今年炼狱般的行情，还有哪些私募更值得关注？ [read](http://xueqiu.com/9047540546/213407831)
+   市场大跌，分享几点经验 [read](http://xueqiu.com/7245734636/213410090)
 
-   从业时间最长的10位“固收女神”&代表作品 [read](http://xueqiu.com/8092949786/213373518)
+   此时加入“概”帮 想不赚钱都难 [read](http://xueqiu.com/1818877481/213302722)
 
-   刀片电池与4680电池的对比分析 [read](http://xueqiu.com/1381530078/213267294)
+   雪球专刊——CTA策略投资指南 [read](http://xueqiu.com/3746414875/213538921)
 
 ### 学习类
 
@@ -128,29 +128,29 @@ title: "今日资讯"
 
 ### 设计类
 
-   Natron Lakes [read](https://www.behance.net/gallery/138828837/Natron-Lakes)
+   Moments in the past [read](https://www.behance.net/gallery/138797881/Moments-in-the-past)
 
-   Absolutely On Music [read](https://www.behance.net/gallery/137510649/Absolutely-On-Music)
+   Dam [read](https://www.behance.net/gallery/138876507/Dam)
 
-   Nothing is Permanent except Change [read](https://www.behance.net/gallery/138284865/Nothing-is-Permanent-except-Change)
+   ED 22 II [read](https://www.behance.net/gallery/138924457/ED-22-II)
+
+   Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
    Drawing History with Wiki Unseen [read](https://medium.com/behance-blog/drawing-history-with-wiki-unseen-5b8e35bfd8a3?source=rss-f5272b7f3182------2)
 
    Meet This Month’s Guest Curator: Huston Wilson [read](https://medium.com/behance-blog/meet-this-months-guest-curator-huston-wilson-313b75929ab3?source=rss-f5272b7f3182------2)
 
-   Meet This Month’s Guest Curator: Shane Griffin [read](https://medium.com/behance-blog/meet-this-months-guest-curator-shane-griffin-a23dc222f07c?source=rss-f5272b7f3182------2)
+   Pinterest’s Support for Ukraine [read](https://newsroom.pinterest.com/en/post/pinterests-support-for-ukraine)
 
    Pinterest Elevates program marks Women’s History Month with all women-owned business cohort [read](https://newsroom.pinterest.com/en/post/pinterest-elevates-program-marks-womens-history-month-with-all-women-owned-business-cohort)
 
    Pinterest is now available in Hebrew [read](https://newsroom.pinterest.com/en/post/pinterest-is-now-available-in-hebrew)
 
-   Pinterest Celebrates Black History Month with Soul Food: Nourish Your Soul [read](https://newsroom.pinterest.com/en/post/pinterest-celebrates-black-history-month-with-soul-food-nourish-your-soul)
+   920 款游戏、38000多张高清参考图免费提供！游戏灵感神站 GAME UI Databas [read](https://www.uisdc.com/game-ui-database)
 
-   第十一波！快速提升 UI 设计效果的 6 个小技巧 [read](https://www.uisdc.com/improve-ui-designs-faster-11)
+   尼尔森团队出品！5个帮你做好电商产品列表页的设计技巧！ [read](https://www.uisdc.com/alternatives-pagination-listing-pages)
 
-   在线编辑渲染超快！免费的 3D 模型集合站 VERTEX [read](https://www.uisdc.com/vertex)
-
-   10个产品细节剖析，让你看看大厂是如何做设计的！ [read](https://www.uisdc.com/ui-design-skills-2)
+   《塞尔达传说：旷野之息》如何做好新手教学？来看这篇7000+的分析！ [read](https://www.uisdc.com/the-legend-of-zelda-design)
 
    微前端框架核心技术揭秘 [read](https://11.146.83.18/2022/02/22/micro-frontend-framework/)
 
