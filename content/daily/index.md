@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FlowerofLife_EN-US7000703872_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BobbioItaly_EN-US7115321929_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   中国航天的6个计划，超大火箭长征9号值得期待 [read](http://www.huxiu.com/article/506200.html?f=wangzhan)
+   干细胞如何在临床上实现长效降血糖？ [read](http://www.huxiu.com/article/506538.html?f=wangzhan)
 
-   电饭煲怎么知道饭熟了？ [read](http://www.huxiu.com/article/506116.html?f=wangzhan)
+   医疗投资人郑玉芬：放弃大药厂安稳工作，转型投资人 [read](http://www.huxiu.com/article/506857.html?f=wangzhan)
 
-   《半熟恋人》罗拉：离婚不是失败，也并非缺陷 [read](http://www.huxiu.com/article/505874.html?f=wangzhan)
+   为什么全世界人民都爱大熊猫？ [read](http://www.huxiu.com/article/506870.html?f=wangzhan)
 
-   消费品牌能在游戏领域找到新流量吗？ [read](https://36kr.com/p/1647436101002121)
+   获辉瑞新冠特效药的商业运营权，「中国医药」撬动的市场空间有多大？\| 焦点分析 [read](https://36kr.com/p/1649064731424903)
 
-   氪星晚报丨特斯拉承认Autopilot需司机持续监控，参议员：特斯拉在逃避问题；沃尔玛将为其美国员工免费提供Walmart Plus会员服务 [read](https://36kr.com/p/1647392914350977)
+   一键查收达晨财智、纽尓利资本等机构职务招募令｜投资机构招聘第2期 [read](https://36kr.com/p/1648735646868865)
 
-   焦点分析 \| 「东数西算」启动，腾讯华为要攻克「电老虎」 [read](https://36kr.com/p/1620805238175235)
+   氪星晚报丨京东：2021年第四季度营收2759亿元，同比增长23%；抖音及海外版TikTok 2月吸金超2.58亿美元；燕麦奶公司OATLY发布2021年度财报：亚洲营收同比增长136.5% [read](https://36kr.com/p/1648795202888837)
 
    微软亚洲研究院多模态模型NÜWA：以自然语言创造视觉内容 [read](https://www.msra.cn/zh-cn/news/features/nuwa)
 
@@ -86,33 +86,33 @@ title: "今日资讯"
 
    气候变化、流行病、发展鸿沟…… 应对这些挑战我们还要做些什么？ [read](https://www.msra.cn/zh-cn/news/features/pursuing-a-resilient-and-sustainable-global-society)
 
-   在北京郊区，做一场最难的「实验」 [read](http://www.geekpark.net/news/299502)
+   屏下摄像头，为什么不受待见了？ [read](http://www.geekpark.net/news/299433)
 
-   苹果发布 M1 Ultra 芯片及 Mac Studio；比亚迪回应王传福卸任董事长：不影响业务；「权游」制片人伦敦拍「三体」 [read](http://www.geekpark.net/news/299466)
+   罗技 G412 TKL SE 键盘开箱：T 轴适用广泛，做工扎实价格香 [read](http://www.geekpark.net/news/299353)
 
-   苹果发布会：带点绿的 iPhone 13、涨价的 iPhone SE 3、再次壮大的 M1 宇宙 [read](http://www.geekpark.net/news/299446)
+   为了不让零时工转「正」，Uber、Lyft 们烧了几亿美元广告费 [read](http://www.geekpark.net/news/299519)
 
 ### 金融类
 
-   市场大跌，分享几点经验 [read](http://xueqiu.com/7245734636/213410090)
+   市场下跌时，买转债要关注哪几个指标！ [read](http://xueqiu.com/9508203182/213682664)
 
-   此时加入“概”帮 想不赚钱都难 [read](http://xueqiu.com/1818877481/213302722)
+   牧原财务造假的可能性分析 [read](http://xueqiu.com/2781746060/213690837)
 
-   雪球专刊——CTA策略投资指南 [read](http://xueqiu.com/3746414875/213538921)
+   用多策略配置降低回撤 [read](http://xueqiu.com/6146592061/213664229)
 
 ### 学习类
+
+   💻 Issue 298 - Security advisory for the regex crate (CVE-2022-24713) \| Rust Blog [read](https://rust.libhunt.com/newsletter/298)
 
    💻 Issue 297 - Lapce – open source code editor inspired by Xi-editor [read](https://rust.libhunt.com/newsletter/297)
 
    💻 Issue 296 - rust-analyzer joins the Rust organization! \| Rust Blog [read](https://rust.libhunt.com/newsletter/296)
 
-   💻 Issue 295 - A Rust match made in hell [read](https://rust.libhunt.com/newsletter/295)
+   This Week in Rust 433 [read](https://this-week-in-rust.org/blog/2022/03/09/this-week-in-rust-433/)
 
    This Week in Rust 432 [read](https://this-week-in-rust.org/blog/2022/03/02/this-week-in-rust-432/)
 
    This Week in Rust 431 [read](https://this-week-in-rust.org/blog/2022/02/23/this-week-in-rust-431/)
-
-   This Week in Rust 430 [read](https://this-week-in-rust.org/blog/2022/02/16/this-week-in-rust-430/)
 
    “一把梭：REST API 全用 POST” [read](https://coolshell.cn/articles/22173.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Moments in the past [read](https://www.behance.net/gallery/138797881/Moments-in-the-past)
+   NFT Collection II [read](https://www.behance.net/gallery/138895897/NFT-Collection-II)
 
-   Dam [read](https://www.behance.net/gallery/138876507/Dam)
+   ?????The creation of the Dong people [read](https://www.behance.net/gallery/138077159/The-creation-of-the-Dong-people)
 
-   ED 22 II [read](https://www.behance.net/gallery/138924457/ED-22-II)
+   SiteOne ? visual identity [read](https://www.behance.net/gallery/135396449/SiteOne-visual-identity)
 
    Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
