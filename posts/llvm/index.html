@@ -1,58 +1,18 @@
-<!doctype html><html lang=zh-ch>
-<head>
-<title>LLVM 使用手册 // AirChen Blog</title><link rel="shortcut icon" href=pikachu.ico>
-<meta charset=utf-8>
-<meta name=generator content="Hugo 0.93.3">
-<meta name=viewport content="width=device-width,initial-scale=1">
-<meta name=author content="AirChen">
-<meta name=description content>
-<link rel=stylesheet href=https://blog.airchen-space.top/css/main.min.4a7ec8660f9a44b08c4da97c5f2e31b1192df1d4d0322e65c0dbbc6ecb1b863f.css>
-<meta name=twitter:card content="summary">
-<meta name=twitter:title content="LLVM 使用手册">
-<meta name=twitter:description content="简介 LLVM 是一个发展中的前言编辑器技术框架，它易于扩展并设计成多个库的形式，可以为编译器开发者提供流畅的体验，并能使编译器开发所涉及的学习过程变得非常流畅。
+<!doctype html><html lang=zh-ch><head><title>LLVM 使用手册 // AirChen Blog</title><link rel="shortcut icon" href=pikachu.ico><meta charset=utf-8><meta name=generator content="Hugo 0.94.0"><meta name=viewport content="width=device-width,initial-scale=1"><meta name=author content="AirChen"><meta name=description content><link rel=stylesheet href=https://blog.airchen-space.top/css/main.min.4a7ec8660f9a44b08c4da97c5f2e31b1192df1d4d0322e65c0dbbc6ecb1b863f.css><meta name=twitter:card content="summary"><meta name=twitter:title content="LLVM 使用手册"><meta name=twitter:description content="简介 LLVM 是一个发展中的前言编辑器技术框架，它易于扩展并设计成多个库的形式，可以为编译器开发者提供流畅的体验，并能使编译器开发所涉及的学习过程变得非常流畅。
 LLVM 架构特性  C++ 语言实现 前端与后端分离，支持多种前端和后端，使用中间代码 IR 进行衔接  第一个 Release 版本发布于 2003 年，代码开源 提供了很多工具用于编译和优化代码  与 GCC 相比，编译出的程序运行效率更高  Tools 使用 LLVM 的一些优化和绘图都针对 bitcode 文件，这里介绍与之相关的工具使用
 从 源文件 生成 bitcode 文件
 clang -c -emit-llvm const.c -o const.bc clang 是 LLVM 的前端编译工具，可以用它来生成目标文件，这个指令将 .c 代码生成 .bc 文件.
 warning: 使用这个命令的时候会自动带有 -O0 级别的优化（新版本中），可以禁止它，参考
-clang -c -emit-llvm -Xclang -disable-O0-optnone const.c -o const.bc llvm tools 提供了产生 cfg callgraph 等图片参数的工具（opt），注意，不会自己生成图片，还需要工具（如：graphviz MacOS下安装 brew install graphviz） cfg 图">
-<meta property="og:title" content="LLVM 使用手册">
-<meta property="og:description" content="简介 LLVM 是一个发展中的前言编辑器技术框架，它易于扩展并设计成多个库的形式，可以为编译器开发者提供流畅的体验，并能使编译器开发所涉及的学习过程变得非常流畅。
+clang -c -emit-llvm -Xclang -disable-O0-optnone const.c -o const.bc llvm tools 提供了产生 cfg callgraph 等图片参数的工具（opt），注意，不会自己生成图片，还需要工具（如：graphviz MacOS下安装 brew install graphviz） cfg 图"><meta property="og:title" content="LLVM 使用手册"><meta property="og:description" content="简介 LLVM 是一个发展中的前言编辑器技术框架，它易于扩展并设计成多个库的形式，可以为编译器开发者提供流畅的体验，并能使编译器开发所涉及的学习过程变得非常流畅。
 LLVM 架构特性  C++ 语言实现 前端与后端分离，支持多种前端和后端，使用中间代码 IR 进行衔接  第一个 Release 版本发布于 2003 年，代码开源 提供了很多工具用于编译和优化代码  与 GCC 相比，编译出的程序运行效率更高  Tools 使用 LLVM 的一些优化和绘图都针对 bitcode 文件，这里介绍与之相关的工具使用
 从 源文件 生成 bitcode 文件
 clang -c -emit-llvm const.c -o const.bc clang 是 LLVM 的前端编译工具，可以用它来生成目标文件，这个指令将 .c 代码生成 .bc 文件.
 warning: 使用这个命令的时候会自动带有 -O0 级别的优化（新版本中），可以禁止它，参考
-clang -c -emit-llvm -Xclang -disable-O0-optnone const.c -o const.bc llvm tools 提供了产生 cfg callgraph 等图片参数的工具（opt），注意，不会自己生成图片，还需要工具（如：graphviz MacOS下安装 brew install graphviz） cfg 图">
-<meta property="og:type" content="article">
-<meta property="og:url" content="https://blog.airchen-space.top/posts/llvm/"><meta property="article:section" content="posts">
-<meta property="article:published_time" content="2020-02-09T17:19:51+08:00">
-<meta property="article:modified_time" content="2020-02-09T17:19:51+08:00">
-</head><body>
-<header class=app-header>
-<a href=https://blog.airchen-space.top/><img class=app-header-avatar src=/log.jpeg alt=AirChen></a>
-<h1>AirChen Blog</h1><nav class=app-header-menu>
-<a class=app-header-menu-item href=/>Home</a>
+clang -c -emit-llvm -Xclang -disable-O0-optnone const.c -o const.bc llvm tools 提供了产生 cfg callgraph 等图片参数的工具（opt），注意，不会自己生成图片，还需要工具（如：graphviz MacOS下安装 brew install graphviz） cfg 图"><meta property="og:type" content="article"><meta property="og:url" content="https://blog.airchen-space.top/posts/llvm/"><meta property="article:section" content="posts"><meta property="article:published_time" content="2020-02-09T17:19:51+08:00"><meta property="article:modified_time" content="2020-02-09T17:19:51+08:00"></head><body><header class=app-header><a href=https://blog.airchen-space.top/><img class=app-header-avatar src=/log.jpeg alt=AirChen></a><h1>AirChen Blog</h1><nav class=app-header-menu><a class=app-header-menu-item href=/>Home</a>
 -
 <a class=app-header-menu-item href=/daily/>Tags</a>
 -
-<a class=app-header-menu-item href=/about/>About</a>
-</nav><p>以最放松的心态对待一切艰难</p><div class=app-header-social>
-<a href=https://github.com/AirChen target=_blank rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github"><title>My Github</title><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37.0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44.0 0020 4.77 5.07 5.07.0 0019.91 1S18.73.65 16 2.48a13.38 13.38.0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07.0 005 4.77 5.44 5.44.0 003.5 8.55c0 5.42 3.3 6.61 6.44 7A3.37 3.37.0 009 18.13V22"/></svg>
-</a>
-<a href=renzhichen2012@163.com target=_blank rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-mail"><title>My Email</title><path d="M4 4h16c1.1.0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1.0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
-</a>
-</div></header><main class=app-container>
-<article class=post>
-<header class=post-header>
-<h1 class=post-title>LLVM 使用手册</h1><div class=post-meta>
-<div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar"><title>calendar</title><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
-Feb 9, 2020
-</div><div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock"><title>clock</title><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-2 min read
-</div></div></header><div class=post-content>
-<h3 id=简介>简介</h3><p>LLVM 是一个发展中的前言编辑器技术框架，它易于扩展并设计成多个库的形式，可以为编译器开发者提供流畅的体验，并能使编译器开发所涉及的学习过程变得非常流畅。</p><h4 id=llvm-架构特性>LLVM 架构特性</h4><ol>
-<li>C++ 语言实现</li><li>前端与后端分离，支持多种前端和后端，使用中间代码 IR 进行衔接</li></ol><p><img src=images/frame_llvm.png alt="LLVM 架构组成"></p><ol start=3>
-<li>第一个 Release 版本发布于 2003 年，代码开源</li><li>提供了很多工具用于编译和优化代码</li></ol><p><img src=images/tools_llvm.png alt="LLVM 工具集"></p><ol start=5>
-<li>与 GCC 相比，编译出的程序运行效率更高</li></ol><h3 id=tools-使用>Tools 使用</h3><p>LLVM 的一些优化和绘图都针对 bitcode 文件，这里介绍与之相关的工具使用</p><p>从 源文件 生成 bitcode 文件</p><pre tabindex=0><code>clang -c -emit-llvm const.c -o const.bc
+<a class=app-header-menu-item href=/about/>About</a></nav><p>以最放松的心态对待一切艰难</p><div class=app-header-social><a href=https://github.com/AirChen target=_blank rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github"><title>My Github</title><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37.0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44.0 0020 4.77 5.07 5.07.0 0019.91 1S18.73.65 16 2.48a13.38 13.38.0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07.0 005 4.77 5.44 5.44.0 003.5 8.55c0 5.42 3.3 6.61 6.44 7A3.37 3.37.0 009 18.13V22"/></svg></a><a href=renzhichen2012@163.com target=_blank rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-mail"><title>My Email</title><path d="M4 4h16c1.1.0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1.0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg></a></div></header><main class=app-container><article class=post><header class=post-header><h1 class=post-title>LLVM 使用手册</h1><div class=post-meta><div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar"><title>calendar</title><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>Feb 9, 2020</div><div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock"><title>clock</title><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>2 min read</div></div></header><div class=post-content><h3 id=简介>简介</h3><p>LLVM 是一个发展中的前言编辑器技术框架，它易于扩展并设计成多个库的形式，可以为编译器开发者提供流畅的体验，并能使编译器开发所涉及的学习过程变得非常流畅。</p><h4 id=llvm-架构特性>LLVM 架构特性</h4><ol><li>C++ 语言实现</li><li>前端与后端分离，支持多种前端和后端，使用中间代码 IR 进行衔接</li></ol><p><img src=images/frame_llvm.png alt="LLVM 架构组成"></p><ol start=3><li>第一个 Release 版本发布于 2003 年，代码开源</li><li>提供了很多工具用于编译和优化代码</li></ol><p><img src=images/tools_llvm.png alt="LLVM 工具集"></p><ol start=5><li>与 GCC 相比，编译出的程序运行效率更高</li></ol><h3 id=tools-使用>Tools 使用</h3><p>LLVM 的一些优化和绘图都针对 bitcode 文件，这里介绍与之相关的工具使用</p><p>从 源文件 生成 bitcode 文件</p><pre tabindex=0><code>clang -c -emit-llvm const.c -o const.bc
 </code></pre><p>clang 是 LLVM 的前端编译工具，可以用它来生成目标文件，这个指令将 .c 代码生成 .bc 文件.</p><p>warning:
 使用这个命令的时候会自动带有 -O0 级别的优化（新版本中），可以禁止它，<a href="https://stackoverflow.com/questions/46513801/llvm-opt-mem2reg-has-no-effect?noredirect=1">参考</a></p><pre tabindex=0><code>clang -c -emit-llvm -Xclang -disable-O0-optnone const.c -o const.bc    
 </code></pre><p>llvm tools 提供了产生 cfg callgraph 等图片参数的工具（opt），注意，不会自己生成图片，还需要工具（如：graphviz MacOS下安装 brew install graphviz）
@@ -96,5 +56,4 @@ Xcode IDE 可以对工程代码进行编辑，编译完成后，可以对目标 
 Error opening &lsquo;LLVMCountOp.dylib&rsquo;: dlopen(LLVMCountOp.dylib, 9): Symbol not found: __ZN4llvm12FunctionPass17assignPassManagerERNS_7PMStackENS_15PassManagerTypeE
 Referenced from: LLVMCountOp.dylib
 Expected in: flat namespace
-{% endhighlight %}</p><p>加载的 Pass 和 opt 版本不对，或者 Release Debug 不一致</p><h3 id=参考>参考</h3><p><a href=https://blog.csdn.net/snsn1984/article/details/41477351>Makefile 调用 llvm-config</a></p><p><a href=https://releases.llvm.org/2.7/docs/CommandGuide/html/llvm-config.html>llvm-config 官文</a></p><p><a href=http://www.gnu.org/software/make/manual/make.html#Introduction>Makefile 官文</a></p><p><a href=https://homepages.dcc.ufmg.br/~fernando/classes/dcc888/ementa/>课件官网</a></p></div><div class=post-footer>
-</div></article></main></body></html>
+{% endhighlight %}</p><p>加载的 Pass 和 opt 版本不对，或者 Release Debug 不一致</p><h3 id=参考>参考</h3><p><a href=https://blog.csdn.net/snsn1984/article/details/41477351>Makefile 调用 llvm-config</a></p><p><a href=https://releases.llvm.org/2.7/docs/CommandGuide/html/llvm-config.html>llvm-config 官文</a></p><p><a href=http://www.gnu.org/software/make/manual/make.html#Introduction>Makefile 官文</a></p><p><a href=https://homepages.dcc.ufmg.br/~fernando/classes/dcc888/ementa/>课件官网</a></p></div><div class=post-footer></div></article></main></body></html>

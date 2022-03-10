@@ -1,59 +1,21 @@
-<!doctype html><html lang=zh-ch>
-<head>
-<title>浅谈代码优化 // AirChen Blog</title><link rel="shortcut icon" href=pikachu.ico>
-<meta charset=utf-8>
-<meta name=generator content="Hugo 0.93.3">
-<meta name=viewport content="width=device-width,initial-scale=1">
-<meta name=author content="AirChen">
-<meta name=description content>
-<link rel=stylesheet href=https://blog.airchen-space.top/css/main.min.4a7ec8660f9a44b08c4da97c5f2e31b1192df1d4d0322e65c0dbbc6ecb1b863f.css>
-<meta name=twitter:card content="summary">
-<meta name=twitter:title content="浅谈代码优化">
-<meta name=twitter:description content="文章结构
+<!doctype html><html lang=zh-ch><head><title>浅谈代码优化 // AirChen Blog</title><link rel="shortcut icon" href=pikachu.ico><meta charset=utf-8><meta name=generator content="Hugo 0.94.0"><meta name=viewport content="width=device-width,initial-scale=1"><meta name=author content="AirChen"><meta name=description content><link rel=stylesheet href=https://blog.airchen-space.top/css/main.min.4a7ec8660f9a44b08c4da97c5f2e31b1192df1d4d0322e65c0dbbc6ecb1b863f.css><meta name=twitter:card content="summary"><meta name=twitter:title content="浅谈代码优化"><meta name=twitter:description content="文章结构
 1. 实例 2. 引经据典 3. 总结  实例 首先引入一个代码优化的实例，请参读以下代码：
 {% highlight objc %}
  (void)sdkAuthSetServerUrlBase:(NSString *)url isAuthTest:(NSNumber *)test { if (test.boolValue) { _isSDKAuthTest = test.boolValue; if (url && url.length > 0) { SdkAuth_setServerUrlBase([url cStringUsingEncoding:NSUTF8StringEncoding]); } } else { if (!_isSDKAuthTest) { if (url && url.length > 0) { SdkAuth_setServerUrlBase([url cStringUsingEncoding:NSUTF8StringEncoding]); } } _isSDKAuthTest = test.boolValue; } } {% endhighlight %} 代码格式整齐，变量和函数名命名规范，可以从第一眼看下去，能难理清楚其中的逻辑。该函数是一个供内部测试使用的接口，有两个标准位进行控制。  首先可以把函数的大致逻辑理清楚一下，其主要功能应该是设置sdkAuth的url，于是先把设置url的功能单独拿出来一下，这是在url存在而且有效的时候进行设置，于是函数可以调整为如下：
 {% highlight objc %}
-  (void)sdkAuthSetServerUrlBase:(NSString *)url isAuthTest:(NSNumber *)test { if (test.">
-<meta property="og:title" content="浅谈代码优化">
-<meta property="og:description" content="文章结构
+  (void)sdkAuthSetServerUrlBase:(NSString *)url isAuthTest:(NSNumber *)test { if (test."><meta property="og:title" content="浅谈代码优化"><meta property="og:description" content="文章结构
 1. 实例 2. 引经据典 3. 总结  实例 首先引入一个代码优化的实例，请参读以下代码：
 {% highlight objc %}
  (void)sdkAuthSetServerUrlBase:(NSString *)url isAuthTest:(NSNumber *)test { if (test.boolValue) { _isSDKAuthTest = test.boolValue; if (url && url.length > 0) { SdkAuth_setServerUrlBase([url cStringUsingEncoding:NSUTF8StringEncoding]); } } else { if (!_isSDKAuthTest) { if (url && url.length > 0) { SdkAuth_setServerUrlBase([url cStringUsingEncoding:NSUTF8StringEncoding]); } } _isSDKAuthTest = test.boolValue; } } {% endhighlight %} 代码格式整齐，变量和函数名命名规范，可以从第一眼看下去，能难理清楚其中的逻辑。该函数是一个供内部测试使用的接口，有两个标准位进行控制。  首先可以把函数的大致逻辑理清楚一下，其主要功能应该是设置sdkAuth的url，于是先把设置url的功能单独拿出来一下，这是在url存在而且有效的时候进行设置，于是函数可以调整为如下：
 {% highlight objc %}
-  (void)sdkAuthSetServerUrlBase:(NSString *)url isAuthTest:(NSNumber *)test { if (test.">
-<meta property="og:type" content="article">
-<meta property="og:url" content="https://blog.airchen-space.top/posts/cleancode/"><meta property="article:section" content="posts">
-<meta property="article:published_time" content="2018-07-21T17:19:51+08:00">
-<meta property="article:modified_time" content="2018-07-21T17:19:51+08:00">
-</head><body>
-<header class=app-header>
-<a href=https://blog.airchen-space.top/><img class=app-header-avatar src=/log.jpeg alt=AirChen></a>
-<h1>AirChen Blog</h1><nav class=app-header-menu>
-<a class=app-header-menu-item href=/>Home</a>
+  (void)sdkAuthSetServerUrlBase:(NSString *)url isAuthTest:(NSNumber *)test { if (test."><meta property="og:type" content="article"><meta property="og:url" content="https://blog.airchen-space.top/posts/cleancode/"><meta property="article:section" content="posts"><meta property="article:published_time" content="2018-07-21T17:19:51+08:00"><meta property="article:modified_time" content="2018-07-21T17:19:51+08:00"></head><body><header class=app-header><a href=https://blog.airchen-space.top/><img class=app-header-avatar src=/log.jpeg alt=AirChen></a><h1>AirChen Blog</h1><nav class=app-header-menu><a class=app-header-menu-item href=/>Home</a>
 -
 <a class=app-header-menu-item href=/daily/>Tags</a>
 -
-<a class=app-header-menu-item href=/about/>About</a>
-</nav><p>以最放松的心态对待一切艰难</p><div class=app-header-social>
-<a href=https://github.com/AirChen target=_blank rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github"><title>My Github</title><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37.0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44.0 0020 4.77 5.07 5.07.0 0019.91 1S18.73.65 16 2.48a13.38 13.38.0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07.0 005 4.77 5.44 5.44.0 003.5 8.55c0 5.42 3.3 6.61 6.44 7A3.37 3.37.0 009 18.13V22"/></svg>
-</a>
-<a href=renzhichen2012@163.com target=_blank rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-mail"><title>My Email</title><path d="M4 4h16c1.1.0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1.0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
-</a>
-</div></header><main class=app-container>
-<article class=post>
-<header class=post-header>
-<h1 class=post-title>浅谈代码优化</h1><div class=post-meta>
-<div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar"><title>calendar</title><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
-Jul 21, 2018
-</div><div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock"><title>clock</title><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-2 min read
-</div></div></header><div class=post-content>
-<p>文章结构</p><pre><code>1. 实例
+<a class=app-header-menu-item href=/about/>About</a></nav><p>以最放松的心态对待一切艰难</p><div class=app-header-social><a href=https://github.com/AirChen target=_blank rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github"><title>My Github</title><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37.0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44.0 0020 4.77 5.07 5.07.0 0019.91 1S18.73.65 16 2.48a13.38 13.38.0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07.0 005 4.77 5.44 5.44.0 003.5 8.55c0 5.42 3.3 6.61 6.44 7A3.37 3.37.0 009 18.13V22"/></svg></a><a href=renzhichen2012@163.com target=_blank rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-mail"><title>My Email</title><path d="M4 4h16c1.1.0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1.0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg></a></div></header><main class=app-container><article class=post><header class=post-header><h1 class=post-title>浅谈代码优化</h1><div class=post-meta><div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar"><title>calendar</title><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>Jul 21, 2018</div><div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock"><title>clock</title><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>2 min read</div></div></header><div class=post-content><p>文章结构</p><pre><code>1. 实例
 2. 引经据典
 3. 总结
-</code></pre><h3 id=实例>实例</h3><p>首先引入一个代码优化的实例，请参读以下代码：</p><p>{% highlight objc %}</p><ul>
-<li>(void)sdkAuthSetServerUrlBase:(NSString *)url isAuthTest:(NSNumber *)test {
+</code></pre><h3 id=实例>实例</h3><p>首先引入一个代码优化的实例，请参读以下代码：</p><p>{% highlight objc %}</p><ul><li>(void)sdkAuthSetServerUrlBase:(NSString *)url isAuthTest:(NSNumber *)test {
 if (test.boolValue) {
 _isSDKAuthTest = test.boolValue;
 if (url && url.length > 0) {
@@ -69,9 +31,7 @@ _isSDKAuthTest = test.boolValue;
 }
 }
 {% endhighlight %}
-代码格式整齐，变量和函数名命名规范，可以从第一眼看下去，能难理清楚其中的逻辑。该函数是一个供内部测试使用的接口，有两个标准位进行控制。</li></ul><p>首先可以把函数的大致逻辑理清楚一下，其主要功能应该是设置sdkAuth的url，于是先把设置url的功能单独拿出来一下，这是在url存在而且有效的时候进行设置，于是函数可以调整为如下：</p><p>{% highlight objc %}</p><ul>
-<li>
-<p>(void)sdkAuthSetServerUrlBase:(NSString *)url isAuthTest:(NSNumber *)test {
+代码格式整齐，变量和函数名命名规范，可以从第一眼看下去，能难理清楚其中的逻辑。该函数是一个供内部测试使用的接口，有两个标准位进行控制。</li></ul><p>首先可以把函数的大致逻辑理清楚一下，其主要功能应该是设置sdkAuth的url，于是先把设置url的功能单独拿出来一下，这是在url存在而且有效的时候进行设置，于是函数可以调整为如下：</p><p>{% highlight objc %}</p><ul><li><p>(void)sdkAuthSetServerUrlBase:(NSString *)url isAuthTest:(NSNumber *)test {
 if (test.boolValue) {
 [self setServerUrlBase:url];
 } else {
@@ -80,51 +40,31 @@ if (!_isSDKAuthTest) {
 }
 }
 _isSDKAuthTest = test.boolValue;
-}</p></li><li>
-<p>(void)setServerUrlBase:(NSString *)url {
+}</p></li><li><p>(void)setServerUrlBase:(NSString *)url {
 if (url && url.length > 0) {
 SdkAuth_setServerUrlBase([url cStringUsingEncoding:NSUTF8StringEncoding]);
 }
 }</p></li></ul><p>{% endhighlight %}
-再审视我们的代码，视乎关系变得清楚了一些，但其控制逻辑可以再优化一下，我从满足什么条件的情况下设置url这个角度进行分析。</p><table>
-<thead>
-<tr>
-<th style=text-align:center>test.boolValue</th><th style=text-align:center>_isSDKAuthTest</th><th style=text-align:center>setServerUrlBase</th></tr></thead><tbody>
-<tr>
-<td style=text-align:center>1</td><td style=text-align:center>0</td><td style=text-align:center>true</td></tr><tr>
-<td style=text-align:center>1</td><td style=text-align:center>1</td><td style=text-align:center>true</td></tr><tr>
-<td style=text-align:center>0</td><td style=text-align:center>0</td><td style=text-align:center>true</td></tr><tr>
-<td style=text-align:center>0</td><td style=text-align:center>1</td><td style=text-align:center>false</td></tr></tbody></table><p>从组合情况来看，只有当 test.boolValue 为 false ，_isSDKAuthTest 为 true 的情况下，会不调用 setServerUrlBase 接口，即：</p><p>{% highlight objc %}
+再审视我们的代码，视乎关系变得清楚了一些，但其控制逻辑可以再优化一下，我从满足什么条件的情况下设置url这个角度进行分析。</p><table><thead><tr><th style=text-align:center>test.boolValue</th><th style=text-align:center>_isSDKAuthTest</th><th style=text-align:center>setServerUrlBase</th></tr></thead><tbody><tr><td style=text-align:center>1</td><td style=text-align:center>0</td><td style=text-align:center>true</td></tr><tr><td style=text-align:center>1</td><td style=text-align:center>1</td><td style=text-align:center>true</td></tr><tr><td style=text-align:center>0</td><td style=text-align:center>0</td><td style=text-align:center>true</td></tr><tr><td style=text-align:center>0</td><td style=text-align:center>1</td><td style=text-align:center>false</td></tr></tbody></table><p>从组合情况来看，只有当 test.boolValue 为 false ，_isSDKAuthTest 为 true 的情况下，会不调用 setServerUrlBase 接口，即：</p><p>{% highlight objc %}
 if(!test.boolValue && _isSDKAuthTest)
 {% endhighlight %}</p><p>的情况下，不设置。
-最终调整版本为：</p><p>{% highlight objc %}</p><ul>
-<li>
-<p>(void)sdkAuthSetServerUrlBase:(NSString *)url isAuthTest:(NSNumber *)test {
+最终调整版本为：</p><p>{% highlight objc %}</p><ul><li><p>(void)sdkAuthSetServerUrlBase:(NSString *)url isAuthTest:(NSNumber *)test {
 BOOL obsoleteStatus = (!test.boolValue && _isSDKAuthTest);
 if (!obsoleteStatus) {
 [self setServerUrlBase:url];
 }
 _isSDKAuthTest = test.boolValue;
-}</p></li><li>
-<p>(void)setServerUrlBase:(NSString *)url {
+}</p></li><li><p>(void)setServerUrlBase:(NSString *)url {
 if (url && url.length > 0) {
 SdkAuth_setServerUrlBase([url cStringUsingEncoding:NSUTF8StringEncoding]);
 }
 }
-{% endhighlight %}</p></li></ul><h3 id=引经据典>引经据典</h3><p>以下编程建议，为总结一本经典书籍上的知识点，文章末尾揭示这本书名</p><ol>
-<li>
-<p>要编写整洁的代码，必须先写肮脏代码，然后再清理它。不会一开始写出来的代码就会整洁规范，逻辑清晰的，需要经过不断的修改，优化。先让代码能工作，然后再重构。</p></li><li>
-<p>今天写的代码，可能在下一版本中被修改，但可读性对以后将要发生的修改有着深远的影响，格式对代码质量很重要；</p><p>垂直格式：</p><pre><code> 1. 学习报纸的排版，相关性较大的代码放一起
+{% endhighlight %}</p></li></ul><h3 id=引经据典>引经据典</h3><p>以下编程建议，为总结一本经典书籍上的知识点，文章末尾揭示这本书名</p><ol><li><p>要编写整洁的代码，必须先写肮脏代码，然后再清理它。不会一开始写出来的代码就会整洁规范，逻辑清晰的，需要经过不断的修改，优化。先让代码能工作，然后再重构。</p></li><li><p>今天写的代码，可能在下一版本中被修改，但可读性对以后将要发生的修改有着深远的影响，格式对代码质量很重要；</p><p>垂直格式：</p><pre><code> 1. 学习报纸的排版，相关性较大的代码放一起
  2. 若某个函数调用了另外一个，就应该把它们放在一起，而且调用者应该尽可能放在被调用者上面
 </code></pre><p>水平格式：</p><pre><code> 1. 尽力保持代码行简短
  2. 使用空格字符将彼此紧密相关的事物连接到一起，也用空格把相关性较弱的事物隔开
  3. 代码对齐不是硬性要求，但要保证每行代码的长度
-</code></pre></li><li>
-<p>函数只专注于一件事情，保持代码量少，参数尽量少，没有返回值更好，有返回值的话不要反回空。</p></li><li>
-<p>函数命名要富有表达性，使被人使用的时候更好理解其作用，多使用专业相关的词汇。</p></li><li>
-<p>注释方面，要注意不要写得太啰嗦，同时要把自己的意思表达清楚，在需要添加的地方添加</p></li><li>
-<p>多线程的调用的接口，应该尽量使代码量少，在使用多线程相关的API时要注意：</p><pre><code> 1. 使用类库提供的线程安全的群集
+</code></pre></li><li><p>函数只专注于一件事情，保持代码量少，参数尽量少，没有返回值更好，有返回值的话不要反回空。</p></li><li><p>函数命名要富有表达性，使被人使用的时候更好理解其作用，多使用专业相关的词汇。</p></li><li><p>注释方面，要注意不要写得太啰嗦，同时要把自己的意思表达清楚，在需要添加的地方添加</p></li><li><p>多线程的调用的接口，应该尽量使代码量少，在使用多线程相关的API时要注意：</p><pre><code> 1. 使用类库提供的线程安全的群集
  2. 尽可能使用非锁定解决方案
  3. 要注意有哪些类是非线程安全的
-</code></pre></li></ol><h3 id=总结>总结</h3><p>一方面，需要养成一个在编程中不断学习的习惯，多总结一些好的编程习惯，在平时review代码的时候去实践，发现有不合理的地方，立马修改。有时候可能是一个函数命名或者参数的命名不好，或者在哪里多了一行空格，注释太老了没有更新。</p><p>另一方面，多去看看其他人写的代码，学习他人的有点，有不合理的地方提出自己的观点，相互学习共同进步。</p><p>程序员代码质量的提高，是一个循序渐进的过程，并不是参考一本书上的编程样式就能马上适应。要在平时的编程中多去实践，提升自己的水平。</p><p>参考书籍：《Clean Code》</p></div><div class=post-footer>
-</div></article></main></body></html>
+</code></pre></li></ol><h3 id=总结>总结</h3><p>一方面，需要养成一个在编程中不断学习的习惯，多总结一些好的编程习惯，在平时review代码的时候去实践，发现有不合理的地方，立马修改。有时候可能是一个函数命名或者参数的命名不好，或者在哪里多了一行空格，注释太老了没有更新。</p><p>另一方面，多去看看其他人写的代码，学习他人的有点，有不合理的地方提出自己的观点，相互学习共同进步。</p><p>程序员代码质量的提高，是一个循序渐进的过程，并不是参考一本书上的编程样式就能马上适应。要在平时的编程中多去实践，提升自己的水平。</p><p>参考书籍：《Clean Code》</p></div><div class=post-footer></div></article></main></body></html>

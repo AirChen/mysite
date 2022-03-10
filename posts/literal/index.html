@@ -1,15 +1,4 @@
-<!doctype html><html lang=zh-ch>
-<head>
-<title>Objective-C 字面量的内存管理 // AirChen Blog</title><link rel="shortcut icon" href=pikachu.ico>
-<meta charset=utf-8>
-<meta name=generator content="Hugo 0.93.3">
-<meta name=viewport content="width=device-width,initial-scale=1">
-<meta name=author content="AirChen">
-<meta name=description content>
-<link rel=stylesheet href=https://blog.airchen-space.top/css/main.min.4a7ec8660f9a44b08c4da97c5f2e31b1192df1d4d0322e65c0dbbc6ecb1b863f.css>
-<meta name=twitter:card content="summary">
-<meta name=twitter:title content="Objective-C 字面量的内存管理">
-<meta name=twitter:description content="起因：
+<!doctype html><html lang=zh-ch><head><title>Objective-C 字面量的内存管理 // AirChen Blog</title><link rel="shortcut icon" href=pikachu.ico><meta charset=utf-8><meta name=generator content="Hugo 0.94.0"><meta name=viewport content="width=device-width,initial-scale=1"><meta name=author content="AirChen"><meta name=description content><link rel=stylesheet href=https://blog.airchen-space.top/css/main.min.4a7ec8660f9a44b08c4da97c5f2e31b1192df1d4d0322e65c0dbbc6ecb1b863f.css><meta name=twitter:card content="summary"><meta name=twitter:title content="Objective-C 字面量的内存管理"><meta name=twitter:description content="起因：
 __auto_type __weak wStr = @&#34;123&#34;; __auto_type __weak owStr = [[NSString alloc] initWithString:@&#34;one two three&#34;]; 发现通过字面量的形式给 __weak 变量赋值，不会出现警告。
 我们知道，__weak 在Objc的内存管理里是弱指针，仅指向但不拥有对象，一旦所指向的对象释放了，__weak 变量也会被设置为 nil 。所以常常用于解决循环引用。
 根据引用计数的原理，一个对象没有变量去引用了，就会立即被释放掉，而用 __weak 变量去指向一个对象，同样也不会引起该对象引用计数的增加。
@@ -18,9 +7,7 @@ __auto_type __weak obj = [[NSObject alloc] init]; NSLog(@&#34;%@&#34;, obj); __a
 2020-06-07 07:55:17.812027+0800 debug[2495:33225] (null) 2020-06-07 07:55:17.812886+0800 debug[2495:33225] <NSObject: 0x101004d60> 可见 __weak 变量并不能保留对象，在编译器中也会出现编译警告 那么为何什么字面量的形式赋值时，不会出现该警告？难道字面量创建对象不会被释放？
 我们将代码编译为C++代码，来分析结构
 clang --rewrite-objc main.m 删去多余代码，我们得到如下主干部分：
-static __NSConstantStringImpl __NSConstantStringImpl__var_mi_0 __attribute__ ((section (&#34;__DATA, __cfstring&#34;))) = {__CFConstantStringClassReference,0x000007c8,&#34;one two three&#34;,13}; static __NSConstantStringImpl __NSConstantStringImpl__var_mi_1 __attribute__ ((section (&#34;__DATA, __cfstring&#34;))) = {__CFConstantStringClassReference,0x000007c8,&#34;one two three&#34;,13}; int main(int argc, const char * argv[]) { /* @autoreleasepool */ { __AtAutoreleasePool __autoreleasepool; __auto_type wStr = (NSString *)&__NSConstantStringImpl__var_mi_0; __auto_type owStr = ((NSString *(*)(id, SEL, NSString * _Nonnull))(void *)objc_msgSend)((id)((NSString *(*)(id, SEL))(void *)objc_msgSend)((id)objc_getClass(&#34;NSString&#34;), sel_registerName(&#34;alloc&#34;)), sel_registerName(&#34;initWithString:&#34;), (NSString *)&__NSConstantStringImpl__var_mi_1); } return 0; } 字面量赋值，其实是将一个静态数据赋值给了 wStr，内存在编译后的二进制中，相当于静态变量。而通过代码结构创建的（有警告的那种），会走消息传递，从而内存交由 ARC 来管理。">
-<meta property="og:title" content="Objective-C 字面量的内存管理">
-<meta property="og:description" content="起因：
+static __NSConstantStringImpl __NSConstantStringImpl__var_mi_0 __attribute__ ((section (&#34;__DATA, __cfstring&#34;))) = {__CFConstantStringClassReference,0x000007c8,&#34;one two three&#34;,13}; static __NSConstantStringImpl __NSConstantStringImpl__var_mi_1 __attribute__ ((section (&#34;__DATA, __cfstring&#34;))) = {__CFConstantStringClassReference,0x000007c8,&#34;one two three&#34;,13}; int main(int argc, const char * argv[]) { /* @autoreleasepool */ { __AtAutoreleasePool __autoreleasepool; __auto_type wStr = (NSString *)&__NSConstantStringImpl__var_mi_0; __auto_type owStr = ((NSString *(*)(id, SEL, NSString * _Nonnull))(void *)objc_msgSend)((id)((NSString *(*)(id, SEL))(void *)objc_msgSend)((id)objc_getClass(&#34;NSString&#34;), sel_registerName(&#34;alloc&#34;)), sel_registerName(&#34;initWithString:&#34;), (NSString *)&__NSConstantStringImpl__var_mi_1); } return 0; } 字面量赋值，其实是将一个静态数据赋值给了 wStr，内存在编译后的二进制中，相当于静态变量。而通过代码结构创建的（有警告的那种），会走消息传递，从而内存交由 ARC 来管理。"><meta property="og:title" content="Objective-C 字面量的内存管理"><meta property="og:description" content="起因：
 __auto_type __weak wStr = @&#34;123&#34;; __auto_type __weak owStr = [[NSString alloc] initWithString:@&#34;one two three&#34;]; 发现通过字面量的形式给 __weak 变量赋值，不会出现警告。
 我们知道，__weak 在Objc的内存管理里是弱指针，仅指向但不拥有对象，一旦所指向的对象释放了，__weak 变量也会被设置为 nil 。所以常常用于解决循环引用。
 根据引用计数的原理，一个对象没有变量去引用了，就会立即被释放掉，而用 __weak 变量去指向一个对象，同样也不会引起该对象引用计数的增加。
@@ -29,35 +16,11 @@ __auto_type __weak obj = [[NSObject alloc] init]; NSLog(@&#34;%@&#34;, obj); __a
 2020-06-07 07:55:17.812027+0800 debug[2495:33225] (null) 2020-06-07 07:55:17.812886+0800 debug[2495:33225] <NSObject: 0x101004d60> 可见 __weak 变量并不能保留对象，在编译器中也会出现编译警告 那么为何什么字面量的形式赋值时，不会出现该警告？难道字面量创建对象不会被释放？
 我们将代码编译为C++代码，来分析结构
 clang --rewrite-objc main.m 删去多余代码，我们得到如下主干部分：
-static __NSConstantStringImpl __NSConstantStringImpl__var_mi_0 __attribute__ ((section (&#34;__DATA, __cfstring&#34;))) = {__CFConstantStringClassReference,0x000007c8,&#34;one two three&#34;,13}; static __NSConstantStringImpl __NSConstantStringImpl__var_mi_1 __attribute__ ((section (&#34;__DATA, __cfstring&#34;))) = {__CFConstantStringClassReference,0x000007c8,&#34;one two three&#34;,13}; int main(int argc, const char * argv[]) { /* @autoreleasepool */ { __AtAutoreleasePool __autoreleasepool; __auto_type wStr = (NSString *)&__NSConstantStringImpl__var_mi_0; __auto_type owStr = ((NSString *(*)(id, SEL, NSString * _Nonnull))(void *)objc_msgSend)((id)((NSString *(*)(id, SEL))(void *)objc_msgSend)((id)objc_getClass(&#34;NSString&#34;), sel_registerName(&#34;alloc&#34;)), sel_registerName(&#34;initWithString:&#34;), (NSString *)&__NSConstantStringImpl__var_mi_1); } return 0; } 字面量赋值，其实是将一个静态数据赋值给了 wStr，内存在编译后的二进制中，相当于静态变量。而通过代码结构创建的（有警告的那种），会走消息传递，从而内存交由 ARC 来管理。">
-<meta property="og:type" content="article">
-<meta property="og:url" content="https://blog.airchen-space.top/posts/literal/"><meta property="article:section" content="posts">
-<meta property="article:published_time" content="2020-06-07T17:19:51+08:00">
-<meta property="article:modified_time" content="2020-06-07T17:19:51+08:00">
-</head><body>
-<header class=app-header>
-<a href=https://blog.airchen-space.top/><img class=app-header-avatar src=/log.jpeg alt=AirChen></a>
-<h1>AirChen Blog</h1><nav class=app-header-menu>
-<a class=app-header-menu-item href=/>Home</a>
+static __NSConstantStringImpl __NSConstantStringImpl__var_mi_0 __attribute__ ((section (&#34;__DATA, __cfstring&#34;))) = {__CFConstantStringClassReference,0x000007c8,&#34;one two three&#34;,13}; static __NSConstantStringImpl __NSConstantStringImpl__var_mi_1 __attribute__ ((section (&#34;__DATA, __cfstring&#34;))) = {__CFConstantStringClassReference,0x000007c8,&#34;one two three&#34;,13}; int main(int argc, const char * argv[]) { /* @autoreleasepool */ { __AtAutoreleasePool __autoreleasepool; __auto_type wStr = (NSString *)&__NSConstantStringImpl__var_mi_0; __auto_type owStr = ((NSString *(*)(id, SEL, NSString * _Nonnull))(void *)objc_msgSend)((id)((NSString *(*)(id, SEL))(void *)objc_msgSend)((id)objc_getClass(&#34;NSString&#34;), sel_registerName(&#34;alloc&#34;)), sel_registerName(&#34;initWithString:&#34;), (NSString *)&__NSConstantStringImpl__var_mi_1); } return 0; } 字面量赋值，其实是将一个静态数据赋值给了 wStr，内存在编译后的二进制中，相当于静态变量。而通过代码结构创建的（有警告的那种），会走消息传递，从而内存交由 ARC 来管理。"><meta property="og:type" content="article"><meta property="og:url" content="https://blog.airchen-space.top/posts/literal/"><meta property="article:section" content="posts"><meta property="article:published_time" content="2020-06-07T17:19:51+08:00"><meta property="article:modified_time" content="2020-06-07T17:19:51+08:00"></head><body><header class=app-header><a href=https://blog.airchen-space.top/><img class=app-header-avatar src=/log.jpeg alt=AirChen></a><h1>AirChen Blog</h1><nav class=app-header-menu><a class=app-header-menu-item href=/>Home</a>
 -
 <a class=app-header-menu-item href=/daily/>Tags</a>
 -
-<a class=app-header-menu-item href=/about/>About</a>
-</nav><p>以最放松的心态对待一切艰难</p><div class=app-header-social>
-<a href=https://github.com/AirChen target=_blank rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github"><title>My Github</title><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37.0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44.0 0020 4.77 5.07 5.07.0 0019.91 1S18.73.65 16 2.48a13.38 13.38.0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07.0 005 4.77 5.44 5.44.0 003.5 8.55c0 5.42 3.3 6.61 6.44 7A3.37 3.37.0 009 18.13V22"/></svg>
-</a>
-<a href=renzhichen2012@163.com target=_blank rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-mail"><title>My Email</title><path d="M4 4h16c1.1.0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1.0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
-</a>
-</div></header><main class=app-container>
-<article class=post>
-<header class=post-header>
-<h1 class=post-title>Objective-C 字面量的内存管理</h1><div class=post-meta>
-<div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar"><title>calendar</title><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
-Jun 7, 2020
-</div><div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock"><title>clock</title><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-2 min read
-</div></div></header><div class=post-content>
-<p>起因：</p><pre tabindex=0><code>__auto_type __weak wStr = @&#34;123&#34;;
+<a class=app-header-menu-item href=/about/>About</a></nav><p>以最放松的心态对待一切艰难</p><div class=app-header-social><a href=https://github.com/AirChen target=_blank rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github"><title>My Github</title><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37.0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44.0 0020 4.77 5.07 5.07.0 0019.91 1S18.73.65 16 2.48a13.38 13.38.0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07.0 005 4.77 5.44 5.44.0 003.5 8.55c0 5.42 3.3 6.61 6.44 7A3.37 3.37.0 009 18.13V22"/></svg></a><a href=renzhichen2012@163.com target=_blank rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-mail"><title>My Email</title><path d="M4 4h16c1.1.0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1.0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg></a></div></header><main class=app-container><article class=post><header class=post-header><h1 class=post-title>Objective-C 字面量的内存管理</h1><div class=post-meta><div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar"><title>calendar</title><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>Jun 7, 2020</div><div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock"><title>clock</title><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>2 min read</div></div></header><div class=post-content><p>起因：</p><pre tabindex=0><code>__auto_type __weak wStr = @&#34;123&#34;;
 
 __auto_type __weak owStr = [[NSString alloc] initWithString:@&#34;one two three&#34;];
 </code></pre><p>发现通过字面量的形式给 __weak 变量赋值，不会出现警告。</p><p>我们知道，__weak 在Objc的内存管理里是弱指针，仅指向但不拥有对象，一旦所指向的对象释放了，__weak 变量也会被设置为 nil 。所以常常用于解决循环引用。</p><p>根据引用计数的原理，一个对象没有变量去引用了，就会立即被释放掉，而用 __weak 变量去指向一个对象，同样也不会引起该对象引用计数的增加。</p><p>实验一下：</p><pre tabindex=0><code>__auto_type __weak obj = [[NSObject alloc] init];
@@ -128,5 +91,4 @@ int main(int argc, const char * argv[]) {
 NSString -> 静态变量
 NSNumber -> ARC
 NSDictionary -> ARC
-NSArray -> ARC</p><p>参考：https://stackoverflow.com/questions/48416192/assigning-object-to-weak-reference-in-objective-c</p></div><div class=post-footer>
-</div></article></main></body></html>
+NSArray -> ARC</p><p>参考：https://stackoverflow.com/questions/48416192/assigning-object-to-weak-reference-in-objective-c</p></div><div class=post-footer></div></article></main></body></html>

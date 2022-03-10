@@ -1,15 +1,4 @@
-<!doctype html><html lang=zh-ch>
-<head>
-<title>iOS GCD知识点总结 // AirChen Blog</title><link rel="shortcut icon" href=pikachu.ico>
-<meta charset=utf-8>
-<meta name=generator content="Hugo 0.93.3">
-<meta name=viewport content="width=device-width,initial-scale=1">
-<meta name=author content="AirChen">
-<meta name=description content>
-<link rel=stylesheet href=https://blog.airchen-space.top/css/main.min.4a7ec8660f9a44b08c4da97c5f2e31b1192df1d4d0322e65c0dbbc6ecb1b863f.css>
-<meta name=twitter:card content="summary">
-<meta name=twitter:title content="iOS GCD知识点总结">
-<meta name=twitter:description content="引入 GCD(Grand Central Dispatch)是苹果从OS X Snow Leopard 和 iOS4 开始引入的一套多线程开发的API，它是基于C语言的实现，其执行效率对比其他的多线程实现方式更高。其接口的调用很简洁，使用起来十分方便。用苹果爸爸的话来说，那就是：
+<!doctype html><html lang=zh-ch><head><title>iOS GCD知识点总结 // AirChen Blog</title><link rel="shortcut icon" href=pikachu.ico><meta charset=utf-8><meta name=generator content="Hugo 0.94.0"><meta name=viewport content="width=device-width,initial-scale=1"><meta name=author content="AirChen"><meta name=description content><link rel=stylesheet href=https://blog.airchen-space.top/css/main.min.4a7ec8660f9a44b08c4da97c5f2e31b1192df1d4d0322e65c0dbbc6ecb1b863f.css><meta name=twitter:card content="summary"><meta name=twitter:title content="iOS GCD知识点总结"><meta name=twitter:description content="引入 GCD(Grand Central Dispatch)是苹果从OS X Snow Leopard 和 iOS4 开始引入的一套多线程开发的API，它是基于C语言的实现，其执行效率对比其他的多线程实现方式更高。其接口的调用很简洁，使用起来十分方便。用苹果爸爸的话来说，那就是：
 开发者要做的只是定义想执行的任务并追加到适当的Dispatch Queue
 既然有这么好的东西在这里，为什么不好好地去使用它呢？
 梳理点  多线程把原本顺序执行的程序变成了多个流程来执行，各个流程之间的切换会有性能消耗，但在GCD的时候，永远不用关注这些底层的事情。   苹果爸爸说的那句话是追加，并不是执行，所以在需要考虑执行效率的地方使用GCD接口，一定要记住是追加，追加后并不一定是立刻就执行！！！
@@ -20,9 +9,7 @@
   dispatch_sync指定一个串行队列，会造成死锁。
   dispatch_apply会有阻塞线程问题，必须规定次数的block执行完，才走之后的代码。
   dispatch_walltime可用来创建绝对时间dispatch_time_t，相比dispatch_time创建的相对时间，绝对时间可用来做定时器。dispatch_time_t可用于dispatch_delay 和 dispatch_group_wait函数。
-  {% highlight objc %} dispatch_time_t getDispatchTimeByDate(NSDate *date) { NSTimeInterval interval; double second, subsecond; struct timespec time; dispatch_time_t milestone;">
-<meta property="og:title" content="iOS GCD知识点总结">
-<meta property="og:description" content="引入 GCD(Grand Central Dispatch)是苹果从OS X Snow Leopard 和 iOS4 开始引入的一套多线程开发的API，它是基于C语言的实现，其执行效率对比其他的多线程实现方式更高。其接口的调用很简洁，使用起来十分方便。用苹果爸爸的话来说，那就是：
+  {% highlight objc %} dispatch_time_t getDispatchTimeByDate(NSDate *date) { NSTimeInterval interval; double second, subsecond; struct timespec time; dispatch_time_t milestone;"><meta property="og:title" content="iOS GCD知识点总结"><meta property="og:description" content="引入 GCD(Grand Central Dispatch)是苹果从OS X Snow Leopard 和 iOS4 开始引入的一套多线程开发的API，它是基于C语言的实现，其执行效率对比其他的多线程实现方式更高。其接口的调用很简洁，使用起来十分方便。用苹果爸爸的话来说，那就是：
 开发者要做的只是定义想执行的任务并追加到适当的Dispatch Queue
 既然有这么好的东西在这里，为什么不好好地去使用它呢？
 梳理点  多线程把原本顺序执行的程序变成了多个流程来执行，各个流程之间的切换会有性能消耗，但在GCD的时候，永远不用关注这些底层的事情。   苹果爸爸说的那句话是追加，并不是执行，所以在需要考虑执行效率的地方使用GCD接口，一定要记住是追加，追加后并不一定是立刻就执行！！！
@@ -33,47 +20,12 @@
   dispatch_sync指定一个串行队列，会造成死锁。
   dispatch_apply会有阻塞线程问题，必须规定次数的block执行完，才走之后的代码。
   dispatch_walltime可用来创建绝对时间dispatch_time_t，相比dispatch_time创建的相对时间，绝对时间可用来做定时器。dispatch_time_t可用于dispatch_delay 和 dispatch_group_wait函数。
-  {% highlight objc %} dispatch_time_t getDispatchTimeByDate(NSDate *date) { NSTimeInterval interval; double second, subsecond; struct timespec time; dispatch_time_t milestone;">
-<meta property="og:type" content="article">
-<meta property="og:url" content="https://blog.airchen-space.top/posts/gcd_about/"><meta property="article:section" content="posts">
-<meta property="article:published_time" content="2018-01-07T17:19:51+08:00">
-<meta property="article:modified_time" content="2018-01-07T17:19:51+08:00">
-</head><body>
-<header class=app-header>
-<a href=https://blog.airchen-space.top/><img class=app-header-avatar src=/log.jpeg alt=AirChen></a>
-<h1>AirChen Blog</h1><nav class=app-header-menu>
-<a class=app-header-menu-item href=/>Home</a>
+  {% highlight objc %} dispatch_time_t getDispatchTimeByDate(NSDate *date) { NSTimeInterval interval; double second, subsecond; struct timespec time; dispatch_time_t milestone;"><meta property="og:type" content="article"><meta property="og:url" content="https://blog.airchen-space.top/posts/gcd_about/"><meta property="article:section" content="posts"><meta property="article:published_time" content="2018-01-07T17:19:51+08:00"><meta property="article:modified_time" content="2018-01-07T17:19:51+08:00"></head><body><header class=app-header><a href=https://blog.airchen-space.top/><img class=app-header-avatar src=/log.jpeg alt=AirChen></a><h1>AirChen Blog</h1><nav class=app-header-menu><a class=app-header-menu-item href=/>Home</a>
 -
 <a class=app-header-menu-item href=/daily/>Tags</a>
 -
-<a class=app-header-menu-item href=/about/>About</a>
-</nav><p>以最放松的心态对待一切艰难</p><div class=app-header-social>
-<a href=https://github.com/AirChen target=_blank rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github"><title>My Github</title><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37.0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44.0 0020 4.77 5.07 5.07.0 0019.91 1S18.73.65 16 2.48a13.38 13.38.0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07.0 005 4.77 5.44 5.44.0 003.5 8.55c0 5.42 3.3 6.61 6.44 7A3.37 3.37.0 009 18.13V22"/></svg>
-</a>
-<a href=renzhichen2012@163.com target=_blank rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-mail"><title>My Email</title><path d="M4 4h16c1.1.0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1.0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
-</a>
-</div></header><main class=app-container>
-<article class=post>
-<header class=post-header>
-<h1 class=post-title>iOS GCD知识点总结</h1><div class=post-meta>
-<div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar"><title>calendar</title><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
-Jan 7, 2018
-</div><div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock"><title>clock</title><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-1 min read
-</div></div></header><div class=post-content>
-<h3 id=引入>引入</h3><p>GCD(Grand Central Dispatch)是苹果从OS X Snow Leopard 和 iOS4 开始引入的一套多线程开发的API，它是基于C语言的实现，其执行效率对比其他的多线程实现方式更高。其接口的调用很简洁，使用起来十分方便。用苹果爸爸的话来说，那就是：</p><p><code>开发者要做的只是定义想执行的任务并追加到适当的Dispatch Queue</code></p><p>既然有这么好的东西在这里，为什么不好好地去使用它呢？</p><h3 id=梳理点>梳理点</h3><ol>
-<li>多线程把原本顺序执行的程序变成了多个流程来执行，各个流程之间的切换会有性能消耗，但在GCD的时候，永远不用关注这些底层的事情。</li></ol><p><img src=images/serial.jpg alt>
-<img src=images/bing.jpg alt></p><ol start=2>
-<li>
-<p>苹果爸爸说的那句话是追加，并不是执行，所以在需要考虑执行效率的地方使用GCD接口，一定要记住是追加，追加后并不一定是立刻就执行！！！</p></li><li>
-<p>在iOS6以后的版本，不用考虑<code>dispatch_release()</code>和<code>dispatch_retain()</code>的调用时机，系统以及将其交给ARC来处理。</p></li><li>
-<p>Dispatch Queue分为两类，串行队列和并行队列，都是按照追加顺序执行，但一个串行队列总在一个线程中执行，会有等待，并行队列会发起多线程并发执行，没有等待。</p></li></ol><p><img src=images/dispatch_queue.jpg alt></p><ol start=5>
-<li>
-<p>Dispatch Queue可以通过<code>dispatch_queue_create</code>来创建，也可以从系统中来获取，系统提供了两类队列：Main Dispatch Queue 和 Global Dispatch Queue,其中Main Dispatch Queue是串行队列，Global Dispatch Queue是并行队列，同时提供四个执行等级。</p></li><li>
-<p>创建多个串行队列来操作同一个资源，会有数据竞争问题，用一个并行队列来操作，不会造成多线程安全问题，并且多个并行队列也不会。</p></li><li>
-<p><code>dispatch_sync</code>指定一个串行队列，会造成死锁。</p></li><li>
-<p><code>dispatch_apply</code>会有阻塞线程问题，必须规定次数的block执行完，才走之后的代码。</p></li><li>
-<p><code>dispatch_walltime</code>可用来创建绝对时间<code>dispatch_time_t</code>，相比<code>dispatch_time</code>创建的相对时间，绝对时间可用来做定时器。<code>dispatch_time_t</code>可用于<code>dispatch_delay</code> 和 <code>dispatch_group_wait</code>函数。</p></li></ol><p>{% highlight objc %}
+<a class=app-header-menu-item href=/about/>About</a></nav><p>以最放松的心态对待一切艰难</p><div class=app-header-social><a href=https://github.com/AirChen target=_blank rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github"><title>My Github</title><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37.0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44.0 0020 4.77 5.07 5.07.0 0019.91 1S18.73.65 16 2.48a13.38 13.38.0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07.0 005 4.77 5.44 5.44.0 003.5 8.55c0 5.42 3.3 6.61 6.44 7A3.37 3.37.0 009 18.13V22"/></svg></a><a href=renzhichen2012@163.com target=_blank rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-mail"><title>My Email</title><path d="M4 4h16c1.1.0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1.0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg></a></div></header><main class=app-container><article class=post><header class=post-header><h1 class=post-title>iOS GCD知识点总结</h1><div class=post-meta><div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar"><title>calendar</title><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>Jan 7, 2018</div><div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock"><title>clock</title><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>1 min read</div></div></header><div class=post-content><h3 id=引入>引入</h3><p>GCD(Grand Central Dispatch)是苹果从OS X Snow Leopard 和 iOS4 开始引入的一套多线程开发的API，它是基于C语言的实现，其执行效率对比其他的多线程实现方式更高。其接口的调用很简洁，使用起来十分方便。用苹果爸爸的话来说，那就是：</p><p><code>开发者要做的只是定义想执行的任务并追加到适当的Dispatch Queue</code></p><p>既然有这么好的东西在这里，为什么不好好地去使用它呢？</p><h3 id=梳理点>梳理点</h3><ol><li>多线程把原本顺序执行的程序变成了多个流程来执行，各个流程之间的切换会有性能消耗，但在GCD的时候，永远不用关注这些底层的事情。</li></ol><p><img src=images/serial.jpg alt>
+<img src=images/bing.jpg alt></p><ol start=2><li><p>苹果爸爸说的那句话是追加，并不是执行，所以在需要考虑执行效率的地方使用GCD接口，一定要记住是追加，追加后并不一定是立刻就执行！！！</p></li><li><p>在iOS6以后的版本，不用考虑<code>dispatch_release()</code>和<code>dispatch_retain()</code>的调用时机，系统以及将其交给ARC来处理。</p></li><li><p>Dispatch Queue分为两类，串行队列和并行队列，都是按照追加顺序执行，但一个串行队列总在一个线程中执行，会有等待，并行队列会发起多线程并发执行，没有等待。</p></li></ol><p><img src=images/dispatch_queue.jpg alt></p><ol start=5><li><p>Dispatch Queue可以通过<code>dispatch_queue_create</code>来创建，也可以从系统中来获取，系统提供了两类队列：Main Dispatch Queue 和 Global Dispatch Queue,其中Main Dispatch Queue是串行队列，Global Dispatch Queue是并行队列，同时提供四个执行等级。</p></li><li><p>创建多个串行队列来操作同一个资源，会有数据竞争问题，用一个并行队列来操作，不会造成多线程安全问题，并且多个并行队列也不会。</p></li><li><p><code>dispatch_sync</code>指定一个串行队列，会造成死锁。</p></li><li><p><code>dispatch_apply</code>会有阻塞线程问题，必须规定次数的block执行完，才走之后的代码。</p></li><li><p><code>dispatch_walltime</code>可用来创建绝对时间<code>dispatch_time_t</code>，相比<code>dispatch_time</code>创建的相对时间，绝对时间可用来做定时器。<code>dispatch_time_t</code>可用于<code>dispatch_delay</code> 和 <code>dispatch_group_wait</code>函数。</p></li></ol><p>{% highlight objc %}
 dispatch_time_t getDispatchTimeByDate(NSDate *date)
 {
 NSTimeInterval interval;
@@ -87,17 +39,5 @@ milestone = dispatch_walltime(&amp;time, 0);
 
 return milestone;
 </code></pre><p>}
-{% endhighlight %}</p><h3 id=some-special-ways>Some Special Ways</h3><ol>
-<li>
-<p>使用<code>dispatch_once</code>来执行只需运行一次的线程安全代码</p></li><li>
-<p>不要使用<code>dispatch_get_current_queue</code>，然而已经废弃了，所以就别用了</p></li><li>
-<p>可以用Dispatch Queue取代同步锁，这样可以提高效率</p></li><li>
-<p>少用<code>performSelect</code>，很多借口都可以通过GCD实现</p></li></ol><p>NSOperationQueue是GCD的高层封装，提供了和GCD相同的功能，虽然在性能上不如GCD，但在一些功能的实现上使用NSOperationQueue会更加简便，在使用的时候可以仔细斟酌二者的区别，来觉得采用那种API。</p><p>使用NSOperationQueue的优点：</p><ol>
-<li>
-<p>可以取消某个NSOperation，但必须在其启动之前，通过这只标志位的方式，GCD则不能对单独的一个block取消。</p></li><li>
-<p>可以指定依赖关系，使一个操作必须依赖于其他操作。</p></li><li>
-<p>可以给NSOperation设置KVO监听，检查每个NSOperation的执行状态。</p></li><li>
-<p>可以指定每个NSOperation的优先级，NSOperationQueue的优先级也可以指定；GCD只有队列的优先级可以改变，而且是通过指定到系统的队列的方式。</p></li><li>
-<p>可以创建NSOperation的子类，定制一些功能。</p></li></ol><h3 id=参考资料>参考资料：</h3><p><a href=https://book.douban.com/subject/24720270/>Objective-C高级编程</a></p><p><a href=https://book.douban.com/subject/25829244/>Effective Objective-C 2.0</a></p><p><a href="https://developer.apple.com/documentation/dispatch?language=objc">Apple Developer Document</a></p><p>[<a href=http://blog.csdn.net/hherima/article/details/38843965>iOS 多线程编程gcd全面系统认识</a>
-](<a href=http://blog.csdn.net/hherima/article/details/38843965>http://blog.csdn.net/hherima/article/details/38843965</a>)</p></div><div class=post-footer>
-</div></article></main></body></html>
+{% endhighlight %}</p><h3 id=some-special-ways>Some Special Ways</h3><ol><li><p>使用<code>dispatch_once</code>来执行只需运行一次的线程安全代码</p></li><li><p>不要使用<code>dispatch_get_current_queue</code>，然而已经废弃了，所以就别用了</p></li><li><p>可以用Dispatch Queue取代同步锁，这样可以提高效率</p></li><li><p>少用<code>performSelect</code>，很多借口都可以通过GCD实现</p></li></ol><p>NSOperationQueue是GCD的高层封装，提供了和GCD相同的功能，虽然在性能上不如GCD，但在一些功能的实现上使用NSOperationQueue会更加简便，在使用的时候可以仔细斟酌二者的区别，来觉得采用那种API。</p><p>使用NSOperationQueue的优点：</p><ol><li><p>可以取消某个NSOperation，但必须在其启动之前，通过这只标志位的方式，GCD则不能对单独的一个block取消。</p></li><li><p>可以指定依赖关系，使一个操作必须依赖于其他操作。</p></li><li><p>可以给NSOperation设置KVO监听，检查每个NSOperation的执行状态。</p></li><li><p>可以指定每个NSOperation的优先级，NSOperationQueue的优先级也可以指定；GCD只有队列的优先级可以改变，而且是通过指定到系统的队列的方式。</p></li><li><p>可以创建NSOperation的子类，定制一些功能。</p></li></ol><h3 id=参考资料>参考资料：</h3><p><a href=https://book.douban.com/subject/24720270/>Objective-C高级编程</a></p><p><a href=https://book.douban.com/subject/25829244/>Effective Objective-C 2.0</a></p><p><a href="https://developer.apple.com/documentation/dispatch?language=objc">Apple Developer Document</a></p><p>[<a href=http://blog.csdn.net/hherima/article/details/38843965>iOS 多线程编程gcd全面系统认识</a>
+](<a href=http://blog.csdn.net/hherima/article/details/38843965>http://blog.csdn.net/hherima/article/details/38843965</a>)</p></div><div class=post-footer></div></article></main></body></html>
