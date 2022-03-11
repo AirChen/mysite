@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BobbioItaly_EN-US7115321929_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.UkraineSolidarity_EN-US5145726986_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 197 期）：如果这个世界有快乐机 [read](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html)
+   科技爱好者周刊（第 198 期）：美国制造是否可能 [read](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-198.html)
 
-   科技爱好者周刊（第 196 期）：掌机的未来 [read](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html)
+   科技爱好者周刊（第 197 期）：如果这个世界有快乐机 [read](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html)
 
    ECS 中的对象引用 [read](https://blog.codingnow.com/2022/02/ecs_entity_reference.html)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 438 期 [read](https://weekly.75.team/issue438.html)
+
    奇舞周刊第 437 期 [read](https://weekly.75.team/issue437.html)
 
    奇舞周刊第 436 期 [read](https://weekly.75.team/issue436.html)
-
-   奇舞周刊第 435 期 [read](https://weekly.75.team/issue435.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -54,11 +54,11 @@ title: "今日资讯"
 
    \[原\]自动拦截 50% crash，字节自研 Fastbot 如何助力今日头条稳定性测试 [read](https://blog.csdn.net/ByteDanceTech/article/details/123102759)
 
+   异构广告混排在美团到店业务的探索与实践 [read](https://tech.meituan.com/2022/03/10/exploration-and-practice-of-heterogeneous-ad-mixed-ranking-in-meituan-ads.html)
+
+   设计模式二三事 [read](https://tech.meituan.com/2022/03/10/interesting-talk-about-design-patterns.html)
+
    GPU在外卖场景精排模型预估中的应用实践 [read](https://tech.meituan.com/2022/03/03/ctr-gpu-inference.html)
-
-   广告平台化的探索与实践 \| 美团外卖广告工程实践专题连载 [read](https://tech.meituan.com/2022/03/03/exploration-and-practice-of-advertising-engine-platforming.html)
-
-   数据治理一体化实践之体系化建模 [read](https://tech.meituan.com/2022/02/24/systematic-modeling-of-data-development-and-governance-integration-practice.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   奥特莱斯，让年轻人再爱一次？ [read](http://www.huxiu.com/article/507288.html?f=wangzhan)
+
+   网络小说如何影响你的三观？ [read](http://www.huxiu.com/article/507249.html?f=wangzhan)
+
    干细胞如何在临床上实现长效降血糖？ [read](http://www.huxiu.com/article/506538.html?f=wangzhan)
 
-   医疗投资人郑玉芬：放弃大药厂安稳工作，转型投资人 [read](http://www.huxiu.com/article/506857.html?f=wangzhan)
+   ​谁来推动电器上门服务跨入「消费者主权」时代？ [read](https://36kr.com/p/1650434752870786)
 
-   为什么全世界人民都爱大熊猫？ [read](http://www.huxiu.com/article/506870.html?f=wangzhan)
+   氪星晚报丨支付宝公布产品服务遵循标准清单，成为首批披露的支付机构；宝马集团2021财年净利达124.63亿欧元，同比增长223.1% [read](https://36kr.com/p/1650215209252999)
 
-   获辉瑞新冠特效药的商业运营权，「中国医药」撬动的市场空间有多大？\| 焦点分析 [read](https://36kr.com/p/1649064731424903)
-
-   一键查收达晨财智、纽尓利资本等机构职务招募令｜投资机构招聘第2期 [read](https://36kr.com/p/1648735646868865)
-
-   氪星晚报丨京东：2021年第四季度营收2759亿元，同比增长23%；抖音及海外版TikTok 2月吸金超2.58亿美元；燕麦奶公司OATLY发布2021年度财报：亚洲营收同比增长136.5% [read](https://36kr.com/p/1648795202888837)
+   焦点分析 \| 股价一年翻3倍，空调设备厂商也盯上「隆基」的地盘 [read](https://36kr.com/p/1624568560449030)
 
    微软亚洲研究院多模态模型NÜWA：以自然语言创造视觉内容 [read](https://www.msra.cn/zh-cn/news/features/nuwa)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    气候变化、流行病、发展鸿沟…… 应对这些挑战我们还要做些什么？ [read](https://www.msra.cn/zh-cn/news/features/pursuing-a-resilient-and-sustainable-global-society)
 
+   中国人为什么讨厌三缸？ [read](http://www.geekpark.net/news/299581)
+
+   中概股暴跌，贝壳、爱奇艺跌超 22%；马斯克代孕女儿曝光：Exa Dark Sideræl；油价暴涨，特斯拉订单激增 [read](http://www.geekpark.net/news/299558)
+
    屏下摄像头，为什么不受待见了？ [read](http://www.geekpark.net/news/299433)
-
-   罗技 G412 TKL SE 键盘开箱：T 轴适用广泛，做工扎实价格香 [read](http://www.geekpark.net/news/299353)
-
-   为了不让零时工转「正」，Uber、Lyft 们烧了几亿美元广告费 [read](http://www.geekpark.net/news/299519)
 
 ### 金融类
 
-   市场下跌时，买转债要关注哪几个指标！ [read](http://xueqiu.com/9508203182/213682664)
+   聊一聊选基的常用指标 [read](http://xueqiu.com/8653750491/213708580)
 
-   牧原财务造假的可能性分析 [read](http://xueqiu.com/2781746060/213690837)
+   这个行业见底概率有点大 [read](http://xueqiu.com/1448459094/213811685)
 
-   用多策略配置降低回撤 [read](http://xueqiu.com/6146592061/213664229)
+   至暗时刻，我的理性还剩下哪些 [read](http://xueqiu.com/3393395193/213804863)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   NFT Collection II [read](https://www.behance.net/gallery/138895897/NFT-Collection-II)
+   Tomaso Baldessarini Ocean Now #inyourface [read](https://www.behance.net/gallery/132820171/Tomaso-Baldessarini-Ocean-Now-inyourface)
 
-   ?????The creation of the Dong people [read](https://www.behance.net/gallery/138077159/The-creation-of-the-Dong-people)
+   Digital religious fanatics [read](https://www.behance.net/gallery/139026309/Digital-religious-fanatics)
 
-   SiteOne ? visual identity [read](https://www.behance.net/gallery/135396449/SiteOne-visual-identity)
+   Bravo Musique - Web [read](https://www.behance.net/gallery/134805063/Bravo-Musique-Web)
 
    Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
@@ -140,17 +140,17 @@ title: "今日资讯"
 
    Meet This Month’s Guest Curator: Huston Wilson [read](https://medium.com/behance-blog/meet-this-months-guest-curator-huston-wilson-313b75929ab3?source=rss-f5272b7f3182------2)
 
+   Pinterest hosted second annual global ads summit, Pinterest Presents [read](https://newsroom.pinterest.com/en/post/pinterest-hosted-second-annual-global-ads-summit-pinterest-presents)
+
    Pinterest’s Support for Ukraine [read](https://newsroom.pinterest.com/en/post/pinterests-support-for-ukraine)
 
    Pinterest Elevates program marks Women’s History Month with all women-owned business cohort [read](https://newsroom.pinterest.com/en/post/pinterest-elevates-program-marks-womens-history-month-with-all-women-owned-business-cohort)
 
-   Pinterest is now available in Hebrew [read](https://newsroom.pinterest.com/en/post/pinterest-is-now-available-in-hebrew)
+   用2个案例，帮你学会B端关键信息的密度提升设计 [read](https://www.uisdc.com/density-lifting-design)
 
-   920 款游戏、38000多张高清参考图免费提供！游戏灵感神站 GAME UI Databas [read](https://www.uisdc.com/game-ui-database)
+   5个经典的付费英文字体，我们都帮你找到了免费可商用替代款！ [read](https://www.uisdc.com/commercially-available-english-font)
 
-   尼尔森团队出品！5个帮你做好电商产品列表页的设计技巧！ [read](https://www.uisdc.com/alternatives-pagination-listing-pages)
-
-   《塞尔达传说：旷野之息》如何做好新手教学？来看这篇7000+的分析！ [read](https://www.uisdc.com/the-legend-of-zelda-design)
+   大厂出品！评论区设计的三个维度和九个考量点 [read](https://www.uisdc.com/comment-section-design)
 
    微前端框架核心技术揭秘 [read](https://11.146.83.18/2022/02/22/micro-frontend-framework/)
 
