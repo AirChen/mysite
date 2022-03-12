@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.UkraineSolidarity_EN-US5145726986_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GirlScouts_EN-US8024158740_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]iOS 高刷屏监控 + 优化：从理论到实践全面解析 [read](https://blog.csdn.net/ByteDanceTech/article/details/123437098)
+
    \[原\]一文读懂 Android FFmpeg 视频解码过程与实战分析 [read](https://blog.csdn.net/ByteDanceTech/article/details/123343422)
 
    \[原\]OpenJDK16 ZGC 源码分析 [read](https://blog.csdn.net/ByteDanceTech/article/details/123196150)
-
-   \[原\]自动拦截 50% crash，字节自研 Fastbot 如何助力今日头条稳定性测试 [read](https://blog.csdn.net/ByteDanceTech/article/details/123102759)
 
    异构广告混排在美团到店业务的探索与实践 [read](https://tech.meituan.com/2022/03/10/exploration-and-practice-of-heterogeneous-ad-mixed-ranking-in-meituan-ads.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   奥特莱斯，让年轻人再爱一次？ [read](http://www.huxiu.com/article/507288.html?f=wangzhan)
+   潮汕地区为什么发展不起来？ [read](http://www.huxiu.com/article/507485.html?f=wangzhan)
 
-   网络小说如何影响你的三观？ [read](http://www.huxiu.com/article/507249.html?f=wangzhan)
+   5大手机系统，哪个对老年人最友好？ [read](http://www.huxiu.com/article/507569.html?f=wangzhan)
 
-   干细胞如何在临床上实现长效降血糖？ [read](http://www.huxiu.com/article/506538.html?f=wangzhan)
+   为什么俄罗斯不怕芯片制裁？ [read](http://www.huxiu.com/article/506509.html?f=wangzhan)
 
-   ​谁来推动电器上门服务跨入「消费者主权」时代？ [read](https://36kr.com/p/1650434752870786)
+   京东科技与浪潮新基建就城市数字化达成合作；41家企业签约入驻重庆云谷·永川大数据产业园 \| 36氪大公司数字创新指南0311 [read](https://36kr.com/p/1650367794198658)
 
-   氪星晚报丨支付宝公布产品服务遵循标准清单，成为首批披露的支付机构；宝马集团2021财年净利达124.63亿欧元，同比增长223.1% [read](https://36kr.com/p/1650215209252999)
+   「加密者_Mia」全平台上线，虚拟人+数字衍生品有望成为元宇宙新入口 [read](https://36kr.com/p/1648741911422084)
 
-   焦点分析 \| 股价一年翻3倍，空调设备厂商也盯上「隆基」的地盘 [read](https://36kr.com/p/1624568560449030)
+   5款“自测版”新冠抗原试剂获批，排长队做核酸或成过去时？这些企业将受益 [read](https://36kr.com/p/1651256537151874)
 
    微软亚洲研究院多模态模型NÜWA：以自然语言创造视觉内容 [read](https://www.msra.cn/zh-cn/news/features/nuwa)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    气候变化、流行病、发展鸿沟…… 应对这些挑战我们还要做些什么？ [read](https://www.msra.cn/zh-cn/news/features/pursuing-a-resilient-and-sustainable-global-society)
 
+   全球第一起自动驾驶「杀人案」背后的隐秘故事 [read](http://www.geekpark.net/news/299518)
+
+   滴滴被曝已停止筹备香港上市；美国新规：自动驾驶汽车可不配方向盘；NASA：将研究太空中的「亲密行为」 [read](http://www.geekpark.net/news/299605)
+
    中国人为什么讨厌三缸？ [read](http://www.geekpark.net/news/299581)
-
-   中概股暴跌，贝壳、爱奇艺跌超 22%；马斯克代孕女儿曝光：Exa Dark Sideræl；油价暴涨，特斯拉订单激增 [read](http://www.geekpark.net/news/299558)
-
-   屏下摄像头，为什么不受待见了？ [read](http://www.geekpark.net/news/299433)
 
 ### 金融类
 
-   聊一聊选基的常用指标 [read](http://xueqiu.com/8653750491/213708580)
+   2021年 隆基都在忙什么？ [read](http://xueqiu.com/3477208101/213832091)
 
-   这个行业见底概率有点大 [read](http://xueqiu.com/1448459094/213811685)
+   腾讯还会跌多少？ [read](http://xueqiu.com/8628686400/213844846)
 
-   至暗时刻，我的理性还剩下哪些 [read](http://xueqiu.com/3393395193/213804863)
+   投资的秘诀 [read](http://xueqiu.com/8094080648/213859071)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Tomaso Baldessarini Ocean Now #inyourface [read](https://www.behance.net/gallery/132820171/Tomaso-Baldessarini-Ocean-Now-inyourface)
+   Chain Reaction: Chemical Plants of Kawasaki [read](https://www.behance.net/gallery/104032705/Chain-Reaction-Chemical-Plants-of-Kawasaki)
 
-   Digital religious fanatics [read](https://www.behance.net/gallery/139026309/Digital-religious-fanatics)
+   Dropterra [read](https://www.behance.net/gallery/139213383/Dropterra)
 
-   Bravo Musique - Web [read](https://www.behance.net/gallery/134805063/Bravo-Musique-Web)
+   Belif SuperDrops Film [read](https://www.behance.net/gallery/139175967/Belif-SuperDrops-Film)
 
    Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Elevates program marks Women’s History Month with all women-owned business cohort [read](https://newsroom.pinterest.com/en/post/pinterest-elevates-program-marks-womens-history-month-with-all-women-owned-business-cohort)
 
+   35年的 Windows 系统界面设计是如何演变的？ [read](https://www.uisdc.com/system-interface-design)
+
    用2个案例，帮你学会B端关键信息的密度提升设计 [read](https://www.uisdc.com/density-lifting-design)
 
-   5个经典的付费英文字体，我们都帮你找到了免费可商用替代款！ [read](https://www.uisdc.com/commercially-available-english-font)
-
-   大厂出品！评论区设计的三个维度和九个考量点 [read](https://www.uisdc.com/comment-section-design)
+   从6个层面，帮新手快速入门B端设计系统 [read](https://www.uisdc.com/b-end-design-system)
 
    微前端框架核心技术揭秘 [read](https://11.146.83.18/2022/02/22/micro-frontend-framework/)
 
