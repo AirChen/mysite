@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GirlScouts_EN-US8024158740_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SpringForward_EN-US1766679331_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   潮汕地区为什么发展不起来？ [read](http://www.huxiu.com/article/507485.html?f=wangzhan)
+   爆款频出，韩剧是如何做到的 [read](http://www.huxiu.com/article/508157.html?f=wangzhan)
 
-   5大手机系统，哪个对老年人最友好？ [read](http://www.huxiu.com/article/507569.html?f=wangzhan)
+   新能源车是时候“变身”了 [read](http://www.huxiu.com/article/508089.html?f=wangzhan)
 
-   为什么俄罗斯不怕芯片制裁？ [read](http://www.huxiu.com/article/506509.html?f=wangzhan)
+   新冠可以自检了？抗原检测到底靠不靠谱？ [read](http://www.huxiu.com/article/507847.html?f=wangzhan)
 
-   京东科技与浪潮新基建就城市数字化达成合作；41家企业签约入驻重庆云谷·永川大数据产业园 \| 36氪大公司数字创新指南0311 [read](https://36kr.com/p/1650367794198658)
+   氪金 · 大事件丨爱奇艺盈利挑战：梦想、救火与意难平 [read](https://36kr.com/p/1653186631399553)
 
-   「加密者_Mia」全平台上线，虚拟人+数字衍生品有望成为元宇宙新入口 [read](https://36kr.com/p/1648741911422084)
+   最前线 \| TCL推出三款Mini LED电视新品，包含全球最大尺寸消费级QD-Mini LED电视 [read](https://36kr.com/p/1650140287875461)
 
-   5款“自测版”新冠抗原试剂获批，排长队做核酸或成过去时？这些企业将受益 [read](https://36kr.com/p/1651256537151874)
+   医疗健康行业周报 \| 5款“自测版”新冠抗原试剂获批；中国医药获辉瑞新冠��效药的商业运营权 [read](https://36kr.com/p/1652787712211328)
 
    微软亚洲研究院多模态模型NÜWA：以自然语言创造视觉内容 [read](https://www.msra.cn/zh-cn/news/features/nuwa)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    气候变化、流行病、发展鸿沟…… 应对这些挑战我们还要做些什么？ [read](https://www.msra.cn/zh-cn/news/features/pursuing-a-resilient-and-sustainable-global-society)
 
+   极客简报｜令人失望的 iPhone；电子烟迎最强监管；央视 315 晚会即将开播 [read](http://www.geekpark.net/news/299610)
+
+   罗永浩：视频彩铃偷扣钱，折磨人；马斯克或成全球首位「万亿富豪」；美俄用 TikTok 网红打「网络战」 [read](http://www.geekpark.net/news/299609)
+
    全球第一起自动驾驶「杀人案」背后的隐秘故事 [read](http://www.geekpark.net/news/299518)
-
-   滴滴被曝已停止筹备香港上市；美国新规：自动驾驶汽车可不配方向盘；NASA：将研究太空中的「亲密行为」 [read](http://www.geekpark.net/news/299605)
-
-   中国人为什么讨厌三缸？ [read](http://www.geekpark.net/news/299581)
 
 ### 金融类
 
-   2021年 隆基都在忙什么？ [read](http://xueqiu.com/3477208101/213832091)
+   债多不愁，来个稳稳的固收+产品压压惊吧！ [read](http://xueqiu.com/7369574916/213870830)
 
-   腾讯还会跌多少？ [read](http://xueqiu.com/8628686400/213844846)
+   借当前的仓位指标谈谈基金投资中的风险偏好 [read](http://xueqiu.com/1973975515/213865072)
 
-   投资的秘诀 [read](http://xueqiu.com/8094080648/213859071)
+   大宗商品未来一年宏观分析及技术走势推理 [read](http://xueqiu.com/8080109502/213897897)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Chain Reaction: Chemical Plants of Kawasaki [read](https://www.behance.net/gallery/104032705/Chain-Reaction-Chemical-Plants-of-Kawasaki)
+   Xenia Hirmer: Brand Identity &amp; Website [read](https://www.behance.net/gallery/139188603/Xenia-Hirmer-Brand-Identity-Website)
 
-   Dropterra [read](https://www.behance.net/gallery/139213383/Dropterra)
+   CHEN PENG×UV-ZHU ???? [read](https://www.behance.net/gallery/139251345/CHEN-PENGUV-ZHU-)
 
-   Belif SuperDrops Film [read](https://www.behance.net/gallery/139175967/Belif-SuperDrops-Film)
+   Muse - identity [read](https://www.behance.net/gallery/139147035/Muse-identity)
 
    Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Elevates program marks Women’s History Month with all women-owned business cohort [read](https://newsroom.pinterest.com/en/post/pinterest-elevates-program-marks-womens-history-month-with-all-women-owned-business-cohort)
 
-   35年的 Windows 系统界面设计是如何演变的？ [read](https://www.uisdc.com/system-interface-design)
+   工作中学不到东西怎么办？我总结了7个方法！ [read](https://www.uisdc.com/work-and-study)
 
-   用2个案例，帮你学会B端关键信息的密度提升设计 [read](https://www.uisdc.com/density-lifting-design)
+   7000字干货！东南亚本地化产品设计差异：泰国篇 [read](https://www.uisdc.com/thailand-product-design-differences)
 
-   从6个层面，帮新手快速入门B端设计系统 [read](https://www.uisdc.com/b-end-design-system)
+   数据可视化神器！帮你一秒生成三维地图的免费工具NB Maps [read](https://www.uisdc.com/nb-maps)
 
    微前端框架核心技术揭秘 [read](https://11.146.83.18/2022/02/22/micro-frontend-framework/)
 
