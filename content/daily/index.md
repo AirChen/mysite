@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SpringForward_EN-US1766679331_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.LanyonQuoit_EN-US8594676410_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   爆款频出，韩剧是如何做到的 [read](http://www.huxiu.com/article/508157.html?f=wangzhan)
+   病毒又变异，德尔塔克戎有什么不一样？ [read](http://www.huxiu.com/article/508661.html?f=wangzhan)
 
-   新能源车是时候“变身”了 [read](http://www.huxiu.com/article/508089.html?f=wangzhan)
+   婚姻没有彩礼嫁妆，损失了谁利益？ [read](http://www.huxiu.com/article/508474.html?f=wangzhan)
 
-   新冠可以自检了？抗原检测到底靠不靠谱？ [read](http://www.huxiu.com/article/507847.html?f=wangzhan)
+   快速实现目标，最强习惯养成法进阶篇 [read](http://www.huxiu.com/article/508258.html?f=wangzhan)
 
-   氪金 · 大事件丨爱奇艺盈利挑战：梦想、救火与意难平 [read](https://36kr.com/p/1653186631399553)
+   两会上总理说的电子身份证背后，藏着哪些火热风口？ [read](https://36kr.com/p/1654587621161350)
 
-   最前线 \| TCL推出三款Mini LED电视新品，包含全球最大尺寸消费级QD-Mini LED电视 [read](https://36kr.com/p/1650140287875461)
+   氪星晚报丨郭明錤：iPhone 14将打破传统，基础机型仍使用旧芯片；华为：下月起至年底内部服务类商户场地租金减半；苏宁易购上线新冠抗原检测试剂盒预约 [read](https://36kr.com/p/1654467058759808)
 
-   医疗健康行业周报 \| 5款“自测版”新冠抗原试剂获批；中国医药获辉瑞新冠��效药的商业运营权 [read](https://36kr.com/p/1652787712211328)
+   焦点分析 \|   “中国水泥看海螺”，全球第二的水泥龙头要花50亿减排 [read](https://36kr.com/p/1649851162687875)
 
    微软亚洲研究院多模态模型NÜWA：以自然语言创造视觉内容 [read](https://www.msra.cn/zh-cn/news/features/nuwa)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    气候变化、流行病、发展鸿沟…… 应对这些挑战我们还要做些什么？ [read](https://www.msra.cn/zh-cn/news/features/pursuing-a-resilient-and-sustainable-global-society)
 
-   极客简报｜令人失望的 iPhone；电子烟迎最强监管；央视 315 晚会即将开播 [read](http://www.geekpark.net/news/299610)
+   Figma 封禁大疆，国产软件能顶上吗？ [read](http://www.geekpark.net/news/299652)
 
-   罗永浩：视频彩铃偷扣钱，折磨人；马斯克或成全球首位「万亿富豪」；美俄用 TikTok 网红打「网络战」 [read](http://www.geekpark.net/news/299609)
+   「电子视网膜」丢了售后，他们成为黑暗中的「仿生人」 [read](http://www.geekpark.net/news/299613)
 
-   全球第一起自动驾驶「杀人案」背后的隐秘故事 [read](http://www.geekpark.net/news/299518)
+   特斯拉「逃离」顶级商圈 [read](http://www.geekpark.net/news/299612)
 
 ### 金融类
 
-   债多不愁，来个稳稳的固收+产品压压惊吧！ [read](http://xueqiu.com/7369574916/213870830)
+   【有奖征集】老司基硬核测评第六期！16只宽基指数基金邀你来评测 [read](http://xueqiu.com/8152922548/214015161)
 
-   借当前的仓位指标谈谈基金投资中的风险偏好 [read](http://xueqiu.com/1973975515/213865072)
+   基金大跌后，回本需要多长时间？ [read](http://xueqiu.com/2217395043/214023991)
 
-   大宗商品未来一年宏观分析及技术走势推理 [read](http://xueqiu.com/8080109502/213897897)
+   刻舟求剑的腾讯地板价在哪？ [read](http://xueqiu.com/3552430478/214030588)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Xenia Hirmer: Brand Identity &amp; Website [read](https://www.behance.net/gallery/139188603/Xenia-Hirmer-Brand-Identity-Website)
+   SORBE - Branding &amp; Packaging [read](https://www.behance.net/gallery/139159249/SORBE-Branding-Packaging)
 
-   CHEN PENG×UV-ZHU ???? [read](https://www.behance.net/gallery/139251345/CHEN-PENGUV-ZHU-)
+   Editorial Illustration [read](https://www.behance.net/gallery/118411431/Editorial-Illustration)
 
-   Muse - identity [read](https://www.behance.net/gallery/139147035/Muse-identity)
+   dayinvest [read](https://www.behance.net/gallery/139149975/dayinvest)
 
    Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Elevates program marks Women’s History Month with all women-owned business cohort [read](https://newsroom.pinterest.com/en/post/pinterest-elevates-program-marks-womens-history-month-with-all-women-owned-business-cohort)
 
+   Figma 封禁大疆后，蓝湖 MasterGo 等国产设计工具作出迅速反应 [read](https://www.uisdc.com/mastergo-2022)
+
    工作中学不到东西怎么办？我总结了7个方法！ [read](https://www.uisdc.com/work-and-study)
 
    7000字干货！东南亚本地化产品设计差异：泰国篇 [read](https://www.uisdc.com/thailand-product-design-differences)
-
-   数据可视化神器！帮你一秒生成三维地图的免费工具NB Maps [read](https://www.uisdc.com/nb-maps)
 
    微前端框架核心技术揭秘 [read](https://11.146.83.18/2022/02/22/micro-frontend-framework/)
 
