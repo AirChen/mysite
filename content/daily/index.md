@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.LanyonQuoit_EN-US8594676410_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.RomanView_EN-US8748621183_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -22,11 +22,11 @@ title: "今日资讯"
 
    让用户决定软件长什么样 [read](https://blog.t9t.io/let-user-design-2020-06-18/)
 
-   基于 C++ 的 Android 协程设计 [read](https://www.kymjs.com/code/2022/02/26/01)
-
    自定义C/C++日志输出函数 [read](https://www.kymjs.com/code/2020/08/07/01)
 
    再聊 Git Flow [read](https://www.kymjs.com/manager/2020/05/29/01)
+
+   Flutter 设置控件是否可见 [read](https://www.kymjs.com/note/2020/03/19/01)
 
 ### IT团队博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   病毒又变异，德尔塔克戎有什么不一样？ [read](http://www.huxiu.com/article/508661.html?f=wangzhan)
+   宇宙飞船都能造，俄罗斯为什么没造出互联网巨头？ [read](http://www.huxiu.com/article/509305.html?f=wangzhan)
 
-   婚姻没有彩礼嫁妆，损失了谁利益？ [read](http://www.huxiu.com/article/508474.html?f=wangzhan)
+   新能源汽车供应链，困于枪炮、病菌与钢铁 [read](http://www.huxiu.com/article/509085.html?f=wangzhan)
 
-   快速实现目标，最强习惯养成法进阶篇 [read](http://www.huxiu.com/article/508258.html?f=wangzhan)
+   为什么我国发展“车路协同”，而美国主攻“单车智能”？ [read](http://www.huxiu.com/article/508602.html?f=wangzhan)
 
-   两会上总理说的电子身份证背后，藏着哪些火热风口？ [read](https://36kr.com/p/1654587621161350)
+   又是一年3.15，还记得买股票差点中的「招儿」吗？ [read](https://36kr.com/p/1655902264637832)
 
-   氪星晚报丨郭明錤：iPhone 14将打破传统，基础机型仍使用旧芯片；华为：下月起至年底内部服务类商户场地租金减半；苏宁易购上线新冠抗原检测试剂盒预约 [read](https://36kr.com/p/1654467058759808)
+   Figma 不让用了？国产软件的机遇与挑战 [read](https://36kr.com/p/1655716862441602)
 
-   焦点分析 \|   “中国水泥看海螺”，全球第二的水泥龙头要花50亿减排 [read](https://36kr.com/p/1649851162687875)
+   36氪独家丨坚果投影JMGO完成10亿元新一轮融资，OPPO、IDG、乐讯天成参与投资 [read](https://36kr.com/p/1655502632663174)
 
    微软亚洲研究院多模态模型NÜWA：以自然语言创造视觉内容 [read](https://www.msra.cn/zh-cn/news/features/nuwa)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    气候变化、流行病、发展鸿沟…… 应对这些挑战我们还要做些什么？ [read](https://www.msra.cn/zh-cn/news/features/pursuing-a-resilient-and-sustainable-global-society)
 
-   Figma 封禁大疆，国产软件能顶上吗？ [read](http://www.geekpark.net/news/299652)
+   Xperia 1 III 长测：用了十个月，我明白为什么没人买索尼手机了 [read](http://www.geekpark.net/news/299687)
 
-   「电子视网膜」丢了售后，他们成为黑暗中的「仿生人」 [read](http://www.geekpark.net/news/299613)
+   Oculus 创始人：扎克伯格玩了我们，但脸书已经变成 Oculus [read](http://www.geekpark.net/news/299674)
 
-   特斯拉「逃离」顶级商圈 [read](http://www.geekpark.net/news/299612)
+   吹捧「远程办公」的硅谷巨头，背地里却在偷偷买楼 [read](http://www.geekpark.net/news/299639)
 
 ### 金融类
 
-   【有奖征集】老司基硬核测评第六期！16只宽基指数基金邀你来评测 [read](http://xueqiu.com/8152922548/214015161)
+   基金大跌后，总结的10点血淋淋的经验 [read](http://xueqiu.com/2217395043/214178617)
 
-   基金大跌后，回本需要多长时间？ [read](http://xueqiu.com/2217395043/214023991)
+   雪球专刊——稳增长主题基金怎么选？ [read](http://xueqiu.com/3746414875/214189598)
 
-   刻舟求剑的腾讯地板价在哪？ [read](http://xueqiu.com/3552430478/214030588)
+   散户投资者如何打造自己的交易体系 [read](http://xueqiu.com/3386934197/212999350)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   SORBE - Branding &amp; Packaging [read](https://www.behance.net/gallery/139159249/SORBE-Branding-Packaging)
+   Geekbot Vol.4 [read](https://www.behance.net/gallery/133009195/Geekbot-Vol4)
 
-   Editorial Illustration [read](https://www.behance.net/gallery/118411431/Editorial-Illustration)
+   The Old Man identity [read](https://www.behance.net/gallery/139115179/The-Old-Man-identity)
 
-   dayinvest [read](https://www.behance.net/gallery/139149975/dayinvest)
+   This Project is Garbage [read](https://www.behance.net/gallery/138271883/This-Project-is-Garbage)
 
    Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
@@ -140,17 +140,17 @@ title: "今日资讯"
 
    Meet This Month’s Guest Curator: Huston Wilson [read](https://medium.com/behance-blog/meet-this-months-guest-curator-huston-wilson-313b75929ab3?source=rss-f5272b7f3182------2)
 
+   Pinterest now lets you share Idea Pins [read](https://newsroom.pinterest.com/en/post/idea-pin-sharing-available)
+
    Pinterest hosted second annual global ads summit, Pinterest Presents [read](https://newsroom.pinterest.com/en/post/pinterest-hosted-second-annual-global-ads-summit-pinterest-presents)
 
    Pinterest’s Support for Ukraine [read](https://newsroom.pinterest.com/en/post/pinterests-support-for-ukraine)
 
-   Pinterest Elevates program marks Women’s History Month with all women-owned business cohort [read](https://newsroom.pinterest.com/en/post/pinterest-elevates-program-marks-womens-history-month-with-all-women-owned-business-cohort)
+   深扒！连拜登团队都在用的Figma是如何成长起来的？ [read](https://www.uisdc.com/dont-panic-and-use-figma)
 
-   Figma 封禁大疆后，蓝湖 MasterGo 等国产设计工具作出迅速反应 [read](https://www.uisdc.com/mastergo-2022)
+   20000+字体设计灵感参考！免费公益网站 Fonts In Use [read](https://www.uisdc.com/fonts-in-use)
 
-   工作中学不到东西怎么办？我总结了7个方法！ [read](https://www.uisdc.com/work-and-study)
-
-   7000字干货！东南亚本地化产品设计差异：泰国篇 [read](https://www.uisdc.com/thailand-product-design-differences)
+   担心被封号？试试这5款常用软件的免费平替！ [read](https://www.uisdc.com/5-commonly-used-software-replacement)
 
    微前端框架核心技术揭秘 [read](https://11.146.83.18/2022/02/22/micro-frontend-framework/)
 
