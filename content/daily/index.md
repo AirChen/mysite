@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.RomanView_EN-US8748621183_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.PandaDay_EN-US8900387316_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   宇宙飞船都能造，俄罗斯为什么没造出互联网巨头？ [read](http://www.huxiu.com/article/509305.html?f=wangzhan)
+   新款 iPad Air 首发体验：看不到的大提升 [read](http://www.huxiu.com/article/509830.html?f=wangzhan)
 
-   新能源汽车供应链，困于枪炮、病菌与钢铁 [read](http://www.huxiu.com/article/509085.html?f=wangzhan)
+   没了情怀滤镜，如今的香港电影还剩下什么？ [read](http://www.huxiu.com/article/509728.html?f=wangzhan)
 
-   为什么我国发展“车路协同”，而美国主攻“单车智能”？ [read](http://www.huxiu.com/article/508602.html?f=wangzhan)
+   74岁的我，爱好是在南京西路弹钢琴 [read](http://www.huxiu.com/article/509741.html?f=wangzhan)
 
-   又是一年3.15，还记得买股票差点中的「招儿」吗？ [read](https://36kr.com/p/1655902264637832)
+   最新｜华为推出新一代全屋智能解决方案，还有新款P50手机、平板、手表…… [read](https://36kr.com/p/1657491655424391)
 
-   Figma 不让用了？国产软件的机遇与挑战 [read](https://36kr.com/p/1655716862441602)
+   从「地沟油」到「土坑酸菜」，康师傅到底怎么了？丨氪金 · 大事件 [read](https://36kr.com/p/1657300612495751)
 
-   36氪独家丨坚果投影JMGO完成10亿元新一轮融资，OPPO、IDG、乐讯天成参与投资 [read](https://36kr.com/p/1655502632663174)
+   EQT收购霸菱亚洲，大基金的并购时代开始了吗？ [read](https://36kr.com/p/1657275345959302)
 
    微软亚洲研究院多模态模型NÜWA：以自然语言创造视觉内容 [read](https://www.msra.cn/zh-cn/news/features/nuwa)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    气候变化、流行病、发展鸿沟…… 应对这些挑战我们还要做些什么？ [read](https://www.msra.cn/zh-cn/news/features/pursuing-a-resilient-and-sustainable-global-society)
 
+   京东的未来，全靠物流？ [read](http://www.geekpark.net/news/299712)
+
+   马斯克下战书单挑普京：谁赢乌克兰归谁；郭明錤：苹果造车团队已解散；康师傅下架老坛酸菜面 [read](http://www.geekpark.net/news/299697)
+
    Xperia 1 III 长测：用了十个月，我明白为什么没人买索尼手机了 [read](http://www.geekpark.net/news/299687)
-
-   Oculus 创始人：扎克伯格玩了我们，但脸书已经变成 Oculus [read](http://www.geekpark.net/news/299674)
-
-   吹捧「远程办公」的硅谷巨头，背地里却在偷偷买楼 [read](http://www.geekpark.net/news/299639)
 
 ### 金融类
 
-   基金大跌后，总结的10点血淋淋的经验 [read](http://xueqiu.com/2217395043/214178617)
+   坚定做多中国！ [read](http://xueqiu.com/8592131633/214274583)
 
-   雪球专刊——稳增长主题基金怎么选？ [read](http://xueqiu.com/3746414875/214189598)
+   2021年万华化学年报解读 [read](http://xueqiu.com/2781746060/214322672)
 
-   散户投资者如何打造自己的交易体系 [read](http://xueqiu.com/3386934197/212999350)
+   ETF溢价交易的问题 [read](http://xueqiu.com/6938390296/214030591)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Geekbot Vol.4 [read](https://www.behance.net/gallery/133009195/Geekbot-Vol4)
+   Abstract Sculptures 22 [read](https://www.behance.net/gallery/139408161/Abstract-Sculptures-22)
 
-   The Old Man identity [read](https://www.behance.net/gallery/139115179/The-Old-Man-identity)
+   Bad Pan Pal [read](https://www.behance.net/gallery/137469917/Bad-Pan-Pal)
 
-   This Project is Garbage [read](https://www.behance.net/gallery/138271883/This-Project-is-Garbage)
+   Raze: Only Good Things! [read](https://www.behance.net/gallery/138702461/Raze-Only-Good-Things)
 
    Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest’s Support for Ukraine [read](https://newsroom.pinterest.com/en/post/pinterests-support-for-ukraine)
 
-   深扒！连拜登团队都在用的Figma是如何成长起来的？ [read](https://www.uisdc.com/dont-panic-and-use-figma)
+   6000字硬核干货！为什么不建议从设计定理入门交互？ [read](https://www.uisdc.com/interaction-design-laws)
 
-   20000+字体设计灵感参考！免费公益网站 Fonts In Use [read](https://www.uisdc.com/fonts-in-use)
+   超千万人在学！美食作家王刚出品的菜谱大全网站来了！ [read](https://www.uisdc.com/kuancaipu)
 
-   担心被封号？试试这5款常用软件的免费平替！ [read](https://www.uisdc.com/5-commonly-used-software-replacement)
+   零基础也没事！大神教你 5 步画出好看的扁平风人物插画 [read](https://www.uisdc.com/vector-character-illustration-tutorial)
 
    微前端框架核心技术揭秘 [read](https://11.146.83.18/2022/02/22/micro-frontend-framework/)
 
