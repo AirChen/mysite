@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.PandaDay_EN-US8900387316_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Shamrocks_EN-US9111259398_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]Android 系统 Bar 沉浸式完美兼容方案 [read](https://blog.csdn.net/ByteDanceTech/article/details/123540429)
+
    \[原\]iOS 高刷屏监控 + 优化：从理论到实践全面解析 [read](https://blog.csdn.net/ByteDanceTech/article/details/123437098)
 
    \[原\]一文读懂 Android FFmpeg 视频解码过程与实战分析 [read](https://blog.csdn.net/ByteDanceTech/article/details/123343422)
-
-   \[原\]OpenJDK16 ZGC 源码分析 [read](https://blog.csdn.net/ByteDanceTech/article/details/123196150)
 
    异构广告混排在美团到店业务的探索与实践 [read](https://tech.meituan.com/2022/03/10/exploration-and-practice-of-heterogeneous-ad-mixed-ranking-in-meituan-ads.html)
 
@@ -68,51 +68,51 @@ title: "今日资讯"
 
 ### 互联网类
 
-   新款 iPad Air 首发体验：看不到的大提升 [read](http://www.huxiu.com/article/509830.html?f=wangzhan)
+   想榨干苹果性能，可太难了 [read](http://www.huxiu.com/article/510636.html?f=wangzhan)
 
-   没了情怀滤镜，如今的香港电影还剩下什么？ [read](http://www.huxiu.com/article/509728.html?f=wangzhan)
+   眼动仪怎么知道你在看哪里？ [read](http://www.huxiu.com/article/510429.html?f=wangzhan)
 
-   74岁的我，爱好是在南京西路弹钢琴 [read](http://www.huxiu.com/article/509741.html?f=wangzhan)
+   赚钱的生意，怎么能叫抄袭呢？ [read](http://www.huxiu.com/article/510378.html?f=wangzhan)
 
-   最新｜华为推出新一代全屋智能解决方案，还有新款P50手机、平板、手表…… [read](https://36kr.com/p/1657491655424391)
+   最前线｜快手原国际化总负责人仇广宇确已离职 产运线和商业化负责人直接向程一笑汇报 [read](https://36kr.com/p/1658850530343045)
 
-   从「地沟油」到「土坑酸菜」，康师傅到底怎么了？丨氪金 · 大事件 [read](https://36kr.com/p/1657300612495751)
+   黄其森被带走 泰禾业主被逼成了「开发商」 [read](https://36kr.com/p/1658762526488968)
 
-   EQT收购霸菱亚洲，大基金的并购时代开始了吗？ [read](https://36kr.com/p/1657275345959302)
+   国外创投新闻 \| 电子支付平台「Payrails」已获640万美元的种子轮融资，将用于全球支付操作系统的研发及商业推广 [read](https://36kr.com/p/1658674383878530)
+
+   Swin Transformer迎来30亿参数的v2.0，我们应该拥抱视觉大模型吗？ [read](https://www.msra.cn/zh-cn/news/features/swin-transformer-v2)
 
    微软亚洲研究院多模态模型NÜWA：以自然语言创造视觉内容 [read](https://www.msra.cn/zh-cn/news/features/nuwa)
 
    你真的了解计算生物学和AI for Science吗？ [read](https://www.msra.cn/zh-cn/news/features/qbitai-ai-for-science)
 
-   气候变化、流行病、发展鸿沟…… 应对这些挑战我们还要做些什么？ [read](https://www.msra.cn/zh-cn/news/features/pursuing-a-resilient-and-sustainable-global-society)
+   Redmi K50 Pro 评测：性能更激进的天玑 9000 旗舰，2999 元就能买到 [read](http://www.geekpark.net/news/299670)
 
-   京东的未来，全靠物流？ [read](http://www.geekpark.net/news/299712)
+   抖音抛出橄榄枝，「爱优腾」们会接吗？ [read](http://www.geekpark.net/news/299810)
 
-   马斯克下战书单挑普京：谁赢乌克兰归谁；郭明錤：苹果造车团队已解散；康师傅下架老坛酸菜面 [read](http://www.geekpark.net/news/299697)
-
-   Xperia 1 III 长测：用了十个月，我明白为什么没人买索尼手机了 [read](http://www.geekpark.net/news/299687)
+   一台爬墙的「瓦力」，敲开一个千亿美元大市场 [read](http://www.geekpark.net/news/299760)
 
 ### 金融类
 
-   坚定做多中国！ [read](http://xueqiu.com/8592131633/214274583)
+   2022年投资感慨：基金投资越来越难了 [read](http://xueqiu.com/9290769077/214468976)
 
-   2021年万华化学年报解读 [read](http://xueqiu.com/2781746060/214322672)
+   下修转股价，转债投资中最逆天的属性 [read](http://xueqiu.com/9508203182/214471230)
 
-   ETF溢价交易的问题 [read](http://xueqiu.com/6938390296/214030591)
+   中国平安2021年报首发点评—好事多磨，玉汝于成 [read](http://xueqiu.com/8959134488/214468099)
 
 ### 学习类
+
+   💻 Issue 299 - Announcing rulex, a new regular expression language [read](https://rust.libhunt.com/newsletter/299)
 
    💻 Issue 298 - Security advisory for the regex crate (CVE-2022-24713) \| Rust Blog [read](https://rust.libhunt.com/newsletter/298)
 
    💻 Issue 297 - Lapce – open source code editor inspired by Xi-editor [read](https://rust.libhunt.com/newsletter/297)
 
-   💻 Issue 296 - rust-analyzer joins the Rust organization! \| Rust Blog [read](https://rust.libhunt.com/newsletter/296)
+   This Week in Rust 434 [read](https://this-week-in-rust.org/blog/2022/03/16/this-week-in-rust-434/)
 
    This Week in Rust 433 [read](https://this-week-in-rust.org/blog/2022/03/09/this-week-in-rust-433/)
 
    This Week in Rust 432 [read](https://this-week-in-rust.org/blog/2022/03/02/this-week-in-rust-432/)
-
-   This Week in Rust 431 [read](https://this-week-in-rust.org/blog/2022/02/23/this-week-in-rust-431/)
 
    “一把梭：REST API 全用 POST” [read](https://coolshell.cn/articles/22173.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Abstract Sculptures 22 [read](https://www.behance.net/gallery/139408161/Abstract-Sculptures-22)
+   Montamont A.T.C [read](https://www.behance.net/gallery/139480529/Montamont-ATC)
 
-   Bad Pan Pal [read](https://www.behance.net/gallery/137469917/Bad-Pan-Pal)
+   Forms + Shapes [read](https://www.behance.net/gallery/139059881/Forms-Shapes)
 
-   Raze: Only Good Things! [read](https://www.behance.net/gallery/138702461/Raze-Only-Good-Things)
+   MAPP MTL : Face au néant [read](https://www.behance.net/gallery/138829861/MAPP-MTL-Face-au-nant)
 
    Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest’s Support for Ukraine [read](https://newsroom.pinterest.com/en/post/pinterests-support-for-ukraine)
 
-   6000字硬核干货！为什么不建议从设计定理入门交互？ [read](https://www.uisdc.com/interaction-design-laws)
+   新手如何做好海报设计？试试网格这个神器！ [read](https://www.uisdc.com/grid-settings)
 
-   超千万人在学！美食作家王刚出品的菜谱大全网站来了！ [read](https://www.uisdc.com/kuancaipu)
+   别依赖工具！7个设计师应该具备的优秀职场习惯 [read](https://www.uisdc.com/rely-on-tools)
 
-   零基础也没事！大神教你 5 步画出好看的扁平风人物插画 [read](https://www.uisdc.com/vector-character-illustration-tutorial)
+   大厂实战！vivo官网APP首页改版设计过程复盘 [read](https://www.uisdc.com/vivo-app-redesign)
 
    微前端框架核心技术揭秘 [read](https://11.146.83.18/2022/02/22/micro-frontend-framework/)
 
