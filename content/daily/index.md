@@ -2,19 +2,19 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Shamrocks_EN-US9111259398_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Holi2022_EN-US9217068703_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
+   科技爱好者周刊（第 199 期）：俄罗斯的 HTTPS 证书问题 [read](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html)
+
    科技爱好者周刊（第 198 期）：美国制造是否可能 [read](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-198.html)
 
-   科技爱好者周刊（第 197 期）：如果这个世界有快乐机 [read](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html)
+   effekseer 的 shader 转译 [read](https://blog.codingnow.com/2022/03/effekseer_shader.html)
 
    ECS 中的对象引用 [read](https://blog.codingnow.com/2022/02/ecs_entity_reference.html)
 
    信息茧房 [read](https://blog.codingnow.com/2022/02/information_cocoons.html)
-
-   Factorio 的乐趣 [read](https://blog.codingnow.com/2022/02/factorio.html)
 
    一个付费 chrome 插件的一生 [read](https://blog.t9t.io/star-history-2021-01-21/)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 439 期 [read](https://weekly.75.team/issue439.html)
+
    奇舞周刊第 438 期 [read](https://weekly.75.team/issue438.html)
 
    奇舞周刊第 437 期 [read](https://weekly.75.team/issue437.html)
-
-   奇舞周刊第 436 期 [read](https://weekly.75.team/issue436.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -54,11 +54,11 @@ title: "今日资讯"
 
    \[原\]一文读懂 Android FFmpeg 视频解码过程与实战分析 [read](https://blog.csdn.net/ByteDanceTech/article/details/123343422)
 
+   Java系列 \| 远程热部署在美团的落地实践 [read](https://tech.meituan.com/2022/03/17/java-hotswap-sonic.html)
+
+   美团内部讲座 \| 清华大学崔鹏：因果启发的学习、推断和决策 [read](https://tech.meituan.com/2022/03/17/causal-inference.html)
+
    异构广告混排在美团到店业务的探索与实践 [read](https://tech.meituan.com/2022/03/10/exploration-and-practice-of-heterogeneous-ad-mixed-ranking-in-meituan-ads.html)
-
-   设计模式二三事 [read](https://tech.meituan.com/2022/03/10/interesting-talk-about-design-patterns.html)
-
-   GPU在外卖场景精排模型预估中的应用实践 [read](https://tech.meituan.com/2022/03/03/ctr-gpu-inference.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,37 +68,37 @@ title: "今日资讯"
 
 ### 互联网类
 
+   三度停滞，苹果造车到底在纠结什么？ [read](http://www.huxiu.com/article/511068.html?f=wangzhan)
+
+   车圈呼唤罗永浩 [read](http://www.huxiu.com/article/510497.html?f=wangzhan)
+
    想榨干苹果性能，可太难了 [read](http://www.huxiu.com/article/510636.html?f=wangzhan)
 
-   眼动仪怎么知道你在看哪里？ [read](http://www.huxiu.com/article/510429.html?f=wangzhan)
+   科氪｜整个电视墙都是屏幕 Redmi MAX 100" 巨屏电视发布售19999元 [read](https://36kr.com/p/1660203301910913)
 
-   赚钱的生意，怎么能叫抄袭呢？ [read](http://www.huxiu.com/article/510378.html?f=wangzhan)
+   国外创投新闻 \| 尼日利亚媒体公司「Big Cabal Media」已获230万美元种子轮融资，将用于垂直赛道拓展及人才招募 [read](https://36kr.com/p/1660160202406277)
 
-   最前线｜快手原国际化总负责人仇广宇确已离职 产运线和商业化负责人直接向程一笑汇报 [read](https://36kr.com/p/1658850530343045)
+   数实融合是产业的“必修课” 也是京东云的“必答题” [read](https://36kr.com/p/1660055738366336)
 
-   黄其森被带走 泰禾业主被逼成了「开发商」 [read](https://36kr.com/p/1658762526488968)
-
-   国外创投新闻 \| 电子支付平台「Payrails」已获640万美元的种子轮融资，将用于全球支付操作系统的研发及商业推广 [read](https://36kr.com/p/1658674383878530)
+   微软发布量子计算最新成果，证实拓扑量子比特的物理机理 [read](https://www.msra.cn/zh-cn/news/features/azure-quantum)
 
    Swin Transformer迎来30亿参数的v2.0，我们应该拥抱视觉大模型吗？ [read](https://www.msra.cn/zh-cn/news/features/swin-transformer-v2)
 
    微软亚洲研究院多模态模型NÜWA：以自然语言创造视觉内容 [read](https://www.msra.cn/zh-cn/news/features/nuwa)
 
-   你真的了解计算生物学和AI for Science吗？ [read](https://www.msra.cn/zh-cn/news/features/qbitai-ai-for-science)
+   荣耀 Magic4 Pro 体验：百倍潜望长焦加持，还有独家隐私通话 [read](http://www.geekpark.net/news/299863)
 
-   Redmi K50 Pro 评测：性能更激进的天玑 9000 旗舰，2999 元就能买到 [read](http://www.geekpark.net/news/299670)
+   市值跌去 700 亿美金，后左晖时代，贝壳何去何从？ [read](http://www.geekpark.net/news/299845)
 
-   抖音抛出橄榄枝，「爱优腾」们会接吗？ [read](http://www.geekpark.net/news/299810)
-
-   一台爬墙的「瓦力」，敲开一个千亿美元大市场 [read](http://www.geekpark.net/news/299760)
+   Redmi K50 体验：天玑 8100+5500mAh 超大电池，配置全面的新一代「真香」机 [read](http://www.geekpark.net/news/299738)
 
 ### 金融类
 
-   2022年投资感慨：基金投资越来越难了 [read](http://xueqiu.com/9290769077/214468976)
+   我们到底能找到黑马基金经理吗？ [read](http://xueqiu.com/7245734636/214595037)
 
-   下修转股价，转债投资中最逆天的属性 [read](http://xueqiu.com/9508203182/214471230)
+   基金拿不住怎么办？ [read](http://xueqiu.com/4585619621/214500736)
 
-   中国平安2021年报首发点评—好事多磨，玉汝于成 [read](http://xueqiu.com/8959134488/214468099)
+   自言自语：聊宽基指数，说16只指数基金 [read](http://xueqiu.com/3179670287/214531779)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Montamont A.T.C [read](https://www.behance.net/gallery/139480529/Montamont-ATC)
+   YoungPin Design Award 2022 [read](https://www.behance.net/gallery/139623963/YoungPin-Design-Award-2022)
 
-   Forms + Shapes [read](https://www.behance.net/gallery/139059881/Forms-Shapes)
+   Lieux de Pouvoir - Revue Dessinée [read](https://www.behance.net/gallery/139481697/Lieux-de-Pouvoir-Revue-Dessine)
 
-   MAPP MTL : Face au néant [read](https://www.behance.net/gallery/138829861/MAPP-MTL-Face-au-nant)
+   CCR [read](https://www.behance.net/gallery/138420237/CCR)
 
    Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
