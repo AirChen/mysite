@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Holi2022_EN-US9217068703_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Chicagohenge_EN-US9296950779_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   三度停滞，苹果造车到底在纠结什么？ [read](http://www.huxiu.com/article/511068.html?f=wangzhan)
+   三分钟看懂车窗升降系统 [read](http://www.huxiu.com/article/511541.html?f=wangzhan)
 
-   车圈呼唤罗永浩 [read](http://www.huxiu.com/article/510497.html?f=wangzhan)
+   卖一辆亏6.5万，没人造得出廉价特斯拉 [read](http://www.huxiu.com/article/511327.html?f=wangzhan)
 
-   想榨干苹果性能，可太难了 [read](http://www.huxiu.com/article/510636.html?f=wangzhan)
+   快手主播被罚6200万背后，我看到了一个“被遗忘”的世界 [read](http://www.huxiu.com/article/511281.html?f=wangzhan)
 
-   科氪｜整个电视墙都是屏幕 Redmi MAX 100" 巨屏电视发布售19999元 [read](https://36kr.com/p/1660203301910913)
+   本周国内融资金额超66.41亿元人民币，过亿元融资交易达29笔 \| TO B投融资周报0311-0317 [read](https://36kr.com/p/1660178247547010)
 
-   国外创投新闻 \| 尼日利亚媒体公司「Big Cabal Media」已获230万美元种子轮融资，将用于垂直赛道拓展及人才招募 [read](https://36kr.com/p/1660160202406277)
+   央行、证监会等：金融支持浙江高质量发展建设共同富裕示范区；微博上线数字藏品功能 \| 36氪大公司数字创新指南0318 [read](https://36kr.com/p/1660169761503363)
 
-   数实融合是产业的“必修课” 也是京东云的“必答题” [read](https://36kr.com/p/1660055738366336)
+   Alexa，黑掉你自己：亚马逊Echo可能在背着你搞事 [read](https://36kr.com/p/1661066112800516)
 
    微软发布量子计算最新成果，证实拓扑量子比特的物理机理 [read](https://www.msra.cn/zh-cn/news/features/azure-quantum)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院多模态模型NÜWA：以自然语言创造视觉内容 [read](https://www.msra.cn/zh-cn/news/features/nuwa)
 
+   华为 MatePad Paper 体验：MatePad & 电子书「跨界选手」 [read](http://www.geekpark.net/news/299885)
+
+   老罗回应「交个朋友分手」：新项目已建组未起名；苹果承认万元显示器摄像头表现不佳；白天睡太多或为老年痴呆早期症状 [read](http://www.geekpark.net/news/299883)
+
    荣耀 Magic4 Pro 体验：百倍潜望长焦加持，还有独家隐私通话 [read](http://www.geekpark.net/news/299863)
-
-   市值跌去 700 亿美金，后左晖时代，贝壳何去何从？ [read](http://www.geekpark.net/news/299845)
-
-   Redmi K50 体验：天玑 8100+5500mAh 超大电池，配置全面的新一代「真香」机 [read](http://www.geekpark.net/news/299738)
 
 ### 金融类
 
-   我们到底能找到黑马基金经理吗？ [read](http://xueqiu.com/7245734636/214595037)
+   中证500：走出青涩，未染世故的美男子 [read](http://xueqiu.com/9391624441/214612774)
 
-   基金拿不住怎么办？ [read](http://xueqiu.com/4585619621/214500736)
+   沃森生物年报之感叹 [read](http://xueqiu.com/3537625901/214616192)
 
-   自言自语：聊宽基指数，说16只指数基金 [read](http://xueqiu.com/3179670287/214531779)
+   投资必须跟自己的风险偏好相匹配 [read](http://xueqiu.com/9222280625/214521518)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   YoungPin Design Award 2022 [read](https://www.behance.net/gallery/139623963/YoungPin-Design-Award-2022)
+   The Silent Spring Guardian x RNIB x Google [read](https://www.behance.net/gallery/139716403/The-Silent-Spring-Guardian-x-RNIB-x-Google)
 
-   Lieux de Pouvoir - Revue Dessinée [read](https://www.behance.net/gallery/139481697/Lieux-de-Pouvoir-Revue-Dessine)
+   2020???????? [read](https://www.behance.net/gallery/114794941/2020)
 
-   CCR [read](https://www.behance.net/gallery/138420237/CCR)
+   OMEGA QUALITY CAMPAIGN [read](https://www.behance.net/gallery/139552509/OMEGA-QUALITY-CAMPAIGN)
 
    Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest’s Support for Ukraine [read](https://newsroom.pinterest.com/en/post/pinterests-support-for-ukraine)
 
+   老板说设计没价值？把这篇文章给他看！ [read](https://www.uisdc.com/roi-for-ux-design)
+
+   酷家乐实战案例！VR全景工具设计改版复盘 [read](https://www.uisdc.com/vr-tool-design)
+
    新手如何做好海报设计？试试网格这个神器！ [read](https://www.uisdc.com/grid-settings)
-
-   别依赖工具！7个设计师应该具备的优秀职场习惯 [read](https://www.uisdc.com/rely-on-tools)
-
-   大厂实战！vivo官网APP首页改版设计过程复盘 [read](https://www.uisdc.com/vivo-app-redesign)
 
    微前端框架核心技术揭秘 [read](https://11.146.83.18/2022/02/22/micro-frontend-framework/)
 
