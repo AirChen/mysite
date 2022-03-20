@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Chicagohenge_EN-US9296950779_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WorldFrogDay_EN-US9497103821_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   让美股5分钟蒸发万亿美元的罪魁祸首竟是个宅男？ [read](http://www.huxiu.com/article/511397.html?f=wangzhan)
+
+   油价再涨，也别买电动车 [read](http://www.huxiu.com/article/511346.html?f=wangzhan)
+
    三分钟看懂车窗升降系统 [read](http://www.huxiu.com/article/511541.html?f=wangzhan)
 
-   卖一辆亏6.5万，没人造得出廉价特斯拉 [read](http://www.huxiu.com/article/511327.html?f=wangzhan)
+   36碳周报 \| 镍价大涨，电动车电池成本上涨近3000元；工信部等六部门公布2021年度国家绿色数据中心名单；韩国电池龙头LG新能源市值蒸发近30% [read](https://36kr.com/p/1662935566850057)
 
-   快手主播被罚6200万背后，我看到了一个“被遗忘”的世界 [read](http://www.huxiu.com/article/511281.html?f=wangzhan)
+   医疗健康行业周报 \| 银保监会将进一步完善商业健康保险制度体系；「爱博医疗机器人」获1.2亿元Pre-A轮融资 [read](https://36kr.com/p/1662705912813575)
 
-   本周国内融资金额超66.41亿元人民币，过亿元融资交易达29笔 \| TO B投融资周报0311-0317 [read](https://36kr.com/p/1660178247547010)
-
-   央行、证监会等：金融支持浙江高质量发展建设共同富裕示范区；微博上线数字藏品功能 \| 36氪大公司数字创新指南0318 [read](https://36kr.com/p/1660169761503363)
-
-   Alexa，黑掉你自己：亚马逊Echo可能在背着你搞事 [read](https://36kr.com/p/1661066112800516)
+   焦点分析｜喜茶奈雪不想当星巴克 [read](https://36kr.com/p/1661580383213574)
 
    微软发布量子计算最新成果，证实拓扑量子比特的物理机理 [read](https://www.msra.cn/zh-cn/news/features/azure-quantum)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院多模态模型NÜWA：以自然语言创造视觉内容 [read](https://www.msra.cn/zh-cn/news/features/nuwa)
 
+   极客简报｜高端 iPhone 专享「叹号屏」；罗永浩泄露新公司命名；华为把稻草卖出金子价 [read](http://www.geekpark.net/news/299892)
+
+   特斯拉全球第五工厂或落地中国；英伟达下周将发全新 GPU 架构；谷歌应用推皮克斯新片 AR 体验 [read](http://www.geekpark.net/news/299887)
+
    华为 MatePad Paper 体验：MatePad & 电子书「跨界选手」 [read](http://www.geekpark.net/news/299885)
-
-   老罗回应「交个朋友分手」：新项目已建组未起名；苹果承认万元显示器摄像头表现不佳；白天睡太多或为老年痴呆早期症状 [read](http://www.geekpark.net/news/299883)
-
-   荣耀 Magic4 Pro 体验：百倍潜望长焦加持，还有独家隐私通话 [read](http://www.geekpark.net/news/299863)
 
 ### 金融类
 
-   中证500：走出青涩，未染世故的美男子 [read](http://xueqiu.com/9391624441/214612774)
+   沃森生物深度分析 [read](http://xueqiu.com/9829586784/214667450)
 
-   沃森生物年报之感叹 [read](http://xueqiu.com/3537625901/214616192)
+   谈谈持有中概的经历：在黑暗中期待黎明 [read](http://xueqiu.com/1064434794/214660499)
 
-   投资必须跟自己的风险偏好相匹配 [read](http://xueqiu.com/9222280625/214521518)
+   光伏多晶硅环节是周期股吗？ [read](http://xueqiu.com/7514682568/214659365)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   The Silent Spring Guardian x RNIB x Google [read](https://www.behance.net/gallery/139716403/The-Silent-Spring-Guardian-x-RNIB-x-Google)
+   ML Test 1.0798 A [read](https://www.behance.net/gallery/139799873/ML-Test-10798-A)
 
-   2020???????? [read](https://www.behance.net/gallery/114794941/2020)
+   AutoTechnika [read](https://www.behance.net/gallery/139752317/AutoTechnika)
 
-   OMEGA QUALITY CAMPAIGN [read](https://www.behance.net/gallery/139552509/OMEGA-QUALITY-CAMPAIGN)
+   Chocotoy Art Collection/04 [read](https://www.behance.net/gallery/139673261/Chocotoy-Art-Collection04)
 
    Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest’s Support for Ukraine [read](https://newsroom.pinterest.com/en/post/pinterests-support-for-ukraine)
 
+   这 5 位优秀的扁平风插画艺术家，是我每日学习的源泉！ [read](https://www.uisdc.com/5-illustrations-artist)
+
+   去年日本最大手游爆款，是怎么做3D模型的？ [read](https://www.uisdc.com/pretty-derby-3d)
+
    老板说设计没价值？把这篇文章给他看！ [read](https://www.uisdc.com/roi-for-ux-design)
-
-   酷家乐实战案例！VR全景工具设计改版复盘 [read](https://www.uisdc.com/vr-tool-design)
-
-   新手如何做好海报设计？试试网格这个神器！ [read](https://www.uisdc.com/grid-settings)
 
    微前端框架核心技术揭秘 [read](https://11.146.83.18/2022/02/22/micro-frontend-framework/)
 
