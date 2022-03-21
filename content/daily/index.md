@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WorldFrogDay_EN-US9497103821_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.TheBard_EN-US9600542823_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   春招变“春卷”，你会选择当“穷充”青年吗？ [read](http://www.huxiu.com/article/512226.html?f=wangzhan)
+
+   熬夜后再补觉，有用吗？ [read](http://www.huxiu.com/article/512207.html?f=wangzhan)
+
    让美股5分钟蒸发万亿美元的罪魁祸首竟是个宅男？ [read](http://www.huxiu.com/article/511397.html?f=wangzhan)
 
-   油价再涨，也别买电动车 [read](http://www.huxiu.com/article/511346.html?f=wangzhan)
+   激战、洗牌、坚守，智能门锁的“激荡10年” [read](https://36kr.com/p/1664299094087689)
 
-   三分钟看懂车窗升降系统 [read](http://www.huxiu.com/article/511541.html?f=wangzhan)
+   业绩快报丨陈磊接棒一周年，拼多多2021年研发费用同比增长30%，Q4利润继续投入百亿农研 [read](https://36kr.com/p/1664456120194817)
 
-   36碳周报 \| 镍价大涨，电动车电池成本上涨近3000元；工信部等六部门公布2021年度国家绿色数据中心名单；韩国电池龙头LG新能源市值蒸发近30% [read](https://36kr.com/p/1662935566850057)
-
-   医疗健康行业周报 \| 银保监会将进一步完善商业健康保险制度体系；「爱博医疗机器人」获1.2亿元Pre-A轮融资 [read](https://36kr.com/p/1662705912813575)
-
-   焦点分析｜喜茶奈雪不想当星巴克 [read](https://36kr.com/p/1661580383213574)
+   东数西算启动后，又一百亿产业链悄然兴起 [read](https://36kr.com/p/1658725900368003)
 
    微软发布量子计算最新成果，证实拓扑量子比特的物理机理 [read](https://www.msra.cn/zh-cn/news/features/azure-quantum)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院多模态模型NÜWA：以自然语言创造视觉内容 [read](https://www.msra.cn/zh-cn/news/features/nuwa)
 
+   作业帮喵喵机 F1 体验：耗材试题不用愁，有娃家庭超实用 [read](http://www.geekpark.net/news/299135)
+
+   字节：今年 VR 产品年销量增至 180 万台；华为鸿蒙汽车增四驱版，28万起；中国首位 F1 选手完成比赛首秀 [read](http://www.geekpark.net/news/299896)
+
    极客简报｜高端 iPhone 专享「叹号屏」；罗永浩泄露新公司命名；华为把稻草卖出金子价 [read](http://www.geekpark.net/news/299892)
-
-   特斯拉全球第五工厂或落地中国；英伟达下周将发全新 GPU 架构；谷歌应用推皮克斯新片 AR 体验 [read](http://www.geekpark.net/news/299887)
-
-   华为 MatePad Paper 体验：MatePad & 电子书「跨界选手」 [read](http://www.geekpark.net/news/299885)
 
 ### 金融类
 
-   沃森生物深度分析 [read](http://xueqiu.com/9829586784/214667450)
+   只靠股息赚钱是怎样一种体验，港股告诉你 [read](http://xueqiu.com/3559889031/214775130)
 
-   谈谈持有中概的经历：在黑暗中期待黎明 [read](http://xueqiu.com/1064434794/214660499)
+   谁是红利之王？ [read](http://xueqiu.com/8915001532/214771854)
 
-   光伏多晶硅环节是周期股吗？ [read](http://xueqiu.com/7514682568/214659365)
+   【有奖征集】21只长牛老将基金邀你来评测 [read](http://xueqiu.com/8152922548/214772159)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   ML Test 1.0798 A [read](https://www.behance.net/gallery/139799873/ML-Test-10798-A)
+   Book illustrations [read](https://www.behance.net/gallery/139857763/Book-illustrations)
 
-   AutoTechnika [read](https://www.behance.net/gallery/139752317/AutoTechnika)
+   Reach. [read](https://www.behance.net/gallery/139845149/Reach)
 
-   Chocotoy Art Collection/04 [read](https://www.behance.net/gallery/139673261/Chocotoy-Art-Collection04)
+   MTV ? MTV Xmas Party [read](https://www.behance.net/gallery/139713529/MTV-MTV-Xmas-Party)
 
    Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
@@ -148,9 +148,9 @@ title: "今日资讯"
 
    这 5 位优秀的扁平风插画艺术家，是我每日学习的源泉！ [read](https://www.uisdc.com/5-illustrations-artist)
 
-   去年日本最大手游爆款，是怎么做3D模型的？ [read](https://www.uisdc.com/pretty-derby-3d)
+   4000字干货！交互手势全解析：描述维度 [read](https://www.uisdc.com/interaction-gestures)
 
-   老板说设计没价值？把这篇文章给他看！ [read](https://www.uisdc.com/roi-for-ux-design)
+   这 4 款工具，让设计师工作效率提升 200%！ [read](https://www.uisdc.com/4-practical-software)
 
    微前端框架核心技术揭秘 [read](https://11.146.83.18/2022/02/22/micro-frontend-framework/)
 
