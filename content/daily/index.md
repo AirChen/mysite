@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.TheBard_EN-US9600542823_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ThousandSprings_EN-US9722040396_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,37 +68,37 @@ title: "今日资讯"
 
 ### 互联网类
 
-   春招变“春卷”，你会选择当“穷充”青年吗？ [read](http://www.huxiu.com/article/512226.html?f=wangzhan)
+   为什么中华文明是唯一延续至今的古文明？ [read](http://www.huxiu.com/article/513021.html?f=wangzhan)
 
-   熬夜后再补觉，有用吗？ [read](http://www.huxiu.com/article/512207.html?f=wangzhan)
+   互联网封禁，反垄断监管的下一个重点？ [read](http://www.huxiu.com/article/512909.html?f=wangzhan)
 
-   让美股5分钟蒸发万亿美元的罪魁祸首竟是个宅男？ [read](http://www.huxiu.com/article/511397.html?f=wangzhan)
+   APP监听聊天，是真的吗？ [read](http://www.huxiu.com/article/512604.html?f=wangzhan)
 
-   激战、洗牌、坚守，智能门锁的“激荡10年” [read](https://36kr.com/p/1664299094087689)
+   绿档央企也要降负债 招商蛇口高管预言商品房销售已见顶 [read](https://36kr.com/p/1666067972528132)
 
-   业绩快报丨陈磊接棒一周年，拼多多2021年研发费用同比增长30%，Q4利润继续投入百亿农研 [read](https://36kr.com/p/1664456120194817)
+   业绩快报丨同程旅行2021营收同比增长27%，年付费用户创新高 [read](https://36kr.com/p/1665846227457797)
 
-   东数西算启动后，又一百亿产业链悄然兴起 [read](https://36kr.com/p/1658725900368003)
+   业绩快报丨小米2021年营收3283亿元，净利润同比增长了70% [read](https://36kr.com/p/1665782632109824)
+
+   语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
 
    微软发布量子计算最新成果，证实拓扑量子比特的物理机理 [read](https://www.msra.cn/zh-cn/news/features/azure-quantum)
 
    Swin Transformer迎来30亿参数的v2.0，我们应该拥抱视觉大模型吗？ [read](https://www.msra.cn/zh-cn/news/features/swin-transformer-v2)
 
-   微软亚洲研究院多模态模型NÜWA：以自然语言创造视觉内容 [read](https://www.msra.cn/zh-cn/news/features/nuwa)
+   钉钉不穷：先「认怂」，才有资格谈「更好」 [read](http://www.geekpark.net/news/299963)
 
-   作业帮喵喵机 F1 体验：耗材试题不用愁，有娃家庭超实用 [read](http://www.geekpark.net/news/299135)
+   ​Bose SoundLink Flex 开箱：好声音长续航，IP67 适应多场景 [read](http://www.geekpark.net/news/299889)
 
-   字节：今年 VR 产品年销量增至 180 万台；华为鸿蒙汽车增四驱版，28万起；中国首位 F1 选手完成比赛首秀 [read](http://www.geekpark.net/news/299896)
-
-   极客简报｜高端 iPhone 专享「叹号屏」；罗永浩泄露新公司命名；华为把稻草卖出金子价 [read](http://www.geekpark.net/news/299892)
+   真我 GT Neo3 体验：天玑 8100+150W 闪充，能竞争「焊门员」位置吗？ [read](http://www.geekpark.net/news/299886)
 
 ### 金融类
 
-   只靠股息赚钱是怎样一种体验，港股告诉你 [read](http://xueqiu.com/3559889031/214775130)
+   劝巴菲特悬崖勒马 [read](http://xueqiu.com/4097105650/214861929)
 
-   谁是红利之王？ [read](http://xueqiu.com/8915001532/214771854)
+   呼吁回购，爱我就请回购我：关于阿里回购的一点看法 [read](http://xueqiu.com/9598793634/214855934)
 
-   【有奖征集】21只长牛老将基金邀你来评测 [read](http://xueqiu.com/8152922548/214772159)
+   宽基和行业基金，哪一种更好？ [read](http://xueqiu.com/4579887327/214815352)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Book illustrations [read](https://www.behance.net/gallery/139857763/Book-illustrations)
+   Maïté Franchi - T Brand Studio x New York Times [read](https://www.behance.net/gallery/139904655/Mait-Franchi-T-Brand-Studio-x-New-York-Times)
 
-   Reach. [read](https://www.behance.net/gallery/139845149/Reach)
+   Oriana Rodríguez [read](https://www.behance.net/gallery/136749331/Oriana-Rodriguez)
 
-   MTV ? MTV Xmas Party [read](https://www.behance.net/gallery/139713529/MTV-MTV-Xmas-Party)
+   Dinosaur Character / Plasticine,Balloon [read](https://www.behance.net/gallery/139825857/Dinosaur-Character-PlasticineBalloon)
 
    Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest’s Support for Ukraine [read](https://newsroom.pinterest.com/en/post/pinterests-support-for-ukraine)
 
-   这 5 位优秀的扁平风插画艺术家，是我每日学习的源泉！ [read](https://www.uisdc.com/5-illustrations-artist)
+   挑战 Figma 地位？一站式设计神器 Pixso 宣布个人永久免费！ [read](https://www.uisdc.com/pixso)
 
-   4000字干货！交互手势全解析：描述维度 [read](https://www.uisdc.com/interaction-gestures)
+   所有《蝙蝠侠》电影美学的开始，竟然都源于蝙蝠战车！ [read](https://www.uisdc.com/create-batmobile-1)
 
-   这 4 款工具，让设计师工作效率提升 200%！ [read](https://www.uisdc.com/4-practical-software)
+   3秒无痕修图！在线黑科技修图神器 Magic Eraser [read](https://www.uisdc.com/magic-eraser)
 
    微前端框架核心技术揭秘 [read](https://11.146.83.18/2022/02/22/micro-frontend-framework/)
 
