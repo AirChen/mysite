@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ThousandSprings_EN-US9722040396_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GCThunderstorm_EN-US9801749958_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -10,11 +10,11 @@ title: "今日资讯"
 
    科技爱好者周刊（第 198 期）：美国制造是否可能 [read](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-198.html)
 
+   层次组件的问题 [read](https://blog.codingnow.com/2022/03/multiple_components.html)
+
    effekseer 的 shader 转译 [read](https://blog.codingnow.com/2022/03/effekseer_shader.html)
 
    ECS 中的对象引用 [read](https://blog.codingnow.com/2022/02/ecs_entity_reference.html)
-
-   信息茧房 [read](https://blog.codingnow.com/2022/02/information_cocoons.html)
 
    一个付费 chrome 插件的一生 [read](https://blog.t9t.io/star-history-2021-01-21/)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   为什么中华文明是唯一延续至今的古文明？ [read](http://www.huxiu.com/article/513021.html?f=wangzhan)
+   从业6年小三劝退师：越来越多男性想回归家庭 [read](http://www.huxiu.com/article/513540.html?f=wangzhan)
 
-   互联网封禁，反垄断监管的下一个重点？ [read](http://www.huxiu.com/article/512909.html?f=wangzhan)
+   天宫课堂，如何展现大国实力？ [read](http://www.huxiu.com/article/513728.html?f=wangzhan)
 
-   APP监听聊天，是真的吗？ [read](http://www.huxiu.com/article/512604.html?f=wangzhan)
+   一个“品”的自我修养 [read](http://www.huxiu.com/article/512795.html?f=wangzhan)
 
-   绿档央企也要降负债 招商蛇口高管预言商品房销售已见顶 [read](https://36kr.com/p/1666067972528132)
+   物管竞争：流量的尽头是私域 [read](https://36kr.com/p/1667473186512640)
 
-   业绩快报丨同程旅行2021营收同比增长27%，年付费用户创新高 [read](https://36kr.com/p/1665846227457797)
+   绿城中国逆势增长背后：更低的杠杆 更快的周转 \| 年报时氪 [read](https://36kr.com/p/1667463079042825)
 
-   业绩快报丨小米2021年营收3283亿元，净利润同比增长了70% [read](https://36kr.com/p/1665782632109824)
+   36氪首发 \| 隐形正畸赛道风口再起，「牙领科技」获近亿元B轮融资 [read](https://36kr.com/p/1665716083349513)
 
    语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    Swin Transformer迎来30亿参数的v2.0，我们应该拥抱视觉大模型吗？ [read](https://www.msra.cn/zh-cn/news/features/swin-transformer-v2)
 
-   钉钉不穷：先「认怂」，才有资格谈「更好」 [read](http://www.geekpark.net/news/299963)
+   用全球最快 AI 超算秀肌肉后，黄仁勋要用 AI 抓住元宇宙命门 [read](http://www.geekpark.net/news/300048)
 
-   ​Bose SoundLink Flex 开箱：好声音长续航，IP67 适应多场景 [read](http://www.geekpark.net/news/299889)
+   除了农业，拼多多什么都不想说 [read](http://www.geekpark.net/news/300016)
 
-   真我 GT Neo3 体验：天玑 8100+150W 闪充，能竞争「焊门员」位置吗？ [read](http://www.geekpark.net/news/299886)
+   英伟达发布最新 Hopper 架构 GPU，H100 拥有 800 亿个晶体管；小米汽车首款车 2024 年量产，团队超 1000 人；梦露肖像拍卖估值 2 亿美元｜极客早知道 [read](http://www.geekpark.net/news/299998)
 
 ### 金融类
 
-   劝巴菲特悬崖勒马 [read](http://xueqiu.com/4097105650/214861929)
+   “王牌基”硬核测评：兴全合润篇 [read](http://xueqiu.com/9600110938/214979111)
 
-   呼吁回购，爱我就请回购我：关于阿里回购的一点看法 [read](http://xueqiu.com/9598793634/214855934)
+   芒格：Daily Journal股东大会问答/2022年 [read](http://xueqiu.com/7181254885/214822451)
 
-   宽基和行业基金，哪一种更好？ [read](http://xueqiu.com/4579887327/214815352)
+   学会读年报，做聪明基民——2021基金年报解读征集 [read](http://xueqiu.com/8152922548/214941873)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Maïté Franchi - T Brand Studio x New York Times [read](https://www.behance.net/gallery/139904655/Mait-Franchi-T-Brand-Studio-x-New-York-Times)
+   New Cool Collective - Yunikon [read](https://www.behance.net/gallery/135968819/New-Cool-Collective-Yunikon)
 
-   Oriana Rodríguez [read](https://www.behance.net/gallery/136749331/Oriana-Rodriguez)
+   Jesper Ryom ? Nights (Official Music Video) [read](https://www.behance.net/gallery/137884651/Jesper-Ryom-Nights-%28Official-Music-Video%29)
 
-   Dinosaur Character / Plasticine,Balloon [read](https://www.behance.net/gallery/139825857/Dinosaur-Character-PlasticineBalloon)
+   TEATRO ESLAVA [read](https://www.behance.net/gallery/139718179/TEATRO-ESLAVA)
 
    Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
@@ -146,15 +146,15 @@ title: "今日资讯"
 
    Pinterest’s Support for Ukraine [read](https://newsroom.pinterest.com/en/post/pinterests-support-for-ukraine)
 
+   创客贴助力汽车后市场行业进军数字化营销 [read](https://www.uisdc.com/digital-marketing-2022)
+
+   6000字干货！6个方面帮你循序渐进掌握表单设计 [read](https://www.uisdc.com/form-design-rules)
+
    挑战 Figma 地位？一站式设计神器 Pixso 宣布个人永久免费！ [read](https://www.uisdc.com/pixso)
 
-   所有《蝙蝠侠》电影美学的开始，竟然都源于蝙蝠战车！ [read](https://www.uisdc.com/create-batmobile-1)
+   微前端框架核心技术揭秘 [read](https://cdc.tencent.com/2022/02/22/micro-frontend-framework/)
 
-   3秒无痕修图！在线黑科技修图神器 Magic Eraser [read](https://www.uisdc.com/magic-eraser)
+   做个“人格分裂”的研究者——质性研究中研究关系探讨 [read](https://cdc.tencent.com/2022/02/16/%e5%81%9a%e4%b8%aa%e4%ba%ba%e6%a0%bc%e5%88%86%e8%a3%82%e7%9a%84%e7%a0%94%e7%a9%b6%e8%80%85-%e8%b4%a8%e6%80%a7%e7%a0%94%e7%a9%b6%e4%b8%ad%e7%a0%94%e7%a9%b6%e5%85%b3/)
 
-   微前端框架核心技术揭秘 [read](https://11.146.83.18/2022/02/22/micro-frontend-framework/)
-
-   做个“人格分裂”的研究者——质性研究中研究关系探讨 [read](https://11.146.83.18/2022/02/16/%e5%81%9a%e4%b8%aa%e4%ba%ba%e6%a0%bc%e5%88%86%e8%a3%82%e7%9a%84%e7%a0%94%e7%a9%b6%e8%80%85-%e8%b4%a8%e6%80%a7%e7%a0%94%e7%a9%b6%e4%b8%ad%e7%a0%94%e7%a9%b6%e5%85%b3/)
-
-   后台审批流系统设计指南 [read](https://11.146.83.18/2022/02/08/%e5%90%8e%e5%8f%b0%e5%ae%a1%e6%89%b9%e6%b5%81%e7%b3%bb%e7%bb%9f%e8%ae%be%e8%ae%a1%e6%8c%87%e5%8d%97/)
+   后台审批流系统设计指南 [read](https://cdc.tencent.com/2022/02/08/%e5%90%8e%e5%8f%b0%e5%ae%a1%e6%89%b9%e6%b5%81%e7%b3%bb%e7%bb%9f%e8%ae%be%e8%ae%a1%e6%8c%87%e5%8d%97/)
 
