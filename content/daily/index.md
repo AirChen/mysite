@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GCThunderstorm_EN-US9801749958_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SquirrelNesting_EN-US9878096346_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]一次关于架构的“嘴炮” [read](https://blog.csdn.net/ByteDanceTech/article/details/123700599)
+
    \[原\]Android 系统 Bar 沉浸式完美兼容方案 [read](https://blog.csdn.net/ByteDanceTech/article/details/123540429)
 
    \[原\]iOS 高刷屏监控 + 优化：从理论到实践全面解析 [read](https://blog.csdn.net/ByteDanceTech/article/details/123437098)
-
-   \[原\]一文读懂 Android FFmpeg 视频解码过程与实战分析 [read](https://blog.csdn.net/ByteDanceTech/article/details/123343422)
 
    Java系列 \| 远程热部署在美团的落地实践 [read](https://tech.meituan.com/2022/03/17/java-hotswap-sonic.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   从业6年小三劝退师：越来越多男性想回归家庭 [read](http://www.huxiu.com/article/513540.html?f=wangzhan)
+   我离开腾讯卖了3年电子烟 [read](http://www.huxiu.com/article/514825.html?f=wangzhan)
 
-   天宫课堂，如何展现大国实力？ [read](http://www.huxiu.com/article/513728.html?f=wangzhan)
+   曾是世界第一巨头的日本东芝，要被拆分了？ [read](http://www.huxiu.com/article/514561.html?f=wangzhan)
 
-   一个“品”的自我修养 [read](http://www.huxiu.com/article/512795.html?f=wangzhan)
+   为什么不用卫星传输取代黑匣子？ [read](http://www.huxiu.com/article/514510.html?f=wangzhan)
 
-   物管竞争：流量的尽头是私域 [read](https://36kr.com/p/1667473186512640)
+   小家电：新消费场景的下一站 [read](https://36kr.com/p/1668826544873479)
 
-   绿城中国逆势增长背后：更低的杠杆 更快的周转 \| 年报时氪 [read](https://36kr.com/p/1667463079042825)
+   旭辉回应21个合作方「暴雷」：项目封闭管理 大部分只剩尾盘 \| 年报时氪 [read](https://36kr.com/p/1668708181368836)
 
-   36氪首发 \| 隐形正畸赛道风口再起，「牙领科技」获近亿元B轮融资 [read](https://36kr.com/p/1665716083349513)
+   氪星晚报｜新东方新公司经营范围含电竞赛事策划；小米集团：向4931位员工授予约1.749亿股小米股票；阿里云盘推出会员服务，非会员用户继续保持不限速 [read](https://36kr.com/p/1668569524625152)
 
    语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
 
@@ -86,33 +86,33 @@ title: "今日资讯"
 
    Swin Transformer迎来30亿参数的v2.0，我们应该拥抱视觉大模型吗？ [read](https://www.msra.cn/zh-cn/news/features/swin-transformer-v2)
 
-   用全球最快 AI 超算秀肌肉后，黄仁勋要用 AI 抓住元宇宙命门 [read](http://www.geekpark.net/news/300048)
+   详解 Keep：生于「免费」，困于「收费」 [read](http://www.geekpark.net/news/300081)
 
-   除了农业，拼多多什么都不想说 [read](http://www.geekpark.net/news/300016)
+   智米洗地机器人开拓者 A1 体验：活水洗地能自洁，省时省力好帮手 [read](http://www.geekpark.net/news/300018)
 
-   英伟达发布最新 Hopper 架构 GPU，H100 拥有 800 亿个晶体管；小米汽车首款车 2024 年量产，团队超 1000 人；梦露肖像拍卖估值 2 亿美元｜极客早知道 [read](http://www.geekpark.net/news/299998)
+   苹果在美推 iPhone 电子驾照；「东航」飞机黑匣子已找到；8 成以上年轻人困了依然刷手机 [read](http://www.geekpark.net/news/300050)
 
 ### 金融类
 
-   “王牌基”硬核测评：兴全合润篇 [read](http://xueqiu.com/9600110938/214979111)
+   跟着基金年报学投资 [read](http://xueqiu.com/5199904719/215068930)
 
-   芒格：Daily Journal股东大会问答/2022年 [read](http://xueqiu.com/7181254885/214822451)
+   弯道超车——疫情以来各航司积累势能对比 [read](http://xueqiu.com/5135726117/215083571)
 
-   学会读年报，做聪明基民——2021基金年报解读征集 [read](http://xueqiu.com/8152922548/214941873)
+   持仓成本永远是现价 [read](http://xueqiu.com/6038415265/215088000)
 
 ### 学习类
+
+   💻 Issue 300 - Language details of the Firefox repo: Rust is now 10% of Firefox [read](https://rust.libhunt.com/newsletter/300)
 
    💻 Issue 299 - Announcing rulex, a new regular expression language [read](https://rust.libhunt.com/newsletter/299)
 
    💻 Issue 298 - Security advisory for the regex crate (CVE-2022-24713) \| Rust Blog [read](https://rust.libhunt.com/newsletter/298)
 
-   💻 Issue 297 - Lapce – open source code editor inspired by Xi-editor [read](https://rust.libhunt.com/newsletter/297)
+   This Week in Rust 435 [read](https://this-week-in-rust.org/blog/2022/03/23/this-week-in-rust-435/)
 
    This Week in Rust 434 [read](https://this-week-in-rust.org/blog/2022/03/16/this-week-in-rust-434/)
 
    This Week in Rust 433 [read](https://this-week-in-rust.org/blog/2022/03/09/this-week-in-rust-433/)
-
-   This Week in Rust 432 [read](https://this-week-in-rust.org/blog/2022/03/02/this-week-in-rust-432/)
 
    “一把梭：REST API 全用 POST” [read](https://coolshell.cn/articles/22173.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   New Cool Collective - Yunikon [read](https://www.behance.net/gallery/135968819/New-Cool-Collective-Yunikon)
+   Feb - March '22 - GIFs [read](https://www.behance.net/gallery/139256257/Feb-March-22-GIFs)
 
-   Jesper Ryom ? Nights (Official Music Video) [read](https://www.behance.net/gallery/137884651/Jesper-Ryom-Nights-%28Official-Music-Video%29)
+   Olifant: Brand Identity &amp; Web [read](https://www.behance.net/gallery/139890167/Olifant-Brand-Identity-Web)
 
-   TEATRO ESLAVA [read](https://www.behance.net/gallery/139718179/TEATRO-ESLAVA)
+   Digital Portraits [read](https://www.behance.net/gallery/139784933/Digital-Portraits)
 
    Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest’s Support for Ukraine [read](https://newsroom.pinterest.com/en/post/pinterests-support-for-ukraine)
 
-   创客贴助力汽车后市场行业进军数字化营销 [read](https://www.uisdc.com/digital-marketing-2022)
+   所有《蝙蝠侠》电影美学的源头，竟然都始于蝙蝠战车！(中) [read](https://www.uisdc.com/create-batmobile-2)
 
-   6000字干货！6个方面帮你循序渐进掌握表单设计 [read](https://www.uisdc.com/form-design-rules)
+   万字干货！6大章节帮你学会作品集包装 [read](https://www.uisdc.com/portfolio-design)
 
-   挑战 Figma 地位？一站式设计神器 Pixso 宣布个人永久免费！ [read](https://www.uisdc.com/pixso)
+   渐变波点怎么做？我为你总结了 3 种超快方法（附原理解析） [read](https://www.uisdc.com/the-gradient-wave-point)
 
    微前端框架核心技术揭秘 [read](https://cdc.tencent.com/2022/02/22/micro-frontend-framework/)
 
