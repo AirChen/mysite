@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SquirrelNesting_EN-US9878096346_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Rivendell_EN-US9228594102_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 199 期）：俄罗斯的 HTTPS 证书问题 [read](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html)
+   科技爱好者周刊（第 200 期）：低期望，多尝试 [read](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-200.html)
 
-   科技爱好者周刊（第 198 期）：美国制造是否可能 [read](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-198.html)
+   科技爱好者周刊（第 199 期）：俄罗斯的 HTTPS 证书问题 [read](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html)
 
    层次组件的问题 [read](https://blog.codingnow.com/2022/03/multiple_components.html)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 440 期 [read](https://weekly.75.team/issue440.html)
+
    奇舞周刊第 439 期 [read](https://weekly.75.team/issue439.html)
 
    奇舞周刊第 438 期 [read](https://weekly.75.team/issue438.html)
-
-   奇舞周刊第 437 期 [read](https://weekly.75.team/issue437.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -54,11 +54,11 @@ title: "今日资讯"
 
    \[原\]iOS 高刷屏监控 + 优化：从理论到实践全面解析 [read](https://blog.csdn.net/ByteDanceTech/article/details/123437098)
 
+   NeurIPS 2021 ｜ Twins：重新思考高效的视觉注意力模型设计 [read](https://tech.meituan.com/2022/03/24/twins-revisiting-the-design-of-spatial-attention-in-vision-transformers.html)
+
+   TensorFlow在美团外卖推荐场景的GPU训练优化实践 [read](https://tech.meituan.com/2022/03/24/tensorflow-gpu-training-optimization-practice-in-meituan-waimai-recommendation-scenarios.html)
+
    Java系列 \| 远程热部署在美团的落地实践 [read](https://tech.meituan.com/2022/03/17/java-hotswap-sonic.html)
-
-   美团内部讲座 \| 清华大学崔鹏：因果启发的学习、推断和决策 [read](https://tech.meituan.com/2022/03/17/causal-inference.html)
-
-   异构广告混排在美团到店业务的探索与实践 [read](https://tech.meituan.com/2022/03/10/exploration-and-practice-of-heterogeneous-ad-mixed-ranking-in-meituan-ads.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   我离开腾讯卖了3年电子烟 [read](http://www.huxiu.com/article/514825.html?f=wangzhan)
+   两年过去了，应该如何终结疫情？ [read](http://www.huxiu.com/article/515361.html?f=wangzhan)
 
-   曾是世界第一巨头的日本东芝，要被拆分了？ [read](http://www.huxiu.com/article/514561.html?f=wangzhan)
+   为什么米哈游能有“米卫兵” [read](http://www.huxiu.com/article/515031.html?f=wangzhan)
 
-   为什么不用卫星传输取代黑匣子？ [read](http://www.huxiu.com/article/514510.html?f=wangzhan)
+   “赫鲁晓夫楼”是粗野主义？真正的苏联建筑长什么样？ [read](http://www.huxiu.com/article/515034.html?f=wangzhan)
 
-   小家电：新消费场景的下一站 [read](https://36kr.com/p/1668826544873479)
+   “烂广告”翻车，一周内两家品牌发文致歉 [read](https://36kr.com/p/1670095500615684)
 
-   旭辉回应21个合作方「暴雷」：项目封闭管理 大部分只剩尾盘 \| 年报时氪 [read](https://36kr.com/p/1668708181368836)
+   融创债券将展期：无法足额兑付两笔4月到期债券 合计60亿元 [read](https://36kr.com/p/1670079343582981)
 
-   氪星晚报｜新东方新公司经营范围含电竞赛事策划；小米集团：向4931位员工授予约1.749亿股小米股票；阿里云盘推出会员服务，非会员用户继续保持不限速 [read](https://36kr.com/p/1668569524625152)
+   科氪 \| 打破硬件内卷 荣耀开启高端旗舰手机智慧新赛道 [read](https://36kr.com/p/1670082766790403)
 
    语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    Swin Transformer迎来30亿参数的v2.0，我们应该拥抱视觉大模型吗？ [read](https://www.msra.cn/zh-cn/news/features/swin-transformer-v2)
 
-   详解 Keep：生于「免费」，困于「收费」 [read](http://www.geekpark.net/news/300081)
+   Redmi K40S 上手：配置提升价格不变，性价比很高的骁龙 870 手机 [read](http://www.geekpark.net/news/300088)
 
-   智米洗地机器人开拓者 A1 体验：活水洗地能自洁，省时省力好帮手 [read](http://www.geekpark.net/news/300018)
+   魅族和它的暧昧对象们 [read](http://www.geekpark.net/news/300049)
 
-   苹果在美推 iPhone 电子驾照；「东航」飞机黑匣子已找到；8 成以上年轻人困了依然刷手机 [read](http://www.geekpark.net/news/300050)
+   腾讯，这次是真的「躺」了 [read](http://www.geekpark.net/news/300146)
 
 ### 金融类
 
-   跟着基金年报学投资 [read](http://xueqiu.com/5199904719/215068930)
+   沃森22年业绩预测及相关的ABC [read](http://xueqiu.com/3828846123/215228350)
 
-   弯道超车——疫情以来各航司积累势能对比 [read](http://xueqiu.com/5135726117/215083571)
+   下跌方知固收好！一文说清如何投资债券基金 [read](http://xueqiu.com/1468358080/215244120)
 
-   持仓成本永远是现价 [read](http://xueqiu.com/6038415265/215088000)
+   基金年报密集发布，近百页怎么看？ [read](http://xueqiu.com/8554675668/215246394)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Feb - March '22 - GIFs [read](https://www.behance.net/gallery/139256257/Feb-March-22-GIFs)
+   Aize [read](https://www.behance.net/gallery/140007093/Aize)
 
-   Olifant: Brand Identity &amp; Web [read](https://www.behance.net/gallery/139890167/Olifant-Brand-Identity-Web)
+   ByNext. All-in-one home services provider [read](https://www.behance.net/gallery/139190677/ByNext-All-in-one-home-services-provider)
 
-   Digital Portraits [read](https://www.behance.net/gallery/139784933/Digital-Portraits)
+   The Azure Mob. [read](https://www.behance.net/gallery/140169599/The-Azure-Mob)
 
    Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest’s Support for Ukraine [read](https://newsroom.pinterest.com/en/post/pinterests-support-for-ukraine)
 
-   所有《蝙蝠侠》电影美学的源头，竟然都始于蝙蝠战车！(中) [read](https://www.uisdc.com/create-batmobile-2)
+   这 5 款工具，让设计师工作效率提升 200%！（二） [read](https://www.uisdc.com/5-practical-softwar)
 
-   万字干货！6大章节帮你学会作品集包装 [read](https://www.uisdc.com/portfolio-design)
+   超人气的蝙蝠战车是如何创造出来的？揭秘背后设计稿！ [read](https://www.uisdc.com/create-batmobile-2)
 
-   渐变波点怎么做？我为你总结了 3 种超快方法（附原理解析） [read](https://www.uisdc.com/the-gradient-wave-point)
+   为什么大厂改版都在做用户分层设计？效果超明显！ [read](https://www.uisdc.com/user-stratification-design)
 
    微前端框架核心技术揭秘 [read](https://cdc.tencent.com/2022/02/22/micro-frontend-framework/)
 
