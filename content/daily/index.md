@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Rivendell_EN-US9228594102_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.YellowCrocuses_EN-US9416168776_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]抖音 Android 性能优化系列：启动优化实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/123748980)
+
    \[原\]一次关于架构的“嘴炮” [read](https://blog.csdn.net/ByteDanceTech/article/details/123700599)
 
    \[原\]Android 系统 Bar 沉浸式完美兼容方案 [read](https://blog.csdn.net/ByteDanceTech/article/details/123540429)
-
-   \[原\]iOS 高刷屏监控 + 优化：从理论到实践全面解析 [read](https://blog.csdn.net/ByteDanceTech/article/details/123437098)
 
    NeurIPS 2021 ｜ Twins：重新思考高效的视觉注意力模型设计 [read](https://tech.meituan.com/2022/03/24/twins-revisiting-the-design-of-spatial-attention-in-vision-transformers.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   试驾“领克 02 Hatchback T4”，还是“小钢炮”吗？ [read](http://www.huxiu.com/article/515262.html?f=wangzhan)
+
+   星巴克股价跌了！能靠“贫民窟出身”的他回升吗？ [read](http://www.huxiu.com/article/515626.html?f=wangzhan)
+
    两年过去了，应该如何终结疫情？ [read](http://www.huxiu.com/article/515361.html?f=wangzhan)
 
-   为什么米哈游能有“米卫兵” [read](http://www.huxiu.com/article/515031.html?f=wangzhan)
+   高榕资本创始合伙人岳斌：科技创业是一场十项全能竞争 ｜「X·36Under36」专家访谈⑤ [read](https://36kr.com/p/1671580291407620)
 
-   “赫鲁晓夫楼”是粗野主义？真正的苏联建筑长什么样？ [read](http://www.huxiu.com/article/515034.html?f=wangzhan)
+   本周国内融资金额超66.4亿元人民币，过亿元融资交易达21笔 \| TOB投融资周报0318-0324 [read](https://36kr.com/p/1670372825391110)
 
-   “烂广告”翻车，一周内两家品牌发文致歉 [read](https://36kr.com/p/1670095500615684)
-
-   融创债券将展期：无法足额兑付两笔4月到期债券 合计60亿元 [read](https://36kr.com/p/1670079343582981)
-
-   科氪 \| 打破硬件内卷 荣耀开启高端旗舰手机智慧新赛道 [read](https://36kr.com/p/1670082766790403)
+   最前线｜协鑫集团朱共山：“双碳”目标下，汽车将是庞大的储能系统 [read](https://36kr.com/p/1671199352758281)
 
    语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    Swin Transformer迎来30亿参数的v2.0，我们应该拥抱视觉大模型吗？ [read](https://www.msra.cn/zh-cn/news/features/swin-transformer-v2)
 
+   王兴：美团每送一单外卖亏 1 元；字节跳动曝公司使命：激发创造，丰富生活；苹果 CEO 库克将出席奥斯卡颁奖礼 \| 极客早知道 [read](http://www.geekpark.net/news/300175)
+
    Redmi K40S 上手：配置提升价格不变，性价比很高的骁龙 870 手机 [read](http://www.geekpark.net/news/300088)
 
    魅族和它的暧昧对象们 [read](http://www.geekpark.net/news/300049)
 
-   腾讯，这次是真的「躺」了 [read](http://www.geekpark.net/news/300146)
-
 ### 金融类
 
-   沃森22年业绩预测及相关的ABC [read](http://xueqiu.com/3828846123/215228350)
+   分红模范生中国神华2021年报简评 [read](http://xueqiu.com/2443086428/215258680)
 
-   下跌方知固收好！一文说清如何投资债券基金 [read](http://xueqiu.com/1468358080/215244120)
+   化石能源价格上涨将持续推高新能源的竞争力 [read](http://xueqiu.com/9744600357/215242339)
 
-   基金年报密集发布，近百页怎么看？ [read](http://xueqiu.com/8554675668/215246394)
+   一文说清价值投资和趋势投资的区别 [read](http://xueqiu.com/2160821493/215276625)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Aize [read](https://www.behance.net/gallery/140007093/Aize)
+   Fantastic places and Where to Find Them [read](https://www.behance.net/gallery/140225849/Fantastic-places-and-Where-to-Find-Them)
 
-   ByNext. All-in-one home services provider [read](https://www.behance.net/gallery/139190677/ByNext-All-in-one-home-services-provider)
+   Slow Studio Identity [read](https://www.behance.net/gallery/137683847/Slow-Studio-Identity)
 
-   The Azure Mob. [read](https://www.behance.net/gallery/140169599/The-Azure-Mob)
+   Once In A While MiNFT ? 08 [read](https://www.behance.net/gallery/137729193/Once-In-A-While-MiNFT-08)
 
    Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest’s Support for Ukraine [read](https://newsroom.pinterest.com/en/post/pinterests-support-for-ukraine)
 
-   这 5 款工具，让设计师工作效率提升 200%！（二） [read](https://www.uisdc.com/5-practical-softwar)
+   学会这3个方面，帮你提高CTA按钮的点击率 [read](https://www.uisdc.com/cta-button-ctr)
 
-   超人气的蝙蝠战车是如何创造出来的？揭秘背后设计稿！ [read](https://www.uisdc.com/create-batmobile-2)
+   用超多案例，帮你掌握尼尔森十大可用性原则 [read](https://www.uisdc.com/nielsen-design-principles-4)
 
-   为什么大厂改版都在做用户分层设计？效果超明显！ [read](https://www.uisdc.com/user-stratification-design)
+   如何构建一套 B 端栅格体系？我总结了五个方面！ [read](https://www.uisdc.com/build-b-end-grid-system)
 
    微前端框架核心技术揭秘 [read](https://cdc.tencent.com/2022/02/22/micro-frontend-framework/)
 
