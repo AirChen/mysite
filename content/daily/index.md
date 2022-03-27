@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.YellowCrocuses_EN-US9416168776_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.TeatroAntico_EN-US9864647927_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   80%的国产汽车品牌，都得“凉” [read](http://www.huxiu.com/article/516187.html?f=wangzhan)
+
+   ​500亿美金“包养”韩剧 [read](http://www.huxiu.com/article/516079.html?f=wangzhan)
+
    试驾“领克 02 Hatchback T4”，还是“小钢炮”吗？ [read](http://www.huxiu.com/article/515262.html?f=wangzhan)
 
-   星巴克股价跌了！能靠“贫民窟出身”的他回升吗？ [read](http://www.huxiu.com/article/515626.html?f=wangzhan)
-
-   两年过去了，应该如何终结疫情？ [read](http://www.huxiu.com/article/515361.html?f=wangzhan)
+   医疗健康行业周报 \| 2022中国居民健康消费指数发布；「牙领科技」获近亿元B轮融资 [read](https://36kr.com/p/1672658187280386)
 
    高榕资本创始合伙人岳斌：科技创业是一场十项全能竞争 ｜「X·36Under36」专家访谈⑤ [read](https://36kr.com/p/1671580291407620)
 
    本周国内融资金额超66.4亿元人民币，过亿元融资交易达21笔 \| TOB投融资周报0318-0324 [read](https://36kr.com/p/1670372825391110)
-
-   最前线｜协鑫集团朱共山：“双碳”目标下，汽车将是庞大的储能系统 [read](https://36kr.com/p/1671199352758281)
 
    语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    Swin Transformer迎来30亿参数的v2.0，我们应该拥抱视觉大模型吗？ [read](https://www.msra.cn/zh-cn/news/features/swin-transformer-v2)
 
-   王兴：美团每送一单外卖亏 1 元；字节跳动曝公司使命：激发创造，丰富生活；苹果 CEO 库克将出席奥斯卡颁奖礼 \| 极客早知道 [read](http://www.geekpark.net/news/300175)
+   佳明 Venu 2 Plus 体验：也许是最专业的电话手表 [read](http://www.geekpark.net/news/299977)
 
-   Redmi K40S 上手：配置提升价格不变，性价比很高的骁龙 870 手机 [read](http://www.geekpark.net/news/300088)
+   极客荐｜315 之后，如何在电脑上正确下载软件？ [read](http://www.geekpark.net/news/300176)
 
-   魅族和它的暧昧对象们 [read](http://www.geekpark.net/news/300049)
+   极客简报｜俄罗斯手机转用鸿蒙；MacBook Air 全员齐刘海；大疆被动成为「军火商」 [read](http://www.geekpark.net/news/300180)
 
 ### 金融类
 
-   分红模范生中国神华2021年报简评 [read](http://xueqiu.com/2443086428/215258680)
+   赵诣离职，意外发现一个五年收益更高的熟面孔 [read](http://xueqiu.com/3559889031/215294223)
 
-   化石能源价格上涨将持续推高新能源的竞争力 [read](http://xueqiu.com/9744600357/215242339)
+   解读腾讯2021年财报 [read](http://xueqiu.com/1818877481/215320045)
 
-   一文说清价值投资和趋势投资的区别 [read](http://xueqiu.com/2160821493/215276625)
+   中免讨论与反思 [read](http://xueqiu.com/4933345182/215321925)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Fantastic places and Where to Find Them [read](https://www.behance.net/gallery/140225849/Fantastic-places-and-Where-to-Find-Them)
+   CHOGS. Chocolate buzz. Packaging design. [read](https://www.behance.net/gallery/127230035/CHOGS-Chocolate-buzz-Packaging-design)
 
-   Slow Studio Identity [read](https://www.behance.net/gallery/137683847/Slow-Studio-Identity)
+   Revue Court Circuit [read](https://www.behance.net/gallery/140174457/Revue-Court-Circuit)
 
-   Once In A While MiNFT ? 08 [read](https://www.behance.net/gallery/137729193/Once-In-A-While-MiNFT-08)
+   EXPLORE METAVERSE [read](https://www.behance.net/gallery/140230831/EXPLORE-METAVERSE)
 
    Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest’s Support for Ukraine [read](https://newsroom.pinterest.com/en/post/pinterests-support-for-ukraine)
 
-   学会这3个方面，帮你提高CTA按钮的点击率 [read](https://www.uisdc.com/cta-button-ctr)
+   8000字干货！如何做好印尼本地化产品的用户体验设计（一） [read](https://www.uisdc.com/indonesia-user-experience-design)
 
-   用超多案例，帮你掌握尼尔森十大可用性原则 [read](https://www.uisdc.com/nielsen-design-principles-4)
+   用超多案例，帮你掌握PC端的弹窗设计（中） [read](https://www.uisdc.com/popup-design-2)
 
-   如何构建一套 B 端栅格体系？我总结了五个方面！ [read](https://www.uisdc.com/build-b-end-grid-system)
+   海报版式太单调？用好这个元素提升99%（附素材下载） [read](https://www.uisdc.com/thin-cursive)
 
    微前端框架核心技术揭秘 [read](https://cdc.tencent.com/2022/02/22/micro-frontend-framework/)
 
