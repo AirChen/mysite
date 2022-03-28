@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.TeatroAntico_EN-US9864647927_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Kawachi_EN-US0111381625_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   80%的国产汽车品牌，都得“凉” [read](http://www.huxiu.com/article/516187.html?f=wangzhan)
+   初代男团翻红记：想要火，得演戏 [read](http://www.huxiu.com/article/516801.html?f=wangzhan)
 
-   ​500亿美金“包养”韩剧 [read](http://www.huxiu.com/article/516079.html?f=wangzhan)
+   亲爱的消费创业者，请认清现实 [read](http://www.huxiu.com/article/516945.html?f=wangzhan)
 
-   试驾“领克 02 Hatchback T4”，还是“小钢炮”吗？ [read](http://www.huxiu.com/article/515262.html?f=wangzhan)
+   我照葫芦画瓢做了一套NFT，能发财吗？ [read](http://www.huxiu.com/article/516938.html?f=wangzhan)
 
-   医疗健康行业周报 \| 2022中国居民健康消费指数发布；「牙领科技」获近亿元B轮融资 [read](https://36kr.com/p/1672658187280386)
+   Babycare创始人：有价值观的企业才有价值 [read](https://36kr.com/p/1674318795284487)
 
-   高榕资本创始合伙人岳斌：科技创业是一场十项全能竞争 ｜「X·36Under36」专家访谈⑤ [read](https://36kr.com/p/1671580291407620)
+   PropTech周刊｜贝壳回应新一轮组织优化、非洲版「阿里菜鸟」获200万美元A轮融资、4月1日起建筑强制计算碳排放 [read](https://36kr.com/p/1674285582196487)
 
-   本周国内融资金额超66.4亿元人民币，过亿元融资交易达21笔 \| TOB投融资周报0318-0324 [read](https://36kr.com/p/1670372825391110)
+   氪星晚报｜特斯拉上海工厂再次停产；华为回应俄公司测试鸿蒙系统；苹果或将在今年秋季推出配备M2芯片的iPad Pro [read](https://36kr.com/p/1674272092725252)
 
    语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    Swin Transformer迎来30亿参数的v2.0，我们应该拥抱视觉大模型吗？ [read](https://www.msra.cn/zh-cn/news/features/swin-transformer-v2)
 
+   巨头「垄断」算法的时代，结束了？ [read](http://www.geekpark.net/news/300242)
+
+   马斯克：将「个人意识」复制到特斯拉机器人；SHEIN 成全球下载最多购物 APP；微软 Xbox 成立「云游戏」部门 [read](http://www.geekpark.net/news/300182)
+
    佳明 Venu 2 Plus 体验：也许是最专业的电话手表 [read](http://www.geekpark.net/news/299977)
-
-   极客荐｜315 之后，如何在电脑上正确下载软件？ [read](http://www.geekpark.net/news/300176)
-
-   极客简报｜俄罗斯手机转用鸿蒙；MacBook Air 全员齐刘海；大疆被动成为「军火商」 [read](http://www.geekpark.net/news/300180)
 
 ### 金融类
 
-   赵诣离职，意外发现一个五年收益更高的熟面孔 [read](http://xueqiu.com/3559889031/215294223)
+   想要年化收益率超过20%的长牛基金吗？ [read](http://xueqiu.com/9896517675/215343255)
 
-   解读腾讯2021年财报 [read](http://xueqiu.com/1818877481/215320045)
+   中国建材2021年报点评 [read](http://xueqiu.com/3714977098/215426782)
 
-   中免讨论与反思 [read](http://xueqiu.com/4933345182/215321925)
+   真心看好现在的市场，咬咬牙再坚持一下 [read](http://xueqiu.com/8178889628/215433242)
 
 ### 学习类
 
@@ -128,17 +128,17 @@ title: "今日资讯"
 
 ### 设计类
 
-   CHOGS. Chocolate buzz. Packaging design. [read](https://www.behance.net/gallery/127230035/CHOGS-Chocolate-buzz-Packaging-design)
+   ???? The Little Beast World [read](https://www.behance.net/gallery/134405749/-The-Little-Beast-World)
 
-   Revue Court Circuit [read](https://www.behance.net/gallery/140174457/Revue-Court-Circuit)
+   SPOTIFY: THE BRIDGE [read](https://www.behance.net/gallery/140415559/SPOTIFY-THE-BRIDGE)
 
-   EXPLORE METAVERSE [read](https://www.behance.net/gallery/140230831/EXPLORE-METAVERSE)
+   Electric Honey [read](https://www.behance.net/gallery/139757741/Electric-Honey)
+
+   Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
 
    Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
    Drawing History with Wiki Unseen [read](https://medium.com/behance-blog/drawing-history-with-wiki-unseen-5b8e35bfd8a3?source=rss-f5272b7f3182------2)
-
-   Meet This Month’s Guest Curator: Huston Wilson [read](https://medium.com/behance-blog/meet-this-months-guest-curator-huston-wilson-313b75929ab3?source=rss-f5272b7f3182------2)
 
    Pinterest now lets you share Idea Pins [read](https://newsroom.pinterest.com/en/post/idea-pin-sharing-available)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest’s Support for Ukraine [read](https://newsroom.pinterest.com/en/post/pinterests-support-for-ukraine)
 
-   8000字干货！如何做好印尼本地化产品的用户体验设计（一） [read](https://www.uisdc.com/indonesia-user-experience-design)
+   想做B端还不懂什么是SAAS？一篇最专业的扫盲科普（上） [read](https://www.uisdc.com/saas)
 
-   用超多案例，帮你掌握PC端的弹窗设计（中） [read](https://www.uisdc.com/popup-design-2)
+   最全面评测！这款完成度超高的神器如何征服一个设计团队? [read](https://www.uisdc.com/jishi-design-5)
 
-   海报版式太单调？用好这个元素提升99%（附素材下载） [read](https://www.uisdc.com/thin-cursive)
+   创意满满！超7000张海报的灵感网站Typo/graphic Posters [read](https://www.uisdc.com/typo-graphic-posters)
 
    微前端框架核心技术揭秘 [read](https://cdc.tencent.com/2022/02/22/micro-frontend-framework/)
 
