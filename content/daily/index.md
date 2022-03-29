@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Kawachi_EN-US0111381625_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Buritaca_EN-US0256425153_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -10,11 +10,11 @@ title: "今日资讯"
 
    科技爱好者周刊（第 199 期）：俄罗斯的 HTTPS 证书问题 [read](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html)
 
+   全民大规模新冠检测方案的一些想法 [read](https://blog.codingnow.com/2022/03/covid19_testing.html)
+
    层次组件的问题 [read](https://blog.codingnow.com/2022/03/multiple_components.html)
 
    effekseer 的 shader 转译 [read](https://blog.codingnow.com/2022/03/effekseer_shader.html)
-
-   ECS 中的对象引用 [read](https://blog.codingnow.com/2022/02/ecs_entity_reference.html)
 
    一个付费 chrome 插件的一生 [read](https://blog.t9t.io/star-history-2021-01-21/)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   初代男团翻红记：想要火，得演戏 [read](http://www.huxiu.com/article/516801.html?f=wangzhan)
+   美国FTC诉Facebook案对我国反垄断的启示 [read](http://www.huxiu.com/article/517585.html?f=wangzhan)
 
-   亲爱的消费创业者，请认清现实 [read](http://www.huxiu.com/article/516945.html?f=wangzhan)
+   奥斯卡的“妥协”与“傲慢” [read](http://www.huxiu.com/article/517657.html?f=wangzhan)
 
-   我照葫芦画瓢做了一套NFT，能发财吗？ [read](http://www.huxiu.com/article/516938.html?f=wangzhan)
+   小鹏隔空超越特斯拉 [read](http://www.huxiu.com/article/516568.html?f=wangzhan)
 
-   Babycare创始人：有价值观的企业才有价值 [read](https://36kr.com/p/1674318795284487)
+   碧桂园服务：今年并购将靠自身现金流 金额规划会减少 [read](https://36kr.com/p/1675723823603719)
 
-   PropTech周刊｜贝壳回应新一轮组织优化、非洲版「阿里菜鸟」获200万美元A轮融资、4月1日起建筑强制计算碳排放 [read](https://36kr.com/p/1674285582196487)
+   氪星晚报｜NASA：美国计划2040年将人类送上火星；豆瓣私密小组将停用；特斯拉计划在德州超级工厂进行Megapacks巨型电池储能系统项目 [read](https://36kr.com/p/1675620894777089)
 
-   氪星晚报｜特斯拉上海工厂再次停产；华为回应俄公司测试鸿蒙系统；苹果或将在今年秋季推出配备M2芯片的iPad Pro [read](https://36kr.com/p/1674272092725252)
+   显示面板十字路口，谁能跑赢周期性？丨氪金 · 高端制造 [read](https://36kr.com/p/1675581137444616)
 
    语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    Swin Transformer迎来30亿参数的v2.0，我们应该拥抱视觉大模型吗？ [read](https://www.msra.cn/zh-cn/news/features/swin-transformer-v2)
 
-   巨头「垄断」算法的时代，结束了？ [read](http://www.geekpark.net/news/300242)
+   你呼出的 CO₂，他们想把它变成「汽油」 [read](http://www.geekpark.net/news/300202)
 
-   马斯克：将「个人意识」复制到特斯拉机器人；SHEIN 成全球下载最多购物 APP；微软 Xbox 成立「云游戏」部门 [read](http://www.geekpark.net/news/300182)
+   轮胎，电动车下一个「颠覆」目标 [read](http://www.geekpark.net/news/300248)
 
-   佳明 Venu 2 Plus 体验：也许是最专业的电话手表 [read](http://www.geekpark.net/news/299977)
+   华为去年营收 6368 亿，净利超千亿；马斯克再次感染新冠；苹果发行电影获奥斯卡最佳影片奖｜极客早知道 [read](http://www.geekpark.net/news/300245)
 
 ### 金融类
 
-   想要年化收益率超过20%的长牛基金吗？ [read](http://xueqiu.com/9896517675/215343255)
+   金茂年报——令人失望的管理层 [read](http://xueqiu.com/4364582897/215579276)
 
-   中国建材2021年报点评 [read](http://xueqiu.com/3714977098/215426782)
+   评测袁维德的中欧价值智选 [read](http://xueqiu.com/1973975515/215583597)
 
-   真心看好现在的市场，咬咬牙再坚持一下 [read](http://xueqiu.com/8178889628/215433242)
+   中生代里，1位经得起对比的绩优基金经理 [read](http://xueqiu.com/2217395043/215569014)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   ???? The Little Beast World [read](https://www.behance.net/gallery/134405749/-The-Little-Beast-World)
+   Sociotype Journal Issue #1: The Gesture [read](https://www.behance.net/gallery/140453253/Sociotype-Journal-Issue-1-The-Gesture)
 
-   SPOTIFY: THE BRIDGE [read](https://www.behance.net/gallery/140415559/SPOTIFY-THE-BRIDGE)
+   NOVA 9 Illustration Project [read](https://www.behance.net/gallery/140449037/NOVA-9-Illustration-Project)
 
-   Electric Honey [read](https://www.behance.net/gallery/139757741/Electric-Honey)
+   Telescope Films [read](https://www.behance.net/gallery/94165057/Telescope-Films)
 
    Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest’s Support for Ukraine [read](https://newsroom.pinterest.com/en/post/pinterests-support-for-ukraine)
 
-   想做B端还不懂什么是SAAS？一篇最专业的扫盲科普（上） [read](https://www.uisdc.com/saas)
+   Tabs标签页如何设计？我总结了这10个方法 [read](https://www.uisdc.com/how-to-use-tabs)
 
-   最全面评测！这款完成度超高的神器如何征服一个设计团队? [read](https://www.uisdc.com/jishi-design-5)
+   华为高薪招聘的「UX文案设计」，4个方面帮你掌握基础！ [read](https://www.uisdc.com/ux-copywriting)
 
-   创意满满！超7000张海报的灵感网站Typo/graphic Posters [read](https://www.uisdc.com/typo-graphic-posters)
+   文艺复古感拉满！设计师必备的5款免费打字机字体（附源文件下载） [read](https://www.uisdc.com/5-typewriter-font)
 
    微前端框架核心技术揭秘 [read](https://cdc.tencent.com/2022/02/22/micro-frontend-framework/)
 
