@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Buritaca_EN-US0256425153_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BeltedGalloway_EN-US0423647307_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -22,11 +22,11 @@ title: "今日资讯"
 
    让用户决定软件长什么样 [read](https://blog.t9t.io/let-user-design-2020-06-18/)
 
+   某一天，中国真会超过美国吗？ [read](https://www.kymjs.com/stickies/2022/03/30/01)
+
    自定义C/C++日志输出函数 [read](https://www.kymjs.com/code/2020/08/07/01)
 
    再聊 Git Flow [read](https://www.kymjs.com/manager/2020/05/29/01)
-
-   Flutter 设置控件是否可见 [read](https://www.kymjs.com/note/2020/03/19/01)
 
 ### IT团队博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]字节客增慢 SQL 治理体系 [read](https://blog.csdn.net/ByteDanceTech/article/details/123861443)
+
    \[原\]抖音 Android 性能优化系列：启动优化实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/123748980)
 
    \[原\]一次关于架构的“嘴炮” [read](https://blog.csdn.net/ByteDanceTech/article/details/123700599)
-
-   \[原\]Android 系统 Bar 沉浸式完美兼容方案 [read](https://blog.csdn.net/ByteDanceTech/article/details/123540429)
 
    NeurIPS 2021 ｜ Twins：重新思考高效的视觉注意力模型设计 [read](https://tech.meituan.com/2022/03/24/twins-revisiting-the-design-of-spatial-attention-in-vision-transformers.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   美国FTC诉Facebook案对我国反垄断的启示 [read](http://www.huxiu.com/article/517585.html?f=wangzhan)
+   彩妆修复师：20块钱修复破损口红，并不为挣钱 [read](http://www.huxiu.com/article/518605.html?f=wangzhan)
 
-   奥斯卡的“妥协”与“傲慢” [read](http://www.huxiu.com/article/517657.html?f=wangzhan)
+   新能源涨价潮之下，有4S店一天卖出90多辆车 [read](http://www.huxiu.com/article/518304.html?f=wangzhan)
 
-   小鹏隔空超越特斯拉 [read](http://www.huxiu.com/article/516568.html?f=wangzhan)
+   英伟达开源软件，让人人都能做机器人 [read](http://www.huxiu.com/article/518285.html?f=wangzhan)
 
-   碧桂园服务：今年并购将靠自身现金流 金额规划会减少 [read](https://36kr.com/p/1675723823603719)
+   Figma断供之后，MasterGo国产设计软件共创计划来了 [read](https://36kr.com/p/1677267524445191)
 
-   氪星晚报｜NASA：美国计划2040年将人类送上火星；豆瓣私密小组将停用；特斯拉计划在德州超级工厂进行Megapacks巨型电池储能系统项目 [read](https://36kr.com/p/1675620894777089)
+   36氪推出「创投氪堂」，揭秘融资诀窍与创业不死法则 [read](https://36kr.com/p/1677051354260483)
 
-   显示面板十字路口，谁能跑赢周期性？丨氪金 · 高端制造 [read](https://36kr.com/p/1675581137444616)
+   氪星晚报｜阿里系、腾讯系互通新进展，淘宝App内测微信支付；阿里投资亿可能源，后者经营范围含碳减排等技术研发；央视时隔2年再次复播NBA [read](https://36kr.com/p/1677078423741442)
 
    语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    Swin Transformer迎来30亿参数的v2.0，我们应该拥抱视觉大模型吗？ [read](https://www.msra.cn/zh-cn/news/features/swin-transformer-v2)
 
-   你呼出的 CO₂，他们想把它变成「汽油」 [read](http://www.geekpark.net/news/300202)
+   黑鲨 5 Pro 评测：能够胜任主力机的游戏手机 [read](http://www.geekpark.net/news/300362)
 
-   轮胎，电动车下一个「颠覆」目标 [read](http://www.geekpark.net/news/300248)
+   中概股治好了这届年轻人的「暴富梦」 [read](http://www.geekpark.net/news/300365)
 
-   华为去年营收 6368 亿，净利超千亿；马斯克再次感染新冠；苹果发行电影获奥斯卡最佳影片奖｜极客早知道 [read](http://www.geekpark.net/news/300245)
+   像「发微博」一样做游戏，低代码如何颠覆游戏产业 [read](http://www.geekpark.net/news/300299)
 
 ### 金融类
 
-   金茂年报——令人失望的管理层 [read](http://xueqiu.com/4364582897/215579276)
+   我最想买入的3只股票 [read](http://xueqiu.com/7516820417/215695214)
 
-   评测袁维德的中欧价值智选 [read](http://xueqiu.com/1973975515/215583597)
+   私募基金小传——CTA匠人博孚利 [read](http://xueqiu.com/6157396674/215612537)
 
-   中生代里，1位经得起对比的绩优基金经理 [read](http://xueqiu.com/2217395043/215569014)
+   机构喜欢的中生代基金经理（固收+篇） [read](http://xueqiu.com/5679199459/215608640)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Sociotype Journal Issue #1: The Gesture [read](https://www.behance.net/gallery/140453253/Sociotype-Journal-Issue-1-The-Gesture)
+   CAMOUFLAGE ART. NGHE THUAT NGUY TRANG [read](https://www.behance.net/gallery/140526433/CAMOUFLAGE-ART-NGHE-THUAT-NGUY-TRANG)
 
-   NOVA 9 Illustration Project [read](https://www.behance.net/gallery/140449037/NOVA-9-Illustration-Project)
+   Gaia [read](https://www.behance.net/gallery/111201305/Gaia)
 
-   Telescope Films [read](https://www.behance.net/gallery/94165057/Telescope-Films)
+   Sculptures - An Exploration [read](https://www.behance.net/gallery/140490537/Sculptures-An-Exploration)
 
    Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
 
@@ -140,17 +140,17 @@ title: "今日资讯"
 
    Drawing History with Wiki Unseen [read](https://medium.com/behance-blog/drawing-history-with-wiki-unseen-5b8e35bfd8a3?source=rss-f5272b7f3182------2)
 
+   Pinners are turning to Pinterest for period proud inspiration [read](https://newsroom.pinterest.com/en/post/pinners-are-turning-to-pinterest-for-period-proud-inspiration)
+
    Pinterest now lets you share Idea Pins [read](https://newsroom.pinterest.com/en/post/idea-pin-sharing-available)
 
    Pinterest hosted second annual global ads summit, Pinterest Presents [read](https://newsroom.pinterest.com/en/post/pinterest-hosted-second-annual-global-ads-summit-pinterest-presents)
 
-   Pinterest’s Support for Ukraine [read](https://newsroom.pinterest.com/en/post/pinterests-support-for-ukraine)
+   6500字干货！出海产品设计之多语言设计指南 [read](https://www.uisdc.com/multi-language-design-guide)
 
-   Tabs标签页如何设计？我总结了这10个方法 [read](https://www.uisdc.com/how-to-use-tabs)
+   为什么做的界面和原型一样，总监却说不过关？ [read](https://www.uisdc.com/interface-design)
 
-   华为高薪招聘的「UX文案设计」，4个方面帮你掌握基础！ [read](https://www.uisdc.com/ux-copywriting)
-
-   文艺复古感拉满！设计师必备的5款免费打字机字体（附源文件下载） [read](https://www.uisdc.com/5-typewriter-font)
+   斩获多项大奖！每一幅画都能让人思考的社论插画师 Davide Bonazzi [read](https://www.uisdc.com/davide-bonazzi)
 
    微前端框架核心技术揭秘 [read](https://cdc.tencent.com/2022/02/22/micro-frontend-framework/)
 
