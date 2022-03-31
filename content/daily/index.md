@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BeltedGalloway_EN-US0423647307_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AnniEiffel_EN-US0532501564_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,51 +68,51 @@ title: "今日资讯"
 
 ### 互联网类
 
-   彩妆修复师：20块钱修复破损口红，并不为挣钱 [read](http://www.huxiu.com/article/518605.html?f=wangzhan)
+   娱乐圈“塌”掉的饼，体育明星接得住吗？ [read](http://www.huxiu.com/article/519359.html?f=wangzhan)
 
-   新能源涨价潮之下，有4S店一天卖出90多辆车 [read](http://www.huxiu.com/article/518304.html?f=wangzhan)
+   中国云计算战争，外资云落寞简史 [read](http://www.huxiu.com/article/519104.html?f=wangzhan)
 
-   英伟达开源软件，让人人都能做机器人 [read](http://www.huxiu.com/article/518285.html?f=wangzhan)
+   英伟达用人工智能，干掉翻译 [read](http://www.huxiu.com/article/518224.html?f=wangzhan)
 
-   Figma断供之后，MasterGo国产设计软件共创计划来了 [read](https://36kr.com/p/1677267524445191)
+   8款产品入选，2022春季「焦点」产品计划重磅发布 [read](https://36kr.com/p/1678382701651207)
 
-   36氪推出「创投氪堂」，揭秘融资诀窍与创业不死法则 [read](https://36kr.com/p/1677051354260483)
+   北交所观察 \| 锦好医疗上市的背后：是银发经济崛起，还是国产化浪潮已至？ [read](https://36kr.com/p/1678173778879497)
 
-   氪星晚报｜阿里系、腾讯系互通新进展，淘宝App内测微信支付；阿里投资亿可能源，后者经营范围含碳减排等技术研发；央视时隔2年再次复播NBA [read](https://36kr.com/p/1677078423741442)
+   英国的B面：包容文化孕育绝佳商业环境与发达的科技 [read](https://36kr.com/p/1677077413422083)
+
+   如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
    语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
 
    微软发布量子计算最新成果，证实拓扑量子比特的物理机理 [read](https://www.msra.cn/zh-cn/news/features/azure-quantum)
 
-   Swin Transformer迎来30亿参数的v2.0，我们应该拥抱视觉大模型吗？ [read](https://www.msra.cn/zh-cn/news/features/swin-transformer-v2)
+   我们对软件创新的理解，不应止步于「国产替代」 [read](http://www.geekpark.net/news/300442)
 
-   黑鲨 5 Pro 评测：能够胜任主力机的游戏手机 [read](http://www.geekpark.net/news/300362)
+   快手选择「不躺平」 [read](http://www.geekpark.net/news/300389)
 
-   中概股治好了这届年轻人的「暴富梦」 [read](http://www.geekpark.net/news/300365)
-
-   像「发微博」一样做游戏，低代码如何颠覆游戏产业 [read](http://www.geekpark.net/news/300299)
+   马斯克：特斯拉让工人成为百万富翁；英特尔时隔 24 年再发独立显卡锐炫 A 系列；豆瓣告微博抄袭小组名，索赔 1 元｜极客早知道 [read](http://www.geekpark.net/news/300369)
 
 ### 金融类
 
-   我最想买入的3只股票 [read](http://xueqiu.com/7516820417/215695214)
+   万总，你太过了！对于海控，我是有很特殊的感情的！ [read](http://xueqiu.com/6395425170/215857050)
 
-   私募基金小传——CTA匠人博孚利 [read](http://xueqiu.com/6157396674/215612537)
+   东阿阿胶——过去、现在和未来 [read](http://xueqiu.com/2896590059/215838076)
 
-   机构喜欢的中生代基金经理（固收+篇） [read](http://xueqiu.com/5679199459/215608640)
+   中远海控2021年年报上证路演提问要点 [read](http://xueqiu.com/3687992824/215825796)
 
 ### 学习类
+
+   💻 Issue 301 - C Isn't A Programming Language Anymore - Faultlore [read](https://rust.libhunt.com/newsletter/301)
 
    💻 Issue 300 - Language details of the Firefox repo: Rust is now 10% of Firefox [read](https://rust.libhunt.com/newsletter/300)
 
    💻 Issue 299 - Announcing rulex, a new regular expression language [read](https://rust.libhunt.com/newsletter/299)
 
-   💻 Issue 298 - Security advisory for the regex crate (CVE-2022-24713) \| Rust Blog [read](https://rust.libhunt.com/newsletter/298)
+   This Week in Rust 436 [read](https://this-week-in-rust.org/blog/2022/03/30/this-week-in-rust-436/)
 
    This Week in Rust 435 [read](https://this-week-in-rust.org/blog/2022/03/23/this-week-in-rust-435/)
 
    This Week in Rust 434 [read](https://this-week-in-rust.org/blog/2022/03/16/this-week-in-rust-434/)
-
-   This Week in Rust 433 [read](https://this-week-in-rust.org/blog/2022/03/09/this-week-in-rust-433/)
 
    “一把梭：REST API 全用 POST” [read](https://coolshell.cn/articles/22173.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   CAMOUFLAGE ART. NGHE THUAT NGUY TRANG [read](https://www.behance.net/gallery/140526433/CAMOUFLAGE-ART-NGHE-THUAT-NGUY-TRANG)
+   Miscellaneous Illustrations 2021-2022 [read](https://www.behance.net/gallery/132138993/Miscellaneous-Illustrations-2021-2022)
 
-   Gaia [read](https://www.behance.net/gallery/111201305/Gaia)
+   Bizzabo [read](https://www.behance.net/gallery/128966215/Bizzabo)
 
-   Sculptures - An Exploration [read](https://www.behance.net/gallery/140490537/Sculptures-An-Exploration)
+   2022 illustrations v1 [read](https://www.behance.net/gallery/140588523/2022-illustrations-v1)
 
    Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
 
@@ -140,17 +140,17 @@ title: "今日资讯"
 
    Drawing History with Wiki Unseen [read](https://medium.com/behance-blog/drawing-history-with-wiki-unseen-5b8e35bfd8a3?source=rss-f5272b7f3182------2)
 
+   Shining a light on our transgender Pinners [read](https://newsroom.pinterest.com/en/shining-a-light-on-our-transgender-pinners)
+
    Pinners are turning to Pinterest for period proud inspiration [read](https://newsroom.pinterest.com/en/post/pinners-are-turning-to-pinterest-for-period-proud-inspiration)
 
    Pinterest now lets you share Idea Pins [read](https://newsroom.pinterest.com/en/post/idea-pin-sharing-available)
 
-   Pinterest hosted second annual global ads summit, Pinterest Presents [read](https://newsroom.pinterest.com/en/post/pinterest-hosted-second-annual-global-ads-summit-pinterest-presents)
+   对话视杏科技创始人，探索视频制作发展趋势 [read](https://www.uisdc.com/development-of-video-2022)
 
    6500字干货！出海产品设计之多语言设计指南 [read](https://www.uisdc.com/multi-language-design-guide)
 
    为什么做的界面和原型一样，总监却说不过关？ [read](https://www.uisdc.com/interface-design)
-
-   斩获多项大奖！每一幅画都能让人思考的社论插画师 Davide Bonazzi [read](https://www.uisdc.com/davide-bonazzi)
 
    微前端框架核心技术揭秘 [read](https://cdc.tencent.com/2022/02/22/micro-frontend-framework/)
 
