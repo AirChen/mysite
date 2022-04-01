@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AnniEiffel_EN-US0532501564_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FloatingPyramid_EN-US0665970384_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 200 期）：低期望，多尝试 [read](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-200.html)
+   科技爱好者周刊（第 201 期）：中国需要成立半导体部 [read](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-201.html)
 
-   科技爱好者周刊（第 199 期）：俄罗斯的 HTTPS 证书问题 [read](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html)
+   科技爱好者周刊（第 200 期）：低期望，多尝试 [read](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-200.html)
 
    全民大规模新冠检测方案的一些想法 [read](https://blog.codingnow.com/2022/03/covid19_testing.html)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 441 期 [read](https://weekly.75.team/issue441.html)
+
    奇舞周刊第 440 期 [read](https://weekly.75.team/issue440.html)
 
    奇舞周刊第 439 期 [read](https://weekly.75.team/issue439.html)
-
-   奇舞周刊第 438 期 [read](https://weekly.75.team/issue438.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -68,37 +68,37 @@ title: "今日资讯"
 
 ### 互联网类
 
-   娱乐圈“塌”掉的饼，体育明星接得住吗？ [read](http://www.huxiu.com/article/519359.html?f=wangzhan)
+   困在停车场的自动驾驶 [read](http://www.huxiu.com/article/520425.html?f=wangzhan)
 
-   中国云计算战争，外资云落寞简史 [read](http://www.huxiu.com/article/519104.html?f=wangzhan)
+   面对抑郁症：以耐心治愈，用倾听陪伴 [read](http://www.huxiu.com/article/520154.html?f=wangzhan)
 
-   英伟达用人工智能，干掉翻译 [read](http://www.huxiu.com/article/518224.html?f=wangzhan)
+   20个独居女孩的隔离食谱：我们仍要好好生活 [read](http://www.huxiu.com/article/520294.html?f=wangzhan)
 
-   8款产品入选，2022春季「焦点」产品计划重磅发布 [read](https://36kr.com/p/1678382701651207)
+   净利润大跌 万科是否需要「战略性亏损」？ [read](https://36kr.com/p/1680245503665161)
 
-   北交所观察 \| 锦好医疗上市的背后：是银发经济崛起，还是国产化浪潮已至？ [read](https://36kr.com/p/1678173778879497)
+   「20融创01」新展期方案通过：缩短偿付周期 追加资产增信 [read](https://36kr.com/p/1680079588812039)
 
-   英国的B面：包容文化孕育绝佳商业环境与发达的科技 [read](https://36kr.com/p/1677077413422083)
+   金融行业取代互联网 成为北京写字楼「最大租户」 [read](https://36kr.com/p/1680014582031362)
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
+   如何将学术经历整合为求职简历？CS求职必备的5个小技巧 [read](https://www.msra.cn/zh-cn/news/features/five-ways-your-academic-research-skills-transfer-to-industry)
+
    语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
 
-   微软发布量子计算最新成果，证实拓扑量子比特的物理机理 [read](https://www.msra.cn/zh-cn/news/features/azure-quantum)
+   愚 人 节 特 辑：这些东西我们居然有点想要 [read](http://www.geekpark.net/news/300500)
 
-   我们对软件创新的理解，不应止步于「国产替代」 [read](http://www.geekpark.net/news/300442)
+   黑鲨 5 中国航天版图赏：开机动画美哭了！ [read](http://www.geekpark.net/news/300435)
 
-   快手选择「不躺平」 [read](http://www.geekpark.net/news/300389)
-
-   马斯克：特斯拉让工人成为百万富翁；英特尔时隔 24 年再发独立显卡锐炫 A 系列；豆瓣告微博抄袭小组名，索赔 1 元｜极客早知道 [read](http://www.geekpark.net/news/300369)
+   折叠屏手机之局：要从更新，到更好 [read](http://www.geekpark.net/news/300436)
 
 ### 金融类
 
-   万总，你太过了！对于海控，我是有很特殊的感情的！ [read](http://xueqiu.com/6395425170/215857050)
+   在雪球，怎样做会更受欢迎？ [read](http://xueqiu.com/4226803442/215912085)
 
-   东阿阿胶——过去、现在和未来 [read](http://xueqiu.com/2896590059/215838076)
+   万科“第三次”穿越周期 [read](http://xueqiu.com/1494569058/215968483)
 
-   中远海控2021年年报上证路演提问要点 [read](http://xueqiu.com/3687992824/215825796)
+   读富国天惠年报，与A股股神朱少醒对话！ [read](http://xueqiu.com/1632743930/215971178)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Miscellaneous Illustrations 2021-2022 [read](https://www.behance.net/gallery/132138993/Miscellaneous-Illustrations-2021-2022)
+   Chaser [read](https://www.behance.net/gallery/140597713/Chaser)
 
-   Bizzabo [read](https://www.behance.net/gallery/128966215/Bizzabo)
+   Magical Spring Part 1 [read](https://www.behance.net/gallery/140620637/Magical-Spring-Part-1)
 
-   2022 illustrations v1 [read](https://www.behance.net/gallery/140588523/2022-illustrations-v1)
+   40th GMK Festival Identity [read](https://www.behance.net/gallery/130967593/40th-GMK-Festival-Identity)
 
    Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest now lets you share Idea Pins [read](https://newsroom.pinterest.com/en/post/idea-pin-sharing-available)
 
-   对话视杏科技创始人，探索视频制作发展趋势 [read](https://www.uisdc.com/development-of-video-2022)
+   肯德基疯狂星期四！开放高清免费素材给盗图商家？ [read](https://www.uisdc.com/kfc-gallery)
 
-   6500字干货！出海产品设计之多语言设计指南 [read](https://www.uisdc.com/multi-language-design-guide)
+   研究微软 Fluent 图标规范后，我总结了这9个知识点！ [read](https://www.uisdc.com/microsoft-fluent-icon-norms)
 
-   为什么做的界面和原型一样，总监却说不过关？ [read](https://www.uisdc.com/interface-design)
+   金三银四，送你一份设计师面试通用问答全攻略 [read](https://www.uisdc.com/interview-process)
 
    微前端框架核心技术揭秘 [read](https://cdc.tencent.com/2022/02/22/micro-frontend-framework/)
 
