@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FloatingPyramid_EN-US0665970384_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WhangareiFalls_EN-US0789271044_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]春节钱包大流量奖励系统入账及展示的设计与实现 [read](https://blog.csdn.net/ByteDanceTech/article/details/123911428)
+
    \[原\]字节客增慢 SQL 治理体系 [read](https://blog.csdn.net/ByteDanceTech/article/details/123861443)
 
    \[原\]抖音 Android 性能优化系列：启动优化实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/123748980)
-
-   \[原\]一次关于架构的“嘴炮” [read](https://blog.csdn.net/ByteDanceTech/article/details/123700599)
 
    NeurIPS 2021 ｜ Twins：重新思考高效的视觉注意力模型设计 [read](https://tech.meituan.com/2022/03/24/twins-revisiting-the-design-of-spatial-attention-in-vision-transformers.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   困在停车场的自动驾驶 [read](http://www.huxiu.com/article/520425.html?f=wangzhan)
+   比亚迪如何卖到100万？ [read](http://www.huxiu.com/article/519155.html?f=wangzhan)
 
-   面对抑郁症：以耐心治愈，用倾听陪伴 [read](http://www.huxiu.com/article/520154.html?f=wangzhan)
+   美元基金不愿“谢幕” [read](http://www.huxiu.com/article/520928.html?f=wangzhan)
 
-   20个独居女孩的隔离食谱：我们仍要好好生活 [read](http://www.huxiu.com/article/520294.html?f=wangzhan)
+   自闭症是一种怎样的病？ [read](http://www.huxiu.com/article/520792.html?f=wangzhan)
 
-   净利润大跌 万科是否需要「战略性亏损」？ [read](https://36kr.com/p/1680245503665161)
+   贝壳将目光看向租房 集中式公寓已落地上海 [read](https://36kr.com/p/1681397813575432)
 
-   「20融创01」新展期方案通过：缩短偿付周期 追加资产增信 [read](https://36kr.com/p/1680079588812039)
+   你最讨厌的微信阴阳怪气表情是什么？｜「微信社交法则」小调查 [read](https://36kr.com/p/1681318078217987)
 
-   金融行业取代互联网 成为北京写字楼「最大租户」 [read](https://36kr.com/p/1680014582031362)
+   最前线 \| 杜绝碳排放弄虚作假，生态环境部公布中碳能投等反面案例 [read](https://36kr.com/p/1679936971793417)
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
 
+   三位自闭症儿童家长的创业：1% 的悲剧、不甘心和小奇迹 [read](http://www.geekpark.net/news/300547)
+
+   孟晚舟成华为轮值董事长；苹果新专利：VR 中编辑 3D 文档；周杰伦：300 万 NFT 被盗，不是玩笑 [read](http://www.geekpark.net/news/300501)
+
    愚 人 节 特 辑：这些东西我们居然有点想要 [read](http://www.geekpark.net/news/300500)
-
-   黑鲨 5 中国航天版图赏：开机动画美哭了！ [read](http://www.geekpark.net/news/300435)
-
-   折叠屏手机之局：要从更新，到更好 [read](http://www.geekpark.net/news/300436)
 
 ### 金融类
 
-   在雪球，怎样做会更受欢迎？ [read](http://xueqiu.com/4226803442/215912085)
+   招行、兴业历史上的融资与分红数据对比 [read](http://xueqiu.com/8534614057/216032516)
 
-   万科“第三次”穿越周期 [read](http://xueqiu.com/1494569058/215968483)
+   穿透净值系列之15只新锐&中生代基金测评 [read](http://xueqiu.com/4778574435/216025926)
 
-   读富国天惠年报，与A股股神朱少醒对话！ [read](http://xueqiu.com/1632743930/215971178)
+   崔宸龙自购基金，前海开源公用事业能焕发新生吗？ [read](http://xueqiu.com/1632743930/216030493)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Chaser [read](https://www.behance.net/gallery/140597713/Chaser)
+   YooFamily Story Diary Illustration #02 [read](https://www.behance.net/gallery/140615015/YooFamily-Story-Diary-Illustration-02)
 
-   Magical Spring Part 1 [read](https://www.behance.net/gallery/140620637/Magical-Spring-Part-1)
+   Cina GEO Typeface Family [read](https://www.behance.net/gallery/140552787/Cina-GEO-Typeface-Family)
 
-   40th GMK Festival Identity [read](https://www.behance.net/gallery/130967593/40th-GMK-Festival-Identity)
+   Apollo 10?: A Space Age Childhood - Backgrounds [read](https://www.behance.net/gallery/140739607/Apollo-10-A-Space-Age-Childhood-Backgrounds)
 
    Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest now lets you share Idea Pins [read](https://newsroom.pinterest.com/en/post/idea-pin-sharing-available)
 
-   肯德基疯狂星期四！开放高清免费素材给盗图商家？ [read](https://www.uisdc.com/kfc-gallery)
+   虎牙直播背后的 AI 剪辑技术创新实践之路 [read](https://www.uisdc.com/ai-editing-2022)
 
-   研究微软 Fluent 图标规范后，我总结了这9个知识点！ [read](https://www.uisdc.com/microsoft-fluent-icon-norms)
+   顶级字体公司蒙纳出品！2022年10大字体设计趋势 [read](https://www.uisdc.com/monotype-trends-report-2022)
 
-   金三银四，送你一份设计师面试通用问答全攻略 [read](https://www.uisdc.com/interview-process)
+   B端设计指南：6800字干货帮你掌握快捷键设计 [read](https://www.uisdc.com/shortcut-keys-design)
 
    微前端框架核心技术揭秘 [read](https://cdc.tencent.com/2022/02/22/micro-frontend-framework/)
 
