@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WhangareiFalls_EN-US0789271044_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.TaihuCherry_EN-US0871129862_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   比亚迪如何卖到100万？ [read](http://www.huxiu.com/article/519155.html?f=wangzhan)
+   成功上市的快手，能否成功上岸？ [read](http://www.huxiu.com/article/521512.html?f=wangzhan)
 
-   美元基金不愿“谢幕” [read](http://www.huxiu.com/article/520928.html?f=wangzhan)
+   订单遭黄牛倒卖，新能源车加速洗牌？ [read](http://www.huxiu.com/article/521501.html?f=wangzhan)
 
-   自闭症是一种怎样的病？ [read](http://www.huxiu.com/article/520792.html?f=wangzhan)
+   “工业摇篮”大东北：曾经的辉煌与如今的落寞 [read](http://www.huxiu.com/article/521179.html?f=wangzhan)
 
-   贝壳将目光看向租房 集中式公寓已落地上海 [read](https://36kr.com/p/1681397813575432)
+   36碳周报 \| 高德地图在多地上线“绿色出行-碳普惠”平台；中汽协副秘书长：该杀杀锂的“妖价”；三安光电：2025年全球碳化硅将供不应求 [read](https://36kr.com/p/1682328416469124)
 
-   你最讨厌的微信阴阳怪气表情是什么？｜「微信社交法则」小调查 [read](https://36kr.com/p/1681318078217987)
+   本周国内融资金额超149.17亿元人民币，过亿元融资交易达39笔 \| TO B投融资周报0325-0331 [read](https://36kr.com/p/1680084237346054)
 
-   最前线 \| 杜绝碳排放弄虚作假，生态环境部公布中碳能投等反面案例 [read](https://36kr.com/p/1679936971793417)
+   贝壳将��光看向租房 集中式公寓已落地上海 [read](https://36kr.com/p/1681397813575432)
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
 
+   Windows 宣传误用 Mac 配图；华为分红：13 万持股员工人均超 46 万元；俄罗斯将暂停国际空间站合作 [read](http://www.geekpark.net/news/300552)
+
    三位自闭症儿童家长的创业：1% 的悲剧、不甘心和小奇迹 [read](http://www.geekpark.net/news/300547)
 
    孟晚舟成华为轮值董事长；苹果新专利：VR 中编辑 3D 文档；周杰伦：300 万 NFT 被盗，不是玩笑 [read](http://www.geekpark.net/news/300501)
 
-   愚 人 节 特 辑：这些东西我们居然有点想要 [read](http://www.geekpark.net/news/300500)
-
 ### 金融类
 
-   招行、兴业历史上的融资与分红数据对比 [read](http://xueqiu.com/8534614057/216032516)
+   市值前九银行：2021年报横向对比分析 [read](http://xueqiu.com/4794528905/216064480)
 
-   穿透净值系列之15只新锐&中生代基金测评 [read](http://xueqiu.com/4778574435/216025926)
+   稀土永磁深度研究系列31——中科三环2022年度业绩预测 [read](http://xueqiu.com/1359614781/216042523)
 
-   崔宸龙自购基金，前海开源公用事业能焕发新生吗？ [read](http://xueqiu.com/1632743930/216030493)
+   一个“不看估值”的投资方法 [read](http://xueqiu.com/9277793488/216069566)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   YooFamily Story Diary Illustration #02 [read](https://www.behance.net/gallery/140615015/YooFamily-Story-Diary-Illustration-02)
+   IFF - Branding &amp; Website [read](https://www.behance.net/gallery/133072659/IFF-Branding-Website)
 
-   Cina GEO Typeface Family [read](https://www.behance.net/gallery/140552787/Cina-GEO-Typeface-Family)
+   TAG HEUER - CONNECTED CALIBRE E4 [read](https://www.behance.net/gallery/140601715/TAG-HEUER-CONNECTED-CALIBRE-E4)
 
-   Apollo 10?: A Space Age Childhood - Backgrounds [read](https://www.behance.net/gallery/140739607/Apollo-10-A-Space-Age-Childhood-Backgrounds)
+   Bravo [read](https://www.behance.net/gallery/140699937/Bravo)
 
    Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest now lets you share Idea Pins [read](https://newsroom.pinterest.com/en/post/idea-pin-sharing-available)
 
-   虎牙直播背后的 AI 剪辑技术创新实践之路 [read](https://www.uisdc.com/ai-editing-2022)
+   Figma 断供之后？跟着大厂选工具！ [read](https://www.uisdc.com/mastergo-2022-2)
 
-   顶级字体公司蒙纳出品！2022年10大字体设计趋势 [read](https://www.uisdc.com/monotype-trends-report-2022)
+   欢迎成为沉浸式体验设计师（一）：为何 3D 将成为 UI/UX 的未来 [read](https://www.uisdc.com/immersive-experience-designer)
 
-   B端设计指南：6800字干货帮你掌握快捷键设计 [read](https://www.uisdc.com/shortcut-keys-design)
+   谨此纪念 Steve Wilhite：关于 GiF 和创始人你不知道的 9 件事 [read](https://www.uisdc.com/gif-history)
 
    微前端框架核心技术揭秘 [read](https://cdc.tencent.com/2022/02/22/micro-frontend-framework/)
 
