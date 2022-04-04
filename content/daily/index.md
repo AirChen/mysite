@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.TaihuCherry_EN-US0871129862_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.NorwayBoulder_EN-US1049217849_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   互联网通史：互联网泡沫、千年虫危机是什么？ [read](http://www.huxiu.com/article/521623.html?f=wangzhan)
+
+   得新冠让人变傻？新冠后遗症真有这么可怕吗？ [read](http://www.huxiu.com/article/521565.html?f=wangzhan)
+
    成功上市的快手，能否成功上岸？ [read](http://www.huxiu.com/article/521512.html?f=wangzhan)
 
-   订单遭黄牛倒卖，新能源车加速洗牌？ [read](http://www.huxiu.com/article/521501.html?f=wangzhan)
+   云上春茶卖爆背后，京东正在给出品质“最优解” [read](https://36kr.com/p/1684022812999433)
 
-   “工业摇篮”大东北：曾经的辉煌与如今的落寞 [read](http://www.huxiu.com/article/521179.html?f=wangzhan)
+   最前线 \| 比亚迪完全停售燃油车，专注开展新能源汽车业务 [read](https://36kr.com/p/1683756510756997)
 
-   36碳周报 \| 高德地图在多地上线“绿色出行-碳普惠”平台；中汽协副秘书长：该杀杀锂的“妖价”；三安光电：2025年全球碳化硅将供不应求 [read](https://36kr.com/p/1682328416469124)
-
-   本周国内融资金额超149.17亿元人民币，过亿元融资交易达39笔 \| TO B投融资周报0325-0331 [read](https://36kr.com/p/1680084237346054)
-
-   贝壳将��光看向租房 集中式公寓已落地上海 [read](https://36kr.com/p/1681397813575432)
+   焦点分析｜停产燃油车，比亚迪切断退路 [read](https://36kr.com/p/1683726358331143)
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
 
-   Windows 宣传误用 Mac 配图；华为分红：13 万持股员工人均超 46 万元；俄罗斯将暂停国际空间站合作 [read](http://www.geekpark.net/news/300552)
+   极讲究・三月好物名单：Brydge MAX+ 键盘、Mac Studio、华为 MatePad Paper、坦克 500、艾尔登法环 [read](http://www.geekpark.net/news/300515)
 
-   三位自闭症儿童家长的创业：1% 的悲剧、不甘心和小奇迹 [read](http://www.geekpark.net/news/300547)
+   极客简报｜苹果正研发 iPhone/iPad 混合体；蔚来手机没有未来；戴森重新定义两款产品 [read](http://www.geekpark.net/news/300553)
 
-   孟晚舟成华为轮值董事长；苹果新专利：VR 中编辑 3D 文档；周杰伦：300 万 NFT 被盗，不是玩笑 [read](http://www.geekpark.net/news/300501)
+   比亚迪：停止生产燃油车，专注电车和混动；2022 北京车展延期；美国加州 725 米深海现「草莓乌贼」｜极客早知道 [read](http://www.geekpark.net/news/300556)
 
 ### 金融类
 
-   市值前九银行：2021年报横向对比分析 [read](http://xueqiu.com/4794528905/216064480)
+   六大国有银行从分红角度选择谁？ [read](http://xueqiu.com/5725525083/216107720)
 
-   稀土永磁深度研究系列31——中科三环2022年度业绩预测 [read](http://xueqiu.com/1359614781/216042523)
+   港股底部已现 [read](http://xueqiu.com/7516820417/216101696)
 
-   一个“不看估值”的投资方法 [read](http://xueqiu.com/9277793488/216069566)
+   基金公司自己重仓的“固收+”基金，什么样？ [read](http://xueqiu.com/8554675668/216104799)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   IFF - Branding &amp; Website [read](https://www.behance.net/gallery/133072659/IFF-Branding-Website)
+   Illustration Collection 2021 [read](https://www.behance.net/gallery/140903407/Illustration-Collection-2021)
 
-   TAG HEUER - CONNECTED CALIBRE E4 [read](https://www.behance.net/gallery/140601715/TAG-HEUER-CONNECTED-CALIBRE-E4)
+   Innisfree Green Tea [read](https://www.behance.net/gallery/140860253/Innisfree-Green-Tea)
 
-   Bravo [read](https://www.behance.net/gallery/140699937/Bravo)
+   Nobu Bots [read](https://www.behance.net/gallery/140810093/Nobu-Bots)
 
    Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
 
@@ -140,17 +140,17 @@ title: "今日资讯"
 
    Drawing History with Wiki Unseen [read](https://medium.com/behance-blog/drawing-history-with-wiki-unseen-5b8e35bfd8a3?source=rss-f5272b7f3182------2)
 
+   Introducing PinFlex, an inspiring work model for our employees [read](https://newsroom.pinterest.com/en/post/introducing-pinflex-an-inspiring-work-model-for-our-employees)
+
+   Prom is Back and Pinterest Teamed Up with Actress Peyton List to Celebrate [read](https://newsroom.pinterest.com/en/post/pinterest_prom_week_2022)
+
    Shining a light on our transgender Pinners [read](https://newsroom.pinterest.com/en/shining-a-light-on-our-transgender-pinners)
 
-   Pinners are turning to Pinterest for period proud inspiration [read](https://newsroom.pinterest.com/en/post/pinners-are-turning-to-pinterest-for-period-proud-inspiration)
-
-   Pinterest now lets you share Idea Pins [read](https://newsroom.pinterest.com/en/post/idea-pin-sharing-available)
+   网格系统太难？试试这个新手也能掌握的简易版！ [read](https://www.uisdc.com/simple-grid-system)
 
    Figma 断供之后？跟着大厂选工具！ [read](https://www.uisdc.com/mastergo-2022-2)
 
-   欢迎成为沉浸式体验设计师（一）：为何 3D 将成为 UI/UX 的未来 [read](https://www.uisdc.com/immersive-experience-designer)
-
-   谨此纪念 Steve Wilhite：关于 GiF 和创始人你不知道的 9 件事 [read](https://www.uisdc.com/gif-history)
+   为何 3D 将成为 UI 的未来！如何成为沉浸式体验设计师（一） [read](https://www.uisdc.com/immersive-experience-designer)
 
    微前端框架核心技术揭秘 [read](https://cdc.tencent.com/2022/02/22/micro-frontend-framework/)
 
