@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.NorwayBoulder_EN-US1049217849_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Godafoss_EN-US1167261968_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   互联网通史：互联网泡沫、千年虫危机是什么？ [read](http://www.huxiu.com/article/521623.html?f=wangzhan)
+   推特需要马斯克 [read](http://www.huxiu.com/article/522609.html?f=wangzhan)
 
-   得新冠让人变傻？新冠后遗症真有这么可怕吗？ [read](http://www.huxiu.com/article/521565.html?f=wangzhan)
+   民用无人机参与俄乌冲突，意味着什么？ [read](http://www.huxiu.com/article/522065.html?f=wangzhan)
 
-   成功上市的快手，能否成功上岸？ [read](http://www.huxiu.com/article/521512.html?f=wangzhan)
+   怎样让你的对象主动减肥？ [read](http://www.huxiu.com/article/522231.html?f=wangzhan)
+
+   最前线 \| 郭明錤：苹果正测试9英寸OLED折叠屏 有望在2025年推出可折叠产品 [read](https://36kr.com/p/1685376637763332)
+
+   澄清“分道扬镳”传言：Doug Leone掌门人退休，沈南鹏继续担任红杉全球执行合伙人 [read](https://36kr.com/p/1685077355757696)
 
    云上春茶卖爆背后，京东正在给出品质“最优解” [read](https://36kr.com/p/1684022812999433)
-
-   最前线 \| 比亚迪完全停售燃油车，专注开展新能源汽车业务 [read](https://36kr.com/p/1683756510756997)
-
-   焦点分析｜停产燃油车，比亚迪切断退路 [read](https://36kr.com/p/1683726358331143)
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
 
+   马斯克成推特最大股东，后者股价大涨27%；鼓励返工，谷歌给员工发电动滑板车；华为成立 10 大「军团」 [read](http://www.geekpark.net/news/300557)
+
    极讲究・三月好物名单：Brydge MAX+ 键盘、Mac Studio、华为 MatePad Paper、坦克 500、艾尔登法环 [read](http://www.geekpark.net/news/300515)
 
    极客简报｜苹果正研发 iPhone/iPad 混合体；蔚来手机没有未来；戴森重新定义两款产品 [read](http://www.geekpark.net/news/300553)
 
-   比亚迪：停止生产燃油车，专注电车和混动；2022 北京车展延期；美国加州 725 米深海现「草莓乌贼」｜极客早知道 [read](http://www.geekpark.net/news/300556)
-
 ### 金融类
 
-   六大国有银行从分红角度选择谁？ [read](http://xueqiu.com/5725525083/216107720)
+   茅台2021年报印象：继续彰显“股王”风范 [read](http://xueqiu.com/3491303582/216107867)
 
-   港股底部已现 [read](http://xueqiu.com/7516820417/216101696)
+   盘点今年以来业绩比较好的百亿基金经理 [read](http://xueqiu.com/8554675668/216139120)
 
-   基金公司自己重仓的“固收+”基金，什么样？ [read](http://xueqiu.com/8554675668/216104799)
+   锂矿多空观点终极盘点与碰撞 [read](http://xueqiu.com/6498120968/216139964)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Illustration Collection 2021 [read](https://www.behance.net/gallery/140903407/Illustration-Collection-2021)
+   Nervous Rex [read](https://www.behance.net/gallery/140061007/Nervous-Rex)
 
-   Innisfree Green Tea [read](https://www.behance.net/gallery/140860253/Innisfree-Green-Tea)
+   chart project [read](https://www.behance.net/gallery/60884723/chart-project)
 
-   Nobu Bots [read](https://www.behance.net/gallery/140810093/Nobu-Bots)
+   Microsoft Office Hub 2.0 - UX Film [read](https://www.behance.net/gallery/136002771/Microsoft-Office-Hub-20-UX-Film)
 
    Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Shining a light on our transgender Pinners [read](https://newsroom.pinterest.com/en/shining-a-light-on-our-transgender-pinners)
 
-   网格系统太难？试试这个新手也能掌握的简易版！ [read](https://www.uisdc.com/simple-grid-system)
+   这 5 款工具，让设计师工作效率提升 200%！（三） [read](https://www.uisdc.com/5-practical-software)
 
-   Figma 断供之后？跟着大厂选工具！ [read](https://www.uisdc.com/mastergo-2022-2)
+   可视化大屏设计快速入门指南，看这篇就够了！ [read](https://www.uisdc.com/visual-design-guide)
 
-   为何 3D 将成为 UI 的未来！如何成为沉浸式体验设计师（一） [read](https://www.uisdc.com/immersive-experience-designer)
+   完整流程学起来！顺丰速运APP适老化体验设计实战复盘 [read](https://www.uisdc.com/sf-app-aging-design)
 
    微前端框架核心技术揭秘 [read](https://cdc.tencent.com/2022/02/22/micro-frontend-framework/)
 
