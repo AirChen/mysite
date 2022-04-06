@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Godafoss_EN-US1167261968_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.NorthernCaracara_EN-US1355888776_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   推特需要马斯克 [read](http://www.huxiu.com/article/522609.html?f=wangzhan)
+   这14个科技常识，看完可以解压 [read](http://www.huxiu.com/article/522646.html?f=wangzhan)
 
-   民用无人机参与俄乌冲突，意味着什么？ [read](http://www.huxiu.com/article/522065.html?f=wangzhan)
+   后疫情时代，消失的“站姐”们 [read](http://www.huxiu.com/article/523193.html?f=wangzhan)
 
-   怎样让你的对象主动减肥？ [read](http://www.huxiu.com/article/522231.html?f=wangzhan)
+   青团是怎么火起来的？ [read](http://www.huxiu.com/article/522916.html?f=wangzhan)
 
-   最前线 \| 郭明錤：苹果正测试9英寸OLED折叠屏 有望在2025年推出可折叠产品 [read](https://36kr.com/p/1685376637763332)
+   最前线丨联想杨元庆：未来五年研发投入超1000亿， 打造三大支柱 [read](https://36kr.com/p/1687120230339460)
 
-   澄清“分道扬镳”传言：Doug Leone掌门人退休，沈南鹏继续担任红杉全球执行合伙人 [read](https://36kr.com/p/1685077355757696)
+   复盘2021，想探索职业生涯还有哪些好方法？｜红利人物·圆桌 [read](https://36kr.com/p/1686622205870210)
 
-   云上春茶卖爆背后，京东正在给出品质“最优解” [read](https://36kr.com/p/1684022812999433)
+   防诈骗 \| 趣步赞丽，超然法外，返利盘无敌收割，必杀技全曝光 [read](https://36kr.com/p/1687056762770310)
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
 
-   马斯克成推特最大股东，后者股价大涨27%；鼓励返工，谷歌给员工发电动滑板车；华为成立 10 大「军团」 [read](http://www.geekpark.net/news/300557)
+   买 4K 120Hz「游戏电视」，除了这两点，你还应该注意什么？ [read](http://www.geekpark.net/news/300551)
 
-   极讲究・三月好物名单：Brydge MAX+ 键盘、Mac Studio、华为 MatePad Paper、坦克 500、艾尔登法环 [read](http://www.geekpark.net/news/300515)
+   清明节，一起回顾那些消失的微软产品 [read](http://www.geekpark.net/news/300524)
 
-   极客简报｜苹果正研发 iPhone/iPad 混合体；蔚来手机没有未来；戴森重新定义两款产品 [read](http://www.geekpark.net/news/300553)
+   对话小宇宙：用轻盈的方式「对抗」令人疲惫的时代 [read](http://www.geekpark.net/news/300574)
 
 ### 金融类
 
-   茅台2021年报印象：继续彰显“股王”风范 [read](http://xueqiu.com/3491303582/216107867)
+   2022年第一只REITs终于来了，值不值得投？ [read](http://xueqiu.com/7480155949/216142561)
 
-   盘点今年以来业绩比较好的百亿基金经理 [read](http://xueqiu.com/8554675668/216139120)
+   【有奖征集】12只REITs基金邀你来测评 [read](http://xueqiu.com/8152922548/216228154)
 
-   锂矿多空观点终极盘点与碰撞 [read](http://xueqiu.com/6498120968/216139964)
+   2022年白酒的逻辑还在不在？ [read](http://xueqiu.com/8934979960/216154374)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Nervous Rex [read](https://www.behance.net/gallery/140061007/Nervous-Rex)
+   Beige [read](https://www.behance.net/gallery/140909485/Beige)
 
-   chart project [read](https://www.behance.net/gallery/60884723/chart-project)
+   York Towers [read](https://www.behance.net/gallery/138709411/York-Towers)
 
-   Microsoft Office Hub 2.0 - UX Film [read](https://www.behance.net/gallery/136002771/Microsoft-Office-Hub-20-UX-Film)
+   Zara Collab. [read](https://www.behance.net/gallery/140819239/Zara-Collab)
 
    Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Shining a light on our transgender Pinners [read](https://newsroom.pinterest.com/en/shining-a-light-on-our-transgender-pinners)
 
-   这 5 款工具，让设计师工作效率提升 200%！（三） [read](https://www.uisdc.com/5-practical-software)
+   2022 设计趋势！正在悄然流行的「新粗野主义」风格 [read](https://www.uisdc.com/neubrutalism)
 
-   可视化大屏设计快速入门指南，看这篇就够了！ [read](https://www.uisdc.com/visual-design-guide)
+   免费可商用！图标、插画和图库应有尽有的素材站「Reshot」 [read](https://www.uisdc.com/reshot)
 
-   完整流程学起来！顺丰速运APP适老化体验设计实战复盘 [read](https://www.uisdc.com/sf-app-aging-design)
+   易学好用！13个快速提高效率的板绘热知识 [read](https://www.uisdc.com/13-painted-techniques)
 
    微前端框架核心技术揭秘 [read](https://cdc.tencent.com/2022/02/22/micro-frontend-framework/)
 
