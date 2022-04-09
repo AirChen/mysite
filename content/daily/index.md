@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.PontaDelgada_EN-US4010436071_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.LightPainting_EN-US4249414714_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   伟人辈出的湖南是怎么崛起的？为何经济发展却一般？ [read](http://www.huxiu.com/article/525304.html?f=wangzhan)
+
+   风投女王在上海跟大家一起抢菜，阳台菜园子成新风口？ [read](http://www.huxiu.com/article/525387.html?f=wangzhan)
+
    停更的明星们，在逃离抖音？ [read](http://www.huxiu.com/article/525078.html?f=wangzhan)
 
-   陪玩家20多年的E3，怎么又停办了 [read](http://www.huxiu.com/article/524676.html?f=wangzhan)
+   本周国内融资金额超33.73亿元人民币，过亿元融资交易达14笔 \| TO B投融资周报0401-0407 [read](https://36kr.com/p/1690040006237061)
 
-   为了中国汽车的未来，请多生三胎 [read](http://www.huxiu.com/article/525090.html?f=wangzhan)
+   大兴机场临空区计划筹建数字产业社区；微信支付开放支持数字人民币 \| 36氪大公司数字创新指南0408 [read](https://36kr.com/p/1690048885218177)
 
-   科氪 \| 荣耀Play6T系列正式发布发布，8+256GB版本售价仅1399元 [read](https://36kr.com/p/1690082455722887)
-
-   36碳周报丨瑞浦能源考虑10亿美元IPO；新能源成为甘肃第一大电源；国际能源署成员国将释放1.2亿桶原油储备； [read](https://36kr.com/p/1689841184021633)
-
-   造一片智能互联的“黑土地”，深开鸿如何重构OS棋局？ [read](https://36kr.com/p/1689744796589187)
+   首届中国工业互联网标识创新应用大赛公布“70强”，六大节点城市成下个战场 [read](https://36kr.com/p/1690799308725382)
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
 
-   科大讯飞 AI 学习机 A10 体验：孩子的 AI 家庭教师，当然可以是机器人 [read](http://www.geekpark.net/news/299848)
+   为什么说数码产品主题美化的尽头是默认？ [read](http://www.geekpark.net/news/300698)
 
-   一场 Web3 式的创业：一个计算机老师和一群盲人极客的故事 [read](http://www.geekpark.net/news/300693)
+   刘强东的隐退，给电商三国杀时代画上了句号 [read](http://www.geekpark.net/news/300697)
 
-   特斯拉大股东：马斯克加入董事会「毫无意义」；企鹅电竞 6 月 7 日终止运营；易到创始人周航任曹操出行董事长 [read](http://www.geekpark.net/news/300640)
+   阿里、美团、京东、拼多多驰援上海保供；交个朋友：与罗永浩「分手」影响不大；可口可乐推「元宇宙」口味 [read](http://www.geekpark.net/news/300695)
 
 ### 金融类
 
-   基建大涨，相关基金都在这儿了 [read](http://xueqiu.com/4433266172/216475195)
+   12家银行股2021年年报总结 [read](http://xueqiu.com/8534614057/216500491)
 
-   2021年基金年报掘金 [read](http://xueqiu.com/4298742847/216475159)
+   一个好的投资机会需要满足的条件组合 [read](http://xueqiu.com/5767861327/216412003)
 
-   投资公募REITS要关注哪些指标？ [read](http://xueqiu.com/2356382715/216472436)
+   你点将，我点评（1）：易方达基金篇 [read](http://xueqiu.com/8975058799/216412088)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Coffee Fields Forever [read](https://www.behance.net/gallery/141200679/Coffee-Fields-Forever)
+   Núcleo [read](https://www.behance.net/gallery/141137989/Nucleo)
 
-   MTV Xmas Party [read](https://www.behance.net/gallery/141252897/MTV-Xmas-Party)
+   Antinomy [read](https://www.behance.net/gallery/141163227/Antinomy)
 
-   The Royal Hotel [read](https://www.behance.net/gallery/141104685/The-Royal-Hotel)
+   BRIDGE BENCHES [read](https://www.behance.net/gallery/140510613/BRIDGE-BENCHES)
 
    Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
 
