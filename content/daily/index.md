@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.LightPainting_EN-US4249414714_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Caracal_EN-US4384489380_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   伟人辈出的湖南是怎么崛起的？为何经济发展却一般？ [read](http://www.huxiu.com/article/525304.html?f=wangzhan)
+   深陷亏损窘境的金山云，难逃巨头阴影 [read](http://www.huxiu.com/article/525835.html?f=wangzhan)
 
-   风投女王在上海跟大家一起抢菜，阳台菜园子成新风口？ [read](http://www.huxiu.com/article/525387.html?f=wangzhan)
+   00后会买20万的奔驰“老头乐”吗？ [read](http://www.huxiu.com/article/524768.html?f=wangzhan)
 
-   停更的明星们，在逃离抖音？ [read](http://www.huxiu.com/article/525078.html?f=wangzhan)
+   《扫雷》三十年了，时代不再需要它 [read](http://www.huxiu.com/article/525681.html?f=wangzhan)
 
-   本周国内融资金额超33.73亿元人民币，过亿元融资交易达14笔 \| TO B投融资周报0401-0407 [read](https://36kr.com/p/1690040006237061)
+   本周累积融资额超54亿元，泰恩康融资超11亿 \| 36氪华南融资周报 [read](https://36kr.com/p/1688006505714823)
 
-   大兴机场临空区计划筹建数字产业社区；微信支付开放支持数字人民币 \| 36氪大公司数字创新指南0408 [read](https://36kr.com/p/1690048885218177)
+   本周累积融资额超27亿元，SHEIN拟融资超10亿美元 \| 36氪华南融资周报 [read](https://36kr.com/p/1692549343501191)
 
-   首届中国工业互联网标识创新应用大赛公布“70强”，六大节点城市成下个战场 [read](https://36kr.com/p/1690799308725382)
+   医疗健康行业周报 \| 华芯医疗完成数亿元A+轮战略融资；莲藕健康服务药企线上营销 [read](https://36kr.com/p/1692346068769668)
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
 
+   极客简报｜ 日本人最爱 iPhone SE；支付宝清爽版上线；比亚迪停产燃油车 [read](http://www.geekpark.net/news/300706)
+
+   时尚圈的「元宇宙」，复刻了 20 年前的失败 [read](http://www.geekpark.net/news/300558)
+
    为什么说数码产品主题美化的尽头是默认？ [read](http://www.geekpark.net/news/300698)
-
-   刘强东的隐退，给电商三国杀时代画上了句号 [read](http://www.geekpark.net/news/300697)
-
-   阿里、美团、京东、拼多多驰援上海保供；交个朋友：与罗永浩「分手」影响不大；可口可乐推「元宇宙」口味 [read](http://www.geekpark.net/news/300695)
 
 ### 金融类
 
-   12家银行股2021年年报总结 [read](http://xueqiu.com/8534614057/216500491)
+   7家银行历史估值比较：银行股的合理PB在1.5倍！ [read](http://xueqiu.com/8534614057/216536458)
 
-   一个好的投资机会需要满足的条件组合 [read](http://xueqiu.com/5767861327/216412003)
+   姜诚、袁玮、张翼飞……盘点创新高的基金 [read](http://xueqiu.com/1762638610/216550794)
 
-   你点将，我点评（1）：易方达基金篇 [read](http://xueqiu.com/8975058799/216412088)
+   银行理财没额度，给老婆选了一个短债基金替代 [read](http://xueqiu.com/7369574916/216544039)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Núcleo [read](https://www.behance.net/gallery/141137989/Nucleo)
+   Two Species - Packaging &amp; Branding [read](https://www.behance.net/gallery/141352427/Two-Species-Packaging-Branding)
 
-   Antinomy [read](https://www.behance.net/gallery/141163227/Antinomy)
+   EDITORIALS 2022 [read](https://www.behance.net/gallery/140472393/EDITORIALS-2022)
 
-   BRIDGE BENCHES [read](https://www.behance.net/gallery/140510613/BRIDGE-BENCHES)
+   The Krzysztof Penderecki Academy of Music [read](https://www.behance.net/gallery/140934265/The-Krzysztof-Penderecki-Academy-of-Music)
 
    Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Prom is Back and Pinterest Teamed Up with Actress Peyton List to Celebrate [read](https://newsroom.pinterest.com/en/post/pinterest_prom_week_2022)
 
+   10个产品细节剖析，看大厂是如何做设计的！ [read](https://www.uisdc.com/ui-design-skills-3)
+
    腾讯万字干货！值得用研掌握的人类学研究方法 [read](https://www.uisdc.com/research-methods-of-anthropology)
 
    设计师求职要不要做测试题？来看职场老鸟的实战经验！ [read](https://www.uisdc.com/job-test)
-
-   大厂案例！腾讯理财通品牌 IP 形象「招财企鹅」设计流程完整复盘 [read](https://www.uisdc.com/fortune-penguin-ip-design)
 
    微前端框架核心技术揭秘 [read](https://cdc.tencent.com/2022/02/22/micro-frontend-framework/)
 
