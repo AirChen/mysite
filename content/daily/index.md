@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Caracal_EN-US4384489380_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FernFronds_EN-US4495822186_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -54,11 +54,11 @@ title: "今日资讯"
 
    \[原\]春节钱包大流量奖励系统入账及展示的设计与实现 [read](https://blog.csdn.net/ByteDanceTech/article/details/123911428)
 
+   终端新玩法：技术栈无关的剧本式引导 [read](https://tech.meituan.com/2022/03/31/waimai-application-scripted-guidance.html)
+
+   Linux中基于eBPF的恶意利用与检测机制 [read](https://tech.meituan.com/2022/03/29/how-to-detect-bad-ebpf-used-in-linux.html)
+
    NeurIPS 2021 ｜ Twins：重新思考高效的视觉注意力模型设计 [read](https://tech.meituan.com/2022/03/24/twins-revisiting-the-design-of-spatial-attention-in-vision-transformers.html)
-
-   TensorFlow在美团外卖推荐场景的GPU训练优化实践 [read](https://tech.meituan.com/2022/03/24/tensorflow-gpu-training-optimization-practice-in-meituan-waimai-recommendation-scenarios.html)
-
-   Java系列 \| 远程热部署在美团的落地实践 [read](https://tech.meituan.com/2022/03/17/java-hotswap-sonic.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   深陷亏损窘境的金山云，难逃巨头阴影 [read](http://www.huxiu.com/article/525835.html?f=wangzhan)
+   蔚来的“钞能力”，不好使了 [read](http://www.huxiu.com/article/527296.html?f=wangzhan)
 
-   00后会买20万的奔驰“老头乐”吗？ [read](http://www.huxiu.com/article/524768.html?f=wangzhan)
+   “流量明星”杨紫的选择 [read](http://www.huxiu.com/article/526935.html?f=wangzhan)
 
-   《扫雷》三十年了，时代不再需要它 [read](http://www.huxiu.com/article/525681.html?f=wangzhan)
+   互相甩锅，救不了智能汽车 [read](http://www.huxiu.com/article/527164.html?f=wangzhan)
 
-   本周累积融资额超54亿元，泰恩康融资超11亿 \| 36氪华南融资周报 [read](https://36kr.com/p/1688006505714823)
+   氪星晚报｜苹果确认开始在印度生产iPhone 13；联想元宇宙数字资产软件著作权获批；“小硕数科”获2000万元A轮投资 [read](https://36kr.com/p/1694156477078659)
 
-   本周累积融资额超27亿元，SHEIN拟融资超10亿美元 \| 36氪华南融资周报 [read](https://36kr.com/p/1692549343501191)
+   极狐(GitLab)宣布完成A轮融资，专注DevOps开源生态建设和产品打磨 [read](https://36kr.com/p/1693868884843400)
 
-   医疗健康行业周报 \| 华芯医疗完成数亿元A+轮战略融资；莲藕健康服务药企线上营销 [read](https://36kr.com/p/1692346068769668)
+   对话田轩：Be smooth，Be persistent，Be resilient ｜「X·36Under36」专家访谈 ⑩ [read](https://36kr.com/p/1689601798331521)
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
 
-   极客简报｜ 日本人最爱 iPhone SE；支付宝清爽版上线；比亚迪停产燃油车 [read](http://www.geekpark.net/news/300706)
+   vivo Pad 体验：或许是 Android 平板最佳之选？ [read](http://www.geekpark.net/news/300768)
 
-   时尚圈的「元宇宙」，复刻了 20 年前的失败 [read](http://www.geekpark.net/news/300558)
+   互联网公司在沪：孤勇者、小温暖和万家灯火背后 [read](http://www.geekpark.net/news/300767)
 
-   为什么说数码产品主题美化的尽头是默认？ [read](http://www.geekpark.net/news/300698)
+   「每单亏 1 块」的美团，到底是不是真很难？ [read](http://www.geekpark.net/news/300726)
 
 ### 金融类
 
-   7家银行历史估值比较：银行股的合理PB在1.5倍！ [read](http://xueqiu.com/8534614057/216536458)
+   FOF最爱哪些基金？ [read](http://xueqiu.com/4387435692/216662908)
 
-   姜诚、袁玮、张翼飞……盘点创新高的基金 [read](http://xueqiu.com/1762638610/216550794)
+   100位主流基金经理年报观点，一句话概括！ [read](http://xueqiu.com/9290769077/216673638)
 
-   银行理财没额度，给老婆选了一个短债基金替代 [read](http://xueqiu.com/7369574916/216544039)
+   买基金是怎么赚钱的？ [read](http://xueqiu.com/8554675668/216674515)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Two Species - Packaging &amp; Branding [read](https://www.behance.net/gallery/141352427/Two-Species-Packaging-Branding)
+   Art of OlliOlli World 2/12 - Welcome to Radlandia! [read](https://www.behance.net/gallery/141366595/Art-of-OlliOlli-World-212-Welcome-to-Radlandia)
 
-   EDITORIALS 2022 [read](https://www.behance.net/gallery/140472393/EDITORIALS-2022)
+   Eat This Not That Brand Identity &amp; Package Design [read](https://www.behance.net/gallery/141250613/Eat-This-Not-That-Brand-Identity-Package-Design)
 
-   The Krzysztof Penderecki Academy of Music [read](https://www.behance.net/gallery/140934265/The-Krzysztof-Penderecki-Academy-of-Music)
+   The Living System [read](https://www.behance.net/gallery/134062453/The-Living-System)
 
    Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Prom is Back and Pinterest Teamed Up with Actress Peyton List to Celebrate [read](https://newsroom.pinterest.com/en/post/pinterest_prom_week_2022)
 
-   10个产品细节剖析，看大厂是如何做设计的！ [read](https://www.uisdc.com/ui-design-skills-3)
+   2022 年度 8 大色彩趋势！设计师必备 [read](https://www.uisdc.com/8-color-futures-2022)
 
-   腾讯万字干货！值得用研掌握的人类学研究方法 [read](https://www.uisdc.com/research-methods-of-anthropology)
+   不用学C4D了？能把2D照片秒变3D场景的黑科技正式发布！ [read](https://www.uisdc.com/nvidia-instant-nerf)
 
-   设计师求职要不要做测试题？来看职场老鸟的实战经验！ [read](https://www.uisdc.com/job-test)
+   用超多案例，帮你掌握PC端弹窗设计（下） [read](https://www.uisdc.com/popup-design-3)
 
    微前端框架核心技术揭秘 [read](https://cdc.tencent.com/2022/02/22/micro-frontend-framework/)
 
