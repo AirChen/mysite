@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FernFronds_EN-US4495822186_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WaningGibbous_EN-US4639615556_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -10,11 +10,11 @@ title: "今日资讯"
 
    科技爱好者周刊（第 201 期）：中国需要成立半导体部 [read](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-201.html)
 
+   Lua binding 中正确的 callback [read](https://blog.codingnow.com/2022/04/lua_binding_callback.html)
+
    全民大规模新冠检测方案的一些想法 [read](https://blog.codingnow.com/2022/03/covid19_testing.html)
 
    层次组件的问题 [read](https://blog.codingnow.com/2022/03/multiple_components.html)
-
-   effekseer 的 shader 转译 [read](https://blog.codingnow.com/2022/03/effekseer_shader.html)
 
    一个付费 chrome 插件的一生 [read](https://blog.t9t.io/star-history-2021-01-21/)
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]从真实事故出发：golang 内存问题排查指北 [read](https://blog.csdn.net/ByteDanceTech/article/details/124113705)
+
    \[原\]字节跳动 Service Mesh 数据面编译优化实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/124030419)
 
    \[原\]差分隐私技术在火山引擎的应用实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/124008628)
-
-   \[原\]春节钱包大流量奖励系统入账及展示的设计与实现 [read](https://blog.csdn.net/ByteDanceTech/article/details/123911428)
 
    终端新玩法：技术栈无关的剧本式引导 [read](https://tech.meituan.com/2022/03/31/waimai-application-scripted-guidance.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   蔚来的“钞能力”，不好使了 [read](http://www.huxiu.com/article/527296.html?f=wangzhan)
+   豪掷4.52亿做房产，少林寺念起“生意经” [read](http://www.huxiu.com/article/527897.html?f=wangzhan)
 
-   “流量明星”杨紫的选择 [read](http://www.huxiu.com/article/526935.html?f=wangzhan)
+   火车不会出轨的秘诀，堪称天才设计 [read](http://www.huxiu.com/article/527879.html?f=wangzhan)
 
-   互相甩锅，救不了智能汽车 [read](http://www.huxiu.com/article/527164.html?f=wangzhan)
+   《拳皇》回不到97 [read](http://www.huxiu.com/article/527523.html?f=wangzhan)
 
-   氪星晚报｜苹果确认开始在印度生产iPhone 13；联想元宇宙数字资产软件著作权获批；“小硕数科”获2000万元A轮投资 [read](https://36kr.com/p/1694156477078659)
+   最前线 \| 燃料公司“HIF Global”获保时捷投资，每年可使500万汽车碳中和 [read](https://36kr.com/p/1689959583505537)
 
-   极狐(GitLab)宣布完成A轮融资，专注DevOps开源生态建设和产品打磨 [read](https://36kr.com/p/1693868884843400)
+   职场ta见｜赵文元：程序员的运动裤 [read](https://36kr.com/p/1695531643317893)
 
-   对话田轩：Be smooth，Be persistent，Be resilient ｜「X·36Under36」专家访谈 ⑩ [read](https://36kr.com/p/1689601798331521)
+   国外创投新闻 ｜ 链游公司Digital Insight Games获750万A轮融资，打造基于web3和区块链的免费游戏平台 [read](https://36kr.com/p/1695466282659204)
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
 
-   vivo Pad 体验：或许是 Android 平板最佳之选？ [read](http://www.geekpark.net/news/300768)
+   车企造手机，别来不务正业了 [read](http://www.geekpark.net/news/300839)
 
-   互联网公司在沪：孤勇者、小温暖和万家灯火背后 [read](http://www.geekpark.net/news/300767)
+   不买量不投线上广告，《原神》这样「磕」下海外市场 [read](http://www.geekpark.net/news/300837)
 
-   「每单亏 1 块」的美团，到底是不是真很难？ [read](http://www.geekpark.net/news/300726)
+   一夜挖走 6 万人，欧美音频社交刺刀见红 [read](http://www.geekpark.net/news/300727)
 
 ### 金融类
 
-   FOF最爱哪些基金？ [read](http://xueqiu.com/4387435692/216662908)
+   基金公司 \| 易方达基金实力分析 [read](http://xueqiu.com/2217395043/216790398)
 
-   100位主流基金经理年报观点，一句话概括！ [read](http://xueqiu.com/9290769077/216673638)
+   炒股策略原理概述——成长股 [read](http://xueqiu.com/7590109814/216803139)
 
-   买基金是怎么赚钱的？ [read](http://xueqiu.com/8554675668/216674515)
+   中概下跌趋势下，该做哪些正确的事 [read](http://xueqiu.com/8242980329/216791155)
 
 ### 学习类
 
@@ -128,17 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Art of OlliOlli World 2/12 - Welcome to Radlandia! [read](https://www.behance.net/gallery/141366595/Art-of-OlliOlli-World-212-Welcome-to-Radlandia)
+   Gucci Bamboo 1947 [read](https://www.behance.net/gallery/141481773/Gucci-Bamboo-1947)
 
-   Eat This Not That Brand Identity &amp; Package Design [read](https://www.behance.net/gallery/141250613/Eat-This-Not-That-Brand-Identity-Package-Design)
+   Panettoni Pavolucci [read](https://www.behance.net/gallery/141124849/Panettoni-Pavolucci)
 
-   The Living System [read](https://www.behance.net/gallery/134062453/The-Living-System)
-
-   Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
-
-   Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
-
-   Drawing History with Wiki Unseen [read](https://medium.com/behance-blog/drawing-history-with-wiki-unseen-5b8e35bfd8a3?source=rss-f5272b7f3182------2)
+   Mini Editions [read](https://www.behance.net/gallery/140578487/Mini-Editions)
 
    Combating climate misinformation on Pinterest [read](https://newsroom.pinterest.com/en/post/combating-climate-misinformation-on-pinterest)
 
@@ -146,11 +140,11 @@ title: "今日资讯"
 
    Prom is Back and Pinterest Teamed Up with Actress Peyton List to Celebrate [read](https://newsroom.pinterest.com/en/post/pinterest_prom_week_2022)
 
-   2022 年度 8 大色彩趋势！设计师必备 [read](https://www.uisdc.com/8-color-futures-2022)
+   深度复盘：爆肝30天，我终于做出HR争抢的作品集！ [read](https://www.uisdc.com/portfolio-design-2)
 
-   不用学C4D了？能把2D照片秒变3D场景的黑科技正式发布！ [read](https://www.uisdc.com/nvidia-instant-nerf)
+   超多免费资源！设计类Vlog必备的5个高质量实用配乐网站 [read](https://www.uisdc.com/5-film-score)
 
-   用超多案例，帮你掌握PC端弹窗设计（下） [read](https://www.uisdc.com/popup-design-3)
+   从这 6 个方面，帮你快速入门数据分析！ [read](https://www.uisdc.com/data-analysis-4)
 
    微前端框架核心技术揭秘 [read](https://cdc.tencent.com/2022/02/22/micro-frontend-framework/)
 
