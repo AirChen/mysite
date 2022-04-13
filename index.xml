@@ -136,9 +136,9 @@ self.collectionView = [[UICollectionView alloc] initWithFrame:CGRectZero collect
 可以简单的子类化一个UICollectionViewFlowLayout，只需复写以下init方法：
 -(id)init { if (!(self = [super init])) return nil; self.itemSize = CGSizeMake(30, 30); self.sectionInset = UIEdgeInsetsMake(10, 10, 10, 10); self.minimumInteritemSpacing = 10.0f; self.minimumLineSpacing = 10.0f; return self; } 此外UICollectionViewFlowLayout还包括一些其他的方法，可以根据需求来选择：</description></item><item><title>About Me</title><link>https://blog.airchen-space.top/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.airchen-space.top/about/</guid><description>个人信息 任志琛 男 30岁 工作经验 5年 工作经历 北京百度网讯科技有限公司 C++ 地图服务 2021年8月 至今 北京四维图新科技股份有限公司 C++ 地图引擎开发 2018年4月 2021年8月 北京四维智联科技有限公司 iOS SDK开发 2017年7月 2018年4月 教育经历 研究生 广西师范大学 电子科学与技术 本科 北京邮电大学世纪学院 通信工程 联系我 邮箱 renzhichen2012@163.com qq 252199456</description></item><item><title>今日资讯</title><link>https://blog.airchen-space.top/daily/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.airchen-space.top/daily/</guid><description>个人博客 科技爱好者周刊（第 202 期）：三个有启发的学习方法 read
 科技爱好者周刊（第 201 期）：中国需要成立半导体部 read
+Lua binding 中正确的 callback read
 全民大规模新冠检测方案的一些想法 read
 层次组件的问题 read
-effekseer 的 shader 转译 read
 一个付费 chrome 插件的一生 read
 通过 GitHub 订阅 Hacker News 每日 top 10 read
 让用户决定软件长什么样 read
@@ -154,4 +154,4 @@ callable-object read
 VS Code 是如何优化启动性能的？ read
 服饰3D柔性渲染调研及实践 read
 业务系统的稳定性建设 read
-[原]字节跳动 Service Mesh 数据面编译优化实践 read</description></item></channel></rss>
+[原]从真实事故出发：golang 内存问题排查指北 read</description></item></channel></rss>
