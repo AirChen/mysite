@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WaningGibbous_EN-US4639615556_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Mitsumata_EN-US4759994973_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   豪掷4.52亿做房产，少林寺念起“生意经” [read](http://www.huxiu.com/article/527897.html?f=wangzhan)
+   这家日系豪华品牌，早该凉了 [read](http://www.huxiu.com/article/528739.html?f=wangzhan)
 
-   火车不会出轨的秘诀，堪称天才设计 [read](http://www.huxiu.com/article/527879.html?f=wangzhan)
+   45款新发游戏版号藏着三条行业暗语 [read](http://www.huxiu.com/article/528512.html?f=wangzhan)
 
-   《拳皇》回不到97 [read](http://www.huxiu.com/article/527523.html?f=wangzhan)
+   80后在人民广场寻爱，00后在社交平台求偶 [read](http://www.huxiu.com/article/527939.html?f=wangzhan)
 
-   最前线 \| 燃料公司“HIF Global”获保时捷投资，每年可使500万汽车碳中和 [read](https://36kr.com/p/1689959583505537)
+   梧桐树资本童玮亮：创投3.0时代，创业者如何转危为机？ [read](https://36kr.com/p/1696942319873668)
 
-   职场ta见｜赵文元：程序员的运动裤 [read](https://36kr.com/p/1695531643317893)
+   最前线 \| 中瑞哈马碧生态城联盟发布白皮书，将瑞典可持续城市发展模式引入中国 [read](https://36kr.com/p/1696893734186628)
 
-   国外创投新闻 ｜ 链游公司Digital Insight Games获750万A轮融资，打造基于web3和区块链的免费游戏平台 [read](https://36kr.com/p/1695466282659204)
+   氪星晚报 \| 阿里云人事大变动，中国区总裁辞任、多名高P离职；小米汽车多个专利公布 ；AI研发绩效管理平台“方云智能”获近千万元天使轮融资 [read](https://36kr.com/p/1696933763722880)
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
 
-   车企造手机，别来不务正业了 [read](http://www.geekpark.net/news/300839)
+   iQOO Neo6 评测：游戏体验「最要强」的中端机 [read](http://www.geekpark.net/news/300869)
 
-   不买量不投线上广告，《原神》这样「磕」下海外市场 [read](http://www.geekpark.net/news/300837)
+   一个冷门创业者的变热，与一场数据变革的开始 [read](http://www.geekpark.net/news/300879)
 
-   一夜挖走 6 万人，欧美音频社交刺刀见红 [read](http://www.geekpark.net/news/300727)
+   「微信农场」开业，可溜猪养蟑螂；TikTok 今年广告收入或达 110 亿美元，超推特、Snapchat 之和；00 后最想做「UP 主」 [read](http://www.geekpark.net/news/300840)
 
 ### 金融类
 
-   基金公司 \| 易方达基金实力分析 [read](http://xueqiu.com/2217395043/216790398)
+   【有奖征集】10只量化增强基金邀你来测评 [read](http://xueqiu.com/8152922548/216906400)
 
-   炒股策略原理概述——成长股 [read](http://xueqiu.com/7590109814/216803139)
+   忍受不了三五年的套牢就不要投资股票 [read](http://xueqiu.com/5223831183/216833194)
 
-   中概下跌趋势下，该做哪些正确的事 [read](http://xueqiu.com/8242980329/216791155)
+   “投资简史”——从放债到FOF [read](http://xueqiu.com/6278433034/216700518)
 
 ### 学习类
 
@@ -128,11 +128,17 @@ title: "今日资讯"
 
 ### 设计类
 
-   Gucci Bamboo 1947 [read](https://www.behance.net/gallery/141481773/Gucci-Bamboo-1947)
+   Cathédrale Saint-Étienne de Metz [read](https://www.behance.net/gallery/141447863/Cathdrale-Saint-Etienne-de-Metz)
 
-   Panettoni Pavolucci [read](https://www.behance.net/gallery/141124849/Panettoni-Pavolucci)
+   Hungry! [read](https://www.behance.net/gallery/141534417/Hungry)
 
-   Mini Editions [read](https://www.behance.net/gallery/140578487/Mini-Editions)
+   RICE HUSK VILLAGE [read](https://www.behance.net/gallery/138746885/RICE-HUSK-VILLAGE)
+
+   Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
+
+   Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
+
+   Drawing History with Wiki Unseen [read](https://medium.com/behance-blog/drawing-history-with-wiki-unseen-5b8e35bfd8a3?source=rss-f5272b7f3182------2)
 
    Combating climate misinformation on Pinterest [read](https://newsroom.pinterest.com/en/post/combating-climate-misinformation-on-pinterest)
 
@@ -140,15 +146,15 @@ title: "今日资讯"
 
    Prom is Back and Pinterest Teamed Up with Actress Peyton List to Celebrate [read](https://newsroom.pinterest.com/en/post/pinterest_prom_week_2022)
 
-   深度复盘：爆肝30天，我终于做出HR争抢的作品集！ [read](https://www.uisdc.com/portfolio-design-2)
+   腾讯高手揭秘！大厂面试官最看重的 6 个特质！ [read](https://www.uisdc.com/6-interview-guide)
 
-   超多免费资源！设计类Vlog必备的5个高质量实用配乐网站 [read](https://www.uisdc.com/5-film-score)
+   4 个方面层层递进，分析如何设计 B 端产品的弹窗 [read](https://www.uisdc.com/b-ens-popup-design-2)
 
-   从这 6 个方面，帮你快速入门数据分析！ [read](https://www.uisdc.com/data-analysis-4)
+   文字多的海报如何排版？我总结了3种超好用的方法 [read](https://www.uisdc.com/poster-layout-design)
+
+   CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
    微前端框架核心技术揭秘 [read](https://cdc.tencent.com/2022/02/22/micro-frontend-framework/)
 
    做个“人格分裂”的研究者——质性研究中研究关系探讨 [read](https://cdc.tencent.com/2022/02/16/%e5%81%9a%e4%b8%aa%e4%ba%ba%e6%a0%bc%e5%88%86%e8%a3%82%e7%9a%84%e7%a0%94%e7%a9%b6%e8%80%85-%e8%b4%a8%e6%80%a7%e7%a0%94%e7%a9%b6%e4%b8%ad%e7%a0%94%e7%a9%b6%e5%85%b3/)
-
-   后台审批流系统设计指南 [read](https://cdc.tencent.com/2022/02/08/%e5%90%8e%e5%8f%b0%e5%ae%a1%e6%89%b9%e6%b5%81%e7%b3%bb%e7%bb%9f%e8%ae%be%e8%ae%a1%e6%8c%87%e5%8d%97/)
 
