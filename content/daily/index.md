@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AZBend_EN-US5187337431_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ChristoJeanneClaude_EN-US5281746588_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 202 期）：三个有启发的学习方法 [read](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-202.html)
+   科技爱好者周刊（第 203 期）：英国的名校签证，伯克利的计算机教育 [read](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-203.html)
 
-   科技爱好者周刊（第 201 期）：中国需要成立半导体部 [read](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-201.html)
+   科技爱好者周刊（第 202 期）：三个有启发的学习方法 [read](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-202.html)
 
    Lua binding 中正确的 callback [read](https://blog.codingnow.com/2022/04/lua_binding_callback.html)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 442 期 [read](https://weekly.75.team/issue442.html)
+
    奇舞周刊第 441 期 [read](https://weekly.75.team/issue441.html)
 
    奇舞周刊第 440 期 [read](https://weekly.75.team/issue440.html)
-
-   奇舞周刊第 439 期 [read](https://weekly.75.team/issue439.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   M型社会到来，中产为何逐渐消亡？ [read](http://www.huxiu.com/article/529222.html?f=wangzhan)
+   美团裁员，“快买优”焦虑 [read](http://www.huxiu.com/article/530697.html?f=wangzhan)
 
-   3.5亿元船票背后：太空旅行的财富密码是什么？ [read](http://www.huxiu.com/article/529156.html?f=wangzhan)
+   想告别失眠，枕边放ta就够了 [read](http://www.huxiu.com/article/530166.html?f=wangzhan)
 
-   鼓励年轻人进厂前，请先提供厕所自由 [read](http://www.huxiu.com/article/529500.html?f=wangzhan)
+   90秒，快速识别春日热门花朵 [read](http://www.huxiu.com/article/530039.html?f=wangzhan)
 
-   复盘2015：上一次触底的楼市如何反弹？ [read](https://36kr.com/p/1698579604619521)
+   36碳周报丨国内加氢站数量世界第一；55家苹果中国供应商承诺仅使用清洁能源 [read](https://36kr.com/p/1699974374899719)
 
-   2022年夏季「焦点」产品计划重磅启动 [read](https://36kr.com/p/1698253171556359)
+   扣非亏四亿、踩三条红线、大股东计划减持：中交地产争议中迎第12个涨停板 \| 年报时氪 [read](https://36kr.com/p/1699885847511049)
 
-   氪星晚报 \| 腾讯网游加速器5月31日起将停止对外服游戏加速；蔚来合肥工厂正逐步恢复生产；中证协发布首次公开发行股票配售对象限制名单 [read](https://36kr.com/p/1698339565699073)
+   央行将降准0.25个百分点 机构：楼市预期将扭转 [read](https://36kr.com/p/1699836159000841)
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
 
+   让硅谷巨头丧胆的欧盟《数字市场法案》，究竟讲了啥？ [read](http://www.geekpark.net/news/300960)
+
    重磅丨马斯克提出 430 亿美元收购推特 [read](http://www.geekpark.net/news/300931)
 
    出海五年，TikTok 已成「超级吸金兽」 [read](http://www.geekpark.net/news/300918)
 
-   vivo X Fold 评测：后发，能​「先至」吗？ [read](http://www.geekpark.net/news/300764)
-
 ### 金融类
 
-   为什么要分散投资？ [read](http://xueqiu.com/6146592061/217020426)
+   我对投资的最新认知 [read](http://xueqiu.com/4556118930/217133991)
 
-   时隔一年目标价下调800，券商研报应该怎么看？ [read](http://xueqiu.com/2245748859/217025923)
+   中国金茂的城市运营，开始进入收获期 [read](http://xueqiu.com/6056806984/217094731)
 
-   化妆品行业的三大“新”趋势 [read](http://xueqiu.com/6527509421/216359261)
+   关于福耀玻璃近期需要关注的一些点 [read](http://xueqiu.com/4130811653/217165073)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Visa Icon and Illustration System [read](https://www.behance.net/gallery/141590841/Visa-Icon-and-Illustration-System)
+   Illustration Explorations [read](https://www.behance.net/gallery/141664903/Illustration-Explorations)
 
-   Editorial Animation [read](https://www.behance.net/gallery/141524435/Editorial-Animation)
+   Coinbase [read](https://www.behance.net/gallery/131256363/Coinbase)
 
-   BOLLINGER B1 ELECTRIC SUV [read](https://www.behance.net/gallery/141201021/BOLLINGER-B1-ELECTRIC-SUV)
+   The score of the shogi piece MUGETSU 101~ ???? [read](https://www.behance.net/gallery/140482649/The-score-of-the-shogi-piece-MUGETSU101-)
 
    Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Prom is Back and Pinterest Teamed Up with Actress Peyton List to Celebrate [read](https://newsroom.pinterest.com/en/post/pinterest_prom_week_2022)
 
+   2022 设计趋势！Web3 圈子正在流行的新设计风格「Boxmoji」 [read](https://www.uisdc.com/boxmoji)
+
+   有哪些看似有用，实则毫无效果的调研问卷题目？ [read](https://www.uisdc.com/useless-questionnaire-questions)
+
    5000字超干货！写给设计师的需求沟通完全指南 [read](https://www.uisdc.com/demand-communication)
-
-   被说设计没深度？学会这28个常用的设计模型怼回去！ [read](https://www.uisdc.com/common-design-model)
-
-   万字读书笔记！产品设计宝典《上瘾》全面解读！（上） [read](https://www.uisdc.com/hooked)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
