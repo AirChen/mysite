@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ChristoJeanneClaude_EN-US5281746588_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Yellowstone150_EN-US5394661102_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]实战！如何从零搭建10万级 QPS 大流量、高并发优惠券系统 [read](https://blog.csdn.net/ByteDanceTech/article/details/124207051)
+
    \[原\]字节跳动智能创作团队多篇论文入选 CVPR 2022 [read](https://blog.csdn.net/ByteDanceTech/article/details/124161874)
 
    \[原\]从真实事故出发：golang 内存问题排查指北 [read](https://blog.csdn.net/ByteDanceTech/article/details/124113705)
-
-   \[原\]字节跳动 Service Mesh 数据面编译优化实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/124030419)
 
    终端新玩法：技术栈无关的剧本式引导 [read](https://tech.meituan.com/2022/03/31/waimai-application-scripted-guidance.html)
 
@@ -68,17 +68,11 @@ title: "今日资讯"
 
 ### 互联网类
 
-   美团裁员，“快买优”焦虑 [read](http://www.huxiu.com/article/530697.html?f=wangzhan)
+   人口红利不再，全国统一大市场才是“良方” [read](http://www.huxiu.com/article/530924.html?f=wangzhan)
 
-   想告别失眠，枕边放ta就够了 [read](http://www.huxiu.com/article/530166.html?f=wangzhan)
+   芯片也能开源？risc-V能帮上中国芯片什么？ [read](http://www.huxiu.com/article/531097.html?f=wangzhan)
 
-   90秒，快速识别春日热门花朵 [read](http://www.huxiu.com/article/530039.html?f=wangzhan)
-
-   36碳周报丨国内加氢站数量世界第一；55家苹果中国供应商承诺仅使用清洁能源 [read](https://36kr.com/p/1699974374899719)
-
-   扣非亏四亿、踩三条红线、大股东计划减持：中交地产争议中迎第12个涨停板 \| 年报时氪 [read](https://36kr.com/p/1699885847511049)
-
-   央行将降准0.25个百分点 机构：楼市预期将扭转 [read](https://36kr.com/p/1699836159000841)
+   为了存钱，90后年轻人有多拼？ [read](http://www.huxiu.com/article/530920.html?f=wangzhan)
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
@@ -94,11 +88,11 @@ title: "今日资讯"
 
 ### 金融类
 
-   我对投资的最新认知 [read](http://xueqiu.com/4556118930/217133991)
+   海天味业股东大会有感 [read](http://xueqiu.com/1929796343/217188270)
 
-   中国金茂的城市运营，开始进入收获期 [read](http://xueqiu.com/6056806984/217094731)
+   现在要做基金定投的五大理由和五大技术问题 [read](http://xueqiu.com/1842411971/217206841)
 
-   关于福耀玻璃近期需要关注的一些点 [read](http://xueqiu.com/4130811653/217165073)
+   谈谈目前市场的看法 [read](http://xueqiu.com/3241529995/217195795)
 
 ### 学习类
 
@@ -128,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Illustration Explorations [read](https://www.behance.net/gallery/141664903/Illustration-Explorations)
+   Refactor [read](https://www.behance.net/gallery/139609527/Refactor)
 
-   Coinbase [read](https://www.behance.net/gallery/131256363/Coinbase)
+   Majesty [read](https://www.behance.net/gallery/135562359/Majesty)
 
-   The score of the shogi piece MUGETSU 101~ ???? [read](https://www.behance.net/gallery/140482649/The-score-of-the-shogi-piece-MUGETSU101-)
+   Flipside Crypto? Key Visual Design. [read](https://www.behance.net/gallery/136727009/Flipside-Crypto-Key-Visual-Design)
 
    Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
 
