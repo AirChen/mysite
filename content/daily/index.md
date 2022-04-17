@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Yellowstone150_EN-US5394661102_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.RobinsEgg_EN-US5615411748_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,11 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   周杰伦陈奕迅们，怎么都不出专辑了？ [read](http://www.huxiu.com/article/531678.html?f=wangzhan)
+
+   VIP快看不起爱优腾了 [read](http://www.huxiu.com/article/529089.html?f=wangzhan)
+
    人口红利不再，全国统一大市场才是“良方” [read](http://www.huxiu.com/article/530924.html?f=wangzhan)
 
-   芯片也能开源？risc-V能帮上中国芯片什么？ [read](http://www.huxiu.com/article/531097.html?f=wangzhan)
+   本周累积融资额超47亿元，高景太阳能获融资16亿元 \| 36氪华南融资周报 [read](https://36kr.com/p/1701533862019081)
 
-   为了存钱，90后年轻人有多拼？ [read](http://www.huxiu.com/article/530920.html?f=wangzhan)
+   瑞幸联名椰树椰汁，一场各取所需的狂欢 [read](https://36kr.com/p/1701096452849673)
+
+   被版号停发重塑的游戏行业丨氪金 · 大事件 [read](https://36kr.com/p/1701101584875520)
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
@@ -80,19 +86,13 @@ title: "今日资讯"
 
    语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
 
+   极客简报｜ WWDC 或发布「收官之作」/ 马斯克收购推特意图曝光 / 另寻他路的 Smartisan OS [read](http://www.geekpark.net/news/300994)
+
+   滴滴：将就美股退市展开投票；微软将在 Xbox 游戏中插广告；神舟十三号宇航员顺利返航 [read](http://www.geekpark.net/news/300992)
+
    让硅谷巨头丧胆的欧盟《数字市场法案》，究竟讲了啥？ [read](http://www.geekpark.net/news/300960)
 
-   重磅丨马斯克提出 430 亿美元收购推特 [read](http://www.geekpark.net/news/300931)
-
-   出海五年，TikTok 已成「超级吸金兽」 [read](http://www.geekpark.net/news/300918)
-
 ### 金融类
-
-   海天味业股东大会有感 [read](http://xueqiu.com/1929796343/217188270)
-
-   现在要做基金定投的五大理由和五大技术问题 [read](http://xueqiu.com/1842411971/217206841)
-
-   谈谈目前市场的看法 [read](http://xueqiu.com/3241529995/217195795)
 
 ### 学习类
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Refactor [read](https://www.behance.net/gallery/139609527/Refactor)
+   Sherlock Holmes Edition ? Cover Artworks [read](https://www.behance.net/gallery/140753051/Sherlock-Holmes-Edition-Cover-Artworks)
 
-   Majesty [read](https://www.behance.net/gallery/135562359/Majesty)
+   Peekoo Coffee Brand [read](https://www.behance.net/gallery/130190587/Peekoo-Coffee-Brand)
 
-   Flipside Crypto? Key Visual Design. [read](https://www.behance.net/gallery/136727009/Flipside-Crypto-Key-Visual-Design)
+   LINMON PICTURES Logo Animation \| ???????? [read](https://www.behance.net/gallery/88704131/LINMON-PICTURES-Logo-Animation-)
 
    Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
 
@@ -140,11 +140,11 @@ title: "今日资讯"
 
    Prom is Back and Pinterest Teamed Up with Actress Peyton List to Celebrate [read](https://newsroom.pinterest.com/en/post/pinterest_prom_week_2022)
 
+   当 3D 成为未来！如何成为沉浸式体验设计师（下） [read](https://www.uisdc.com/immersive-experience-designer-3)
+
    2022 设计趋势！Web3 圈子正在流行的新设计风格「Boxmoji」 [read](https://www.uisdc.com/boxmoji)
 
    有哪些看似有用，实则毫无效果的调研问卷题目？ [read](https://www.uisdc.com/useless-questionnaire-questions)
-
-   5000字超干货！写给设计师的需求沟通完全指南 [read](https://www.uisdc.com/demand-communication)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
