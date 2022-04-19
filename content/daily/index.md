@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SquareTowerHouse_EN-US5990660612_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.PlitviceBoardwalk_EN-US6264296543_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -10,11 +10,11 @@ title: "今日资讯"
 
    科技爱好者周刊（第 202 期）：三个有启发的学习方法 [read](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-202.html)
 
+   蒙皮数据的压缩 [read](https://blog.codingnow.com/2022/04/vertex_blend_attribute_compression.html)
+
    Lua binding 中正确的 callback [read](https://blog.codingnow.com/2022/04/lua_binding_callback.html)
 
    全民大规模新冠检测方案的一些想法 [read](https://blog.codingnow.com/2022/03/covid19_testing.html)
-
-   层次组件的问题 [read](https://blog.codingnow.com/2022/03/multiple_components.html)
 
    一个付费 chrome 插件的一生 [read](https://blog.t9t.io/star-history-2021-01-21/)
 
@@ -68,31 +68,31 @@ title: "今日资讯"
 
 ### 互联网类
 
+   北京的柳絮，还能“治好”吗？ [read](http://www.huxiu.com/article/533604.html?f=wangzhan)
+
+   可恶的中国汽车产业，耽误余承东吹牛了 [read](http://www.huxiu.com/article/533139.html?f=wangzhan)
+
    广电都杀不死的芒果综艺，为何还是凉了？ [read](http://www.huxiu.com/article/532734.html?f=wangzhan)
 
-   中国造豪华车，不能光靠嘴炮 [read](http://www.huxiu.com/article/532208.html?f=wangzhan)
+   安全厂商「华顺信安」完成C轮融资，金额达数亿元级别 [read](https://36kr.com/p/1705808978712324)
 
-   宝沃汽车复活破产记 [read](http://www.huxiu.com/article/532271.html?f=wangzhan)
+   「掘金」API企服市场：Eolink探索增长与盈利的双重可能 [read](https://36kr.com/p/1705208309110536)
+
+   氪星晚报丨支付宝回应网商银行暂停转入功能；特斯拉石墨供应商Syrah资源获美国政府逾1亿美元贷款；富士康印度工厂据悉寻求扩张，以满足本土iPhone需求 [read](https://36kr.com/p/1705402259772935)
+
+   WWW 2022 \| 一文解读互联网技术国际顶会最新方向 [read](https://www.msra.cn/zh-cn/news/features/www-2022)
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
    如何将学术经历整合为求职简历？CS求职必备的5个小技巧 [read](https://www.msra.cn/zh-cn/news/features/five-ways-your-academic-research-skills-transfer-to-industry)
 
-   语音识别的快速纠错模型FastCorrect系列来了！ [read](https://www.msra.cn/zh-cn/news/features/fastcorrect)
+   Hi nova 9 SE 上手：120Hz 屏幕+1.08 亿像素主摄，有亮点的「年轻派」手机 [read](http://www.geekpark.net/news/300927)
 
-   字节的「去算法」实验 [read](http://www.geekpark.net/news/301035)
+   用了十年，你真的看懂朋友圈了吗？ [read](http://www.geekpark.net/news/301104)
 
-   当年 iPhone 的「倒爷」，现在「囤」起了特斯拉 [read](http://www.geekpark.net/news/300989)
-
-   罗永浩：给我 20 亿，还你一台触及灵魂的手机；上汽、特斯拉成上海首批复工企业；字节旗下 Pico 发新 VR 产品 [read](http://www.geekpark.net/news/300998)
+   信我的，开习惯电车后基本「旦用难回」 [read](http://www.geekpark.net/news/300990)
 
 ### 金融类
-
-   信立泰2022年1季报简析 [read](http://xueqiu.com/8960894035/217359561)
-
-   今年性价比最好的基金名单，有点意思 [read](http://xueqiu.com/6677571733/217358273)
-
-   当短债来守门 [read](http://xueqiu.com/4573323809/217353650)
 
 ### 学习类
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   New York Philharmonic Identity [read](https://www.behance.net/gallery/139958753/New-York-Philharmonic-Identity)
+   JOINTS 20/22 [read](https://www.behance.net/gallery/139929033/JOINTS-2022)
 
-   Illustration 2022 [read](https://www.behance.net/gallery/141735725/Illustration-2022)
+   Contramateria [read](https://www.behance.net/gallery/138247467/Contramateria)
 
-   Huma \| Re-Branding [read](https://www.behance.net/gallery/141494399/Huma-Re-Branding)
+   Adobe Creative Residency - #ExpressIt swag [read](https://www.behance.net/gallery/141525151/Adobe-Creative-Residency-ExpressIt-swag)
 
    Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
 
@@ -134,11 +134,11 @@ title: "今日资讯"
 
    Drawing History with Wiki Unseen [read](https://medium.com/behance-blog/drawing-history-with-wiki-unseen-5b8e35bfd8a3?source=rss-f5272b7f3182------2)
 
+   Pinterest 2021 Inclusion & Diversity Report [read](https://newsroom.pinterest.com/en/post/pinterest-2021-inclusion-diversity-report)
+
    Combating climate misinformation on Pinterest [read](https://newsroom.pinterest.com/en/post/combating-climate-misinformation-on-pinterest)
 
    Introducing PinFlex, an inspiring work model for our employees [read](https://newsroom.pinterest.com/en/post/introducing-pinflex-an-inspiring-work-model-for-our-employees)
-
-   Prom is Back and Pinterest Teamed Up with Actress Peyton List to Celebrate [read](https://newsroom.pinterest.com/en/post/pinterest_prom_week_2022)
 
    第二波！2022年4月精选实用设计干货合集 [read](https://www.uisdc.com/2022-4-design-resources-vol2)
 
