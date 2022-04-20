@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.PlitviceBoardwalk_EN-US6264296543_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MuteSwan_EN-US6400507861_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -54,11 +54,11 @@ title: "今日资讯"
 
    \[原\]从真实事故出发：golang 内存问题排查指北 [read](https://blog.csdn.net/ByteDanceTech/article/details/124113705)
 
-   知识图谱可视化技术在美团的实践与探索 [read](https://tech.meituan.com/2022/04/18/the-practice-and-exploration-of-knowledge-graph-visualization-technology-in-meituan.html)
+   知识图谱可视化技术在美团的实践与探索 [read](https://tech.meituan.com/2022/04/14/the-practice-and-exploration-of-knowledge-graph-visualization-technology-in-meituan.html)
 
-   终端新玩法：技术栈无关的剧本式引导 [read](https://tech.meituan.com/2022/03/31/waimai-application-scripted-guidance.html)
+   短视频内容理解与生成技术在美团的创新实践 [read](https://tech.meituan.com/2022/04/14/the-innovation-practice-of-short-video-understanding-and-generation-in-meituan.html)
 
-   Linux中基于eBPF的恶意利用与检测机制 [read](https://tech.meituan.com/2022/03/29/how-to-detect-bad-ebpf-used-in-linux.html)
+   Linux中基于eBPF的恶意利用与检测机制 [read](https://tech.meituan.com/2022/04/07/how-to-detect-bad-ebpf-used-in-linux.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   无人配送车，在上海迎来实战大考 [read](http://www.huxiu.com/article/534331.html?f=wangzhan)
+
    北京的柳絮，还能“治好”吗？ [read](http://www.huxiu.com/article/533604.html?f=wangzhan)
 
    可恶的中国汽车产业，耽误余承东吹牛了 [read](http://www.huxiu.com/article/533139.html?f=wangzhan)
 
-   广电都杀不死的芒果综艺，为何还是凉了？ [read](http://www.huxiu.com/article/532734.html?f=wangzhan)
+   最前线 \| 纷享销客举办十年回顾发布会，发布B2B企业新增长方法论 [read](https://36kr.com/p/1706653007975940)
 
-   安全厂商「华顺信安」完成C轮融资，金额达数亿元级别 [read](https://36kr.com/p/1705808978712324)
+   36氪独家丨「认养一头牛」成立肉牛事业部，首个产业园拟投资50亿元，独立子品牌产品或6月亮相 [read](https://36kr.com/p/1697981844865032)
 
-   「掘金」API企服市场：Eolink探索增长与盈利的双重可能 [read](https://36kr.com/p/1705208309110536)
-
-   氪星晚报丨支付宝回应网商银行暂停转入功能；特斯拉石墨供应商Syrah资源获美国政府逾1亿美元贷款；富士康印度工厂据悉寻求扩张，以满足本土iPhone需求 [read](https://36kr.com/p/1705402259772935)
+   科技创业者的顶级社群，36氪创变者俱乐部全新开启 [read](https://36kr.com/p/1706922714355201)
 
    WWW 2022 \| 一文解读互联网技术国际顶会最新方向 [read](https://www.msra.cn/zh-cn/news/features/www-2022)
 
@@ -86,13 +86,19 @@ title: "今日资讯"
 
    如何将学术经历整合为求职简历？CS求职必备的5个小技巧 [read](https://www.msra.cn/zh-cn/news/features/five-ways-your-academic-research-skills-transfer-to-industry)
 
-   Hi nova 9 SE 上手：120Hz 屏幕+1.08 亿像素主摄，有亮点的「年轻派」手机 [read](http://www.geekpark.net/news/300927)
+   暴跌 380 亿美元，俄乌冲突成为「压垮」奈飞的最后一根稻草 [read](http://www.geekpark.net/news/301171)
 
-   用了十年，你真的看懂朋友圈了吗？ [read](http://www.geekpark.net/news/301104)
+   真我 Q5 Pro 体验：千元机上骁龙 870 和 80W 闪充，「卷王之王」 [read](http://www.geekpark.net/news/301016)
 
-   信我的，开习惯电车后基本「旦用难回」 [read](http://www.geekpark.net/news/300990)
+   「众筹破解凶案」，人人都是「名侦探柯南」？ [read](http://www.geekpark.net/news/301125)
 
 ### 金融类
+
+   多氟多、天赐材料高管亮相，向企业发起提问！ [read](http://xueqiu.com/9101416054/217587303)
+
+   我能逆袭：投资，是我为人生开的一扇窗 [read](http://xueqiu.com/1876906471/217547720)
+
+   逆向低估策略，现在值得入手吗？ [read](http://xueqiu.com/9047540546/217559647)
 
 ### 学习类
 
@@ -122,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   JOINTS 20/22 [read](https://www.behance.net/gallery/139929033/JOINTS-2022)
+   Kunst und Literatur am Bodensee - Catalogue [read](https://www.behance.net/gallery/141259133/Kunst-und-Literatur-am-Bodensee-Catalogue)
 
-   Contramateria [read](https://www.behance.net/gallery/138247467/Contramateria)
+   The Cliff [read](https://www.behance.net/gallery/141687003/The-Cliff)
 
-   Adobe Creative Residency - #ExpressIt swag [read](https://www.behance.net/gallery/141525151/Adobe-Creative-Residency-ExpressIt-swag)
+   re_ grocery [read](https://www.behance.net/gallery/141820803/re_-grocery)
 
    Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
 
@@ -140,11 +146,11 @@ title: "今日资讯"
 
    Introducing PinFlex, an inspiring work model for our employees [read](https://newsroom.pinterest.com/en/post/introducing-pinflex-an-inspiring-work-model-for-our-employees)
 
-   第二波！2022年4月精选实用设计干货合集 [read](https://www.uisdc.com/2022-4-design-resources-vol2)
+   5000字干货！为什么你做的「用户画像」是一页废纸？ [read](https://www.uisdc.com/user-research-2)
 
-   华为高薪招聘的「UX文案设计」，5个阶段帮你进阶掌握！ [read](https://www.uisdc.com/3-ux-copywriting-tutorial)
+   可视化大屏不会做？这篇 UI 设计指南总结了7个重要知识点！ [read](https://www.uisdc.com/visual-design-guide-2)
 
-   直播间怎么设计？细聊直播交互的17年发展史 [read](https://www.uisdc.com/broadcast-design)
+   网站也有博物馆！20年前Netflix居然是出租DVD的…… [read](https://www.uisdc.com/museum-of-websites)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
