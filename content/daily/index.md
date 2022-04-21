@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MuteSwan_EN-US6400507861_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.IcelandicSummer_EN-US6680616324_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]DanceNN：字节自研千亿级规模文件元数据存储系统概述 [read](https://blog.csdn.net/ByteDanceTech/article/details/124311314)
+
    \[原\]实战！如何从零搭建10万级 QPS 大流量、高并发优惠券系统 [read](https://blog.csdn.net/ByteDanceTech/article/details/124207051)
 
    \[原\]字节跳动智能创作团队多篇论文入选 CVPR 2022 [read](https://blog.csdn.net/ByteDanceTech/article/details/124161874)
-
-   \[原\]从真实事故出发：golang 内存问题排查指北 [read](https://blog.csdn.net/ByteDanceTech/article/details/124113705)
 
    知识图谱可视化技术在美团的实践与探索 [read](https://tech.meituan.com/2022/04/14/the-practice-and-exploration-of-knowledge-graph-visualization-technology-in-meituan.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   无人配送车，在上海迎来实战大考 [read](http://www.huxiu.com/article/534331.html?f=wangzhan)
+   因不送充电器被罚7000，苹果是环保还是抢钱？ [read](http://www.huxiu.com/article/535545.html?f=wangzhan)
 
-   北京的柳絮，还能“治好”吗？ [read](http://www.huxiu.com/article/533604.html?f=wangzhan)
+   长城眼里没有“蔚小理”，只有特斯拉 [read](http://www.huxiu.com/article/533475.html?f=wangzhan)
 
-   可恶的中国汽车产业，耽误余承东吹牛了 [read](http://www.huxiu.com/article/533139.html?f=wangzhan)
+   社保养老金入不敷出，这代父母的退休钱谁付？ [read](http://www.huxiu.com/article/534986.html?f=wangzhan)
 
-   最前线 \| 纷享销客举办十年回顾发布会，发布B2B企业新增长方法论 [read](https://36kr.com/p/1706653007975940)
+   36氪研究院 \| 2022年中国辅助生殖行业洞察报告 [read](https://36kr.com/p/1708300107863814)
 
-   36氪独家丨「认养一头牛」成立肉牛事业部，首个产业园拟投资50亿元，独立子品牌产品或6月亮相 [read](https://36kr.com/p/1697981844865032)
+   上市以来净利润首次下滑 保利仍想重回前三 \| 年报时氪 [read](https://36kr.com/p/1708267343222530)
 
-   科技创业者的顶级社群，36氪创变者俱乐部全新开启 [read](https://36kr.com/p/1706922714355201)
+   越老越值钱，民营老字号成年轻人的「理想公司」？ [read](https://36kr.com/p/1708234939258631)
 
    WWW 2022 \| 一文解读互联网技术国际顶会最新方向 [read](https://www.msra.cn/zh-cn/news/features/www-2022)
 
@@ -86,33 +86,33 @@ title: "今日资讯"
 
    如何将学术经历整合为求职简历？CS求职必备的5个小技巧 [read](https://www.msra.cn/zh-cn/news/features/five-ways-your-academic-research-skills-transfer-to-industry)
 
-   暴跌 380 亿美元，俄乌冲突成为「压垮」奈飞的最后一根稻草 [read](http://www.geekpark.net/news/301171)
+   小米 Civi 1S 上手：依旧 2299 元起售，却有更好的自拍效果和性能 [read](http://www.geekpark.net/news/301160)
 
-   真我 Q5 Pro 体验：千元机上骁龙 870 和 80W 闪充，「卷王之王」 [read](http://www.geekpark.net/news/301016)
+   一加 Ace 体验：天玑 8100 MAX 特调芯片，还是游戏手机？ [read](http://www.geekpark.net/news/301162)
 
-   「众筹破解凶案」，人人都是「名侦探柯南」？ [read](http://www.geekpark.net/news/301125)
+   40 亿就能「造车」，新造车的「低门槛」时代要来了？ [read](http://www.geekpark.net/news/301187)
 
 ### 金融类
 
-   多氟多、天赐材料高管亮相，向企业发起提问！ [read](http://xueqiu.com/9101416054/217587303)
+   特斯拉可能明年就30PE了 [read](http://xueqiu.com/1170975436/217629691)
 
-   我能逆袭：投资，是我为人生开的一扇窗 [read](http://xueqiu.com/1876906471/217547720)
+   基金投资要不要长期持有？顶流们也开始反思了 [read](http://xueqiu.com/8858187812/217747477)
 
-   逆向低估策略，现在值得入手吗？ [read](http://xueqiu.com/9047540546/217559647)
+   翻译翻译，什么叫便宜 [read](http://xueqiu.com/5000499189/217685216)
 
 ### 学习类
+
+   💻 Issue 304 - Bevy 0.7 [read](https://rust.libhunt.com/newsletter/304)
 
    💻 Issue 303 - How to speed up the Rust compiler in April 2022 [read](https://rust.libhunt.com/newsletter/303)
 
    💻 Issue 302 - Rust Lang Roadmap for 2024 \| Inside Rust Blog [read](https://rust.libhunt.com/newsletter/302)
 
-   💻 Issue 301 - C Isn't A Programming Language Anymore - Faultlore [read](https://rust.libhunt.com/newsletter/301)
+   This Week in Rust 439 [read](https://this-week-in-rust.org/blog/2022/04/20/this-week-in-rust-439/)
 
    This Week in Rust 438 [read](https://this-week-in-rust.org/blog/2022/04/13/this-week-in-rust-438/)
 
    This Week in Rust 437 [read](https://this-week-in-rust.org/blog/2022/04/06/this-week-in-rust-437/)
-
-   This Week in Rust 436 [read](https://this-week-in-rust.org/blog/2022/03/30/this-week-in-rust-436/)
 
    “一把梭：REST API 全用 POST” [read](https://coolshell.cn/articles/22173.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Kunst und Literatur am Bodensee - Catalogue [read](https://www.behance.net/gallery/141259133/Kunst-und-Literatur-am-Bodensee-Catalogue)
+   VIDA [read](https://www.behance.net/gallery/141055177/VIDA)
 
-   The Cliff [read](https://www.behance.net/gallery/141687003/The-Cliff)
+   Metaverse Scenarios [read](https://www.behance.net/gallery/142056533/Metaverse-Scenarios)
 
-   re_ grocery [read](https://www.behance.net/gallery/141820803/re_-grocery)
+   N27 Font [read](https://www.behance.net/gallery/140493825/N27-Font)
 
    Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
 
@@ -140,17 +140,17 @@ title: "今日资讯"
 
    Drawing History with Wiki Unseen [read](https://medium.com/behance-blog/drawing-history-with-wiki-unseen-5b8e35bfd8a3?source=rss-f5272b7f3182------2)
 
+   Pinterest hosts first-ever global day of service [read](https://newsroom.pinterest.com/en/post/pinterest-hosts-first-ever-global-day-of-service)
+
    Pinterest 2021 Inclusion & Diversity Report [read](https://newsroom.pinterest.com/en/post/pinterest-2021-inclusion-diversity-report)
 
    Combating climate misinformation on Pinterest [read](https://newsroom.pinterest.com/en/post/combating-climate-misinformation-on-pinterest)
 
-   Introducing PinFlex, an inspiring work model for our employees [read](https://newsroom.pinterest.com/en/post/introducing-pinflex-an-inspiring-work-model-for-our-employees)
+   泰有意，创未来！2022「亿联华东大峡谷杯」泰顺县文创设计大赛作品征集启动 [read](https://www.uisdc.com/taishun-cultural-design-competition-2022)
 
    5000字干货！为什么你做的「用户画像」是一页废纸？ [read](https://www.uisdc.com/user-research-2)
 
    可视化大屏不会做？这篇 UI 设计指南总结了7个重要知识点！ [read](https://www.uisdc.com/visual-design-guide-2)
-
-   网站也有博物馆！20年前Netflix居然是出租DVD的…… [read](https://www.uisdc.com/museum-of-websites)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
