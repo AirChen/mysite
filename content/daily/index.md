@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.IcelandicSummer_EN-US6680616324_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.EarthDay2022_EN-US1806321261_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 203 期）：英国的名校签证，伯克利的计算机教育 [read](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-203.html)
+   科技爱好者周刊（第 204 期）：如何度过疫情、裁员、还有战争 [read](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-204.html)
 
-   科技爱好者周刊（第 202 期）：三个有启发的学习方法 [read](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-202.html)
+   科技爱好者周刊（第 203 期）：英国的名校签证，伯克利的计算机教育 [read](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-203.html)
 
    蒙皮数据的压缩 [read](https://blog.codingnow.com/2022/04/vertex_blend_attribute_compression.html)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 443 期 [read](https://weekly.75.team/issue443.html)
+
    奇舞周刊第 442 期 [read](https://weekly.75.team/issue442.html)
 
    奇舞周刊第 441 期 [read](https://weekly.75.team/issue441.html)
-
-   奇舞周刊第 440 期 [read](https://weekly.75.team/issue440.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -54,11 +54,11 @@ title: "今日资讯"
 
    \[原\]字节跳动智能创作团队多篇论文入选 CVPR 2022 [read](https://blog.csdn.net/ByteDanceTech/article/details/124161874)
 
+   Linux下跨语言调用C++实践 [read](https://tech.meituan.com/2022/04/21/cross-language-call.html)
+
+   基于代价的慢查询优化建议 [read](https://tech.meituan.com/2022/04/21/slow-query-optimized-advice-driven-by-cost-model.html)
+
    知识图谱可视化技术在美团的实践与探索 [read](https://tech.meituan.com/2022/04/14/the-practice-and-exploration-of-knowledge-graph-visualization-technology-in-meituan.html)
-
-   短视频内容理解与生成技术在美团的创新实践 [read](https://tech.meituan.com/2022/04/14/the-innovation-practice-of-short-video-understanding-and-generation-in-meituan.html)
-
-   Linux中基于eBPF的恶意利用与检测机制 [read](https://tech.meituan.com/2022/04/07/how-to-detect-bad-ebpf-used-in-linux.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   因不送充电器被罚7000，苹果是环保还是抢钱？ [read](http://www.huxiu.com/article/535545.html?f=wangzhan)
+   车市2022：相比产不出来，更难的是卖不出去？ [read](http://www.huxiu.com/article/536379.html?f=wangzhan)
 
-   长城眼里没有“蔚小理”，只有特斯拉 [read](http://www.huxiu.com/article/533475.html?f=wangzhan)
+   一个跨境小卖家的三次创业 [read](http://www.huxiu.com/article/536322.html?f=wangzhan)
 
-   社保养老金入不敷出，这代父母的退休钱谁付？ [read](http://www.huxiu.com/article/534986.html?f=wangzhan)
+   票价越涨越离谱，电影行业开始摆烂？ [read](http://www.huxiu.com/article/535850.html?f=wangzhan)
 
-   36氪研究院 \| 2022年中国辅助生殖行业洞察报告 [read](https://36kr.com/p/1708300107863814)
+   2022读书人版MBTI，测测你的隐藏人格（内含书单推荐） [read](https://36kr.com/p/1709726120613638)
 
-   上市以来净利润首次下滑 保利仍想重回前三 \| 年报时氪 [read](https://36kr.com/p/1708267343222530)
+   健身博主刘畊宏，要抢李佳琦的流量？ [read](https://36kr.com/p/1709613912659713)
 
-   越老越值钱，民营老字号成年轻人的「理想公司」？ [read](https://36kr.com/p/1708234939258631)
+   36碳周报 \| 宁德时代否认发布新的动力电池技术；阳光能源大跌；亚马逊全球新增37个可再生能源项目 [read](https://36kr.com/p/1709657568089604)
 
    WWW 2022 \| 一文解读互联网技术国际顶会最新方向 [read](https://www.msra.cn/zh-cn/news/features/www-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    如何将学术经历整合为求职简历？CS求职必备的5个小技巧 [read](https://www.msra.cn/zh-cn/news/features/five-ways-your-academic-research-skills-transfer-to-industry)
 
-   小米 Civi 1S 上手：依旧 2299 元起售，却有更好的自拍效果和性能 [read](http://www.geekpark.net/news/301160)
+   Nothing Ear (1) 黑色特别版：站在时尚与科技的路口 [read](http://www.geekpark.net/news/301215)
 
-   一加 Ace 体验：天玑 8100 MAX 特调芯片，还是游戏手机？ [read](http://www.geekpark.net/news/301162)
+   别冲动！买电车前这些问题你要想清楚 [read](http://www.geekpark.net/news/301295)
 
-   40 亿就能「造车」，新造车的「低门槛」时代要来了？ [read](http://www.geekpark.net/news/301187)
+   知乎二次上市，创始人周源到底在想什么？ [read](http://www.geekpark.net/news/301289)
 
 ### 金融类
 
-   特斯拉可能明年就30PE了 [read](http://xueqiu.com/1170975436/217629691)
+   华友钴业2021年报快速扫描 [read](http://xueqiu.com/8695879576/217905779)
 
-   基金投资要不要长期持有？顶流们也开始反思了 [read](http://xueqiu.com/8858187812/217747477)
+   一种适合普通家庭的简单的永久投资组合 [read](http://xueqiu.com/7082958956/217854927)
 
-   翻译翻译，什么叫便宜 [read](http://xueqiu.com/5000499189/217685216)
+   招商银行2022年一季度报点评：横向比较依旧优秀 [read](http://xueqiu.com/8534614057/217892514)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   VIDA [read](https://www.behance.net/gallery/141055177/VIDA)
+   Double Bind, Juan Muñoz [read](https://www.behance.net/gallery/141974521/Double-Bind-Juan-Munoz)
 
-   Metaverse Scenarios [read](https://www.behance.net/gallery/142056533/Metaverse-Scenarios)
+   Illustration 2022 \| vol.2 [read](https://www.behance.net/gallery/142047143/Illustration-2022-vol2)
 
-   N27 Font [read](https://www.behance.net/gallery/140493825/N27-Font)
+   Denton Superfamily [read](https://www.behance.net/gallery/142084519/Denton-Superfamily)
 
    Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Combating climate misinformation on Pinterest [read](https://newsroom.pinterest.com/en/post/combating-climate-misinformation-on-pinterest)
 
-   泰有意，创未来！2022「亿联华东大峡谷杯」泰顺县文创设计大赛作品征集启动 [read](https://www.uisdc.com/taishun-cultural-design-competition-2022)
+   一把椅子传百年！5 把大师设计的经典椅子科普 [read](https://www.uisdc.com/masters-chairs)
 
-   5000字干货！为什么你做的「用户画像」是一页废纸？ [read](https://www.uisdc.com/user-research-2)
+   让头像秒变美式插画风！免费头像生成器「NewProfilePic」 [read](https://www.uisdc.com/newprofilepic)
 
-   可视化大屏不会做？这篇 UI 设计指南总结了7个重要知识点！ [read](https://www.uisdc.com/visual-design-guide-2)
+   有她能量，更有她颜值！靳刘高设计打造东鹏「她能」全新包装 [read](https://www.uisdc.com/she-can-2022)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
