@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.TheEye_EN-US1955504804_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.YosemiteNightSky_EN-US2099671650_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   美食荒漠城市，北京杭州谁是第一？ [read](http://www.huxiu.com/article/538166.html?f=wangzhan)
+
+   调休，为什么不被买账了？ [read](http://www.huxiu.com/article/538161.html?f=wangzhan)
+
    蔚小理结束蜜月期 [read](http://www.huxiu.com/article/537181.html?f=wangzhan)
 
-   元宇宙真需要自己的芯片？ [read](http://www.huxiu.com/article/537152.html?f=wangzhan)
+   「NEXTA创新夜谈」元宇宙与新能源趋势的交叠：车机会是新时代的流量入口吗？ [read](https://36kr.com/p/1712373941671425)
 
-   留给造车新势力的时间不多了 [read](http://www.huxiu.com/article/527640.html?f=wangzhan)
+   氪星晚报丨腾讯地图上线“疫情区域导航规避”功能；全球首个月壤数字藏品限量发行；蜜雪冰城入股炸鸡店 [read](https://36kr.com/p/1712412187334148)
 
-   中国探月航天推出以月壤为原型的数字藏品；中国东北老工业基地开启大面积智慧农场建设项目 \| 36氪大公司数字创新指南0422 [read](https://36kr.com/p/1709917058733575)
-
-   本周国内融资金额超52.68亿元人民币，过亿元融资交易达14笔 \| TO B投融资周报0415-0421 [read](https://36kr.com/p/1710608188151300)
-
-   9点1氪 \| 辛巴回应售卖假货瑜伽裤；官方回应女子称羡慕按时发工资被开除；快手原副总裁赵丹阳一审获刑七年 [read](https://36kr.com/p/1710572525852420)
+   国外创投新闻 \| 网络安全测试平台「Strike Security」获540万美元种子轮融资，将用于开发拉美地区市场 [read](https://36kr.com/p/1712278202504969)
 
    WWW 2022 \| 一文解读互联网技术国际顶会最新方向 [read](https://www.msra.cn/zh-cn/news/features/www-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    如何将学术经历整合为求职简历？CS求职必备的5个小技巧 [read](https://www.msra.cn/zh-cn/news/features/five-ways-your-academic-research-skills-transfer-to-industry)
 
+   社交媒体，是什么时候开始变坏的？ [read](http://www.geekpark.net/news/301314)
+
+   马斯克怒怼盖茨「怀孕男」，因其持 5 亿美元特斯拉空头；Meta 暂停开发 AR 眼镜处理器；俞敏洪：没开除过罗永浩 [read](http://www.geekpark.net/news/301324)
+
    极客博物馆｜魅族 15 背后的二三事，精心打磨却毁于内斗 [read](http://www.geekpark.net/news/301319)
-
-   卖一辆车净赚 1.2 万美元，马斯克却说这是「艰难的一季」 [read](http://www.geekpark.net/news/301322)
-
-   快手前副总裁巨额受贿案宣判；华为 Mate Xs 2 折叠屏手机现已上架预约；3 月南极洲出现极端高温 海冰面积缩小至历史新低｜极客早知道 [read](http://www.geekpark.net/news/301317)
 
 ### 金融类
 
-   磷铵成本测算 [read](http://xueqiu.com/1334009554/217948695)
+   科卢韦齐——紫金矿业迈向全球铜矿巨头的第一步 [read](http://xueqiu.com/9794771369/217991463)
 
-   锂矿的冰与火之歌 [read](http://xueqiu.com/6498120968/217952584)
+   基金一季报图谱：哪些基金被基民疯狂抄底？哪些又在被甩卖？ [read](http://xueqiu.com/1102545823/217986831)
 
-   A股第一大牛股涨了3600多倍，居然不是茅台？ [read](http://xueqiu.com/3300641942/217902035)
+   连续7年同类前50%的基金 [read](http://xueqiu.com/1762638610/217987460)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Schulhaus Tirol [read](https://www.behance.net/gallery/137369551/Schulhaus-Tirol)
+   MACAO DESIGN WEEK 2021 [read](https://www.behance.net/gallery/141714497/MACAO-DESIGN-WEEK-2021)
 
-   FINANCIAL TIME CLIMATE CHANGE [read](https://www.behance.net/gallery/142233925/FINANCIAL-TIME-CLIMATE-CHANGE)
+   Genesi [read](https://www.behance.net/gallery/142219577/Genesi)
 
-   Saut Hermès 2022 [read](https://www.behance.net/gallery/141673799/Saut-Hermes-2022)
+   VITURE ONE [read](https://www.behance.net/gallery/142140127/VITURE-ONE)
 
    Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
 
