@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.YosemiteNightSky_EN-US2099671650_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ThreeKings_EN-US2202898186_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   美食荒漠城市，北京杭州谁是第一？ [read](http://www.huxiu.com/article/538166.html?f=wangzhan)
+   自动注射器的触发原理，原来这么简单 [read](http://www.huxiu.com/article/538427.html?f=wangzhan)
 
-   调休，为什么不被买账了？ [read](http://www.huxiu.com/article/538161.html?f=wangzhan)
+   谁在决定明星的商业价值？ [read](http://www.huxiu.com/article/538641.html?f=wangzhan)
 
-   蔚小理结束蜜月期 [read](http://www.huxiu.com/article/537181.html?f=wangzhan)
+   疫情中的上海汽车：复产了，但没完全复 [read](http://www.huxiu.com/article/538020.html?f=wangzhan)
 
-   「NEXTA创新夜谈」元宇宙与新能源趋势的交叠：车机会是新时代的流量入口吗？ [read](https://36kr.com/p/1712373941671425)
+   最前线｜字节跳动迎来新任CFO，或将重启上市 [read](https://36kr.com/p/1714053364625929)
 
-   氪星晚报丨腾讯地图上线“疫情区域导航规避”功能；全球首个月壤数字藏品限量发行；蜜雪冰城入股炸鸡店 [read](https://36kr.com/p/1712412187334148)
+   “天坑”vs“填坑”，外语专业何去何从？｜职人群像 [read](https://36kr.com/p/1713962438701570)
 
-   国外创投新闻 \| 网络安全测试平台「Strike Security」获540万美元种子轮融资，将用于开发拉美地区市场 [read](https://36kr.com/p/1712278202504969)
+   氪星晚报丨消息称马斯克就430亿美元收购要约与Twitter管理人士会谈；消息称iPhone 14规格大升级，韩国零组件供应商或将更多受益 [read](https://36kr.com/p/1713930377785859)
 
    WWW 2022 \| 一文解读互联网技术国际顶会最新方向 [read](https://www.msra.cn/zh-cn/news/features/www-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    如何将学术经历整合为求职简历？CS求职必备的5个小技巧 [read](https://www.msra.cn/zh-cn/news/features/five-ways-your-academic-research-skills-transfer-to-industry)
 
-   社交媒体，是什么时候开始变坏的？ [read](http://www.geekpark.net/news/301314)
+   vivo X80 Pro 评测：用上全新 V1+ 自研芯片，会「再一次」成为年度影像旗舰吗？ [read](http://www.geekpark.net/news/301281)
 
-   马斯克怒怼盖茨「怀孕男」，因其持 5 亿美元特斯拉空头；Meta 暂停开发 AR 眼镜处理器；俞敏洪：没开除过罗永浩 [read](http://www.geekpark.net/news/301324)
+   接手淘宝、天猫 4 个月，戴珊带来了哪些改变 [read](http://www.geekpark.net/news/301394)
 
-   极客博物馆｜魅族 15 背后的二三事，精心打磨却毁于内斗 [read](http://www.geekpark.net/news/301319)
+   极客简报｜ 苹果称取消充电器很大胆；中国统一快充标准产品发布；华为盯上了联想的蛋糕 [read](http://www.geekpark.net/news/301312)
 
 ### 金融类
 
-   科卢韦齐——紫金矿业迈向全球铜矿巨头的第一步 [read](http://xueqiu.com/9794771369/217991463)
+   悲观者短期正确，乐观者赢得未来 [read](http://xueqiu.com/1686401828/218099321)
 
-   基金一季报图谱：哪些基金被基民疯狂抄底？哪些又在被甩卖？ [read](http://xueqiu.com/1102545823/217986831)
+   【有奖征集】8只逆势抗跌债基邀你来测评 [read](http://xueqiu.com/8152922548/218123651)
 
-   连续7年同类前50%的基金 [read](http://xueqiu.com/1762638610/217987460)
+   盘点一下自己的基金持仓 [read](http://xueqiu.com/2356382715/218034029)
 
 ### 学习类
 
@@ -128,17 +128,17 @@ title: "今日资讯"
 
 ### 设计类
 
-   MACAO DESIGN WEEK 2021 [read](https://www.behance.net/gallery/141714497/MACAO-DESIGN-WEEK-2021)
+   Saga [read](https://www.behance.net/gallery/140212217/Saga)
 
-   Genesi [read](https://www.behance.net/gallery/142219577/Genesi)
+   Anthropocene [read](https://www.behance.net/gallery/140351539/Anthropocene)
 
-   VITURE ONE [read](https://www.behance.net/gallery/142140127/VITURE-ONE)
+   nomos ? Universal Device Connection [read](https://www.behance.net/gallery/117012933/nomos-Universal-Device-Connection)
+
+   Meet This Month’s Guest Curator: Paolo Pettigiani [read](https://medium.com/behance-blog/meet-this-months-guest-curator-paolo-pettigiani-2e6eb34415c4?source=rss-f5272b7f3182------2)
 
    Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
 
    Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
-
-   Drawing History with Wiki Unseen [read](https://medium.com/behance-blog/drawing-history-with-wiki-unseen-5b8e35bfd8a3?source=rss-f5272b7f3182------2)
 
    Pinterest hosts first-ever global day of service [read](https://newsroom.pinterest.com/en/post/pinterest-hosts-first-ever-global-day-of-service)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Combating climate misinformation on Pinterest [read](https://newsroom.pinterest.com/en/post/combating-climate-misinformation-on-pinterest)
 
-   58UXD 2021-2022 设计年鉴 [read](https://www.uisdc.com/58uxd-2022)
+   200W人同时在线，刘畊宏直播健身是如何让人疯狂上瘾的？ [read](https://www.uisdc.com/liugenghong-studio-design)
 
-   从三大模型入手，拆解微信读书的11种营销玩法设计 [read](https://www.uisdc.com/wechat-read)
+   封神的诺兰版《蝙蝠侠》里，导演亲手捏出了蝙蝠车 [read](https://www.uisdc.com/create-batmobile-3)
 
-   通俗易懂！用超多案例帮你掌握「透视」知识点 [read](https://www.uisdc.com/perspective)
+   有案例有方法！帮你完全掌握热门的极光风设计趋势 [read](https://www.uisdc.com/aurora-ui-design-trend)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
