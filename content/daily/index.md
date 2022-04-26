@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ThreeKings_EN-US2202898186_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WalkingCentral_EN-US2266373197_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,37 +68,37 @@ title: "今日资讯"
 
 ### 互联网类
 
-   自动注射器的触发原理，原来这么简单 [read](http://www.huxiu.com/article/538427.html?f=wangzhan)
+   聊聊消费主义：100块的耳机怎么就配不上你了？ [read](http://www.huxiu.com/article/540304.html?f=wangzhan)
 
-   谁在决定明星的商业价值？ [read](http://www.huxiu.com/article/538641.html?f=wangzhan)
+   空战中的黑烟，原来是这么来的 [read](http://www.huxiu.com/article/539873.html?f=wangzhan)
 
-   疫情中的上海汽车：复产了，但没完全复 [read](http://www.huxiu.com/article/538020.html?f=wangzhan)
+   越南许家印，要给拜登造车 [read](http://www.huxiu.com/article/536823.html?f=wangzhan)
 
-   最前线｜字节跳动迎来新任CFO，或将重启上市 [read](https://36kr.com/p/1714053364625929)
+   打工人破防瞬间：打开冰箱，发现没地方囤货了｜冰箱囤货小调查 [read](https://36kr.com/p/1715520065073666)
 
-   “天坑”vs“填坑”，外语专业何去何从？｜职人群像 [read](https://36kr.com/p/1713962438701570)
+   国外创投新闻 \| 渔业采购平台「Rooser」在A轮融资中获2300万美元投资，将用于拓展欧洲市场 [read](https://36kr.com/p/1715370231362307)
 
-   氪星晚报丨消息称马斯克就430亿美元收购要约与Twitter管理人士会谈；消息称iPhone 14规格大升级，韩国零组件供应商或将更多受益 [read](https://36kr.com/p/1713930377785859)
+   氪星晚报丨小米有品再迎架构调整：并入中国区后，总经理更换；科兴奥密克戎株新冠疫苗在内地获批临床研究 [read](https://36kr.com/p/1715351421891331)
+
+   ICLR 2022 \| 微软亚洲研究院深度学习领域最新研究成果一览 [read](https://www.msra.cn/zh-cn/news/features/iclr-2022)
 
    WWW 2022 \| 一文解读互联网技术国际顶会最新方向 [read](https://www.msra.cn/zh-cn/news/features/www-2022)
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
-   如何将学术经历整合为求职简历？CS求职必备的5个小技巧 [read](https://www.msra.cn/zh-cn/news/features/five-ways-your-academic-research-skills-transfer-to-industry)
+   5 个月跌去 6000 亿，宁德时代怎么了？ [read](http://www.geekpark.net/news/301469)
+
+   Twitter 接受马斯克收购要约；字节公布新任 CFO；Meta 开首家元宇宙线下实体店 [read](http://www.geekpark.net/news/301440)
 
    vivo X80 Pro 评测：用上全新 V1+ 自研芯片，会「再一次」成为年度影像旗舰吗？ [read](http://www.geekpark.net/news/301281)
 
-   接手淘宝、天猫 4 个月，戴珊带来了哪些改变 [read](http://www.geekpark.net/news/301394)
-
-   极客简报｜ 苹果称取消充电器很大胆；中国统一快充标准产品发布；华为盯上了联想的蛋糕 [read](http://www.geekpark.net/news/301312)
-
 ### 金融类
 
-   悲观者短期正确，乐观者赢得未来 [read](http://xueqiu.com/1686401828/218099321)
+   茅指数成分股 最新估值与2018年熊市估值水平对比 [read](http://xueqiu.com/8628686400/218244985)
 
-   【有奖征集】8只逆势抗跌债基邀你来测评 [read](http://xueqiu.com/8152922548/218123651)
+   熊市半仓绿电退可守进可攻 [read](http://xueqiu.com/8895446470/218292990)
 
-   盘点一下自己的基金持仓 [read](http://xueqiu.com/2356382715/218034029)
+   苍天有眼—长春高新的投资价值一定会让更多的人看得见—多头没有投降 [read](http://xueqiu.com/2586477380/218191669)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Saga [read](https://www.behance.net/gallery/140212217/Saga)
+   MANIFIESTO? · Branding [read](https://www.behance.net/gallery/137929017/MANIFIESTO-Branding)
 
-   Anthropocene [read](https://www.behance.net/gallery/140351539/Anthropocene)
+   2022 SPRING [read](https://www.behance.net/gallery/142329755/2022-SPRING)
 
-   nomos ? Universal Device Connection [read](https://www.behance.net/gallery/117012933/nomos-Universal-Device-Connection)
+   Readydok Digital World [read](https://www.behance.net/gallery/97394265/Readydok-Digital-World)
 
    Meet This Month’s Guest Curator: Paolo Pettigiani [read](https://medium.com/behance-blog/meet-this-months-guest-curator-paolo-pettigiani-2e6eb34415c4?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Combating climate misinformation on Pinterest [read](https://newsroom.pinterest.com/en/post/combating-climate-misinformation-on-pinterest)
 
+   设计师最关注的12个版权问题，我们邀请了腾讯法务为你解答！ [read](https://www.uisdc.com/tencent-and-uisdc)
+
+   自由职业4年多，我总结了完整的私单合作流程 [read](https://www.uisdc.com/business-illustration-process)
+
    200W人同时在线，刘畊宏直播健身是如何让人疯狂上瘾的？ [read](https://www.uisdc.com/liugenghong-studio-design)
-
-   封神的诺兰版《蝙蝠侠》里，导演亲手捏出了蝙蝠车 [read](https://www.uisdc.com/create-batmobile-3)
-
-   有案例有方法！帮你完全掌握热门的极光风设计趋势 [read](https://www.uisdc.com/aurora-ui-design-trend)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
