@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WalkingCentral_EN-US2266373197_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SvalbardSun_EN-US2348209213_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]一文读懂全球化系统中的日期时间处理问题 [read](https://blog.csdn.net/ByteDanceTech/article/details/124395470)
+
    \[原\]DanceNN：字节自研千亿级规模文件元数据存储系统概述 [read](https://blog.csdn.net/ByteDanceTech/article/details/124311314)
 
    \[原\]实战！如何从零搭建10万级 QPS 大流量、高并发优惠券系统 [read](https://blog.csdn.net/ByteDanceTech/article/details/124207051)
-
-   \[原\]字节跳动智能创作团队多篇论文入选 CVPR 2022 [read](https://blog.csdn.net/ByteDanceTech/article/details/124161874)
 
    Linux下跨语言调用C++实践 [read](https://tech.meituan.com/2022/04/21/cross-language-call.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   聊聊消费主义：100块的耳机怎么就配不上你了？ [read](http://www.huxiu.com/article/540304.html?f=wangzhan)
+   拯救地球，不能光靠捡垃圾 [read](http://www.huxiu.com/article/540209.html?f=wangzhan)
 
-   空战中的黑烟，原来是这么来的 [read](http://www.huxiu.com/article/539873.html?f=wangzhan)
+   “老实人”在中国车市活不下去 [read](http://www.huxiu.com/article/541127.html?f=wangzhan)
 
-   越南许家印，要给拜登造车 [read](http://www.huxiu.com/article/536823.html?f=wangzhan)
+   这把高端局，中国手机怎么赢？ [read](http://www.huxiu.com/article/540372.html?f=wangzhan)
 
-   打工人破防瞬间：打开冰箱，发现没地方囤货了｜冰箱囤货小调查 [read](https://36kr.com/p/1715520065073666)
+   思摩尔第二大股东拟减持套现30.7亿元股票 [read](https://36kr.com/p/1716847505453570)
 
-   国外创投新闻 \| 渔业采购平台「Rooser」在A轮融资中获2300万美元投资，将用于拓展欧洲市场 [read](https://36kr.com/p/1715370231362307)
+   36氪首发 \| TPG上善睿思气候基金完成73亿美元募资，将影响力投资量化 [read](https://36kr.com/p/1716897761669888)
 
-   氪星晚报丨小米有品再迎架构调整：并入中国区后，总经理更换；科兴奥密克戎株新冠疫苗在内地获批临床研究 [read](https://36kr.com/p/1715351421891331)
+   卫健委首次牵头 针对无锡二孩家庭放松楼市限购 [read](https://36kr.com/p/1716750309290756)
 
    ICLR 2022 \| 微软亚洲研究院深度学习领域最新研究成果一览 [read](https://www.msra.cn/zh-cn/news/features/iclr-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
-   5 个月跌去 6000 亿，宁德时代怎么了？ [read](http://www.geekpark.net/news/301469)
+   马斯克买下推特后，特斯拉一夜跌去 1260 亿美元 [read](http://www.geekpark.net/news/301555)
 
-   Twitter 接受马斯克收购要约；字节公布新任 CFO；Meta 开首家元宇宙线下实体店 [read](http://www.geekpark.net/news/301440)
+   vivo X80 体验：天玑 9000 配 V1+ 芯片，用起来怎么样？ [read](http://www.geekpark.net/news/301491)
 
-   vivo X80 Pro 评测：用上全新 V1+ 自研芯片，会「再一次」成为年度影像旗舰吗？ [read](http://www.geekpark.net/news/301281)
+   为什么电车那么容易「刹车失灵」？ [read](http://www.geekpark.net/news/301492)
 
 ### 金融类
 
-   茅指数成分股 最新估值与2018年熊市估值水平对比 [read](http://xueqiu.com/8628686400/218244985)
+   隆基21年度及22年Q1业绩交流会 [read](http://xueqiu.com/2329376168/218504717)
 
-   熊市半仓绿电退可守进可攻 [read](http://xueqiu.com/8895446470/218292990)
+   userfield谈HPV疫苗投资 [read](http://xueqiu.com/4777061674/218397317)
 
-   苍天有眼—长春高新的投资价值一定会让更多的人看得见—多头没有投降 [read](http://xueqiu.com/2586477380/218191669)
+   对华侨城不乐观也不悲观 [read](http://xueqiu.com/1640032716/218344748)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   MANIFIESTO? · Branding [read](https://www.behance.net/gallery/137929017/MANIFIESTO-Branding)
+   Personal project?FULLNESS [read](https://www.behance.net/gallery/141891163/Personal-projectFULLNESS)
 
-   2022 SPRING [read](https://www.behance.net/gallery/142329755/2022-SPRING)
+   Snaps \| Rebrand identity [read](https://www.behance.net/gallery/140470765/Snaps-Rebrand-identity)
 
-   Readydok Digital World [read](https://www.behance.net/gallery/97394265/Readydok-Digital-World)
+   Microsoft UX Themes [read](https://www.behance.net/gallery/142475635/Microsoft-UX-Themes)
 
    Meet This Month’s Guest Curator: Paolo Pettigiani [read](https://medium.com/behance-blog/meet-this-months-guest-curator-paolo-pettigiani-2e6eb34415c4?source=rss-f5272b7f3182------2)
 
@@ -140,17 +140,17 @@ title: "今日资讯"
 
    Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
+   Wedding season is back and Pinterest is inspiring a new look to walking down the aisle [read](https://newsroom.pinterest.com/en/post/wedding-season-is-back-and-pinterest-is-inspiring-a-new-look-to-walking-down-the-aisle)
+
    Pinterest hosts first-ever global day of service [read](https://newsroom.pinterest.com/en/post/pinterest-hosts-first-ever-global-day-of-service)
 
    Pinterest 2021 Inclusion & Diversity Report [read](https://newsroom.pinterest.com/en/post/pinterest-2021-inclusion-diversity-report)
 
-   Combating climate misinformation on Pinterest [read](https://newsroom.pinterest.com/en/post/combating-climate-misinformation-on-pinterest)
+   第三波！2022年4月精选实用设计干货合集 [read](https://www.uisdc.com/2022-4-design-resources-vol3)
 
-   设计师最关注的12个版权问题，我们邀请了腾讯法务为你解答！ [read](https://www.uisdc.com/tencent-and-uisdc)
+   这 5 位优秀的贴纸设计艺术家，是我每日学习的源泉！ [read](https://www.uisdc.com/sticker-design-2)
 
-   自由职业4年多，我总结了完整的私单合作流程 [read](https://www.uisdc.com/business-illustration-process)
-
-   200W人同时在线，刘畊宏直播健身是如何让人疯狂上瘾的？ [read](https://www.uisdc.com/liugenghong-studio-design)
+   4500字干货！写给设计师的微文案设计指南 [read](https://www.uisdc.com/microcopy)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
