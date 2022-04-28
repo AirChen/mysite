@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SvalbardSun_EN-US2348209213_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FoxSkills_EN-US2404818455_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]打造 Go 语言最快的排序算法 [read](https://blog.csdn.net/ByteDanceTech/article/details/124464192)
+
    \[原\]一文读懂全球化系统中的日期时间处理问题 [read](https://blog.csdn.net/ByteDanceTech/article/details/124395470)
 
    \[原\]DanceNN：字节自研千亿级规模文件元数据存储系统概述 [read](https://blog.csdn.net/ByteDanceTech/article/details/124311314)
-
-   \[原\]实战！如何从零搭建10万级 QPS 大流量、高并发优惠券系统 [read](https://blog.csdn.net/ByteDanceTech/article/details/124207051)
 
    Linux下跨语言调用C++实践 [read](https://tech.meituan.com/2022/04/21/cross-language-call.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   拯救地球，不能光靠捡垃圾 [read](http://www.huxiu.com/article/540209.html?f=wangzhan)
+   整个春天，让限定樱花味儿骗的团团转 [read](http://www.huxiu.com/article/542193.html?f=wangzhan)
 
-   “老实人”在中国车市活不下去 [read](http://www.huxiu.com/article/541127.html?f=wangzhan)
+   长城错失的十年：误判、掉队与追赶 [read](http://www.huxiu.com/article/541773.html?f=wangzhan)
 
-   这把高端局，中国手机怎么赢？ [read](http://www.huxiu.com/article/540372.html?f=wangzhan)
+   字节试图“惊险一跳”？ [read](http://www.huxiu.com/article/541307.html?f=wangzhan)
 
-   思摩尔第二大股东拟减持套现30.7亿元股票 [read](https://36kr.com/p/1716847505453570)
+   最前线 \| 马斯克赞助的减碳大赛公布获奖队伍，两只中国团队入选60强 [read](https://36kr.com/p/1714555791716871)
 
-   36氪首发 \| TPG上善睿思气候基金完成73亿美元募资，将影响力投资量化 [read](https://36kr.com/p/1716897761669888)
+   最前线丨高通第二财季营收111.6亿美元，同比增长41%，创历史新高 [read](https://36kr.com/p/1718198814931976)
 
-   卫健委首次牵头 针对无锡二孩家庭放松楼市限购 [read](https://36kr.com/p/1716750309290756)
+   最前线｜百度、小马智行在京开启无人化Robotaxi示范应用，自动驾驶步入商业化前夜 [read](https://36kr.com/p/1718109404003586)
 
    ICLR 2022 \| 微软亚洲研究院深度学习领域最新研究成果一览 [read](https://www.msra.cn/zh-cn/news/features/iclr-2022)
 
@@ -86,33 +86,33 @@ title: "今日资讯"
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
-   马斯克买下推特后，特斯拉一夜跌去 1260 亿美元 [read](http://www.geekpark.net/news/301555)
+   华为 WATCH GT 3 Pro：专注运动健康，抬腕也更有面儿 [read](http://www.geekpark.net/news/301641)
 
-   vivo X80 体验：天玑 9000 配 V1+ 芯片，用起来怎么样？ [read](http://www.geekpark.net/news/301491)
+   华为 Mate Xs 2 图赏：售价 9999 起，最轻薄的大尺寸折叠屏旗舰 [read](http://www.geekpark.net/news/301637)
 
-   为什么电车那么容易「刹车失灵」？ [read](http://www.geekpark.net/news/301492)
+   Twitter 往事：马斯克的 Web3 野心，多西的「十年复仇」 [read](http://www.geekpark.net/news/301594)
 
 ### 金融类
 
-   隆基21年度及22年Q1业绩交流会 [read](http://xueqiu.com/2329376168/218504717)
+   重资产的迷思 [read](http://xueqiu.com/6832369826/218569632)
 
-   userfield谈HPV疫苗投资 [read](http://xueqiu.com/4777061674/218397317)
+   片仔癀是一门什么样的生意？ [read](http://xueqiu.com/6572050310/218523228)
 
-   对华侨城不乐观也不悲观 [read](http://xueqiu.com/1640032716/218344748)
+   煤炭板块的成长性 [read](http://xueqiu.com/1303105348/218495261)
 
 ### 学习类
+
+   💻 Issue 305 - Rust9x: Compile Rust code for Windows 95, NT and above [read](https://rust.libhunt.com/newsletter/305)
 
    💻 Issue 304 - Bevy 0.7 [read](https://rust.libhunt.com/newsletter/304)
 
    💻 Issue 303 - How to speed up the Rust compiler in April 2022 [read](https://rust.libhunt.com/newsletter/303)
 
-   💻 Issue 302 - Rust Lang Roadmap for 2024 \| Inside Rust Blog [read](https://rust.libhunt.com/newsletter/302)
+   This Week in Rust 440 [read](https://this-week-in-rust.org/blog/2022/04/27/this-week-in-rust-440/)
 
    This Week in Rust 439 [read](https://this-week-in-rust.org/blog/2022/04/20/this-week-in-rust-439/)
 
    This Week in Rust 438 [read](https://this-week-in-rust.org/blog/2022/04/13/this-week-in-rust-438/)
-
-   This Week in Rust 437 [read](https://this-week-in-rust.org/blog/2022/04/06/this-week-in-rust-437/)
 
    “一把梭：REST API 全用 POST” [read](https://coolshell.cn/articles/22173.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Personal project?FULLNESS [read](https://www.behance.net/gallery/141891163/Personal-projectFULLNESS)
+   Cactus Collective [read](https://www.behance.net/gallery/142636531/Cactus-Collective)
 
-   Snaps \| Rebrand identity [read](https://www.behance.net/gallery/140470765/Snaps-Rebrand-identity)
+   TERRAIN [read](https://www.behance.net/gallery/137411639/TERRAIN)
 
-   Microsoft UX Themes [read](https://www.behance.net/gallery/142475635/Microsoft-UX-Themes)
+   Shenzhen Esports Association?SEA? [read](https://www.behance.net/gallery/140138307/Shenzhen-Esports-AssociationSEA)
 
    Meet This Month’s Guest Curator: Paolo Pettigiani [read](https://medium.com/behance-blog/meet-this-months-guest-curator-paolo-pettigiani-2e6eb34415c4?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest 2021 Inclusion & Diversity Report [read](https://newsroom.pinterest.com/en/post/pinterest-2021-inclusion-diversity-report)
 
-   第三波！2022年4月精选实用设计干货合集 [read](https://www.uisdc.com/2022-4-design-resources-vol3)
+   10秒出图，以假乱真！设计师「用嘴修图」的愿望要成真了？ [read](https://www.uisdc.com/dall%c2%b7e-2)
 
-   这 5 位优秀的贴纸设计艺术家，是我每日学习的源泉！ [read](https://www.uisdc.com/sticker-design-2)
+   拖到 Deadline 才画图？腾讯高手从 3 个角度帮你提高工作效率！ [read](https://www.uisdc.com/promote-efficiency)
 
-   4500字干货！写给设计师的微文案设计指南 [read](https://www.uisdc.com/microcopy)
+   大厂案例实战！企业校招官网升级项目总结 [read](https://www.uisdc.com/58-website-upgrade)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
