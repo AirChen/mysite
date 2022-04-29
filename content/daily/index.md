@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FoxSkills_EN-US2404818455_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.RedwoodSprout_EN-US2459675162_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 204 期）：如何度过疫情、裁员、还有战争 [read](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-204.html)
+   微服务是什么？ [read](http://www.ruanyifeng.com/blog/2022/04/microservice.html)
 
-   科技爱好者周刊（第 203 期）：英国的名校签证，伯克利的计算机教育 [read](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-203.html)
+   科技爱好者周刊（第 204 期）：如何度过疫情、裁员、还有战争 [read](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-204.html)
 
    蒙皮数据的压缩 [read](https://blog.codingnow.com/2022/04/vertex_blend_attribute_compression.html)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 444 期 [read](https://weekly.75.team/issue444.html)
+
    奇舞周刊第 443 期 [read](https://weekly.75.team/issue443.html)
 
    奇舞周刊第 442 期 [read](https://weekly.75.team/issue442.html)
-
-   奇舞周刊第 441 期 [read](https://weekly.75.team/issue441.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]抖音 Android 性能优化系列：Java OOM 优化之 NativeBitmap 方案 [read](https://blog.csdn.net/ByteDanceTech/article/details/124487103)
+
    \[原\]打造 Go 语言最快的排序算法 [read](https://blog.csdn.net/ByteDanceTech/article/details/124464192)
 
    \[原\]一文读懂全球化系统中的日期时间处理问题 [read](https://blog.csdn.net/ByteDanceTech/article/details/124395470)
-
-   \[原\]DanceNN：字节自研千亿级规模文件元数据存储系统概述 [read](https://blog.csdn.net/ByteDanceTech/article/details/124311314)
 
    Linux下跨语言调用C++实践 [read](https://tech.meituan.com/2022/04/21/cross-language-call.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   整个春天，让限定樱花味儿骗的团团转 [read](http://www.huxiu.com/article/542193.html?f=wangzhan)
+   12亿的崔健流量大礼包，北汽极狐接不住 [read](http://www.huxiu.com/article/543299.html?f=wangzhan)
 
-   长城错失的十年：误判、掉队与追赶 [read](http://www.huxiu.com/article/541773.html?f=wangzhan)
+   星巴克23年都做不到的事情，瑞幸为什么能做到？ [read](http://www.huxiu.com/article/543179.html?f=wangzhan)
 
-   字节试图“惊险一跳”？ [read](http://www.huxiu.com/article/541307.html?f=wangzhan)
+   综艺“死”在ROI [read](http://www.huxiu.com/article/542968.html?f=wangzhan)
 
-   最前线 \| 马斯克赞助的减碳大赛公布获奖队伍，两只中国团队入选60强 [read](https://36kr.com/p/1714555791716871)
+   360发布EDR产品，致力于全方位守护政企用户的终端安全 [read](https://36kr.com/p/1719806784290054)
 
-   最前线丨高通第二财季营收111.6亿美元，同比增长41%，创历史新高 [read](https://36kr.com/p/1718198814931976)
+   以RASP技术为突破，「边界无限」推出全栈式云安全防护平台「靖云甲」 [read](https://36kr.com/p/1719761687903234)
 
-   最前线｜百度、小马智行在京开启无人化Robotaxi示范应用，自动驾驶步入商业化前夜 [read](https://36kr.com/p/1718109404003586)
+   36碳周报丨可口可乐100%采用绿电；多家企业上调单晶硅片价格；顺风车碳减排团标公开 [read](https://36kr.com/p/1711257345808129)
 
    ICLR 2022 \| 微软亚洲研究院深度学习领域最新研究成果一览 [read](https://www.msra.cn/zh-cn/news/features/iclr-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
-   华为 WATCH GT 3 Pro：专注运动健康，抬腕也更有面儿 [read](http://www.geekpark.net/news/301641)
+   红魔 7 霸天虎限量典藏套装图赏：从包装到卡针，目之所及均为定制 [read](http://www.geekpark.net/news/301619)
 
-   华为 Mate Xs 2 图赏：售价 9999 起，最轻薄的大尺寸折叠屏旗舰 [read](http://www.geekpark.net/news/301637)
+   谁能想到，TikTok「带货」最成功的竟然是它 [read](http://www.geekpark.net/news/301657)
 
-   Twitter 往事：马斯克的 Web3 野心，多西的「十年复仇」 [read](http://www.geekpark.net/news/301594)
+   微博发评论将显示 IP 地点；华为新折叠屏手机 9999 元起；《阿凡达2》公布片名档期，年末上映 [read](http://www.geekpark.net/news/301647)
 
 ### 金融类
 
-   重资产的迷思 [read](http://xueqiu.com/6832369826/218569632)
+   找出8只债基的“抗跌”基因 [read](http://xueqiu.com/3179670287/218742342)
 
-   片仔癀是一门什么样的生意？ [read](http://xueqiu.com/6572050310/218523228)
+   谁是公募宏观策略之神？ [read](http://xueqiu.com/1489509056/218737904)
 
-   煤炭板块的成长性 [read](http://xueqiu.com/1303105348/218495261)
+   中国平安2022年一季报点评 [read](http://xueqiu.com/8959134488/218811291)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Cactus Collective [read](https://www.behance.net/gallery/142636531/Cactus-Collective)
+   ESPACE GO \| lg2 [read](https://www.behance.net/gallery/140027959/ESPACE-GO-lg2)
 
-   TERRAIN [read](https://www.behance.net/gallery/137411639/TERRAIN)
+   The ID Series [read](https://www.behance.net/gallery/142495061/The-ID-Series)
 
-   Shenzhen Esports Association?SEA? [read](https://www.behance.net/gallery/140138307/Shenzhen-Esports-AssociationSEA)
+   COWBOY BEBOP LOGOTYPES &amp; SYMBOLS [read](https://www.behance.net/gallery/142565815/COWBOY-BEBOP-LOGOTYPES-SYMBOLS)
 
    Meet This Month’s Guest Curator: Paolo Pettigiani [read](https://medium.com/behance-blog/meet-this-months-guest-curator-paolo-pettigiani-2e6eb34415c4?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest 2021 Inclusion & Diversity Report [read](https://newsroom.pinterest.com/en/post/pinterest-2021-inclusion-diversity-report)
 
-   10秒出图，以假乱真！设计师「用嘴修图」的愿望要成真了？ [read](https://www.uisdc.com/dall%c2%b7e-2)
+   免费！支持超过 100 种格式的图片格式转换神器「Pixelied」 [read](https://www.uisdc.com/pixelied)
 
-   拖到 Deadline 才画图？腾讯高手从 3 个角度帮你提高工作效率！ [read](https://www.uisdc.com/promote-efficiency)
+   字节跳动 IconPark 首届插画创意征集大赛进行中！马上参与，赢万元奖金​ [read](https://www.uisdc.com/iconpark-illustration-design-competition)
 
-   大厂案例实战！企业校招官网升级项目总结 [read](https://www.uisdc.com/58-website-upgrade)
+   10秒出图，以假乱真！设计师「用嘴修图」的愿望要成真了？ [read](https://www.uisdc.com/dalle-2)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
