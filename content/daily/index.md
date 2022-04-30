@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.RedwoodSprout_EN-US2459675162_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.NorthBeachJazz_EN-US2507879013_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -24,9 +24,9 @@ title: "今日资讯"
 
    某一天，中国真会超过美国吗？ [read](https://www.kymjs.com/stickies/2022/03/30/01)
 
-   自定义C/C++日志输出函数 [read](https://www.kymjs.com/code/2020/08/07/01)
+   基于 C++ 的 Android 协程设计 [read](https://www.kymjs.com/session/2022/02/26/01)
 
-   再聊 Git Flow [read](https://www.kymjs.com/manager/2020/05/29/01)
+   Gradle 6.X 上传 aar 到 Nexus 私服 [read](https://www.kymjs.com/pay/2021/02/02/01)
 
 ### IT团队博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]分析 Android 耗电原理后，飞书是这样做耗电治理的 [read](https://blog.csdn.net/ByteDanceTech/article/details/124507243)
+
    \[原\]抖音 Android 性能优化系列：Java OOM 优化之 NativeBitmap 方案 [read](https://blog.csdn.net/ByteDanceTech/article/details/124487103)
 
    \[原\]打造 Go 语言最快的排序算法 [read](https://blog.csdn.net/ByteDanceTech/article/details/124464192)
-
-   \[原\]一文读懂全球化系统中的日期时间处理问题 [read](https://blog.csdn.net/ByteDanceTech/article/details/124395470)
 
    Linux下跨语言调用C++实践 [read](https://tech.meituan.com/2022/04/21/cross-language-call.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   全国多地“房贷利率低”，房价又要涨吗？ [read](http://www.huxiu.com/article/543241.html?f=wangzhan)
+
    12亿的崔健流量大礼包，北汽极狐接不住 [read](http://www.huxiu.com/article/543299.html?f=wangzhan)
 
    星巴克23年都做不到的事情，瑞幸为什么能做到？ [read](http://www.huxiu.com/article/543179.html?f=wangzhan)
 
-   综艺“死”在ROI [read](http://www.huxiu.com/article/542968.html?f=wangzhan)
+   Offer留言板 \| 中建国际BIM主管、广联达项目经理、北京城建智控科技工程师等招聘职位汇总 [read](https://36kr.com/p/1721113065831684)
 
-   360发布EDR产品，致力于全方位守护政企用户的终端安全 [read](https://36kr.com/p/1719806784290054)
+   焦点分析 \| “手套茅”神迹不见，英科医疗还有未来吗？ [read](https://36kr.com/p/1720600233868544)
 
-   以RASP技术为突破，「边界无限」推出全栈式云安全防护平台「靖云甲」 [read](https://36kr.com/p/1719761687903234)
-
-   36碳周报丨可口可乐100%采用绿电；多家企业上调单晶硅片价格；顺风车碳减排团标公开 [read](https://36kr.com/p/1711257345808129)
+   智氪•新能源 \| 业绩暴雷、董事失联，暴跌60%的阳光电源就此倒下了 [read](https://36kr.com/p/1714833041601281)
 
    ICLR 2022 \| 微软亚洲研究院深度学习领域最新研究成果一览 [read](https://www.msra.cn/zh-cn/news/features/iclr-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
+   极客简报｜iPhone 远离中国制造；特斯拉音响深夜喊冤；MIUI 取消稳定版系统 [read](http://www.geekpark.net/news/301759)
+
+   微信公众号开始展示 IP 属地；亚马逊 7 年来首次亏损，股价大跌；苹果上架 iPhone 取卡针，售价 4 美元 \| 极客早知道 [read](http://www.geekpark.net/news/301725)
+
    红魔 7 霸天虎限量典藏套装图赏：从包装到卡针，目之所及均为定制 [read](http://www.geekpark.net/news/301619)
-
-   谁能想到，TikTok「带货」最成功的竟然是它 [read](http://www.geekpark.net/news/301657)
-
-   微博发评论将显示 IP 地点；华为新折叠屏手机 9999 元起；《阿凡达2》公布片名档期，年末上映 [read](http://www.geekpark.net/news/301647)
 
 ### 金融类
 
-   找出8只债基的“抗跌”基因 [read](http://xueqiu.com/3179670287/218742342)
+   手里有亏损较大的产品，该卖出还是加仓？ [read](http://xueqiu.com/5188297436/218412366)
 
-   谁是公募宏观策略之神？ [read](http://xueqiu.com/1489509056/218737904)
+   2022年公募基金一季报精华观点摘要：中观篇 [read](http://xueqiu.com/9290769077/218808155)
 
-   中国平安2022年一季报点评 [read](http://xueqiu.com/8959134488/218811291)
+   牧原股份2022一季度报告分析 [read](http://xueqiu.com/4019095410/218824350)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   ESPACE GO \| lg2 [read](https://www.behance.net/gallery/140027959/ESPACE-GO-lg2)
+   Poble Espanyol [read](https://www.behance.net/gallery/139638093/Poble-Espanyol)
 
-   The ID Series [read](https://www.behance.net/gallery/142495061/The-ID-Series)
+   Fashion Spring/Summer 2022 [read](https://www.behance.net/gallery/142691659/Fashion-SpringSummer-2022)
 
-   COWBOY BEBOP LOGOTYPES &amp; SYMBOLS [read](https://www.behance.net/gallery/142565815/COWBOY-BEBOP-LOGOTYPES-SYMBOLS)
+   Rio Carnaval [read](https://www.behance.net/gallery/142681547/Rio-Carnaval)
 
    Meet This Month’s Guest Curator: Paolo Pettigiani [read](https://medium.com/behance-blog/meet-this-months-guest-curator-paolo-pettigiani-2e6eb34415c4?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest 2021 Inclusion & Diversity Report [read](https://newsroom.pinterest.com/en/post/pinterest-2021-inclusion-diversity-report)
 
+   如何提升出海社区包容性？来看腾讯的实战案例！ [read](https://www.uisdc.com/trovo-ip-design)
+
    免费！支持超过 100 种格式的图片格式转换神器「Pixelied」 [read](https://www.uisdc.com/pixelied)
 
    字节跳动 IconPark 首届插画创意征集大赛进行中！马上参与，赢万元奖金​ [read](https://www.uisdc.com/iconpark-illustration-design-competition)
-
-   10秒出图，以假乱真！设计师「用嘴修图」的愿望要成真了？ [read](https://www.uisdc.com/dalle-2)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
