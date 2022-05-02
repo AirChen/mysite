@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.LeiDay_EN-US2557797109_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.TravertineTurkey_EN-US2604407895_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -22,11 +22,11 @@ title: "今日资讯"
 
    让用户决定软件长什么样 [read](https://blog.t9t.io/let-user-design-2020-06-18/)
 
+   印度列国时代的百家争鸣——沙门思潮 [read](https://www.kymjs.com/history/2022/05/02/01)
+
    印度真是个神奇的国度——总章 [read](https://www.kymjs.com/history/2022/05/01/01)
 
    某一天，中国真会超过美国吗？ [read](https://www.kymjs.com/stickies/2022/03/30/01)
-
-   基于 C++ 的 Android 协程设计 [read](https://www.kymjs.com/session/2022/02/26/01)
 
 ### IT团队博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   暂停堂食下的北京餐饮自救 [read](http://www.huxiu.com/article/544606.html?f=wangzhan)
+   四月销量腰折，车企不该甩锅给疫情 [read](http://www.huxiu.com/article/544447.html?f=wangzhan)
 
-   越来越贵的安踏，靠什么吸引消费者？ [read](http://www.huxiu.com/article/544203.html?f=wangzhan)
+   自行车为什么能自己保持平衡？ [read](http://www.huxiu.com/article/544627.html?f=wangzhan)
 
-   国产电动车的故事快讲不下去了 [read](http://www.huxiu.com/article/541381.html?f=wangzhan)
+   暂停堂食下的北京餐饮现状 [read](http://www.huxiu.com/article/544606.html?f=wangzhan)
 
-   四维01/02卫星成功发射，「航天驭星」提供独家测控服务 [read](https://36kr.com/p/1722598189612297)
+   业绩快报 \| 趣头条2021年全年营收43.4亿元，四季度亏损环比收窄 [read](https://36kr.com/p/1723885944634627)
 
-   Offer留言板 \| 中建国际BIM主管、广联达项目经理、北京城建智控科技工程师等招聘职位汇总 [read](https://36kr.com/p/1721113065831684)
+   离开上海，工作和生活会怎样？｜职人群像 [read](https://36kr.com/p/1723570188107012)
 
-   焦点分析 \| “手套茅”神迹不见，英科医疗还有未来吗？ [read](https://36kr.com/p/1720600233868544)
+   呼之欲出，国产新冠口服药距离上市还有多远？丨氪金 · 大健康 [read](https://36kr.com/p/1722347032443913)
 
    ICLR 2022 \| 微软亚洲研究院深度学习领域最新研究成果一览 [read](https://www.msra.cn/zh-cn/news/features/iclr-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
+   这群极客，在地下参加了一场「机器人死亡挑战赛」 [read](http://www.geekpark.net/news/301765)
+
+   小米回应「遭印度扣押约 48 亿元资产」：与政府合作澄清误解；4 月造车新势力总销量暴跌 50%；元宇宙中能接吻了 [read](http://www.geekpark.net/news/301764)
+
    漫步者 NeoBuds S  & STAX SPIRIT S3 体验：「骁龙畅听」组合 [read](http://www.geekpark.net/news/301563)
-
-   李彦宏：无人驾驶肯定会出事，但概率比人低；美团加入直播战局；巴菲特：过去两年股市像赌场｜极客早知道 [read](http://www.geekpark.net/news/301761)
-
-   极客简报｜iPhone 远离中国制造；特斯拉音响深夜喊冤；MIUI 取消稳定版系统 [read](http://www.geekpark.net/news/301759)
 
 ### 金融类
 
-   当前市场可通过低波均衡FOF进行多资产、多策略配置 [read](http://xueqiu.com/3915115654/218907892)
+   舍得之间的投资真谛——为何我会弃苏宁投舍得和博雅？ [read](http://xueqiu.com/9343989080/218943056)
 
-   市值百强榜单上市公司的盈利能力、盈利质量及当前估值水平 [read](http://xueqiu.com/1301600236/218904551)
+   为什么很多男人到了中年突然开始炒股？ [read](http://xueqiu.com/7516820417/218948732)
 
-   贵州茅台2021：变相提价一路狂奔 [read](http://xueqiu.com/3552430478/218905916)
+   五粮液&泸州老窖&洋河股份三家企业的真实业绩对比 [read](http://xueqiu.com/4902253109/218861523)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Chevy New Roads / Next-Gen EVs [read](https://www.behance.net/gallery/142732553/Chevy-New-Roads-Next-Gen-EVs)
+   TOPO CHICO ILLUSTRATIONS [read](https://www.behance.net/gallery/139583019/TOPO-CHICO-ILLUSTRATIONS)
 
-   Holiland ????&amp;??? [read](https://www.behance.net/gallery/141793587/Holiland-)
+   Private Agenda ? A Mannequin [read](https://www.behance.net/gallery/142751723/Private-Agenda-A-Mannequin)
 
-   The Renewables [read](https://www.behance.net/gallery/142719311/The-Renewables)
+   Unimaginable Worlds - Second round [read](https://www.behance.net/gallery/132441703/Unimaginable-Worlds-Second-round)
 
    Meet This Month’s Guest Curator: Paolo Pettigiani [read](https://medium.com/behance-blog/meet-this-months-guest-curator-paolo-pettigiani-2e6eb34415c4?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest 2021 Inclusion & Diversity Report [read](https://newsroom.pinterest.com/en/post/pinterest-2021-inclusion-diversity-report)
 
+   方法+实战！4个方面帮你轻松掌握线稿练习方法 [read](https://www.uisdc.com/hand-painted-practice)
+
    为什么你的数据越来越好，用户越骂越狠？ [read](https://www.uisdc.com/ux-date)
 
    如何提升出海社区包容性？来看腾讯的实战案例！ [read](https://www.uisdc.com/trovo-ip-design)
-
-   免费！支持超过 100 种格式的图片格式转换神器「Pixelied」 [read](https://www.uisdc.com/pixelied)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
