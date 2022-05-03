@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.TravertineTurkey_EN-US2604407895_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.DuckHen_EN-US2672519159_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -22,11 +22,11 @@ title: "今日资讯"
 
    让用户决定软件长什么样 [read](https://blog.t9t.io/let-user-design-2020-06-18/)
 
+   印度的列国时代大一统——孔雀王朝 [read](https://www.kymjs.com/history/2022/05/03/01)
+
    印度列国时代的百家争鸣——沙门思潮 [read](https://www.kymjs.com/history/2022/05/02/01)
 
    印度真是个神奇的国度——总章 [read](https://www.kymjs.com/history/2022/05/01/01)
-
-   某一天，中国真会超过美国吗？ [read](https://www.kymjs.com/stickies/2022/03/30/01)
 
 ### IT团队博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]ByteDoc 3.0：MongoDB 云原生实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/124549553)
+
    \[原\]分析 Android 耗电原理后，飞书是这样做耗电治理的 [read](https://blog.csdn.net/ByteDanceTech/article/details/124507243)
 
    \[原\]抖音 Android 性能优化系列：Java OOM 优化之 NativeBitmap 方案 [read](https://blog.csdn.net/ByteDanceTech/article/details/124487103)
-
-   \[原\]打造 Go 语言最快的排序算法 [read](https://blog.csdn.net/ByteDanceTech/article/details/124464192)
 
    Linux下跨语言调用C++实践 [read](https://tech.meituan.com/2022/04/21/cross-language-call.html)
 
@@ -68,11 +68,11 @@ title: "今日资讯"
 
 ### 互联网类
 
+   虚拟人的手工前世和AI今生 [read](http://www.huxiu.com/article/545650.html?f=wangzhan)
+
+   为什么古装仙侠剧越拍越难看？ [read](http://www.huxiu.com/article/545074.html?f=wangzhan)
+
    四月销量腰折，车企不该甩锅给疫情 [read](http://www.huxiu.com/article/544447.html?f=wangzhan)
-
-   自行车为什么能自己保持平衡？ [read](http://www.huxiu.com/article/544627.html?f=wangzhan)
-
-   暂停堂食下的北京餐饮现状 [read](http://www.huxiu.com/article/544606.html?f=wangzhan)
 
    业绩快报 \| 趣头条2021年全年营收43.4亿元，四季度亏损环比收窄 [read](https://36kr.com/p/1723885944634627)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
-   这群极客，在地下参加了一场「机器人死亡挑战赛」 [read](http://www.geekpark.net/news/301765)
+   新能源车真的不适合出游? [read](http://www.geekpark.net/news/301769)
 
-   小米回应「遭印度扣押约 48 亿元资产」：与政府合作澄清误解；4 月造车新势力总销量暴跌 50%；元宇宙中能接吻了 [read](http://www.geekpark.net/news/301764)
+   极客荐｜拯救 C 盘大作战，不减 20GB 算我输！ [read](http://www.geekpark.net/news/301766)
 
-   漫步者 NeoBuds S  & STAX SPIRIT S3 体验：「骁龙畅听」组合 [read](http://www.geekpark.net/news/301563)
+   硅谷巨头「最害怕的女人」，决定回应一切 [read](http://www.geekpark.net/news/301768)
 
 ### 金融类
 
-   舍得之间的投资真谛——为何我会弃苏宁投舍得和博雅？ [read](http://xueqiu.com/9343989080/218943056)
+   基金的一些选择指标 [read](http://xueqiu.com/7251377368/218911787)
 
-   为什么很多男人到了中年突然开始炒股？ [read](http://xueqiu.com/7516820417/218948732)
+   内在价值与估值 [read](http://xueqiu.com/3407267469/218963372)
 
-   五粮液&泸州老窖&洋河股份三家企业的真实业绩对比 [read](http://xueqiu.com/4902253109/218861523)
+   新的一轮猪周期正式启动及投资策略 [read](http://xueqiu.com/8418018079/218969061)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   TOPO CHICO ILLUSTRATIONS [read](https://www.behance.net/gallery/139583019/TOPO-CHICO-ILLUSTRATIONS)
+   DEDON [read](https://www.behance.net/gallery/142873745/DEDON)
 
-   Private Agenda ? A Mannequin [read](https://www.behance.net/gallery/142751723/Private-Agenda-A-Mannequin)
+   Lofty Heights [read](https://www.behance.net/gallery/142709851/Lofty-Heights)
 
-   Unimaginable Worlds - Second round [read](https://www.behance.net/gallery/132441703/Unimaginable-Worlds-Second-round)
+   ???2022?????? ?????? SUSTAINED COLOR [read](https://www.behance.net/gallery/142812935/2022-SUSTAINED-COLOR)
 
    Meet This Month’s Guest Curator: Paolo Pettigiani [read](https://medium.com/behance-blog/meet-this-months-guest-curator-paolo-pettigiani-2e6eb34415c4?source=rss-f5272b7f3182------2)
 
@@ -140,17 +140,17 @@ title: "今日资讯"
 
    Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
+   Mind your Wellness: Supporting mental health and emotional wellbeing for Mental Health Awareness Month [read](https://newsroom.pinterest.com/en/post/mind-your-wellness-supporting-mental-health-and-emotional-wellbeing-for-mental-health)
+
    Wedding season is back and Pinterest is inspiring a new look to walking down the aisle [read](https://newsroom.pinterest.com/en/post/wedding-season-is-back-and-pinterest-is-inspiring-a-new-look-to-walking-down-the-aisle)
 
    Pinterest hosts first-ever global day of service [read](https://newsroom.pinterest.com/en/post/pinterest-hosts-first-ever-global-day-of-service)
 
-   Pinterest 2021 Inclusion & Diversity Report [read](https://newsroom.pinterest.com/en/post/pinterest-2021-inclusion-diversity-report)
+   9个超实用的PS小技巧，看完就能用上！ [read](https://www.uisdc.com/ps-skill)
 
    方法+实战！4个方面帮你轻松掌握线稿练习方法 [read](https://www.uisdc.com/hand-painted-practice)
 
    为什么你的数据越来越好，用户越骂越狠？ [read](https://www.uisdc.com/ux-date)
-
-   如何提升出海社区包容性？来看腾讯的实战案例！ [read](https://www.uisdc.com/trovo-ip-design)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
