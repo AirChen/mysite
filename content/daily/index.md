@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.DuckHen_EN-US2672519159_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WadiRum_EN-US2725530460_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   小红书消费主义的欺骗，为何屡教不改？ [read](http://www.huxiu.com/article/545627.html?f=wangzhan)
+
+   海尔智家仍未摆脱“中年危机”？ [read](http://www.huxiu.com/article/545727.html?f=wangzhan)
+
    虚拟人的手工前世和AI今生 [read](http://www.huxiu.com/article/545650.html?f=wangzhan)
 
-   为什么古装仙侠剧越拍越难看？ [read](http://www.huxiu.com/article/545074.html?f=wangzhan)
+   给努力工作认真生活的自己加点甜味剂——五四青年节快乐｜ 职场百态 [read](https://36kr.com/p/1726726830636033)
 
-   四月销量腰折，车企不该甩锅给疫情 [read](http://www.huxiu.com/article/544447.html?f=wangzhan)
+   普通职场人，能从巴菲特×芒格的2022年讲话里领悟些什么？｜职得共读 [read](https://36kr.com/p/1726713904004102)
 
-   业绩快报 \| 趣头条2021年全年营收43.4亿元，四季度亏损环比收窄 [read](https://36kr.com/p/1723885944634627)
-
-   离开上海，工作和生活会怎样？｜职人群像 [read](https://36kr.com/p/1723570188107012)
-
-   呼之欲出，国产新冠口服药距离上市还有多远？丨氪金 · 大健康 [read](https://36kr.com/p/1722347032443913)
+   在工作中寻找治愈的上海职场人｜职场ta见 [read](https://36kr.com/p/1726697679059974)
 
    ICLR 2022 \| 微软亚洲研究院深度学习领域最新研究成果一览 [read](https://www.msra.cn/zh-cn/news/features/iclr-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
-   新能源车真的不适合出游? [read](http://www.geekpark.net/news/301769)
+   Android 13 首个测试版发布 ，但它更像是 12 的「完全体」 [read](http://www.geekpark.net/news/301773)
 
-   极客荐｜拯救 C 盘大作战，不减 20GB 算我输！ [read](http://www.geekpark.net/news/301766)
+   德国团队做了一款水晶电池：能量密度提高一倍，原材料成本还降低 1/3 [read](http://www.geekpark.net/news/301772)
 
-   硅谷巨头「最害怕的女人」，决定回应一切 [read](http://www.geekpark.net/news/301768)
+   B 站在美国、香港双重上市；曝苹果汽车定价 65 万对标 BBA；暴雪 CEO 遣散费高达 5.2 亿美元 [read](http://www.geekpark.net/news/301771)
 
 ### 金融类
 
-   基金的一些选择指标 [read](http://xueqiu.com/7251377368/218911787)
+   8只抗跌性较好的债券基金的全方位评测兼谈债基的定位 [read](http://xueqiu.com/2443086428/219040012)
 
-   内在价值与估值 [read](http://xueqiu.com/3407267469/218963372)
+   针对年报上的一些数据和华钰业绩的一点看法 [read](http://xueqiu.com/9243653052/219028473)
 
-   新的一轮猪周期正式启动及投资策略 [read](http://xueqiu.com/8418018079/218969061)
+   欲言又止，简单聊几句——基蛋一季报后的感受 [read](http://xueqiu.com/2241996415/219018773)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   DEDON [read](https://www.behance.net/gallery/142873745/DEDON)
+   Das andere Ich - Masterproject [read](https://www.behance.net/gallery/142492665/Das-andere-Ich-Masterproject)
 
-   Lofty Heights [read](https://www.behance.net/gallery/142709851/Lofty-Heights)
+   RTL United Brand [read](https://www.behance.net/gallery/141375439/RTL-United-Brand)
 
-   ???2022?????? ?????? SUSTAINED COLOR [read](https://www.behance.net/gallery/142812935/2022-SUSTAINED-COLOR)
+   Vidico x Parrot Analytics Brand Animation \| ???? [read](https://www.behance.net/gallery/142209355/Vidico-x-Parrot-Analytics-Brand-Animation-)
 
    Meet This Month’s Guest Curator: Paolo Pettigiani [read](https://medium.com/behance-blog/meet-this-months-guest-curator-paolo-pettigiani-2e6eb34415c4?source=rss-f5272b7f3182------2)
 
