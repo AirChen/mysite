@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WadiRum_EN-US2725530460_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.JaliscoAgave_EN-US2800710188_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   微服务是什么？ [read](http://www.ruanyifeng.com/blog/2022/04/microservice.html)
+   打包工具 rollup.js 入门教程 [read](http://www.ruanyifeng.com/blog/2022/05/rollup.html)
 
-   科技爱好者周刊（第 204 期）：如何度过疫情、裁员、还有战争 [read](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-204.html)
+   微服务是什么？ [read](http://www.ruanyifeng.com/blog/2022/04/microservice.html)
 
    蒙皮数据的压缩 [read](https://blog.codingnow.com/2022/04/vertex_blend_attribute_compression.html)
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]iOS StoreKit 2 新特性解析 [read](https://blog.csdn.net/ByteDanceTech/article/details/124580758)
+
    \[原\]ByteDoc 3.0：MongoDB 云原生实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/124549553)
 
    \[原\]分析 Android 耗电原理后，飞书是这样做耗电治理的 [read](https://blog.csdn.net/ByteDanceTech/article/details/124507243)
-
-   \[原\]抖音 Android 性能优化系列：Java OOM 优化之 NativeBitmap 方案 [read](https://blog.csdn.net/ByteDanceTech/article/details/124487103)
 
    Linux下跨语言调用C++实践 [read](https://tech.meituan.com/2022/04/21/cross-language-call.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   小红书消费主义的欺骗，为何屡教不改？ [read](http://www.huxiu.com/article/545627.html?f=wangzhan)
+   网易云指控腾讯的“洗歌”，在法律层面如何解读？ [read](http://www.huxiu.com/article/546919.html?f=wangzhan)
 
-   海尔智家仍未摆脱“中年危机”？ [read](http://www.huxiu.com/article/545727.html?f=wangzhan)
+   办一场数字人101，谁赞成谁反对？ [read](http://www.huxiu.com/article/546232.html?f=wangzhan)
 
-   虚拟人的手工前世和AI今生 [read](http://www.huxiu.com/article/545650.html?f=wangzhan)
+   车企CEO，满嘴跑火车 [read](http://www.huxiu.com/article/546469.html?f=wangzhan)
 
-   给努力工作认真生活的自己加点甜味剂——五四青年节快乐｜ 职场百态 [read](https://36kr.com/p/1726726830636033)
+   即氪健身 Vol.01｜全民线上运动会开启；多平台推健身直播课；Lululemon因以次充好被罚 [read](https://36kr.com/p/1728126540168201)
 
-   普通职场人，能从巴菲特×芒格的2022年讲话里领悟些什么？｜职得共读 [read](https://36kr.com/p/1726713904004102)
+   研报淘金丨徽酒们「出尽风头」，迎驾贡酒能否登上徽酒「二哥」之位？ [read](https://36kr.com/p/1728050922404869)
 
-   在工作中寻找治愈的上海职场人｜职场ta见 [read](https://36kr.com/p/1726697679059974)
+   氪星晚报 \| 海康威视回应可能受到美国制裁消息，希望获得公平公正对待；支付宝上线“数字人民币”搜索功能；谷歌宣布已收购Micro LED显示屏公司Raxium [read](https://36kr.com/p/1728055816862729)
 
    ICLR 2022 \| 微软亚洲研究院深度学习领域最新研究成果一览 [read](https://www.msra.cn/zh-cn/news/features/iclr-2022)
 
@@ -86,39 +86,39 @@ title: "今日资讯"
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
-   Android 13 首个测试版发布 ，但它更像是 12 的「完全体」 [read](http://www.geekpark.net/news/301773)
+   我做 Web3 侦探这几年：见证一个个「去中心化美梦」的破灭 [read](http://www.geekpark.net/news/301823)
 
-   德国团队做了一款水晶电池：能量密度提高一倍，原材料成本还降低 1/3 [read](http://www.geekpark.net/news/301772)
+   华为 Mate Xs 2 体验：轻薄无痕之外，华为还做了哪些？ [read](http://www.geekpark.net/news/301816)
 
-   B 站在美国、香港双重上市；曝苹果汽车定价 65 万对标 BBA；暴雪 CEO 遣散费高达 5.2 亿美元 [read](http://www.geekpark.net/news/301771)
+   重磅丨 88 家中概股公司被纳入美股预摘牌名单 [read](http://www.geekpark.net/news/301801)
 
 ### 金融类
 
-   8只抗跌性较好的债券基金的全方位评测兼谈债基的定位 [read](http://xueqiu.com/2443086428/219040012)
+   九安医疗网上业绩说明会解读 [read](http://xueqiu.com/1079205489/219120776)
 
-   针对年报上的一些数据和华钰业绩的一点看法 [read](http://xueqiu.com/9243653052/219028473)
+   导航不迷路！球友常见提问与回答，请戳这里！ [read](http://xueqiu.com/4226803442/219111054)
 
-   欲言又止，简单聊几句——基蛋一季报后的感受 [read](http://xueqiu.com/2241996415/219018773)
+   论“理性”投资的重要性。 [read](http://xueqiu.com/1856225009/219010767)
 
 ### 学习类
+
+   💻 Issue 306 - A shiny future with GATs - and stabilization [read](https://rust.libhunt.com/newsletter/306)
 
    💻 Issue 305 - Rust9x: Compile Rust code for Windows 95, NT and above [read](https://rust.libhunt.com/newsletter/305)
 
    💻 Issue 304 - Bevy 0.7 [read](https://rust.libhunt.com/newsletter/304)
 
-   💻 Issue 303 - How to speed up the Rust compiler in April 2022 [read](https://rust.libhunt.com/newsletter/303)
+   This Week in Rust 441 [read](https://this-week-in-rust.org/blog/2022/05/04/this-week-in-rust-441/)
 
    This Week in Rust 440 [read](https://this-week-in-rust.org/blog/2022/04/27/this-week-in-rust-440/)
 
    This Week in Rust 439 [read](https://this-week-in-rust.org/blog/2022/04/20/this-week-in-rust-439/)
 
-   This Week in Rust 438 [read](https://this-week-in-rust.org/blog/2022/04/13/this-week-in-rust-438/)
+   ETCD的内存问题 [read](https://coolshell.cn/articles/22242.html)
 
    “一把梭：REST API 全用 POST” [read](https://coolshell.cn/articles/22173.html)
 
    谈谈公司对员工的监控 [read](https://coolshell.cn/articles/22157.html)
-
-   网络数字身份认证术 [read](https://coolshell.cn/articles/21708.html)
 
    为什么会有公司愿意花钱去买软件，而不去用开源的免费软件 [read](https://wanqu.co/p/7581?s=rss)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Das andere Ich - Masterproject [read](https://www.behance.net/gallery/142492665/Das-andere-Ich-Masterproject)
+   Reflection // Nifty Gateway [read](https://www.behance.net/gallery/142960923/Reflection-Nifty-Gateway)
 
-   RTL United Brand [read](https://www.behance.net/gallery/141375439/RTL-United-Brand)
+   David Claerbout - The Silence of the Lens [read](https://www.behance.net/gallery/142965707/David-Claerbout-The-Silence-of-the-Lens)
 
-   Vidico x Parrot Analytics Brand Animation \| ???? [read](https://www.behance.net/gallery/142209355/Vidico-x-Parrot-Analytics-Brand-Animation-)
+   Google Search Innovation [read](https://www.behance.net/gallery/142943499/Google-Search-Innovation)
 
    Meet This Month’s Guest Curator: Paolo Pettigiani [read](https://medium.com/behance-blog/meet-this-months-guest-curator-paolo-pettigiani-2e6eb34415c4?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest hosts first-ever global day of service [read](https://newsroom.pinterest.com/en/post/pinterest-hosts-first-ever-global-day-of-service)
 
-   9个超实用的PS小技巧，看完就能用上！ [read](https://www.uisdc.com/ps-skill)
+   设计师必看！自媒体平台常用尺寸合集 [read](https://www.uisdc.com/we-media-size-2022)
 
-   方法+实战！4个方面帮你轻松掌握线稿练习方法 [read](https://www.uisdc.com/hand-painted-practice)
+   8000字干货！超全面的 Web 端按钮设计指南 [read](https://www.uisdc.com/web-button-design-guide)
 
-   为什么你的数据越来越好，用户越骂越狠？ [read](https://www.uisdc.com/ux-date)
+   这 5 款工具，让设计师工作效率提升 200%！（五） [read](https://www.uisdc.com/5-practical-software-3)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
