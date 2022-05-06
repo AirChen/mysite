@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.JaliscoAgave_EN-US2800710188_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.HertfordshireBluebells_EN-US4578338154_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   打包工具 rollup.js 入门教程 [read](http://www.ruanyifeng.com/blog/2022/05/rollup.html)
+   科技爱好者周刊（第 205 期）：互联网风口过去了吗？ [read](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-205.html)
 
-   微服务是什么？ [read](http://www.ruanyifeng.com/blog/2022/04/microservice.html)
+   打包工具 rollup.js 入门教程 [read](http://www.ruanyifeng.com/blog/2022/05/rollup.html)
 
    蒙皮数据的压缩 [read](https://blog.codingnow.com/2022/04/vertex_blend_attribute_compression.html)
 
@@ -22,11 +22,11 @@ title: "今日资讯"
 
    让用户决定软件长什么样 [read](https://blog.t9t.io/let-user-design-2020-06-18/)
 
+   学历史有什么用 [read](https://www.kymjs.com/history/2022/05/04/01)
+
    印度的列国时代大一统——孔雀王朝 [read](https://www.kymjs.com/history/2022/05/03/01)
 
    印度列国时代的百家争鸣——沙门思潮 [read](https://www.kymjs.com/history/2022/05/02/01)
-
-   印度真是个神奇的国度——总章 [read](https://www.kymjs.com/history/2022/05/01/01)
 
 ### IT团队博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   网易云指控腾讯的“洗歌”，在法律层面如何解读？ [read](http://www.huxiu.com/article/546919.html?f=wangzhan)
+   起拍价2.5万美元，股神巴菲特“最后的午餐”来了 [read](http://www.huxiu.com/article/546898.html?f=wangzhan)
 
-   办一场数字人101，谁赞成谁反对？ [read](http://www.huxiu.com/article/546232.html?f=wangzhan)
+   李立群为什么这么火？ [read](http://www.huxiu.com/article/546966.html?f=wangzhan)
 
-   车企CEO，满嘴跑火车 [read](http://www.huxiu.com/article/546469.html?f=wangzhan)
+   传统车企的自我救赎 [read](http://www.huxiu.com/article/547216.html?f=wangzhan)
 
-   即氪健身 Vol.01｜全民线上运动会开启；多平台推健身直播课；Lululemon因以次充好被罚 [read](https://36kr.com/p/1728126540168201)
+   2022网络安全运营技术峰会召开，赛迪顾问发布《中国攻击面管理市场白皮书》 [read](https://36kr.com/p/1729477264915465)
 
-   研报淘金丨徽酒们「出尽风头」，迎驾贡酒能否登上徽酒「二哥」之位？ [read](https://36kr.com/p/1728050922404869)
+   最前线 \| 比特币挖矿也想碳中和，清洁算力公司SAI美股上市 [read](https://36kr.com/p/1729286114065416)
 
-   氪星晚报 \| 海康威视回应可能受到美国制裁消息，希望获得公平公正对待；支付宝上线“数字人民币”搜索功能；谷歌宣布已收购Micro LED显示屏公司Raxium [read](https://36kr.com/p/1728055816862729)
+   氪星晚报丨苹果、谷歌、微软将联合推广无密码登录技术；京东推出“加减乘除”复工大礼包，已减免商家费用超2亿元；途牛回应被美国SEC列入“预摘牌名单” [read](https://36kr.com/p/1729439596346625)
 
    ICLR 2022 \| 微软亚洲研究院深度学习领域最新研究成果一览 [read](https://www.msra.cn/zh-cn/news/features/iclr-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
-   我做 Web3 侦探这几年：见证一个个「去中心化美梦」的破灭 [read](http://www.geekpark.net/news/301823)
+   苹果「大统一」是如何破产的 [read](http://www.geekpark.net/news/301829)
 
-   华为 Mate Xs 2 体验：轻薄无痕之外，华为还做了哪些？ [read](http://www.geekpark.net/news/301816)
+   跌跌不休的「宁王」，还能重回万亿市值吗？ [read](http://www.geekpark.net/news/301851)
 
-   重磅丨 88 家中概股公司被纳入美股预摘牌名单 [read](http://www.geekpark.net/news/301801)
+   88 家中概股公司上「预摘牌」名单；收到币安甲骨文资金，马斯克收推特后任临时 CEO；脑机接口公司在美开展人体试验 [read](http://www.geekpark.net/news/301827)
 
 ### 金融类
 
-   九安医疗网上业绩说明会解读 [read](http://xueqiu.com/1079205489/219120776)
+   意外惊喜，洋河股份2021年报解读！ [read](http://xueqiu.com/2496980475/219249939)
 
-   导航不迷路！球友常见提问与回答，请戳这里！ [read](http://xueqiu.com/4226803442/219111054)
+   盘一盘“公募一哥”易方达的家底 [read](http://xueqiu.com/8663769490/219250887)
 
-   论“理性”投资的重要性。 [read](http://xueqiu.com/1856225009/219010767)
+   安心定投，无惧下跌 [read](http://xueqiu.com/4433266172/219254007)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Reflection // Nifty Gateway [read](https://www.behance.net/gallery/142960923/Reflection-Nifty-Gateway)
+   Happiness Around the World [read](https://www.behance.net/gallery/142989529/Happiness-Around-the-World)
 
-   David Claerbout - The Silence of the Lens [read](https://www.behance.net/gallery/142965707/David-Claerbout-The-Silence-of-the-Lens)
+   Tropic Gallery [read](https://www.behance.net/gallery/142999851/Tropic-Gallery)
 
-   Google Search Innovation [read](https://www.behance.net/gallery/142943499/Google-Search-Innovation)
+   InkBit - An 8Bit October [read](https://www.behance.net/gallery/132019687/InkBit-An-8Bit-October)
 
    Meet This Month’s Guest Curator: Paolo Pettigiani [read](https://medium.com/behance-blog/meet-this-months-guest-curator-paolo-pettigiani-2e6eb34415c4?source=rss-f5272b7f3182------2)
 
@@ -140,17 +140,17 @@ title: "今日资讯"
 
    Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
+   Pinterest joins MTV Entertainment Group for first-ever Mental Health Youth Action Forum [read](https://newsroom.pinterest.com/en/post/pinterest-joins-mtv-entertainment-group-for-first-ever-mental-health-youth-action-forum)
+
    Mind your Wellness: Supporting mental health and emotional wellbeing for Mental Health Awareness Month [read](https://newsroom.pinterest.com/en/post/mind-your-wellness-supporting-mental-health-and-emotional-wellbeing-for-mental-health)
 
    Wedding season is back and Pinterest is inspiring a new look to walking down the aisle [read](https://newsroom.pinterest.com/en/post/wedding-season-is-back-and-pinterest-is-inspiring-a-new-look-to-walking-down-the-aisle)
 
-   Pinterest hosts first-ever global day of service [read](https://newsroom.pinterest.com/en/post/pinterest-hosts-first-ever-global-day-of-service)
+   鲨鱼菲特X字绘中国，多维升级战略构建品牌核心壁垒 [read](https://www.uisdc.com/zihui-sharkfit-2022)
 
-   设计师必看！自媒体平台常用尺寸合集 [read](https://www.uisdc.com/we-media-size-2022)
+   第一波！2022年5月精选实用设计干货合集 [read](https://www.uisdc.com/2022-5-design-resources-vol1)
 
-   8000字干货！超全面的 Web 端按钮设计指南 [read](https://www.uisdc.com/web-button-design-guide)
-
-   这 5 款工具，让设计师工作效率提升 200%！（五） [read](https://www.uisdc.com/5-practical-software-3)
+   海报设计如何更优雅？加上这个元素准没错！（附素材下载） [read](https://www.uisdc.com/poster-design-5)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
