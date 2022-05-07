@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.HertfordshireBluebells_EN-US4578338154_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SwedishAntenna_EN-US4697496933_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -10,11 +10,11 @@ title: "今日资讯"
 
    打包工具 rollup.js 入门教程 [read](http://www.ruanyifeng.com/blog/2022/05/rollup.html)
 
+   游戏数据的展示 [read](https://blog.codingnow.com/2022/05/gameplay_viewport.html)
+
    蒙皮数据的压缩 [read](https://blog.codingnow.com/2022/04/vertex_blend_attribute_compression.html)
 
    Lua binding 中正确的 callback [read](https://blog.codingnow.com/2022/04/lua_binding_callback.html)
-
-   全民大规模新冠检测方案的一些想法 [read](https://blog.codingnow.com/2022/03/covid19_testing.html)
 
    一个付费 chrome 插件的一生 [read](https://blog.t9t.io/star-history-2021-01-21/)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 445 期 [read](https://weekly.75.team/issue445.html)
+
    奇舞周刊第 444 期 [read](https://weekly.75.team/issue444.html)
 
    奇舞周刊第 443 期 [read](https://weekly.75.team/issue443.html)
-
-   奇舞周刊第 442 期 [read](https://weekly.75.team/issue442.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]深入理解 OC/C++ 闭包 [read](https://blog.csdn.net/ByteDanceTech/article/details/124622224)
+
    \[原\]iOS StoreKit 2 新特性解析 [read](https://blog.csdn.net/ByteDanceTech/article/details/124580758)
 
    \[原\]ByteDoc 3.0：MongoDB 云原生实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/124549553)
-
-   \[原\]分析 Android 耗电原理后，飞书是这样做耗电治理的 [read](https://blog.csdn.net/ByteDanceTech/article/details/124507243)
 
    Linux下跨语言调用C++实践 [read](https://tech.meituan.com/2022/04/21/cross-language-call.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   起拍价2.5万美元，股神巴菲特“最后的午餐”来了 [read](http://www.huxiu.com/article/546898.html?f=wangzhan)
+   学配音就能月入过万？割了年轻人，富了培训班 [read](http://www.huxiu.com/article/548955.html?f=wangzhan)
 
-   李立群为什么这么火？ [read](http://www.huxiu.com/article/546966.html?f=wangzhan)
+   年轻人的“大玩具”，大排摩托逆势增长 [read](http://www.huxiu.com/article/548653.html?f=wangzhan)
 
-   传统车企的自我救赎 [read](http://www.huxiu.com/article/547216.html?f=wangzhan)
+   年近百岁的马哈蒂尔：饱受争议的民主“独裁者” [read](http://www.huxiu.com/article/548066.html?f=wangzhan)
 
-   2022网络安全运营技术峰会召开，赛迪顾问发布《中国攻击面管理市场白皮书》 [read](https://36kr.com/p/1729477264915465)
+   最前线｜极狐阿尔法S全新HI版上市，搭载华为全栈智能驾驶方案+鸿蒙车机OS [read](https://36kr.com/p/1731137366080768)
 
-   最前线 \| 比特币挖矿也想碳中和，清洁算力公司SAI美股上市 [read](https://36kr.com/p/1729286114065416)
+   融资难？揭秘“搞钱”的三大关键丨直播报名开启 [read](https://36kr.com/p/1730929750015239)
 
-   氪星晚报丨苹果、谷歌、微软将联合推广无密码登录技术；京东推出“加减乘除”复工大礼包，已减免商家费用超2亿元；途牛回应被美国SEC列入“预摘牌名单” [read](https://36kr.com/p/1729439596346625)
+   36碳周报丨全国首个农业碳汇交易平台落地，发放首批农业碳票；美国已有318个光伏项目被迫推迟或取消 [read](https://36kr.com/p/1730879431818498)
 
    ICLR 2022 \| 微软亚洲研究院深度学习领域最新研究成果一览 [read](https://www.msra.cn/zh-cn/news/features/iclr-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
-   苹果「大统一」是如何破产的 [read](http://www.geekpark.net/news/301829)
+   极讲究・四月好物名单：BMW i7、Titan Slim 全键盘手机、愤怒的小鸟重制版、Apple 雷雳 4 Pro 连接线 [read](http://www.geekpark.net/news/301906)
 
-   跌跌不休的「宁王」，还能重回万亿市值吗？ [read](http://www.geekpark.net/news/301851)
+   1 年超 30 亿美元，被「黑」的加密货币都去哪了？ [read](http://www.geekpark.net/news/301839)
 
-   88 家中概股公司上「预摘牌」名单；收到币安甲骨文资金，马斯克收推特后任临时 CEO；脑机接口公司在美开展人体试验 [read](http://www.geekpark.net/news/301827)
+   iPhone 14 全家福登热搜；马斯克：6 年内将推特营收增长 5 倍；灰产「改 IP 属地」，1 天 5 块，1年 800 [read](http://www.geekpark.net/news/301885)
 
 ### 金融类
 
-   意外惊喜，洋河股份2021年报解读！ [read](http://xueqiu.com/2496980475/219249939)
+   专业能力应该怎么用？ [read](http://xueqiu.com/8510627167/219279816)
 
-   盘一盘“公募一哥”易方达的家底 [read](http://xueqiu.com/8663769490/219250887)
+   林森离任后，曾管理的基金怎么办？ [read](http://xueqiu.com/1762638610/219286012)
 
-   安心定投，无惧下跌 [read](http://xueqiu.com/4433266172/219254007)
+   白酒这个末路赛道 [read](http://xueqiu.com/6289622534/219262590)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Happiness Around the World [read](https://www.behance.net/gallery/142989529/Happiness-Around-the-World)
+   ARCHITETTIVERONA ? 6° Premio AV [read](https://www.behance.net/gallery/141503703/ARCHITETTIVERONA-6-Premio-AV)
 
-   Tropic Gallery [read](https://www.behance.net/gallery/142999851/Tropic-Gallery)
+   Nike Air Max Kids [read](https://www.behance.net/gallery/143166459/Nike-Air-Max-Kids)
 
-   InkBit - An 8Bit October [read](https://www.behance.net/gallery/132019687/InkBit-An-8Bit-October)
+   Health Hut \| lg2 [read](https://www.behance.net/gallery/141629495/Health-Hut-lg2)
 
    Meet This Month’s Guest Curator: Paolo Pettigiani [read](https://medium.com/behance-blog/meet-this-months-guest-curator-paolo-pettigiani-2e6eb34415c4?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Wedding season is back and Pinterest is inspiring a new look to walking down the aisle [read](https://newsroom.pinterest.com/en/post/wedding-season-is-back-and-pinterest-is-inspiring-a-new-look-to-walking-down-the-aisle)
 
-   鲨鱼菲特X字绘中国，多维升级战略构建品牌核心壁垒 [read](https://www.uisdc.com/zihui-sharkfit-2022)
+   我们邀请了3个优秀插画师，总结了这份商务合作流程指南 [read](https://www.uisdc.com/business-process)
 
-   第一波！2022年5月精选实用设计干货合集 [read](https://www.uisdc.com/2022-5-design-resources-vol1)
+   想让设计更酷炫？先学会 6 种常用的动效落地方案（附插件下载） [read](https://www.uisdc.com/motion-program)
 
-   海报设计如何更优雅？加上这个元素准没错！（附素材下载） [read](https://www.uisdc.com/poster-design-5)
+   新版高德地图有哪些设计亮点？我总结了这3方面！ [read](https://www.uisdc.com/amap-design-highlights)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
