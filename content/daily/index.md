@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SwedishAntenna_EN-US4697496933_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MomJoey_EN-US7006938352_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -22,11 +22,11 @@ title: "今日资讯"
 
    让用户决定软件长什么样 [read](https://blog.t9t.io/let-user-design-2020-06-18/)
 
+   印度的穆斯林王朝——德里苏丹 [read](https://www.kymjs.com/pay/history/2022/05/08/01)
+
    学历史有什么用 [read](https://www.kymjs.com/history/2022/05/04/01)
 
-   印度的列国时代大一统——孔雀王朝 [read](https://www.kymjs.com/history/2022/05/03/01)
-
-   印度列国时代的百家争鸣——沙门思潮 [read](https://www.kymjs.com/history/2022/05/02/01)
+   印度的列国时代大一统——孔雀王朝 [read](https://www.kymjs.com/pay/history/2022/05/03/01)
 
 ### IT团队博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]抖音 Android 包体积优化探索：资源二进制格式的极致精简 [read](https://blog.csdn.net/ByteDanceTech/article/details/124642609)
+
    \[原\]深入理解 OC/C++ 闭包 [read](https://blog.csdn.net/ByteDanceTech/article/details/124622224)
 
    \[原\]iOS StoreKit 2 新特性解析 [read](https://blog.csdn.net/ByteDanceTech/article/details/124580758)
-
-   \[原\]ByteDoc 3.0：MongoDB 云原生实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/124549553)
 
    Linux下跨语言调用C++实践 [read](https://tech.meituan.com/2022/04/21/cross-language-call.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   学配音就能月入过万？割了年轻人，富了培训班 [read](http://www.huxiu.com/article/548955.html?f=wangzhan)
+   日本如何渡过消费低迷？ [read](http://www.huxiu.com/article/545203.html?f=wangzhan)
 
-   年轻人的“大玩具”，大排摩托逆势增长 [read](http://www.huxiu.com/article/548653.html?f=wangzhan)
+   砍权益、送软件，小鹏的促销你学不会 [read](http://www.huxiu.com/article/548367.html?f=wangzhan)
 
-   年近百岁的马哈蒂尔：饱受争议的民主“独裁者” [read](http://www.huxiu.com/article/548066.html?f=wangzhan)
+   中国网文征服西方世界，让千万老外无法自拔？ [read](http://www.huxiu.com/article/548597.html?f=wangzhan)
 
-   最前线｜极狐阿尔法S全新HI版上市，搭载华为全栈智能驾驶方案+鸿蒙车机OS [read](https://36kr.com/p/1731137366080768)
+   比亚迪工厂疑似排放污染，附近居民流鼻血，长沙已成立调查组 \| 最前线 [read](https://36kr.com/p/1732249485884672)
 
-   融资难？揭秘“搞钱”的三大关键丨直播报名开启 [read](https://36kr.com/p/1730929750015239)
+   云天励飞与华为合作共推AI产业创新发展；远大住工与腾讯云在智慧园区、智慧社区等领域达成合作 \| 36氪大公司数字创新指南0507 [read](https://36kr.com/p/1731115724504321)
 
-   36碳周报丨全国首个农业碳汇交易平台落地，发放首批农业碳票；美国已有318个光伏项目被迫推迟或取消 [read](https://36kr.com/p/1730879431818498)
+   国贸的春天静悄悄 [read](https://36kr.com/p/1731774221646856)
 
    ICLR 2022 \| 微软亚洲研究院深度学习领域最新研究成果一览 [read](https://www.msra.cn/zh-cn/news/features/iclr-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
+   Marshall Emberton II 上手：像手机一般大小，却十分「暴躁」的蓝牙音箱 [read](http://www.geekpark.net/news/301850)
+
+   极客简报｜苹果 15 美元平息降速门 / 字节跳动公司改名 / 荣耀意欲掏空 Windows [read](http://www.geekpark.net/news/301930)
+
    极讲究・四月好物名单：BMW i7、Titan Slim 全键盘手机、愤怒的小鸟重制版、Apple 雷雳 4 Pro 连接线 [read](http://www.geekpark.net/news/301906)
-
-   1 年超 30 亿美元，被「黑」的加密货币都去哪了？ [read](http://www.geekpark.net/news/301839)
-
-   iPhone 14 全家福登热搜；马斯克：6 年内将推特营收增长 5 倍；灰产「改 IP 属地」，1 天 5 块，1年 800 [read](http://www.geekpark.net/news/301885)
 
 ### 金融类
 
-   专业能力应该怎么用？ [read](http://xueqiu.com/8510627167/219279816)
+   拜读巴菲特2022年股东大会 [read](http://xueqiu.com/2160821493/219335892)
 
-   林森离任后，曾管理的基金怎么办？ [read](http://xueqiu.com/1762638610/219286012)
+   买方视角：指数估值(PE)的计算方法 [read](http://xueqiu.com/9391624441/219302851)
 
-   白酒这个末路赛道 [read](http://xueqiu.com/6289622534/219262590)
+   没有茅台，怎么投资？ [read](http://xueqiu.com/6038415265/219327181)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   ARCHITETTIVERONA ? 6° Premio AV [read](https://www.behance.net/gallery/141503703/ARCHITETTIVERONA-6-Premio-AV)
+   streetFashion Illustration [read](https://www.behance.net/gallery/143155707/streetFashion-Illustration)
 
-   Nike Air Max Kids [read](https://www.behance.net/gallery/143166459/Nike-Air-Max-Kids)
+   NICE4U Campaign Packaging Design [read](https://www.behance.net/gallery/142978071/NICE4U-Campaign-Packaging-Design)
 
-   Health Hut \| lg2 [read](https://www.behance.net/gallery/141629495/Health-Hut-lg2)
+   shoer concept [read](https://www.behance.net/gallery/143224263/shoer-concept)
 
    Meet This Month’s Guest Curator: Paolo Pettigiani [read](https://medium.com/behance-blog/meet-this-months-guest-curator-paolo-pettigiani-2e6eb34415c4?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Wedding season is back and Pinterest is inspiring a new look to walking down the aisle [read](https://newsroom.pinterest.com/en/post/wedding-season-is-back-and-pinterest-is-inspiring-a-new-look-to-walking-down-the-aisle)
 
-   我们邀请了3个优秀插画师，总结了这份商务合作流程指南 [read](https://www.uisdc.com/business-process)
+   一看就懂！组件设计的 3 大类型+5 种属性科普 [read](https://www.uisdc.com/component-design-details)
 
-   想让设计更酷炫？先学会 6 种常用的动效落地方案（附插件下载） [read](https://www.uisdc.com/motion-program)
+   如何做竞品分析最有效？8 种常用的方法全在这！ [read](https://www.uisdc.com/competitive-analysis-guide)
 
-   新版高德地图有哪些设计亮点？我总结了这3方面！ [read](https://www.uisdc.com/amap-design-highlights)
+   上亿人在玩的《和平精英》，如何做好机甲主题创意设计？ [read](https://www.uisdc.com/pubg-mobile-mecha-design)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
