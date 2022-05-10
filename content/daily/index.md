@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GoremeNationalPark_EN-US4875441908_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GiffordPinchot_EN-US4980175686_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -30,12 +30,6 @@ title: "今日资讯"
 
 ### IT团队博客
 
-   走向匿名化，谈谈微信小程序新授权登录 [read](http://www.alloyteam.com/2021/04/15431/)
-
-   yield 学习 [read](http://www.alloyteam.com/2021/03/15427/)
-
-   callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
-
    奇舞周刊第 445 期 [read](https://weekly.75.team/issue445.html)
 
    奇舞周刊第 444 期 [read](https://weekly.75.team/issue444.html)
@@ -48,17 +42,17 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]广告素材优选算法在内容营销中的应用实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/124679077)
+
    \[原\]抖音 Android 包体积优化探索：资源二进制格式的极致精简 [read](https://blog.csdn.net/ByteDanceTech/article/details/124642609)
 
    \[原\]深入理解 OC/C++ 闭包 [read](https://blog.csdn.net/ByteDanceTech/article/details/124622224)
 
-   \[原\]iOS StoreKit 2 新特性解析 [read](https://blog.csdn.net/ByteDanceTech/article/details/124580758)
+   数据库异常智能分析与诊断 [read](https://tech.meituan.com/2022/05/05/meituan-database-autonomy-service.html)
 
-   标准化思想及组装式架构在后端BFF中的实践 [read](https://tech.meituan.com/2022/04/28/composable-architecture-in-bff.html)
+   标准化思想及组装式架构在后端BFF中的实践 [read](https://tech.meituan.com/2022/04/28/composable-architecture-in-bff-2022.html)
 
    美团外卖广告智能算力的探索与实践（二） [read](https://tech.meituan.com/2022/04/28/evolutionary-strategies-based-multi-action-computation-allocation.html)
-
-   Linux下跨语言调用C++实践 [read](https://tech.meituan.com/2022/04/21/cross-language-call.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +62,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   谁在捏造特斯拉刹车门 [read](http://www.huxiu.com/article/550379.html?f=wangzhan)
+   论“阴阳怪气”，还得看“六公主” [read](http://www.huxiu.com/article/551162.html?f=wangzhan)
 
-   半数网文作者月入2千，万亿产业变血汗工厂？ [read](http://www.huxiu.com/article/550191.html?f=wangzhan)
+   日系电动车，能避开大众踩过的坑吗？ [read](http://www.huxiu.com/article/550888.html?f=wangzhan)
 
-   “打倒经销商”，真的可行吗？ [read](http://www.huxiu.com/article/548734.html?f=wangzhan)
+   不太摇滚的石家庄，怎么就成了中国的“摇滚之乡”？ [read](http://www.huxiu.com/article/550900.html?f=wangzhan)
 
-   泰禾集团更名ST泰禾：上市地位岌岌可危 楼盘交付遥遥无期 [read](https://36kr.com/p/1733761198406662)
+   30岁还没结婚就应该去相亲？\| 相亲态度小调查 [read](https://36kr.com/p/1735240109521923)
 
-   最前线 \| 用新冠疫苗赚800亿却扣押年终奖，北京科兴被曝违法裁员 [read](https://36kr.com/p/1733490943212551)
+   即氪健身 Vol.02丨杭州亚运会延期；Peloton寻求出售股权；健身追踪器不会引发运动热潮 [read](https://36kr.com/p/1735207349173248)
 
-   36氪新风向 \| 惊动数百家VC，数字疗法是一门好生意吗？ [read](https://36kr.com/p/1708087857944325)
+   智氪点评丨净利大滑坡，线上布局不足，「鸭脖一哥」绝味食品进入群雄争霸赛 [read](https://36kr.com/p/1735089614978308)
 
    ICLR 2022 \| 微软亚洲研究院深度学习领域最新研究成果一览 [read](https://www.msra.cn/zh-cn/news/features/iclr-2022)
 
@@ -86,19 +80,19 @@ title: "今日资讯"
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
-   一条推文 20 万，这些「NFT 带货网红」先发家了 [read](http://www.geekpark.net/news/301970)
+   阿里音乐搞不成，该不该怪高晓松？ [read](http://www.geekpark.net/news/302014)
 
-   海信 80L9H 激光电视：「私人影院」级体验 [read](http://www.geekpark.net/news/301881)
+   iQOO Neo6 SE 体验：1999 元起售，不错的骁龙 870 之选 [read](http://www.geekpark.net/news/301810)
 
-   中兴 Axon 40 Pro 体验：骁龙 870+5000mAh 电池，不乏亮点的「水桶机」 [read](http://www.geekpark.net/news/301929)
+   特斯拉「刹车门」车主道歉，承认编造消息；苹果或推「花呗」信用消费；SpaceX 总裁预测人类 2030 之前登上火星 [read](http://www.geekpark.net/news/301983)
 
 ### 金融类
 
-   海印转债价值几何？ [read](http://xueqiu.com/6146592061/219429075)
+   这一轮猪周期应该怎么投？ [read](http://xueqiu.com/7173595940/219471941)
 
-   对国内创新药行业的一些误区 [read](http://xueqiu.com/9518372158/219420495)
+   当年那个高位接棒产品的基金经理，终于在低位发产品了 [read](http://xueqiu.com/9371934674/219563080)
 
-   百年五十万倍，可口可乐教会我们什么？ [read](http://xueqiu.com/2245748859/219415052)
+   2022年江西省胰岛素专项集采分析 [read](http://xueqiu.com/1291909236/219557334)
 
 ### 学习类
 
@@ -128,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   DESTROYDESTROYDESTROY [read](https://www.behance.net/gallery/143345751/DESTROYDESTROYDESTROY)
+   Amilcar de Castro ? Esculturas no Parque [read](https://www.behance.net/gallery/142941399/Amilcar-de-Castro-Esculturas-no-Parque)
 
-   ???? X ??? [read](https://www.behance.net/gallery/142942573/-X-)
+   50 Major Events in World History:Susan B Katz (Author) [read](https://www.behance.net/gallery/142828161/50-Major-Events-in-World-HistorySusan-B-Katz-%28Author%29)
 
-   Illustration Collection I [read](https://www.behance.net/gallery/143199999/Illustration-Collection-I)
+   ClayClay Container - PaperPlay &amp; Ummroom Design Store [read](https://www.behance.net/gallery/140664569/ClayClay-Container-PaperPlay-Ummroom-Design-Store)
 
    Meet This Month’s Guest Curator: Paolo Pettigiani [read](https://medium.com/behance-blog/meet-this-months-guest-curator-paolo-pettigiani-2e6eb34415c4?source=rss-f5272b7f3182------2)
 
@@ -146,11 +140,11 @@ title: "今日资讯"
 
    Wedding season is back and Pinterest is inspiring a new look to walking down the aisle [read](https://newsroom.pinterest.com/en/post/wedding-season-is-back-and-pinterest-is-inspiring-a-new-look-to-walking-down-the-aisle)
 
-   一看就懂！组件设计的 3 大类型+5 种属性科普 [read](https://www.uisdc.com/component-design-details)
+   罗永浩与 MasterGo 交个朋友，与设计师一同迈入设计协同时代 [read](https://www.uisdc.com/luoyonghao-mastergo-2022)
 
-   实战复盘！拿下 iF 设计奖的 CleanMyMac X 是如何设计出来的？ [read](https://www.uisdc.com/cleanmymac-x-design)
+   潘虎 x 樊文花，设计实现高效品牌传递 [read](https://www.uisdc.com/panhu-fawa-2022)
 
-   如何做竞品分析最有效？8 种常用的方法全在这！ [read](https://www.uisdc.com/competitive-analysis-guide)
+   免费可商用！90000+高质量矢量素材网站SVG Silh [read](https://www.uisdc.com/svg-silh)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
