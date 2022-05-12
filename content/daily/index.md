@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.OiaVillage_EN-US5240840248_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.RedCross_EN-US5698722803_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]OOP 思想在 TCC/APIX/GORM 源码中的应用 [read](https://blog.csdn.net/ByteDanceTech/article/details/124722608)
+
    \[原\]深入剖析 split locks，i++ 可能导致的灾难 [read](https://blog.csdn.net/ByteDanceTech/article/details/124701175)
 
    \[原\]广告素材优选算法在内容营销中的应用实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/124679077)
-
-   \[原\]抖音 Android 包体积优化探索：资源二进制格式的极致精简 [read](https://blog.csdn.net/ByteDanceTech/article/details/124642609)
 
    数据库异常智能分析与诊断 [read](https://tech.meituan.com/2022/05/05/meituan-database-autonomy-service.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   泡泡玛特投资人傅哲宽：从投资到上市等了七年，创业初期曾被质疑没回报 [read](http://www.huxiu.com/article/552336.html?f=wangzhan)
+   《风起陇西》：“改编马伯庸”之困 [read](http://www.huxiu.com/article/553535.html?f=wangzhan)
 
-   李想和李斌：血战即将到来 [read](http://www.huxiu.com/article/551674.html?f=wangzhan)
+   停产20年的黑胶，咋又成了你的神？ [read](http://www.huxiu.com/article/553365.html?f=wangzhan)
 
-   Meta遭德国反垄断监管，影响有多大？ [read](http://www.huxiu.com/article/552173.html?f=wangzhan)
+   日本三菱造假40年，3384台变压器涉及数据造假 [read](http://www.huxiu.com/article/552465.html?f=wangzhan)
 
-   智氪 · 北交所 \| 背靠中石化，「卖艺又卖身」，能源切换下齐鲁华信负重前行 [read](https://36kr.com/p/1736471872912644)
+   氪星晚报 \| 小度与蔚来汽车达成合作；谷歌正式发布Android 13，OPPO Find N率先适配；Twitter前CEO多西：没有计划再次执掌Twitter [read](https://36kr.com/p/1737954535963651)
 
-   智氪点评丨营收疯涨，利润巨亏，患上「京东依赖症」的达达能顺利「脱贫」吗？ [read](https://36kr.com/p/1736465028513028)
+   最前线 \| 钉钉被曝“组织优化”，内部人士：涉及自研SaaS、硬件部门 [read](https://36kr.com/p/1737954633448713)
 
-   氪星晚报 \| 理想汽车回应“校招生offer解约”：因业务有调整，提供调岗或解约赔偿；华为智能汽车黑匣子数据专利获授权 [read](https://36kr.com/p/1736552397175808)
+   36氪研究院 \| 2022年中国新冠疫苗行业洞察报告 [read](https://36kr.com/p/1737821874863105)
 
    ICLR 2022 \| 微软亚洲研究院深度学习领域最新研究成果一览 [read](https://www.msra.cn/zh-cn/news/features/iclr-2022)
 
@@ -86,33 +86,33 @@ title: "今日资讯"
 
    如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
 
-   DJI Mini 3 Pro 体验：小就不能满足你了？ [read](http://www.geekpark.net/news/302012)
+   奇遇 Dream Pro 体验：4K 级屏幕补足短板，「水桶」VR 一体机 [read](http://www.geekpark.net/news/302110)
 
-   一个没法成为「网红」的社交 App，被年轻人挤爆了 [read](http://www.geekpark.net/news/302070)
+   2022 谷歌 I/O 大会来了，我们为你挑了 10 个重点 [read](http://www.geekpark.net/news/302109)
 
-   「碳圈」20 年：骗子、老兵和跑步入场的年轻人 [read](http://www.geekpark.net/news/302028)
+   滴滴、新氧被美列入「预摘牌名单」；谷歌开发者大会再秀「AI 肌肉」；俞敏洪谈老罗单飞：激励不到位｜极客早知道 [read](http://www.geekpark.net/news/302085)
 
 ### 金融类
 
-   投资沪深300，你必须要知道的10个问题 [read](http://xueqiu.com/4778574435/219670894)
+   未来几年，中国平安的分红，会减少吗？ [read](http://xueqiu.com/2340719306/219791780)
 
-   市场磨底阶段，耐心就是赚钱 [read](http://xueqiu.com/6056806984/219573522)
+   冯柳和“岁寒”，以及他们弹指间过去的6年…… [read](http://xueqiu.com/6278433034/219574682)
 
-   A股到了底部价值区域 [read](http://xueqiu.com/3241529995/219659181)
+   当前市场下的配置思考 [read](http://xueqiu.com/3078892127/219569202)
 
 ### 学习类
+
+   💻 Issue 307 - Security advisory: malicious crate rustdecimal \| Rust Blog [read](https://rust.libhunt.com/newsletter/307)
 
    💻 Issue 306 - A shiny future with GATs - and stabilization [read](https://rust.libhunt.com/newsletter/306)
 
    💻 Issue 305 - Rust9x: Compile Rust code for Windows 95, NT and above [read](https://rust.libhunt.com/newsletter/305)
 
-   💻 Issue 304 - Bevy 0.7 [read](https://rust.libhunt.com/newsletter/304)
+   This Week in Rust 442 [read](https://this-week-in-rust.org/blog/2022/05/11/this-week-in-rust-442/)
 
    This Week in Rust 441 [read](https://this-week-in-rust.org/blog/2022/05/04/this-week-in-rust-441/)
 
    This Week in Rust 440 [read](https://this-week-in-rust.org/blog/2022/04/27/this-week-in-rust-440/)
-
-   This Week in Rust 439 [read](https://this-week-in-rust.org/blog/2022/04/20/this-week-in-rust-439/)
 
    ETCD的内存问题 [read](https://coolshell.cn/articles/22242.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Rebel Coffee Roastery - Branding [read](https://www.behance.net/gallery/143343939/Rebel-Coffee-Roastery-Branding)
+   VARIOUS ILLUSTRATIONS 20-22 [read](https://www.behance.net/gallery/136526571/VARIOUS-ILLUSTRATIONS-20-22)
 
-   CRANE, REED &amp; DROP OF WATER [read](https://www.behance.net/gallery/143359777/CRANE-REED-DROP-OF-WATER)
+   Place des Arts [read](https://www.behance.net/gallery/142604321/Place-des-Arts)
 
-   Logofolio 2021-2022 [read](https://www.behance.net/gallery/143352723/Logofolio-2021-2022)
+   Lyft - Milestones [read](https://www.behance.net/gallery/136491673/Lyft-Milestones)
 
    Meet This Month’s Guest Curator: Paolo Pettigiani [read](https://medium.com/behance-blog/meet-this-months-guest-curator-paolo-pettigiani-2e6eb34415c4?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Wedding season is back and Pinterest is inspiring a new look to walking down the aisle [read](https://newsroom.pinterest.com/en/post/wedding-season-is-back-and-pinterest-is-inspiring-a-new-look-to-walking-down-the-aisle)
 
-   「NVIDIA Studio 创意加速」邀请创作者 Karen X. Cheng 做客，探讨 AI 赋予创作的「超能力」 [read](https://www.uisdc.com/karen-nvidia-studio-2022)
+   海报如何更有力量感？加上这个元素准没错！（附素材下载） [read](https://www.uisdc.com/design-with-a-sense-of-force)
 
-   第二波！2022年5月精选实用设计干货合集 [read](https://www.uisdc.com/2022-5-design-resources-vol2)
+   华为高薪招聘的「UX文案设计」，文案规范全在这了！ [read](https://www.uisdc.com/ux-copywriting-tutorial)
 
-   可视化设计神器第二弹！15个精选神器都在这！ [read](https://www.uisdc.com/visual-web)
+   基础全扫盲！用大白话帮你掌握用户体验设计（一） [read](https://www.uisdc.com/user-experience-design-interpretation)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
