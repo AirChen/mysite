@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.RedCross_EN-US5698722803_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MaasaiGiraffe_EN-US4914727610_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 205 期）：互联网风口过去了吗？ [read](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-205.html)
+   科技爱好者周刊（第 206 期）：如何走出失望和怀疑 [read](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html)
 
-   打包工具 rollup.js 入门教程 [read](http://www.ruanyifeng.com/blog/2022/05/rollup.html)
+   科技爱好者周刊（第 205 期）：互联网风口过去了吗？ [read](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-205.html)
 
    游戏数据的展示 [read](https://blog.codingnow.com/2022/05/gameplay_viewport.html)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 446 期 [read](https://weekly.75.team/issue446.html)
+
    奇舞周刊第 445 期 [read](https://weekly.75.team/issue445.html)
 
    奇舞周刊第 444 期 [read](https://weekly.75.team/issue444.html)
-
-   奇舞周刊第 443 期 [read](https://weekly.75.team/issue443.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]一文了解字节跳动如何解决 SLA 治理难题 [read](https://blog.csdn.net/ByteDanceTech/article/details/124743520)
+
    \[原\]OOP 思想在 TCC/APIX/GORM 源码中的应用 [read](https://blog.csdn.net/ByteDanceTech/article/details/124722608)
 
    \[原\]深入剖析 split locks，i++ 可能导致的灾难 [read](https://blog.csdn.net/ByteDanceTech/article/details/124701175)
-
-   \[原\]广告素材优选算法在内容营销中的应用实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/124679077)
 
    数据库异常智能分析与诊断 [read](https://tech.meituan.com/2022/05/05/meituan-database-autonomy-service.html)
 
@@ -68,37 +68,37 @@ title: "今日资讯"
 
 ### 互联网类
 
-   《风起陇西》：“改编马伯庸”之困 [read](http://www.huxiu.com/article/553535.html?f=wangzhan)
+   开放显示IP属地，全网翻车？ [read](http://www.huxiu.com/article/554190.html?f=wangzhan)
 
-   停产20年的黑胶，咋又成了你的神？ [read](http://www.huxiu.com/article/553365.html?f=wangzhan)
+   吉利再出手：13.76亿元入股雷诺韩国汽车 [read](http://www.huxiu.com/article/553441.html?f=wangzhan)
 
-   日本三菱造假40年，3384台变压器涉及数据造假 [read](http://www.huxiu.com/article/552465.html?f=wangzhan)
+   卖手机，不如卖手机壳赚钱？ [read](http://www.huxiu.com/article/554204.html?f=wangzhan)
 
-   氪星晚报 \| 小度与蔚来汽车达成合作；谷歌正式发布Android 13，OPPO Find N率先适配；Twitter前CEO多西：没有计划再次执掌Twitter [read](https://36kr.com/p/1737954535963651)
+   首场区域决赛顺利落幕，华南赛区“三强”诞生 [read](https://36kr.com/p/1739608906152965)
 
-   最前线 \| 钉钉被曝“组织优化”，内部人士：涉及自研SaaS、硬件部门 [read](https://36kr.com/p/1737954633448713)
+   智氪 · 北交所丨从宜家到喜茶，「跨界营销」的风又把竹制品带火了？ [read](https://36kr.com/p/1739345359977481)
 
-   36氪研究院 \| 2022年中国新冠疫苗行业洞察报告 [read](https://36kr.com/p/1737821874863105)
+   智氪点评丨多条腿发力，门店7年翻10倍，「药店F4」的老大争夺战 [read](https://36kr.com/p/1739344087366918)
+
+   非自回归生成研究最新综述，近200篇文献揭示挑战和未来方向 [read](https://www.msra.cn/zh-cn/news/features/a-survey-on-non-autoregressive-generation)
 
    ICLR 2022 \| 微软亚洲研究院深度学习领域最新研究成果一览 [read](https://www.msra.cn/zh-cn/news/features/iclr-2022)
 
    WWW 2022 \| 一文解读互联网技术国际顶会最新方向 [read](https://www.msra.cn/zh-cn/news/features/www-2022)
 
-   如何亿点点降低语音识别跨领域、跨语种迁移难度？ [read](https://www.msra.cn/zh-cn/news/features/cmatch-adapter)
+   现在才发力纯电车，日系车还能赶得上吗？ [read](http://www.geekpark.net/news/302181)
 
-   奇遇 Dream Pro 体验：4K 级屏幕补足短板，「水桶」VR 一体机 [read](http://www.geekpark.net/news/302110)
+   苹果输给石油佬，科技股不香了吗？ [read](http://www.geekpark.net/news/302151)
 
-   2022 谷歌 I/O 大会来了，我们为你挑了 10 个重点 [read](http://www.geekpark.net/news/302109)
-
-   滴滴、新氧被美列入「预摘牌名单」；谷歌开发者大会再秀「AI 肌肉」；俞敏洪谈老罗单飞：激励不到位｜极客早知道 [read](http://www.geekpark.net/news/302085)
+   苹果被沙特阿美超越，跌落全球市值第一宝座；罗永浩：完全不同意被称作「行业冥灯」；首张银河系中心黑洞照片公布 [read](http://www.geekpark.net/news/302133)
 
 ### 金融类
 
-   未来几年，中国平安的分红，会减少吗？ [read](http://xueqiu.com/2340719306/219791780)
+   我看过最好的经济学书 [read](http://xueqiu.com/7579238876/219856697)
 
-   冯柳和“岁寒”，以及他们弹指间过去的6年…… [read](http://xueqiu.com/6278433034/219574682)
+   中国船舶的投资逻辑 [read](http://xueqiu.com/2299425930/219865895)
 
-   当前市场下的配置思考 [read](http://xueqiu.com/3078892127/219569202)
+   对比分析各猪企的财务状况 [read](http://xueqiu.com/8228987213/219886634)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   VARIOUS ILLUSTRATIONS 20-22 [read](https://www.behance.net/gallery/136526571/VARIOUS-ILLUSTRATIONS-20-22)
+   ECP Internet Safety [read](https://www.behance.net/gallery/143360139/ECP-Internet-Safety)
 
-   Place des Arts [read](https://www.behance.net/gallery/142604321/Place-des-Arts)
+   Heckler [read](https://www.behance.net/gallery/143645483/Heckler)
 
-   Lyft - Milestones [read](https://www.behance.net/gallery/136491673/Lyft-Milestones)
+   2022 Vision Get Wild Award \| Sign Up ! Get Wild [read](https://www.behance.net/gallery/139177859/2022-Vision-Get-Wild-Award-Sign-Up-Get-Wild)
 
    Meet This Month’s Guest Curator: Paolo Pettigiani [read](https://medium.com/behance-blog/meet-this-months-guest-curator-paolo-pettigiani-2e6eb34415c4?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Wedding season is back and Pinterest is inspiring a new look to walking down the aisle [read](https://newsroom.pinterest.com/en/post/wedding-season-is-back-and-pinterest-is-inspiring-a-new-look-to-walking-down-the-aisle)
 
-   海报如何更有力量感？加上这个元素准没错！（附素材下载） [read](https://www.uisdc.com/design-with-a-sense-of-force)
+   最高奖金4万元！忆江南·“桐”创未来文创设计大赛面向全国征集 [read](https://www.uisdc.com/tonglu-design-award-2022)
 
-   华为高薪招聘的「UX文案设计」，文案规范全在这了！ [read](https://www.uisdc.com/ux-copywriting-tutorial)
+   平面设计师来收！送你一份活动物料尺寸、材质及工艺指南 [read](https://www.uisdc.com/printing-knowledge-2022)
 
-   基础全扫盲！用大白话帮你掌握用户体验设计（一） [read](https://www.uisdc.com/user-experience-design-interpretation)
+   基础全扫盲！用大白话帮你掌握用户体验设计（二） [read](https://www.uisdc.com/pm-experience-designer)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
