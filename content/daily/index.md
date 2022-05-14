@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MaasaiGiraffe_EN-US4914727610_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WindmillDay_EN-US5180406924_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]西瓜视频 iOS Voice Over 无障碍适配实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/124762824)
+
    \[原\]一文了解字节跳动如何解决 SLA 治理难题 [read](https://blog.csdn.net/ByteDanceTech/article/details/124743520)
 
    \[原\]OOP 思想在 TCC/APIX/GORM 源码中的应用 [read](https://blog.csdn.net/ByteDanceTech/article/details/124722608)
-
-   \[原\]深入剖析 split locks，i++ 可能导致的灾难 [read](https://blog.csdn.net/ByteDanceTech/article/details/124701175)
 
    数据库异常智能分析与诊断 [read](https://tech.meituan.com/2022/05/05/meituan-database-autonomy-service.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   欢迎来到“最后的书店” [read](http://www.huxiu.com/article/552162.html?f=wangzhan)
+
    开放显示IP属地，全网翻车？ [read](http://www.huxiu.com/article/554190.html?f=wangzhan)
 
    吉利再出手：13.76亿元入股雷诺韩国汽车 [read](http://www.huxiu.com/article/553441.html?f=wangzhan)
 
-   卖手机，不如卖手机壳赚钱？ [read](http://www.huxiu.com/article/554204.html?f=wangzhan)
+   黑龙江省政府与华为合作，落地黑龙江鲲鹏生态创新中心；成都构建城市数字底座，重点布局大数据等城市战略竞争产业 \| 36氪大公司数字创新指南0513 [read](https://36kr.com/p/1739643616066821)
 
-   首场区域决赛顺利落幕，华南赛区“三强”诞生 [read](https://36kr.com/p/1739608906152965)
+   一切好运，从被大厂辞退开始 [read](https://36kr.com/p/1739315020528899)
 
-   智氪 · 北交所丨从宜家到喜茶，「跨界营销」的风又把竹制品带火了？ [read](https://36kr.com/p/1739345359977481)
-
-   智氪点评丨多条腿发力，门店7年翻10倍，「药店F4」的老大争夺战 [read](https://36kr.com/p/1739344087366918)
+   专访任子威：身后纷纷扰扰，大象独自领跑 [read](https://36kr.com/p/1739319042489349)
 
    非自回归生成研究最新综述，近200篇文献揭示挑战和未来方向 [read](https://www.msra.cn/zh-cn/news/features/a-survey-on-non-autoregressive-generation)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    WWW 2022 \| 一文解读互联网技术国际顶会最新方向 [read](https://www.msra.cn/zh-cn/news/features/www-2022)
 
+   iPod 时代终结，但音乐没有告别 [read](http://www.geekpark.net/news/302180)
+
+   马斯克「暂停」收购，推特股价暴跌；知网涉嫌垄断被正式立案调查；科学家在月球土壤中种出植物 [read](http://www.geekpark.net/news/302188)
+
    现在才发力纯电车，日系车还能赶得上吗？ [read](http://www.geekpark.net/news/302181)
-
-   苹果输给石油佬，科技股不香了吗？ [read](http://www.geekpark.net/news/302151)
-
-   苹果被沙特阿美超越，跌落全球市值第一宝座；罗永浩：完全不同意被称作「行业冥灯」；首张银河系中心黑洞照片公布 [read](http://www.geekpark.net/news/302133)
 
 ### 金融类
 
-   我看过最好的经济学书 [read](http://xueqiu.com/7579238876/219856697)
+   与君周末谈：聊聊最近的股市 [read](http://xueqiu.com/8258019402/219946177)
 
-   中国船舶的投资逻辑 [read](http://xueqiu.com/2299425930/219865895)
+   董承非：市场已见底，但不会很快进入新一轮牛市 [read](http://xueqiu.com/8663769490/219944617)
 
-   对比分析各猪企的财务状况 [read](http://xueqiu.com/8228987213/219886634)
+   仔猪是否外卖的价格分析 [read](http://xueqiu.com/3117197137/219928176)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   ECP Internet Safety [read](https://www.behance.net/gallery/143360139/ECP-Internet-Safety)
+   Rich People are Weird [read](https://www.behance.net/gallery/103218655/Rich-People-are-Weird)
 
-   Heckler [read](https://www.behance.net/gallery/143645483/Heckler)
+   Pilot [read](https://www.behance.net/gallery/143393153/Pilot)
 
-   2022 Vision Get Wild Award \| Sign Up ! Get Wild [read](https://www.behance.net/gallery/139177859/2022-Vision-Get-Wild-Award-Sign-Up-Get-Wild)
+   Natural Machines [read](https://www.behance.net/gallery/142814487/Natural-Machines)
 
    Meet This Month’s Guest Curator: Paolo Pettigiani [read](https://medium.com/behance-blog/meet-this-months-guest-curator-paolo-pettigiani-2e6eb34415c4?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Wedding season is back and Pinterest is inspiring a new look to walking down the aisle [read](https://newsroom.pinterest.com/en/post/wedding-season-is-back-and-pinterest-is-inspiring-a-new-look-to-walking-down-the-aisle)
 
+   Google 发布全新安卓平板，大屏设计趋势来了？ [read](https://www.uisdc.com/android-pixel-tablet-design)
+
+   免费用！在线音频剪辑神器「Audio Cutter Online」 [read](https://www.uisdc.com/mp3-cutter-online)
+
    最高奖金4万元！忆江南·“桐”创未来文创设计大赛面向全国征集 [read](https://www.uisdc.com/tonglu-design-award-2022)
-
-   平面设计师来收！送你一份活动物料尺寸、材质及工艺指南 [read](https://www.uisdc.com/printing-knowledge-2022)
-
-   基础全扫盲！用大白话帮你掌握用户体验设计（二） [read](https://www.uisdc.com/pm-experience-designer)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
