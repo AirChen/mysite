@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WindmillDay_EN-US5180406924_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BerninaBloodMoon_EN-US5538561384_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   谷歌地图推出“沉浸式实景”，虚拟和现实深度融合 [read](http://www.huxiu.com/article/554676.html?f=wangzhan)
+
+   为什么千斤顶可以放大人的力气？ [read](http://www.huxiu.com/article/555300.html?f=wangzhan)
+
    欢迎来到“最后的书店” [read](http://www.huxiu.com/article/552162.html?f=wangzhan)
 
-   开放显示IP属地，全网翻车？ [read](http://www.huxiu.com/article/554190.html?f=wangzhan)
+   不会「造节」的品牌没有未来？｜营销观察 [read](https://36kr.com/p/1742441810833286)
 
-   吉利再出手：13.76亿元入股雷诺韩国汽车 [read](http://www.huxiu.com/article/553441.html?f=wangzhan)
+   36氪首发 \| 雪浪云宣布完成超三亿元B轮融资，加码建设工业元宇宙 [read](https://36kr.com/p/1742040924204674)
 
-   黑龙江省政府与华为合作，落地黑龙江鲲鹏生态创新中心；成都构建城市数字底座，重点布局大数据等城市战略竞争产业 \| 36氪大公司数字创新指南0513 [read](https://36kr.com/p/1739643616066821)
-
-   一切好运，从被大厂辞退开始 [read](https://36kr.com/p/1739315020528899)
-
-   专访任子威：身后纷纷扰扰，大象独自领跑 [read](https://36kr.com/p/1739319042489349)
+   「两桶油」、老字号、李宁都卖咖啡，插班生们图啥？ [read](https://36kr.com/p/1742433665166976)
 
    非自回归生成研究最新综述，近200篇文献揭示挑战和未来方向 [read](https://www.msra.cn/zh-cn/news/features/a-survey-on-non-autoregressive-generation)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    WWW 2022 \| 一文解读互联网技术国际顶会最新方向 [read](https://www.msra.cn/zh-cn/news/features/www-2022)
 
+   监控危机：居家办公时代，管理的边界正在成为问题 [read](http://www.geekpark.net/news/302189)
+
+   推特 CEO：相信马斯克会收购成功；奈飞：不喜欢公司内容可以辞职；京东方推 500Hz 超高刷显示屏｜极客早知道 [read](http://www.geekpark.net/news/302191)
+
    iPod 时代终结，但音乐没有告别 [read](http://www.geekpark.net/news/302180)
-
-   马斯克「暂停」收购，推特股价暴跌；知网涉嫌垄断被正式立案调查；科学家在月球土壤中种出植物 [read](http://www.geekpark.net/news/302188)
-
-   现在才发力纯电车，日系车还能赶得上吗？ [read](http://www.geekpark.net/news/302181)
 
 ### 金融类
 
-   与君周末谈：聊聊最近的股市 [read](http://xueqiu.com/8258019402/219946177)
+   新潮流？基金经理公开定投 [read](http://xueqiu.com/8554675668/219906636)
 
-   董承非：市场已见底，但不会很快进入新一轮牛市 [read](http://xueqiu.com/8663769490/219944617)
+   关于指数估值计算方法的探讨 [read](http://xueqiu.com/4778574435/219898076)
 
-   仔猪是否外卖的价格分析 [read](http://xueqiu.com/3117197137/219928176)
+   公募基金：一门好生意 [read](http://xueqiu.com/9930706260/219958373)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Rich People are Weird [read](https://www.behance.net/gallery/103218655/Rich-People-are-Weird)
+   Velofood - Branding [read](https://www.behance.net/gallery/143774849/Velofood-Branding)
 
-   Pilot [read](https://www.behance.net/gallery/143393153/Pilot)
+   Magic Japan [read](https://www.behance.net/gallery/75256713/Magic-Japan)
 
-   Natural Machines [read](https://www.behance.net/gallery/142814487/Natural-Machines)
+   ARCHITETTIVERONA ? AV Magazine. 2nd Restyle [read](https://www.behance.net/gallery/142713479/ARCHITETTIVERONA-AV-Magazine-2nd-Restyle)
 
    Meet This Month’s Guest Curator: Paolo Pettigiani [read](https://medium.com/behance-blog/meet-this-months-guest-curator-paolo-pettigiani-2e6eb34415c4?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Wedding season is back and Pinterest is inspiring a new look to walking down the aisle [read](https://newsroom.pinterest.com/en/post/wedding-season-is-back-and-pinterest-is-inspiring-a-new-look-to-walking-down-the-aisle)
 
+   顺丰实战案例！惊喜送达动态贺卡设计复盘 [read](https://www.uisdc.com/dynamic-greeting-card-design)
+
    Google 发布全新安卓平板，大屏设计趋势来了？ [read](https://www.uisdc.com/android-pixel-tablet-design)
 
    免费用！在线音频剪辑神器「Audio Cutter Online」 [read](https://www.uisdc.com/mp3-cutter-online)
-
-   最高奖金4万元！忆江南·“桐”创未来文创设计大赛面向全国征集 [read](https://www.uisdc.com/tonglu-design-award-2022)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
