@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BerninaBloodMoon_EN-US5538561384_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.PawneeOwls_EN-US5086668928_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -54,11 +54,11 @@ title: "今日资讯"
 
    \[原\]OOP 思想在 TCC/APIX/GORM 源码中的应用 [read](https://blog.csdn.net/ByteDanceTech/article/details/124722608)
 
+   CompletableFuture原理与实践-外卖商家端API的异步化 [read](https://tech.meituan.com/2022/05/12/principles-and-practices-of-completablefuture.html)
+
+   业务数据治理体系化思考与实践 [read](https://tech.meituan.com/2022/05/12/business-data-governance.html)
+
    数据库异常智能分析与诊断 [read](https://tech.meituan.com/2022/05/05/meituan-database-autonomy-service.html)
-
-   标准化思想及组装式架构在后端BFF中的实践 [read](https://tech.meituan.com/2022/04/28/composable-architecture-in-bff-2022.html)
-
-   美团外卖广告智能算力的探索与实践（二） [read](https://tech.meituan.com/2022/04/28/evolutionary-strategies-based-multi-action-computation-allocation.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   大厂员工的健康悖论：健身，并心怀恐惧 [read](http://www.huxiu.com/article/556486.html?f=wangzhan)
+
    谷歌地图推出“沉浸式实景”，虚拟和现实深度融合 [read](http://www.huxiu.com/article/554676.html?f=wangzhan)
 
    为什么千斤顶可以放大人的力气？ [read](http://www.huxiu.com/article/555300.html?f=wangzhan)
 
-   欢迎来到“最后的书店” [read](http://www.huxiu.com/article/552162.html?f=wangzhan)
+   新媒体人的出走日记：转行、开店、加薪和喜欢的事 [read](https://36kr.com/p/1743921083707009)
 
-   不会「造节」的品牌没有未来？｜营销观察 [read](https://36kr.com/p/1742441810833286)
+   理解快手电商的三个关键问题 [read](https://36kr.com/p/1743695063592584)
 
-   36氪首发 \| 雪浪云宣布完成超三亿元B轮融资，加码建设工业元宇宙 [read](https://36kr.com/p/1742040924204674)
-
-   「两桶油」、老字号、李宁都卖咖啡，插班生们图啥？ [read](https://36kr.com/p/1742433665166976)
+   荣耀笔记本新品发布，全新荣耀MagicBook 14全球首款14寸70W强性能轻薄本 [read](https://36kr.com/p/1743734081646211)
 
    非自回归生成研究最新综述，近200篇文献揭示挑战和未来方向 [read](https://www.msra.cn/zh-cn/news/features/a-survey-on-non-autoregressive-generation)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    WWW 2022 \| 一文解读互联网技术国际顶会最新方向 [read](https://www.msra.cn/zh-cn/news/features/www-2022)
 
-   监控危机：居家办公时代，管理的边界正在成为问题 [read](http://www.geekpark.net/news/302189)
+   全新荣耀 MagicBook 14 体验：75Wh 续航惊人，OS Turbo 真有料？ [read](http://www.geekpark.net/news/302227)
 
-   推特 CEO：相信马斯克会收购成功；奈飞：不喜欢公司内容可以辞职；京东方推 500Hz 超高刷显示屏｜极客早知道 [read](http://www.geekpark.net/news/302191)
+   巨头「谷歌」如何进入 Web3？ [read](http://www.geekpark.net/news/302136)
 
-   iPod 时代终结，但音乐没有告别 [read](http://www.geekpark.net/news/302180)
+   iPhone 或更换华为口 / 徕卡离开华为牵手小米 / Google 发布安卓新系统 [read](http://www.geekpark.net/news/302192)
 
 ### 金融类
 
-   新潮流？基金经理公开定投 [read](http://xueqiu.com/8554675668/219906636)
+   通威2021年股东大会见闻及估值测算 [read](http://xueqiu.com/1270496415/220093298)
 
-   关于指数估值计算方法的探讨 [read](http://xueqiu.com/4778574435/219898076)
+   工商银行如何帮助我实现财富自由？ [read](http://xueqiu.com/3564254157/219993615)
 
-   公募基金：一门好生意 [read](http://xueqiu.com/9930706260/219958373)
+   雪球专刊——新经济港股投资攻略 [read](http://xueqiu.com/3746414875/220061409)
 
 ### 学习类
 
@@ -128,17 +128,17 @@ title: "今日资讯"
 
 ### 设计类
 
-   Velofood - Branding [read](https://www.behance.net/gallery/143774849/Velofood-Branding)
+   I LOVE DOG [read](https://www.behance.net/gallery/141948511/I-LOVE-DOG)
 
-   Magic Japan [read](https://www.behance.net/gallery/75256713/Magic-Japan)
+   Abstract Calligraphy [read](https://www.behance.net/gallery/143845817/Abstract-Calligraphy)
 
-   ARCHITETTIVERONA ? AV Magazine. 2nd Restyle [read](https://www.behance.net/gallery/142713479/ARCHITETTIVERONA-AV-Magazine-2nd-Restyle)
+   Connecting Culture [read](https://www.behance.net/gallery/143738097/Connecting-Culture)
+
+   Make Monthly Income with Your Behance Content Through Subscriptions [read](https://medium.com/behance-blog/make-monthly-income-with-your-behance-content-through-subscriptions-2071ac795d4d?source=rss-f5272b7f3182------2)
 
    Meet This Month’s Guest Curator: Paolo Pettigiani [read](https://medium.com/behance-blog/meet-this-months-guest-curator-paolo-pettigiani-2e6eb34415c4?source=rss-f5272b7f3182------2)
 
    Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
-
-   Showcase Your NFTs on Behance [read](https://medium.com/behance-blog/showcase-your-nfts-on-behance-2c48386a2336?source=rss-f5272b7f3182------2)
 
    Pinterest joins MTV Entertainment Group for first-ever Mental Health Youth Action Forum [read](https://newsroom.pinterest.com/en/post/pinterest-joins-mtv-entertainment-group-for-first-ever-mental-health-youth-action-forum)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Wedding season is back and Pinterest is inspiring a new look to walking down the aisle [read](https://newsroom.pinterest.com/en/post/wedding-season-is-back-and-pinterest-is-inspiring-a-new-look-to-walking-down-the-aisle)
 
-   顺丰实战案例！惊喜送达动态贺卡设计复盘 [read](https://www.uisdc.com/dynamic-greeting-card-design)
+   永顺文创新名片来啦！15 件公益设计官入选作品公示 [read](https://www.uisdc.com/design-for-county-2022)
 
-   Google 发布全新安卓平板，大屏设计趋势来了？ [read](https://www.uisdc.com/android-pixel-tablet-design)
+   “省长杯”工业设计大赛：安全应急与健康环保类专项赛作品征集启动 [read](https://www.uisdc.com/governor-cup-industrial-design-competition-2022)
 
-   免费用！在线音频剪辑神器「Audio Cutter Online」 [read](https://www.uisdc.com/mp3-cutter-online)
+   头像如何画才能简单又传神？资深插画师6大步骤经验全分享！ [read](https://www.uisdc.com/people-draw)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
