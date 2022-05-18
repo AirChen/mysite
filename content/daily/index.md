@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SaltPondsMaras_EN-US5922073798_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.KansasPrairiefire_EN-US6008489579_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]字节跳动自研高性能微服务框架 Kitex 的演进之旅 [read](https://blog.csdn.net/ByteDanceTech/article/details/124833792)
+
    \[原\]因果推断在游戏个性化数值中的实践及应用 [read](https://blog.csdn.net/ByteDanceTech/article/details/124811656)
 
    \[原\]西瓜视频 iOS Voice Over 无障碍适配实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/124762824)
-
-   \[原\]一文了解字节跳动如何解决 SLA 治理难题 [read](https://blog.csdn.net/ByteDanceTech/article/details/124743520)
 
    CompletableFuture原理与实践-外卖商家端API的异步化 [read](https://tech.meituan.com/2022/05/12/principles-and-practices-of-completablefuture.html)
 
@@ -68,37 +68,37 @@ title: "今日资讯"
 
 ### 互联网类
 
-   居家办公面临哪些挑战？ [read](http://www.huxiu.com/article/556796.html?f=wangzhan)
+   恒大这车还能卖吗？ [read](http://www.huxiu.com/article/558753.html?f=wangzhan)
 
-   大厂员工的健康悖论：健身，并心怀恐惧 [read](http://www.huxiu.com/article/556486.html?f=wangzhan)
+   全球经济低迷、就业困难，我们怎么办？ [read](http://www.huxiu.com/article/558373.html?f=wangzhan)
 
-   谷歌地图推出“沉浸式实景”，虚拟和现实深度融合 [read](http://www.huxiu.com/article/554676.html?f=wangzhan)
+   正版也救不了华语音乐，我们充的钱用在哪儿了？ [read](http://www.huxiu.com/article/558354.html?f=wangzhan)
 
-   科氪 \| ROG新品笔记本发布：枪神6 Plus超竞版/幻16翻转版缔造新旗舰 [read](https://36kr.com/p/1745407568064385)
+   氪星晚报丨腾讯：一季度营收1355亿元，微信小程序日活突破5亿；Netflix宣布裁员150人；“柠季”全资控股投资咖啡品牌“RUU” [read](https://36kr.com/p/1746640396676742)
 
-   精华油成黄金赛道，天露芬蛰伏42年后撕下小众标签 [read](https://36kr.com/p/1745178055667334)
+   《2022营销游戏化洞察报告》：私域内卷，品牌开始用游戏「抢人」｜营销发言人 [read](https://36kr.com/p/1746393270792071)
 
-   科氪 \| 一加 Ace 竞速版正式发布，2K价位最强性能真香机 [read](https://36kr.com/p/1745229760720520)
+   智氪 \| 新冠药物的终点是什么？ [read](https://36kr.com/p/1746447274864263)
+
+   3D视频会议系统VirtualCube：相隔万里也如近在咫尺般身临其境 [read](https://www.msra.cn/zh-cn/news/features/virtualcube)
 
    非自回归生成研究最新综述，近200篇文献揭示挑战和未来方向 [read](https://www.msra.cn/zh-cn/news/features/a-survey-on-non-autoregressive-generation)
 
    ICLR 2022 \| 微软亚洲研究院深度学习领域最新研究成果一览 [read](https://www.msra.cn/zh-cn/news/features/iclr-2022)
 
-   WWW 2022 \| 一文解读互联网技术国际顶会最新方向 [read](https://www.msra.cn/zh-cn/news/features/www-2022)
+   为什么年轻人更容易接受电车？ [read](http://www.geekpark.net/news/302389)
 
-   一加 Ace 竞速版上手：禁止套娃，熟悉的「一加味道」回来了 [read](http://www.geekpark.net/news/302267)
+   居家办公比到岗还累？也许你需要一台 SKG 按摩腰靠 T5 [read](http://www.geekpark.net/news/302253)
 
-   比亚迪「主控」腾势，智能汽车下半场怎么打？ [read](http://www.geekpark.net/news/302322)
-
-   A-SOUL 风波引发 V 圈地震，字节做错了什么？ [read](http://www.geekpark.net/news/302296)
+   中国创业者的印度金矿，是怎么变成出海鸡肋的？ [read](http://www.geekpark.net/news/302403)
 
 ### 金融类
 
-   复盘南极电商的暴跌之旅 [read](http://xueqiu.com/2781746060/220193401)
+   2022年绝对回报目标产品大摸底 [read](http://xueqiu.com/8915001532/220253183)
 
-   关注兴业转债的投资机会 [read](http://xueqiu.com/4778574435/220197877)
+   绿电的三重低估 [read](http://xueqiu.com/3727797950/220241035)
 
-   丘栋荣的5大投资趋势，如何用指数基金跟踪 [read](http://xueqiu.com/3559889031/220082286)
+   庄贤投资王安：万物皆周期，价值皆可循 [read](http://xueqiu.com/1876906471/220237745)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   TANTO PATIO [read](https://www.behance.net/gallery/143380673/TANTO-PATIO)
+   1960's Las Vegas Portraits [read](https://www.behance.net/gallery/142348269/1960s-Las-Vegas-Portraits)
 
-   Nick, A Golf Addict [read](https://www.behance.net/gallery/143391561/Nick-A-Golf-Addict)
+   13 Monjas_Arequipa [read](https://www.behance.net/gallery/102876341/13-Monjas_Arequipa)
 
-   Makeat - Game Changers [read](https://www.behance.net/gallery/142430387/Makeat-Game-Changers)
+   All in this Island [read](https://www.behance.net/gallery/143731597/All-in-this-Island)
 
    Make Monthly Income with Your Behance Content Through Subscriptions [read](https://medium.com/behance-blog/make-monthly-income-with-your-behance-content-through-subscriptions-2071ac795d4d?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Wedding season is back and Pinterest is inspiring a new look to walking down the aisle [read](https://newsroom.pinterest.com/en/post/wedding-season-is-back-and-pinterest-is-inspiring-a-new-look-to-walking-down-the-aisle)
 
-   Config 2022 落幕！这15项新功能让 Figma 更简单好用了 [read](https://www.uisdc.com/config-2022)
+   万字干货！保姆级的字体设计全方位教学 [read](https://www.uisdc.com/operation-font-design-2)
 
-   如何利用「认知偏差」达成设计目标？来看大厂的实战案例！ [read](https://www.uisdc.com/use-cognitive-biases)
+   10个产品细节剖析，看看大厂是如何做设计的！ [read](https://www.uisdc.com/10-ui-ux-design-skill-2)
 
-   第十二波！快速提升 UI 设计效果的 6 个小技巧 [read](https://www.uisdc.com/improve-ui-designs-faster-12)
+   情绪板经常被吐槽？简单4步帮你做出用得上的情绪板！ [read](https://www.uisdc.com/ui-portfolio-mood-board)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
