@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GlassBridge_EN-US6168516510_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ApisMellifera_EN-US1549924485_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 206 期）：如何走出失望和怀疑 [read](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html)
+   科技爱好者周刊（第 207 期）：汽车行业的顶峰可能过去了 [read](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html)
 
-   科技爱好者周刊（第 205 期）：互联网风口过去了吗？ [read](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-205.html)
+   科技爱好者周刊（第 206 期）：如何走出失望和怀疑 [read](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html)
 
    RogueLike 原型开发工具 [read](https://blog.codingnow.com/2022/05/roguelike_lua.html)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 447 期 [read](https://weekly.75.team/issue447.html)
+
    奇舞周刊第 446 期 [read](https://weekly.75.team/issue446.html)
 
    奇舞周刊第 445 期 [read](https://weekly.75.team/issue445.html)
-
-   奇舞周刊第 444 期 [read](https://weekly.75.team/issue444.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -48,17 +48,17 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]火山引擎 A/B 测试私有化实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/124875184)
+
    \[原\]深入浅出  Gradle Sync 优化 [read](https://blog.csdn.net/ByteDanceTech/article/details/124854649)
 
    \[原\]字节跳动自研高性能微服务框架 Kitex 的演进之旅 [read](https://blog.csdn.net/ByteDanceTech/article/details/124833792)
 
-   \[原\]因果推断在游戏个性化数值中的实践及应用 [read](https://blog.csdn.net/ByteDanceTech/article/details/124811656)
+   图神经网络训练框架的实践和探索 [read](https://tech.meituan.com/2022/05/20/gnn-framework-tulong.html)
+
+   端智能在大众点评搜索重排序的应用实践 [read](https://tech.meituan.com/2022/05/20/edge-search-rerank.html)
 
    CompletableFuture原理与实践-外卖商家端API的异步化 [read](https://tech.meituan.com/2022/05/12/principles-and-practices-of-completablefuture.html)
-
-   业务数据治理体系化思考与实践 [read](https://tech.meituan.com/2022/05/12/business-data-governance.html)
-
-   数据库异常智能分析与诊断 [read](https://tech.meituan.com/2022/05/05/meituan-database-autonomy-service.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   “这些车的自动驾驶系统太TM糟糕了” [read](http://www.huxiu.com/article/559470.html?f=wangzhan)
+   蔚来又上市，这是第几回了？ [read](http://www.huxiu.com/article/560171.html?f=wangzhan)
 
-   折扣零售，初露峥嵘 [read](http://www.huxiu.com/article/559415.html?f=wangzhan)
+   如果大环境不好，怎么保就业？ [read](http://www.huxiu.com/article/559596.html?f=wangzhan)
 
-   国产大飞机是组装机吗？ [read](http://www.huxiu.com/article/559128.html?f=wangzhan)
+   为什么厂商不研究手机，开始卖手机壳了？ [read](http://www.huxiu.com/article/559627.html?f=wangzhan)
 
-   Long China 50 新闻 \| 腾讯体育大裁员，六大业务组被裁撤 [read](https://36kr.com/p/1748216916737668)
+   最前线丨“夜间”太阳能发电首次被证实，发电量仅为太阳能板的十万分之一 [read](https://36kr.com/p/1749373340483590)
 
-   最前线｜英特尔：2040年实现温室气体净零排放，未来继续投资环保项目 [read](https://36kr.com/p/1748083909885575)
+   华为举办数字人才峰会：到2024年为产业输送超百万ICT人才；数字经济“双百亿”工程落地武汉市江汉区 \| 36氪大公司数字创新指南0519 [read](https://36kr.com/p/1746724482428547)
 
-   体检的前一天，当代年轻人最恐慌的时刻 \| 年轻人恐病小调查 [read](https://36kr.com/p/1747968016908291)
+   京东国际入驻小红书，一场新跨境消费的“双赢” [read](https://36kr.com/p/1749402395705348)
 
    ACL 2022 \| NLP领域最新热门研究，你一定不能错过！ [read](https://www.msra.cn/zh-cn/news/features/acl-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    非自回归生成研究最新综述，近200篇文献揭示挑战和未来方向 [read](https://www.msra.cn/zh-cn/news/features/a-survey-on-non-autoregressive-generation)
 
-   浙大科研团队，无人机集群领域实现重大突破 [read](http://www.geekpark.net/news/302473)
+   元宇宙不缺创意，缺的是「基建」公司 [read](http://www.geekpark.net/news/302563)
 
-   给全球 10 多万员工大幅涨薪，微软是怎么想的？ [read](http://www.geekpark.net/news/302438)
+   腾讯挂「低档」，等一场东风 [read](http://www.geekpark.net/news/302491)
 
-   为什么年轻人更容易接受电车？ [read](http://www.geekpark.net/news/302389)
+   掏空 Windows 的盗版，也给国产系统蒙上了阴霾 [read](http://www.geekpark.net/news/302442)
 
 ### 金融类
 
-   从士兵到元帅，谈谈招商银行的新任行长 [read](http://xueqiu.com/8164125924/220433331)
+   隆基绿能2022股东大会交流纪要 [read](http://xueqiu.com/2329376168/220532367)
 
-   小米集团22年1季报点评 [read](http://xueqiu.com/7970049223/220425552)
+   农业银行2021年财报解读 [read](http://xueqiu.com/3037882447/220478493)
 
-   从SQM一季报谈谈锂矿的未来 [read](http://xueqiu.com/3273704098/220422641)
+   大众恐慌之时，我逆势买了带杠杆的基金 [read](http://xueqiu.com/5989577465/220500486)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Óbeli [read](https://www.behance.net/gallery/140247509/Obeli)
+   sketchbooks &amp; personal work [read](https://www.behance.net/gallery/144085715/sketchbooks-personal-work)
 
-   Exploded-View Diagram Gifs [read](https://www.behance.net/gallery/142794885/Exploded-View-Diagram-Gifs)
+   Kappa Xander Zhou 22ss Visual Identity Design [read](https://www.behance.net/gallery/143942039/Kappa-Xander-Zhou-22ss-Visual-Identity-Design)
 
-   THREE PERCENT APPAREL BRAND IDENTITY [read](https://www.behance.net/gallery/142880107/THREE-PERCENT-APPAREL-BRAND-IDENTITY)
+   Iron Sail [read](https://www.behance.net/gallery/143664553/Iron-Sail)
 
    Make Monthly Income with Your Behance Content Through Subscriptions [read](https://medium.com/behance-blog/make-monthly-income-with-your-behance-content-through-subscriptions-2071ac795d4d?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest joins MTV Entertainment Group for first-ever Mental Health Youth Action Forum [read](https://newsroom.pinterest.com/en/post/pinterest-joins-mtv-entertainment-group-for-first-ever-mental-health-youth-action-forum)
 
-   「NVIDIA Studio 创意加速」中，展示概念艺术家 Pablo Muñoz Gómez 充满奇幻色彩的艺术作品 [read](https://www.uisdc.com/gomez-nvidia-studio-2022)
+   第十三波！快速提升 UI 设计效果的 6 个小技巧 [read](https://www.uisdc.com/improve-ui-designs-faster-13)
 
-   车载设计万字干货！从零开始帮你学会 HMI 可用性测试 [read](https://www.uisdc.com/hmi-usability-testing-buff)
+   5000字干货！四大章节帮你全面了解「下拉菜单」 [read](https://www.uisdc.com/dropdown-menu-2)
 
-   这5位优秀插画师的作品，是我每日学习的灵感源泉！ [read](https://www.uisdc.com/sticker-design-3)
+   完全免费！可批量压缩图片的在线神器「Compress JPEG」 [read](https://www.uisdc.com/compress-jpeg)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
