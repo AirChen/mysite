@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ApisMellifera_EN-US1549924485_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AlbionFalls_EN-US5365811607_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   蔚来又上市，这是第几回了？ [read](http://www.huxiu.com/article/560171.html?f=wangzhan)
+   刚毕业的大学生，这届车企为何不爱? [read](http://www.huxiu.com/article/560147.html?f=wangzhan)
 
-   如果大环境不好，怎么保就业？ [read](http://www.huxiu.com/article/559596.html?f=wangzhan)
+   深度解读《巴拉巴西成功定律》，普通人如何破圈 [read](http://www.huxiu.com/article/560832.html?f=wangzhan)
 
-   为什么厂商不研究手机，开始卖手机壳了？ [read](http://www.huxiu.com/article/559627.html?f=wangzhan)
+   三星手机是怎么在中国把自己作没的？ [read](http://www.huxiu.com/article/560996.html?f=wangzhan)
 
-   最前线丨“夜间”太阳能发电首次被证实，发电量仅为太阳能板的十万分之一 [read](https://36kr.com/p/1749373340483590)
+   周杰伦压轴，520营销被文娱界领了先 [read](https://36kr.com/p/1750614202924674)
 
-   华为举办数字人才峰会：到2024年为产业输送超百万ICT人才；数字经济“双百亿”工程落地武汉市江汉区 \| 36氪大公司数字创新指南0519 [read](https://36kr.com/p/1746724482428547)
+   最前线 \| 小康股份董事长张正萍：如果产品不行，不管贴谁的标都不会有人买 [read](https://36kr.com/p/1750431930449924)
 
-   京东国际入驻小红书，一场新跨境消费的“双赢” [read](https://36kr.com/p/1749402395705348)
+   最前线｜高通推出全新移动平台，发布AR智能眼镜参考设计 [read](https://36kr.com/p/1750681159024256)
 
    ACL 2022 \| NLP领域最新热门研究，你一定不能错过！ [read](https://www.msra.cn/zh-cn/news/features/acl-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    非自回归生成研究最新综述，近200篇文献揭示挑战和未来方向 [read](https://www.msra.cn/zh-cn/news/features/a-survey-on-non-autoregressive-generation)
 
-   元宇宙不缺创意，缺的是「基建」公司 [read](http://www.geekpark.net/news/302563)
+   「狂奔」的智能汽车，「蒙眼」的个人数据 [read](http://www.geekpark.net/news/302570)
 
-   腾讯挂「低档」，等一场东风 [read](http://www.geekpark.net/news/302491)
+   极客荐｜ Mac 硬盘空间告急，你可以试试这几款免费清理工具 [read](http://www.geekpark.net/news/302525)
 
-   掏空 Windows 的盗版，也给国产系统蒙上了阴霾 [read](http://www.geekpark.net/news/302442)
+   骁龙 8+ 发布：今年的 Plus 版，「效能」比「性能」更重要 [read](http://www.geekpark.net/news/302503)
 
 ### 金融类
 
-   隆基绿能2022股东大会交流纪要 [read](http://xueqiu.com/2329376168/220532367)
+   粗略观察周海栋、张亮、孙晟的轮动 [read](http://xueqiu.com/3819982580/220540482)
 
-   农业银行2021年财报解读 [read](http://xueqiu.com/3037882447/220478493)
+   甜蜜告白日，真“一人基金公司”上线 [read](http://xueqiu.com/8554675668/220567173)
 
-   大众恐慌之时，我逆势买了带杠杆的基金 [read](http://xueqiu.com/5989577465/220500486)
+   假如大盘下跌3年，有哪些基金能够帮你度过“艰难岁月”？ [read](http://xueqiu.com/4738248175/220459470)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   sketchbooks &amp; personal work [read](https://www.behance.net/gallery/144085715/sketchbooks-personal-work)
+   CERT ? Brand Identity [read](https://www.behance.net/gallery/143435005/CERT-Brand-Identity)
 
-   Kappa Xander Zhou 22ss Visual Identity Design [read](https://www.behance.net/gallery/143942039/Kappa-Xander-Zhou-22ss-Visual-Identity-Design)
+   Universe strange force ?imagination illustrations [read](https://www.behance.net/gallery/144176849/Universe-strange-force-imagination-illustrations)
 
-   Iron Sail [read](https://www.behance.net/gallery/143664553/Iron-Sail)
+   World Anti-Doping Agency Rebranding [read](https://www.behance.net/gallery/140426491/World-Anti-Doping-Agency-Rebranding)
 
    Make Monthly Income with Your Behance Content Through Subscriptions [read](https://medium.com/behance-blog/make-monthly-income-with-your-behance-content-through-subscriptions-2071ac795d4d?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest joins MTV Entertainment Group for first-ever Mental Health Youth Action Forum [read](https://newsroom.pinterest.com/en/post/pinterest-joins-mtv-entertainment-group-for-first-ever-mental-health-youth-action-forum)
 
+   除了思源宋体，这7款免费可商用的宋体字也不容错过！ [read](https://www.uisdc.com/7-commercial-song-characters)
+
+   大厂实战案例！聊聊眼动测试在体验设计中的应用 [read](https://www.uisdc.com/eye-movement-test)
+
    第十三波！快速提升 UI 设计效果的 6 个小技巧 [read](https://www.uisdc.com/improve-ui-designs-faster-13)
-
-   5000字干货！四大章节帮你全面了解「下拉菜单」 [read](https://www.uisdc.com/dropdown-menu-2)
-
-   完全免费！可批量压缩图片的在线神器「Compress JPEG」 [read](https://www.uisdc.com/compress-jpeg)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
