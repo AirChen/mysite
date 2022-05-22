@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AlbionFalls_EN-US5365811607_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ZebraEgret_EN-US9268536963_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   奥迪“抄袭门”背后，是4A广告公司的全面溃败 [read](http://www.huxiu.com/article/562035.html?f=wangzhan)
+
    刚毕业的大学生，这届车企为何不爱? [read](http://www.huxiu.com/article/560147.html?f=wangzhan)
 
    深度解读《巴拉巴西成功定律》，普通人如何破圈 [read](http://www.huxiu.com/article/560832.html?f=wangzhan)
 
-   三星手机是怎么在中国把自己作没的？ [read](http://www.huxiu.com/article/560996.html?f=wangzhan)
+   老板和暧昧对象「已读不回」，哪个更让人崩溃？｜2022年轻人微信情商报告 [read](https://36kr.com/p/1749128825945730)
+
+   毕业后第一份工作，我把老板送上被告席 [read](https://36kr.com/p/1749143796842498)
 
    周杰伦压轴，520营销被文娱界领了先 [read](https://36kr.com/p/1750614202924674)
-
-   最前线 \| 小康股份董事长张正萍：如果产品不行，不管贴谁的标都不会有人买 [read](https://36kr.com/p/1750431930449924)
-
-   最前线｜高通推出全新移动平台，发布AR智能眼镜参考设计 [read](https://36kr.com/p/1750681159024256)
 
    ACL 2022 \| NLP领域最新热门研究，你一定不能错过！ [read](https://www.msra.cn/zh-cn/news/features/acl-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    非自回归生成研究最新综述，近200篇文献揭示挑战和未来方向 [read](https://www.msra.cn/zh-cn/news/features/a-survey-on-non-autoregressive-generation)
 
-   「狂奔」的智能汽车，「蒙眼」的个人数据 [read](http://www.geekpark.net/news/302570)
+   极客简报｜苹果眼镜即将亮相 / 小米将有大合作 / 618 大促今晚打响 [read](http://www.geekpark.net/news/302573)
 
-   极客荐｜ Mac 硬盘空间告急，你可以试试这几款免费清理工具 [read](http://www.geekpark.net/news/302525)
+   399元的「清水壳」物有所值？iPhone原装壳避坑指南 [read](http://www.geekpark.net/news/302569)
 
-   骁龙 8+ 发布：今年的 Plus 版，「效能」比「性能」更重要 [read](http://www.geekpark.net/news/302503)
+   马斯克：一年内推出全自动驾驶汽车；苹果新 HomePod 将于 2022 年底或 2023 年初推出；可口可乐推出不会掉的瓶盖 \| 极客早知道 [read](http://www.geekpark.net/news/302571)
 
 ### 金融类
 
-   粗略观察周海栋、张亮、孙晟的轮动 [read](http://xueqiu.com/3819982580/220540482)
+   感概投资的品性 [read](http://xueqiu.com/8418018079/220608299)
 
-   甜蜜告白日，真“一人基金公司”上线 [read](http://xueqiu.com/8554675668/220567173)
+   股票投资最重要的功课：估值 [read](http://xueqiu.com/2160821493/220615327)
 
-   假如大盘下跌3年，有哪些基金能够帮你度过“艰难岁月”？ [read](http://xueqiu.com/4738248175/220459470)
+   17只先进制造主题基金，哪只最先进？ [read](http://xueqiu.com/9290769077/220624560)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   CERT ? Brand Identity [read](https://www.behance.net/gallery/143435005/CERT-Brand-Identity)
+   Dogma II [read](https://www.behance.net/gallery/143542917/Dogma-II)
 
-   Universe strange force ?imagination illustrations [read](https://www.behance.net/gallery/144176849/Universe-strange-force-imagination-illustrations)
+   PopShift [read](https://www.behance.net/gallery/144152079/PopShift)
 
-   World Anti-Doping Agency Rebranding [read](https://www.behance.net/gallery/140426491/World-Anti-Doping-Agency-Rebranding)
+   UGG - SS22 [read](https://www.behance.net/gallery/144192569/UGG-SS22)
 
    Make Monthly Income with Your Behance Content Through Subscriptions [read](https://medium.com/behance-blog/make-monthly-income-with-your-behance-content-through-subscriptions-2071ac795d4d?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest joins MTV Entertainment Group for first-ever Mental Health Youth Action Forum [read](https://newsroom.pinterest.com/en/post/pinterest-joins-mtv-entertainment-group-for-first-ever-mental-health-youth-action-forum)
 
-   除了思源宋体，这7款免费可商用的宋体字也不容错过！ [read](https://www.uisdc.com/7-commercial-song-characters)
+   基础全扫盲！体验设计的缺陷和局限在哪里？ [read](https://www.uisdc.com/user-experience-design-interpretation-3)
 
-   大厂实战案例！聊聊眼动测试在体验设计中的应用 [read](https://www.uisdc.com/eye-movement-test)
+   全球爆火应用 Zenly 5.0 大改版，有哪些设计细节值得学习？ [read](https://www.uisdc.com/zenly-5-0)
 
-   第十三波！快速提升 UI 设计效果的 6 个小技巧 [read](https://www.uisdc.com/improve-ui-designs-faster-13)
+   全是高频神器！B端设计师常用的 7 款 Figma 插件 [read](https://www.uisdc.com/7-figma-the-plugin)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
