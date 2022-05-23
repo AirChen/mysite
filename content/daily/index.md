@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ZebraEgret_EN-US9268536963_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.RedBellied_EN-US7363239921_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   OPPO Reno 8 Pro+ 一周体验：少有的轻薄手机 [read](http://www.huxiu.com/article/562785.html?f=wangzhan)
+
+   过度加工食品，对身体有什么影响？ [read](http://www.huxiu.com/article/562272.html?f=wangzhan)
+
    奥迪“抄袭门”背后，是4A广告公司的全面溃败 [read](http://www.huxiu.com/article/562035.html?f=wangzhan)
 
-   刚毕业的大学生，这届车企为何不爱? [read](http://www.huxiu.com/article/560147.html?f=wangzhan)
+   常卫清借“船”出海，诺辉健康指向东南亚市场 [read](https://36kr.com/p/1753702479396870)
 
-   深度解读《巴拉巴西成功定律》，普通人如何破圈 [read](http://www.huxiu.com/article/560832.html?f=wangzhan)
+   氪星晚报 \| 华为“鸿蒙之父”王成录或离职，加入中软国际系公司；快手回应传董事长宿华被带走调查：正式向公安机关报案；腾讯任命何毅进为腾讯新闻业务负责人 [read](https://36kr.com/p/1753720366448645)
 
-   老板和暧昧对象「已读不回」，哪个更让人崩溃？｜2022年轻人微信情商报告 [read](https://36kr.com/p/1749128825945730)
-
-   毕业后第一份工作，我把老板送上被告席 [read](https://36kr.com/p/1749143796842498)
-
-   周杰伦压轴，520营销被文娱界领了先 [read](https://36kr.com/p/1750614202924674)
+   「NEXTA创新夜谈」从认知到行动：行业+AI，走向SaaS [read](https://36kr.com/p/1753665539833478)
 
    ACL 2022 \| NLP领域最新热门研究，你一定不能错过！ [read](https://www.msra.cn/zh-cn/news/features/acl-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    非自回归生成研究最新综述，近200篇文献揭示挑战和未来方向 [read](https://www.msra.cn/zh-cn/news/features/a-survey-on-non-autoregressive-generation)
 
-   极客简报｜苹果眼镜即将亮相 / 小米将有大合作 / 618 大促今晚打响 [read](http://www.geekpark.net/news/302573)
+   OPPO Reno8 Pro+ 体验：搭载自研芯片马里亚纳 X，内外大有不同的「轻」旗舰 [read](http://www.geekpark.net/news/302572)
 
-   399元的「清水壳」物有所值？iPhone原装壳避坑指南 [read](http://www.geekpark.net/news/302569)
+   一秒到账不收利息，「消费贷」掏空欧美「00后」 [read](http://www.geekpark.net/news/302667)
 
-   马斯克：一年内推出全自动驾驶汽车；苹果新 HomePod 将于 2022 年底或 2023 年初推出；可口可乐推出不会掉的瓶盖 \| 极客早知道 [read](http://www.geekpark.net/news/302571)
+   马斯克：特斯拉组建「核心诉讼」部门；小米手环 7 包装曝光；「爱死机」第三季重回科幻巅峰｜极客早知道 [read](http://www.geekpark.net/news/302574)
 
 ### 金融类
 
-   感概投资的品性 [read](http://xueqiu.com/8418018079/220608299)
+   论集运业近期欧线的下跌表现 [read](http://xueqiu.com/9810354164/220687076)
 
-   股票投资最重要的功课：估值 [read](http://xueqiu.com/2160821493/220615327)
+   终于满仓绿电“地产”龙头 [read](http://xueqiu.com/8895446470/220708994)
 
-   17只先进制造主题基金，哪只最先进？ [read](http://xueqiu.com/9290769077/220624560)
+   投资周期股的要素 [read](http://xueqiu.com/7571730629/220718592)
 
 ### 学习类
 
@@ -128,17 +128,17 @@ title: "今日资讯"
 
 ### 设计类
 
-   Dogma II [read](https://www.behance.net/gallery/143542917/Dogma-II)
+   Fantasy. A 70s-sci-fi-movie-inspired visual campaign [read](https://www.behance.net/gallery/142662143/Fantasy-A-70s-sci-fi-movie-inspired-visual-campaign)
 
-   PopShift [read](https://www.behance.net/gallery/144152079/PopShift)
+   PORTRAITS-V2 [read](https://www.behance.net/gallery/144301567/PORTRAITS-V2)
 
-   UGG - SS22 [read](https://www.behance.net/gallery/144192569/UGG-SS22)
+   Theater of Nîmes - Visual identity [read](https://www.behance.net/gallery/144324287/Theater-of-Nmes-Visual-identity)
+
+   Meet This Month’s Guest Curator: Lucas Camargo of Untitled Army [read](https://medium.com/behance-blog/meet-this-months-guest-curator-lucas-camargo-of-untitled-army-3592b70bdbc3?source=rss-f5272b7f3182------2)
+
+   A New Home for the Behance Blog [read](https://medium.com/behance-blog/a-new-home-for-the-behance-blog-8261c8e49c2b?source=rss-f5272b7f3182------2)
 
    Make Monthly Income with Your Behance Content Through Subscriptions [read](https://medium.com/behance-blog/make-monthly-income-with-your-behance-content-through-subscriptions-2071ac795d4d?source=rss-f5272b7f3182------2)
-
-   Meet This Month’s Guest Curator: Paolo Pettigiani [read](https://medium.com/behance-blog/meet-this-months-guest-curator-paolo-pettigiani-2e6eb34415c4?source=rss-f5272b7f3182------2)
-
-   Meet This Month’s Guest Curator: Alina Bohoru [read](https://medium.com/behance-blog/meet-this-months-guest-curator-alina-bohoru-a78369a64aa7?source=rss-f5272b7f3182------2)
 
    Our H2 2021 Transparency Report [read](https://newsroom.pinterest.com/en/post/our-h2-2021-transparency-report)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest joins MTV Entertainment Group for first-ever Mental Health Youth Action Forum [read](https://newsroom.pinterest.com/en/post/pinterest-joins-mtv-entertainment-group-for-first-ever-mental-health-youth-action-forum)
 
+   超好用！让印刷作品质感倍增的 9 组印刷纸张类型 [read](https://www.uisdc.com/paper-type-2022)
+
    基础全扫盲！体验设计的缺陷和局限在哪里？ [read](https://www.uisdc.com/user-experience-design-interpretation-3)
 
    全球爆火应用 Zenly 5.0 大改版，有哪些设计细节值得学习？ [read](https://www.uisdc.com/zenly-5-0)
-
-   全是高频神器！B端设计师常用的 7 款 Figma 插件 [read](https://www.uisdc.com/7-figma-the-plugin)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
