@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.RedBellied_EN-US7363239921_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.KornatiNP_EN-US0453245326_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]大型系统存储层迁移实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/124938309)
+
    \[原\]火山引擎 A/B 测试私有化实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/124875184)
 
    \[原\]深入浅出  Gradle Sync 优化 [read](https://blog.csdn.net/ByteDanceTech/article/details/124854649)
-
-   \[原\]字节跳动自研高性能微服务框架 Kitex 的演进之旅 [read](https://blog.csdn.net/ByteDanceTech/article/details/124833792)
 
    图神经网络训练框架的实践和探索 [read](https://tech.meituan.com/2022/05/20/gnn-framework-tulong.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   OPPO Reno 8 Pro+ 一周体验：少有的轻薄手机 [read](http://www.huxiu.com/article/562785.html?f=wangzhan)
+   这些年热搜上的“专家建议”，都说了些啥？ [read](http://www.huxiu.com/article/563616.html?f=wangzhan)
 
-   过度加工食品，对身体有什么影响？ [read](http://www.huxiu.com/article/562272.html?f=wangzhan)
+   如何为自己建立正向的自由？ [read](http://www.huxiu.com/article/562817.html?f=wangzhan)
 
-   奥迪“抄袭门”背后，是4A广告公司的全面溃败 [read](http://www.huxiu.com/article/562035.html?f=wangzhan)
+   研发预算削减，小鹏开启“入夏瘦身”？ [read](http://www.huxiu.com/article/563055.html?f=wangzhan)
 
-   常卫清借“船”出海，诺辉健康指向东南亚市场 [read](https://36kr.com/p/1753702479396870)
+   肯德基可达鸭一夜爆红，联名生意还有哪些门道？ [read](https://36kr.com/p/1754791268827145)
 
-   氪星晚报 \| 华为“鸿蒙之父”王成录或离职，加入中软国际系公司；快手回应传董事长宿华被带走调查：正式向公安机关报案；腾讯任命何毅进为腾讯新闻业务负责人 [read](https://36kr.com/p/1753720366448645)
+   业绩快报 \| 网易 Q1 毛利润同比增 16.1%，在线游戏服务表现稳健 [read](https://36kr.com/p/1754925987839617)
 
-   「NEXTA创新夜谈」从认知到行动：行业+AI，走向SaaS [read](https://36kr.com/p/1753665539833478)
+   氪星晚报 \| 知乎回应“新一轮裁员”：属于正常业务和组织的优化调整；网易发布2022年一季度财报；世卫组织：猴痘疫情在非流行国家可控 [read](https://36kr.com/p/1754924685295624)
 
    ACL 2022 \| NLP领域最新热门研究，你一定不能错过！ [read](https://www.msra.cn/zh-cn/news/features/acl-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    非自回归生成研究最新综述，近200篇文献揭示挑战和未来方向 [read](https://www.msra.cn/zh-cn/news/features/a-survey-on-non-autoregressive-generation)
 
-   OPPO Reno8 Pro+ 体验：搭载自研芯片马里亚纳 X，内外大有不同的「轻」旗舰 [read](http://www.geekpark.net/news/302572)
+   vivo S15 系列评测：用上独立显示芯片，这届「S」太能打了 [read](http://www.geekpark.net/news/302381)
 
-   一秒到账不收利息，「消费贷」掏空欧美「00后」 [read](http://www.geekpark.net/news/302667)
+   小米手环 7 NFC 版上手：屏幕增大支持 AOD，运动数据更专业 [read](http://www.geekpark.net/news/302688)
 
-   马斯克：特斯拉组建「核心诉讼」部门；小米手环 7 包装曝光；「爱死机」第三季重回科幻巅峰｜极客早知道 [read](http://www.geekpark.net/news/302574)
+   「NFT 之王」无聊猿是怎样炼成的？ [read](http://www.geekpark.net/news/302701)
 
 ### 金融类
 
-   论集运业近期欧线的下跌表现 [read](http://xueqiu.com/9810354164/220687076)
+   荣安地产2021年度股东大会记录 [read](http://xueqiu.com/8329143095/220834116)
 
-   终于满仓绿电“地产”龙头 [read](http://xueqiu.com/8895446470/220708994)
+   天齐锂业股东大会纪要 [read](http://xueqiu.com/3946267131/220831410)
 
-   投资周期股的要素 [read](http://xueqiu.com/7571730629/220718592)
+   自2022年4月27日的V型反转 [read](http://xueqiu.com/1553799558/220780778)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Fantasy. A 70s-sci-fi-movie-inspired visual campaign [read](https://www.behance.net/gallery/142662143/Fantasy-A-70s-sci-fi-movie-inspired-visual-campaign)
+   A thousand ways to smile - year of the Tiger [read](https://www.behance.net/gallery/144421127/A-thousand-ways-to-smile-year-of-the-Tiger)
 
-   PORTRAITS-V2 [read](https://www.behance.net/gallery/144301567/PORTRAITS-V2)
+   The Tragedy of Macbeth A24 x AppleTV - Campaign [read](https://www.behance.net/gallery/143965755/The-Tragedy-of-Macbeth-A24-x-AppleTV-Campaign)
 
-   Theater of Nîmes - Visual identity [read](https://www.behance.net/gallery/144324287/Theater-of-Nmes-Visual-identity)
+   Micro Projects [read](https://www.behance.net/gallery/144273413/Micro-Projects)
 
    Meet This Month’s Guest Curator: Lucas Camargo of Untitled Army [read](https://medium.com/behance-blog/meet-this-months-guest-curator-lucas-camargo-of-untitled-army-3592b70bdbc3?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest joins MTV Entertainment Group for first-ever Mental Health Youth Action Forum [read](https://newsroom.pinterest.com/en/post/pinterest-joins-mtv-entertainment-group-for-first-ever-mental-health-youth-action-forum)
 
-   超好用！让印刷作品质感倍增的 9 组印刷纸张类型 [read](https://www.uisdc.com/paper-type-2022)
+   好用的地图素材哪里找？看这一篇就够啦~ [read](https://www.uisdc.com/maps-resource)
 
-   基础全扫盲！体验设计的缺陷和局限在哪里？ [read](https://www.uisdc.com/user-experience-design-interpretation-3)
+   实战复盘！大型活动主视觉设计的避坑指南 [read](https://www.uisdc.com/key-visual-design)
 
-   全球爆火应用 Zenly 5.0 大改版，有哪些设计细节值得学习？ [read](https://www.uisdc.com/zenly-5-0)
+   B端设计指南：快速了解B端产品的四种分类 [read](https://www.uisdc.com/b-product-type)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
