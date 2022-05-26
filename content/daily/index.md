@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Alhambra_EN-US9442124079_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Monteverde_EN-US9503031199_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   复旦梁永安：坚定单身，才能更好恋爱 [read](http://www.huxiu.com/article/564311.html?f=wangzhan)
+   对于宇宙来说，如今的化学火箭就像一艘破舢板 [read](http://www.huxiu.com/article/565328.html?f=wangzhan)
 
-   我们为什么要坚持探索珠峰？ [read](http://www.huxiu.com/article/564608.html?f=wangzhan)
+   从鸟屎糊脸到“早 C 晚 A”，对自己最狠的永远都是女人 [read](http://www.huxiu.com/article/565678.html?f=wangzhan)
 
-   巨头们熬了八年，无人配送市场终于要爆发了？ [read](http://www.huxiu.com/article/564477.html?f=wangzhan)
+   预售成新风，画饼套路深 [read](http://www.huxiu.com/article/565404.html?f=wangzhan)
 
-   创业版MBTI：测测你的创业者潜质 [read](https://36kr.com/p/1756555028528775)
+   投资人：希望的田野在哪里？ [read](https://36kr.com/p/1758047839731332)
 
-   氪星晚报｜马斯克进军餐饮业，将在好莱坞开设特斯拉餐厅；消息称三星计划7月份组建芯片研发新团队，目标超越苹果芯片；T3出行据悉寻求至少50亿元融资 [read](https://36kr.com/p/1756519643250311)
+   36氪研究院 \| 2022年新型储能行业报告 [read](https://36kr.com/p/1757768859844231)
 
-   热爱未来，让奇迹持续发生 [read](https://36kr.com/p/1756317085122176)
+   最前线｜百度2022年Q1财报：营收284亿，研发投入51.34亿 [read](https://36kr.com/p/1757774119894662)
 
    ACL 2022 \| NLP领域最新热门研究，你一定不能错过！ [read](https://www.msra.cn/zh-cn/news/features/acl-2022)
 
@@ -86,33 +86,33 @@ title: "今日资讯"
 
    非自回归生成研究最新综述，近200篇文献揭示挑战和未来方向 [read](https://www.msra.cn/zh-cn/news/features/a-survey-on-non-autoregressive-generation)
 
-   是时候创造一个「新职场」了 [read](http://www.geekpark.net/news/302803)
+   真我 GT Neo3 火影限定版开箱图赏：连卡针都定制，火影迷必入 [read](http://www.geekpark.net/news/302800)
 
-   排名超 TikTok，「霸屏」社交如何抓住欧美年轻人 [read](http://www.geekpark.net/news/302773)
+   ​讯飞智能办公本 Air 体验：尺寸更便携，功能体验不缩水 [read](http://www.geekpark.net/news/302778)
 
-   Redmi Note 11T Pro+ 评测：「性价比之王」这次有了顶级 LCD 屏幕 [read](http://www.geekpark.net/news/302743)
+   马斯克进军餐饮，将造「特斯拉餐厅」；iPhone 14 或将支持熄屏显示；NASA 将送人上火星生存 30 天 [read](http://www.geekpark.net/news/302805)
 
 ### 金融类
 
-   【有奖征集】10只短债基金邀你来测评 [read](http://xueqiu.com/8152922548/220932057)
+   回答关于基金经理的三个疑问 [read](http://xueqiu.com/7245734636/221071144)
 
-   光伏供应链谁最能赚钱？ [read](http://xueqiu.com/8028524660/220862723)
+   创新药业大鱼吃小鱼，小鱼吃虾米的生态 [read](http://xueqiu.com/9518372158/220997541)
 
-   定性模型与定量模型的讨论 [read](http://xueqiu.com/1928056011/220919292)
+   美股下跌带来的思考 [read](http://xueqiu.com/6451611049/221017886)
 
 ### 学习类
+
+   💻 Issue 309 - Are most Rust jobs in crypto? Yes, a little over 50% are indeed blockchain job offers. [read](https://rust.libhunt.com/newsletter/309)
 
    💻 Issue 308 - Things Are Getting Rusty In Kernel Land (Hackaday) [read](https://rust.libhunt.com/newsletter/308)
 
    💻 Issue 307 - Security advisory: malicious crate rustdecimal \| Rust Blog [read](https://rust.libhunt.com/newsletter/307)
 
-   💻 Issue 306 - A shiny future with GATs - and stabilization [read](https://rust.libhunt.com/newsletter/306)
+   This Week in Rust 444 [read](https://this-week-in-rust.org/blog/2022/05/25/this-week-in-rust-444/)
 
    This Week in Rust 443 [read](https://this-week-in-rust.org/blog/2022/05/18/this-week-in-rust-443/)
 
    This Week in Rust 442 [read](https://this-week-in-rust.org/blog/2022/05/11/this-week-in-rust-442/)
-
-   This Week in Rust 441 [read](https://this-week-in-rust.org/blog/2022/05/04/this-week-in-rust-441/)
 
    ETCD的内存问题 [read](https://coolshell.cn/articles/22242.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Mö Oat Dairy [read](https://www.behance.net/gallery/139122877/Moe-Oat-Dairy)
+   Grasping the Everlasting and The Illusive Orbs [read](https://www.behance.net/gallery/135351669/Grasping-the-Everlasting-and-The-Illusive-Orbs)
 
-   Bubble°Bauhaus [read](https://www.behance.net/gallery/143182609/BubbleBauhaus)
+   Blue Heron [read](https://www.behance.net/gallery/131395737/Blue-Heron)
 
-   Gala Gala Brand Identity [read](https://www.behance.net/gallery/144123099/Gala-Gala-Brand-Identity)
+   Sketchbook Pages Spring 2022 [read](https://www.behance.net/gallery/144540225/Sketchbook-Pages-Spring-2022)
 
    Meet This Month’s Guest Curator: Lucas Camargo of Untitled Army [read](https://medium.com/behance-blog/meet-this-months-guest-curator-lucas-camargo-of-untitled-army-3592b70bdbc3?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest joins MTV Entertainment Group for first-ever Mental Health Youth Action Forum [read](https://newsroom.pinterest.com/en/post/pinterest-joins-mtv-entertainment-group-for-first-ever-mental-health-youth-action-forum)
 
-   企业产品想出海？三步帮你了解跨文化产品的设计思路 [read](https://www.uisdc.com/cross-cultural-product-design)
+   这 5 款工具，让设计师工作效率提升 200%！（六） [read](https://www.uisdc.com/5-practical-software-4)
 
-   了解这 9 种交互机制，不怕跟开发相爱相杀了 [read](https://www.uisdc.com/9-interaction-mechanism)
+   配色找不到感觉？这个PCCS色彩体系帮你从根本上解决（三） [read](https://www.uisdc.com/practical-color-ordinate-system-3)
 
-   UI 场景中如何应用插画？我总结了12种常见案例！ [read](https://www.uisdc.com/illustrations-ui-trend)
+   视觉炸裂！揭秘《爱死机》压轴大作《Jibaro》背后的宝藏插画师 Mielgo [read](https://www.uisdc.com/alberto-mielgo-jibaro)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
