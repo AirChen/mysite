@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Monteverde_EN-US9503031199_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MarinHeadlands_EN-US9564309974_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 207 期）：汽车行业的顶峰可能过去了 [read](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html)
+   科技爱好者周刊（第 208 期）：晋升制度的问题 [read](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-208.html)
 
-   科技爱好者周刊（第 206 期）：如何走出失望和怀疑 [read](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html)
+   科技爱好者周刊（第 207 期）：汽车行业的顶峰可能过去了 [read](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html)
 
    RogueLike 原型开发工具 [read](https://blog.codingnow.com/2022/05/roguelike_lua.html)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 448 期 [read](https://weekly.75.team/issue448.html)
+
    奇舞周刊第 447 期 [read](https://weekly.75.team/issue447.html)
 
    奇舞周刊第 446 期 [read](https://weekly.75.team/issue446.html)
-
-   奇舞周刊第 445 期 [read](https://weekly.75.team/issue445.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -48,17 +48,17 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]字节跳动数据库的过去、现状与未来 [read](https://blog.csdn.net/ByteDanceTech/article/details/124996147)
+
    \[原\]Abase2：字节跳动新一代高可用 NoSQL 数据库 [read](https://blog.csdn.net/ByteDanceTech/article/details/124958274)
 
    \[原\]大型系统存储层迁移实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/124938309)
 
-   \[原\]火山引擎 A/B 测试私有化实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/124875184)
+   如何应对开源组件⻛险？软件成分安全分析（SCA）能力的建设与演进 [read](https://tech.meituan.com/2022/05/26/construction-and-evolution-of-software-component-analysis-capability.html)
+
+   对话摘要技术在美团的探索（SIGIR） [read](https://tech.meituan.com/2022/05/26/exploration-of-dialogue-summary-technology-sigir.html)
 
    图神经网络训练框架的实践和探索 [read](https://tech.meituan.com/2022/05/20/gnn-framework-tulong.html)
-
-   端智能在大众点评搜索重排序的应用实践 [read](https://tech.meituan.com/2022/05/20/edge-search-rerank.html)
-
-   CompletableFuture原理与实践-外卖商家端API的异步化 [read](https://tech.meituan.com/2022/05/12/principles-and-practices-of-completablefuture.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   对于宇宙来说，如今的化学火箭就像一艘破舢板 [read](http://www.huxiu.com/article/565328.html?f=wangzhan)
+   曾因痛批女足红遍全网，谢亚龙为何锒铛入狱？ [read](http://www.huxiu.com/article/566775.html?f=wangzhan)
 
-   从鸟屎糊脸到“早 C 晚 A”，对自己最狠的永远都是女人 [read](http://www.huxiu.com/article/565678.html?f=wangzhan)
+   疫苗龙头科兴被网暴：谣言为何出现？ [read](http://www.huxiu.com/article/566448.html?f=wangzhan)
 
-   预售成新风，画饼套路深 [read](http://www.huxiu.com/article/565404.html?f=wangzhan)
+   博士去做城管，高学历过剩只能内卷？ [read](http://www.huxiu.com/article/565894.html?f=wangzhan)
 
-   投资人：希望的田野在哪里？ [read](https://36kr.com/p/1758047839731332)
+   业绩快报 \| 拼多多Q1营收稳健增长，研发费用同比大增20%创新高 [read](https://36kr.com/p/1759340797080064)
 
-   36氪研究院 \| 2022年新型储能行业报告 [read](https://36kr.com/p/1757768859844231)
+   氪星晚报｜腾讯音乐：刘炽平决定辞去公司董事职务；蔚来招聘多个海外制造岗位，美国建厂一事暂无可披露的信息；三星在美第二家芯片厂或于下月动工 [read](https://36kr.com/p/1759299202003457)
 
-   最前线｜百度2022年Q1财报：营收284亿，研发投入51.34亿 [read](https://36kr.com/p/1757774119894662)
+   新一代创业者，请就位 [read](https://36kr.com/p/1759295787332100)
 
    ACL 2022 \| NLP领域最新热门研究，你一定不能错过！ [read](https://www.msra.cn/zh-cn/news/features/acl-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    非自回归生成研究最新综述，近200篇文献揭示挑战和未来方向 [read](https://www.msra.cn/zh-cn/news/features/a-survey-on-non-autoregressive-generation)
 
-   真我 GT Neo3 火影限定版开箱图赏：连卡针都定制，火影迷必入 [read](http://www.geekpark.net/news/302800)
+   未来属于提出问题的人 [read](http://www.geekpark.net/news/302944)
 
-   ​讯飞智能办公本 Air 体验：尺寸更便携，功能体验不缩水 [read](http://www.geekpark.net/news/302778)
+   收藏家：小而美的信息收藏管理神器｜挖App [read](http://www.geekpark.net/news/302755)
 
-   马斯克进军餐饮，将造「特斯拉餐厅」；iPhone 14 或将支持熄屏显示；NASA 将送人上火星生存 30 天 [read](http://www.geekpark.net/news/302805)
+   科技感 or 魔幻风？ 盘点新能源车那些「用力过猛」的设计 [read](http://www.geekpark.net/news/302900)
 
 ### 金融类
 
-   回答关于基金经理的三个疑问 [read](http://xueqiu.com/7245734636/221071144)
+   中远海控2021年年度股东大会纪要 [read](http://xueqiu.com/1578007934/221130927)
 
-   创新药业大鱼吃小鱼，小鱼吃虾米的生态 [read](http://xueqiu.com/9518372158/220997541)
+   阿里巴巴2022财年年报解读&利润拆解 [read](http://xueqiu.com/6490468241/221136383)
 
-   美股下跌带来的思考 [read](http://xueqiu.com/6451611049/221017886)
+   中远海控不涨是分红比例太低吗？ [read](http://xueqiu.com/4672883019/221069648)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Grasping the Everlasting and The Illusive Orbs [read](https://www.behance.net/gallery/135351669/Grasping-the-Everlasting-and-The-Illusive-Orbs)
+   Battle Royale - The Displace Series [read](https://www.behance.net/gallery/144528937/Battle-Royale-The-Displace-Series)
 
-   Blue Heron [read](https://www.behance.net/gallery/131395737/Blue-Heron)
+   Softstart [read](https://www.behance.net/gallery/143451513/Softstart)
 
-   Sketchbook Pages Spring 2022 [read](https://www.behance.net/gallery/144540225/Sketchbook-Pages-Spring-2022)
+   The Dimensions [read](https://www.behance.net/gallery/144535569/The-Dimensions)
 
    Meet This Month’s Guest Curator: Lucas Camargo of Untitled Army [read](https://medium.com/behance-blog/meet-this-months-guest-curator-lucas-camargo-of-untitled-army-3592b70bdbc3?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest joins MTV Entertainment Group for first-ever Mental Health Youth Action Forum [read](https://newsroom.pinterest.com/en/post/pinterest-joins-mtv-entertainment-group-for-first-ever-mental-health-youth-action-forum)
 
+   BenQ 以设计塑造品牌形象，明基 PD 系列专业显示器助力设计产业发展 [read](https://www.uisdc.com/benq-pd-2022)
+
    这 5 款工具，让设计师工作效率提升 200%！（六） [read](https://www.uisdc.com/5-practical-software-4)
 
    配色找不到感觉？这个PCCS色彩体系帮你从根本上解决（三） [read](https://www.uisdc.com/practical-color-ordinate-system-3)
-
-   视觉炸裂！揭秘《爱死机》压轴大作《Jibaro》背后的宝藏插画师 Mielgo [read](https://www.uisdc.com/alberto-mielgo-jibaro)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
