@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.PurnululuNP_EN-US9646771554_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.HyaliteCreek_EN-US9700334811_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   家里蹲的真相：为何日本会有那么多的宅男？ [read](http://www.huxiu.com/article/566710.html?f=wangzhan)
+   二次元买手的“小生意” [read](http://www.huxiu.com/article/568157.html?f=wangzhan)
 
-   “芯片女王”苏妈，是如何在硅谷杀出一条血路的？ [read](http://www.huxiu.com/article/566892.html?f=wangzhan)
+   造车，造爱与造人 [read](http://www.huxiu.com/article/568099.html?f=wangzhan)
 
-   试驾赛博“坦克300”，做街上最靓的仔 [read](http://www.huxiu.com/article/565669.html?f=wangzhan)
+   关于Web3生态的重要概念，你真的知道吗？ [read](http://www.huxiu.com/article/566455.html?f=wangzhan)
 
-   焦点分析｜抖音对垒视频号，孙燕姿和罗大佑你pick了谁？ [read](https://36kr.com/p/1760454634696960)
+   让消费者找到好商品，天猫618必买榜正式发布 [read](https://36kr.com/p/1762156435175938)
 
-   “升级智能设备后，我快被逼成人工智障了” \| 年轻人智能生活小调查 [read](https://36kr.com/p/1760435607450121)
+   最前线 \|首届“东数西算”粤港澳大湾区（广东）算力产业大会召开，数据中心项目总投资额约1200亿元 [read](https://36kr.com/p/1761881067518472)
 
-   Long China 50 分析｜李彦宏想转危为机，但百度仍缺一把产品尖刀 [read](https://36kr.com/p/1759069616563456)
+   医疗健康行业周报 \| 「辐联医药」获近2.5亿元A轮融资；诺辉健康常卫清借“船”出海 [read](https://36kr.com/p/1761778509281795)
 
    ACL 2022 \| NLP领域最新热门研究，你一定不能错过！ [read](https://www.msra.cn/zh-cn/news/features/acl-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    非自回归生成研究最新综述，近200篇文献揭示挑战和未来方向 [read](https://www.msra.cn/zh-cn/news/features/a-survey-on-non-autoregressive-generation)
 
+   极客简报｜苹果新系统抢先看 / 小米邀徕卡工程师进京 / 第四大运营商号段公布 [read](http://www.geekpark.net/news/302951)
+
+   余承东：问界 M7 体验超百万豪车；B 站月处理违规行为 5 万次；茅台冰淇淋开售，59 元起 [read](http://www.geekpark.net/news/302949)
+
    马斯克距离火星，又近了一步 [read](http://www.geekpark.net/news/302947)
-
-   华为手机可扫描「违规应用」；欧美研发量子互联网；中国空间站「别墅」设计曝光，能住 6 人 [read](http://www.geekpark.net/news/302946)
-
-   未来属于提出问题的人 [read](http://www.geekpark.net/news/302944)
 
 ### 金融类
 
-   网络爆火的“4%定投法” 是否真的很厉害？ [read](http://xueqiu.com/8687456694/221226153)
+   化工巨头万华化学估值分析 [read](http://xueqiu.com/3187608717/221247082)
 
-   水电凭啥可以高估值 [read](http://xueqiu.com/9742512811/221217339)
+   股息率高达5.78%的上证红利指数，爱了！ [read](http://xueqiu.com/7395852540/221227768)
 
-   关于全职投资的感想 [read](http://xueqiu.com/1929796343/221215416)
+   周期股只有高现金分红才能有10倍的估值？ [read](http://xueqiu.com/6020501121/221211548)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Entrepreneurs' Award 2022 [read](https://www.behance.net/gallery/144428673/Entrepreneurs-Award-2022)
+   BLEUFEU [read](https://www.behance.net/gallery/144632385/BLEUFEU)
 
-   ZOË 4-Ever [read](https://www.behance.net/gallery/144486565/ZOE-4-Ever)
+   Cat Snacks GIF [read](https://www.behance.net/gallery/144690271/Cat-Snacks-GIF)
 
-   Format Libre Identity [read](https://www.behance.net/gallery/135123645/Format-Libre-Identity)
+   Atelier Paradis [read](https://www.behance.net/gallery/144570197/Atelier-Paradis)
 
    Meet This Month’s Guest Curator: Lucas Camargo of Untitled Army [read](https://medium.com/behance-blog/meet-this-months-guest-curator-lucas-camargo-of-untitled-army-3592b70bdbc3?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest joins MTV Entertainment Group for first-ever Mental Health Youth Action Forum [read](https://newsroom.pinterest.com/en/post/pinterest-joins-mtv-entertainment-group-for-first-ever-mental-health-youth-action-forum)
 
+   凭什么说设计方案有用？先掌握基础的数据分析思路！ [read](https://www.uisdc.com/data-and-design)
+
    如何让你的618活动视觉与众不同？试试故事化思维！ [read](https://www.uisdc.com/618-wps-design)
 
    如何让你的作品集更有竞争力？加上这个准没错！ [read](https://www.uisdc.com/user-research-enrich-project)
-
-   BenQ 以设计塑造品牌形象，明基 PD 系列专业显示器助力设计产业发展 [read](https://www.uisdc.com/benq-pd-2022)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
