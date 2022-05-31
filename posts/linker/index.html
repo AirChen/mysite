@@ -1,19 +1,19 @@
-<!doctype html><html lang=zh-ch><head><title>链接器的初学者指南（翻译） // AirChen Blog</title><link rel="shortcut icon" href=pikachu.ico><meta charset=utf-8><meta name=generator content="Hugo 0.99.1"><meta name=viewport content="width=device-width,initial-scale=1"><meta name=author content="AirChen"><meta name=description content><link rel=stylesheet href=https://blog.airchen-space.top/css/main.min.4a7ec8660f9a44b08c4da97c5f2e31b1192df1d4d0322e65c0dbbc6ecb1b863f.css><meta name=twitter:card content="summary"><meta name=twitter:title content="链接器的初学者指南（翻译）"><meta name=twitter:description content="命名：C源文件中都有什么？ 这部分是介绍 C源文件的组成，如果你熟悉下列代码，可以进入下一小结。
+<!doctype html><html lang=zh-ch><head><title>链接器的初学者指南（翻译） // AirChen Blog</title><link rel="shortcut icon" href=pikachu.ico><meta charset=utf-8><meta name=generator content="Hugo 0.100.0"><meta name=viewport content="width=device-width,initial-scale=1"><meta name=author content="AirChen"><meta name=description content><link rel=stylesheet href=https://blog.airchen-space.top/css/main.min.4a7ec8660f9a44b08c4da97c5f2e31b1192df1d4d0322e65c0dbbc6ecb1b863f.css><meta name=twitter:card content="summary"><meta name=twitter:title content="链接器的初学者指南（翻译）"><meta name=twitter:description content="命名：C源文件中都有什么？ 这部分是介绍 C源文件的组成，如果你熟悉下列代码，可以进入下一小结。
 第一步需要区分 申明(declarations) 和 定义(definitions), 定义关联一个名字并且有代码或者数据来实现这个名字：
-1. 定义一个变量，让编译器给该变量分配空间，可能给这个空间分配一个值。 2. 定义一个函数，让编译器给这个函数产生代码。  声明告诉 C 编译器在当前程序中有这个定义，可能在别的 C源文件中。（注意：定义有时会看成声明，当其位置在声明的地方时）。
+1. 定义一个变量，让编译器给该变量分配空间，可能给这个空间分配一个值。 2. 定义一个函数，让编译器给这个函数产生代码。 声明告诉 C 编译器在当前程序中有这个定义，可能在别的 C源文件中。（注意：定义有时会看成声明，当其位置在声明的地方时）。
 接下来是对于变量，有两种类型定义：
-1. 全部变量，存在于整个程序的生命周期中(&#34;static extent&#34;)，在很多不同的函数中可以获取到。 2. 局部变量，仅存在于一个特定的函数中(&#34;local extent&#34;)，仅通过这个函数才能获取到这个变量。 (这里的获取，是说可以引用这个变量)  这里有两个特例：
-1. 静态局部变量，实际上是全局变量，因为它存在于整个生命周期，但只能从这个特定函数获取。 2. 同样的静态全局变量也可以看成全局变量，虽然只能在它定义的 C文件中获取到。  这里我们把焦点放在了关键字 &ldquo;静态(static)&rdquo; 上，需要指出的是将一个函数变为静态函数，可以减少其他地方引用该函数的行数(特别是通过同一个 C文件的不同函数) -> 此处我的理解是函数的定义代码被共享了，不会在引用的地方再展开函数。
+1. 全部变量，存在于整个程序的生命周期中(&#34;static extent&#34;)，在很多不同的函数中可以获取到。 2. 局部变量，仅存在于一个特定的函数中(&#34;local extent&#34;)，仅通过这个函数才能获取到这个变量。 (这里的获取，是说可以引用这个变量) 这里有两个特例：
+1. 静态局部变量，实际上是全局变量，因为它存在于整个生命周期，但只能从这个特定函数获取。 2. 同样的静态全局变量也可以看成全局变量，虽然只能在它定义的 C文件中获取到。 这里我们把焦点放在了关键字 &ldquo;静态(static)&rdquo; 上，需要指出的是将一个函数变为静态函数，可以减少其他地方引用该函数的行数(特别是通过同一个 C文件的不同函数) -> 此处我的理解是函数的定义代码被共享了，不会在引用的地方再展开函数。
 对于全局变量和局部变量定义，我们还可以区分变量是否初始化(也就是说，与特定名称关联的空间是否预先填充了特定值)。
 最后，我们可以通过 malloc 或者 new 把信息动态地存储到内存，没有办法通过名称直接访问分配的内存，所以我们必须通过指针(一个命名变量保留着一段内存地址)。这个内存地址可以通过 free 或者 delete 来销毁，所以这被引用的空间有个动态的范围(dynamic extent)。
 总结一下：
 {% highlight cpp %} /* This is the definition of a uninitialized global variable */ int x_global_uninit;
 /* This is the definition of a initialized global variable */ int x_global_init = 1;"><meta property="og:title" content="链接器的初学者指南（翻译）"><meta property="og:description" content="命名：C源文件中都有什么？ 这部分是介绍 C源文件的组成，如果你熟悉下列代码，可以进入下一小结。
 第一步需要区分 申明(declarations) 和 定义(definitions), 定义关联一个名字并且有代码或者数据来实现这个名字：
-1. 定义一个变量，让编译器给该变量分配空间，可能给这个空间分配一个值。 2. 定义一个函数，让编译器给这个函数产生代码。  声明告诉 C 编译器在当前程序中有这个定义，可能在别的 C源文件中。（注意：定义有时会看成声明，当其位置在声明的地方时）。
+1. 定义一个变量，让编译器给该变量分配空间，可能给这个空间分配一个值。 2. 定义一个函数，让编译器给这个函数产生代码。 声明告诉 C 编译器在当前程序中有这个定义，可能在别的 C源文件中。（注意：定义有时会看成声明，当其位置在声明的地方时）。
 接下来是对于变量，有两种类型定义：
-1. 全部变量，存在于整个程序的生命周期中(&#34;static extent&#34;)，在很多不同的函数中可以获取到。 2. 局部变量，仅存在于一个特定的函数中(&#34;local extent&#34;)，仅通过这个函数才能获取到这个变量。 (这里的获取，是说可以引用这个变量)  这里有两个特例：
-1. 静态局部变量，实际上是全局变量，因为它存在于整个生命周期，但只能从这个特定函数获取。 2. 同样的静态全局变量也可以看成全局变量，虽然只能在它定义的 C文件中获取到。  这里我们把焦点放在了关键字 &ldquo;静态(static)&rdquo; 上，需要指出的是将一个函数变为静态函数，可以减少其他地方引用该函数的行数(特别是通过同一个 C文件的不同函数) -> 此处我的理解是函数的定义代码被共享了，不会在引用的地方再展开函数。
+1. 全部变量，存在于整个程序的生命周期中(&#34;static extent&#34;)，在很多不同的函数中可以获取到。 2. 局部变量，仅存在于一个特定的函数中(&#34;local extent&#34;)，仅通过这个函数才能获取到这个变量。 (这里的获取，是说可以引用这个变量) 这里有两个特例：
+1. 静态局部变量，实际上是全局变量，因为它存在于整个生命周期，但只能从这个特定函数获取。 2. 同样的静态全局变量也可以看成全局变量，虽然只能在它定义的 C文件中获取到。 这里我们把焦点放在了关键字 &ldquo;静态(static)&rdquo; 上，需要指出的是将一个函数变为静态函数，可以减少其他地方引用该函数的行数(特别是通过同一个 C文件的不同函数) -> 此处我的理解是函数的定义代码被共享了，不会在引用的地方再展开函数。
 对于全局变量和局部变量定义，我们还可以区分变量是否初始化(也就是说，与特定名称关联的空间是否预先填充了特定值)。
 最后，我们可以通过 malloc 或者 new 把信息动态地存储到内存，没有办法通过名称直接访问分配的内存，所以我们必须通过指针(一个命名变量保留着一段内存地址)。这个内存地址可以通过 free 或者 delete 来销毁，所以这被引用的空间有个动态的范围(dynamic extent)。
 总结一下：

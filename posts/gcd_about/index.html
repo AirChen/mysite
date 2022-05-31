@@ -1,26 +1,28 @@
-<!doctype html><html lang=zh-ch><head><title>iOS GCD知识点总结 // AirChen Blog</title><link rel="shortcut icon" href=pikachu.ico><meta charset=utf-8><meta name=generator content="Hugo 0.99.1"><meta name=viewport content="width=device-width,initial-scale=1"><meta name=author content="AirChen"><meta name=description content><link rel=stylesheet href=https://blog.airchen-space.top/css/main.min.4a7ec8660f9a44b08c4da97c5f2e31b1192df1d4d0322e65c0dbbc6ecb1b863f.css><meta name=twitter:card content="summary"><meta name=twitter:title content="iOS GCD知识点总结"><meta name=twitter:description content="引入 GCD(Grand Central Dispatch)是苹果从OS X Snow Leopard 和 iOS4 开始引入的一套多线程开发的API，它是基于C语言的实现，其执行效率对比其他的多线程实现方式更高。其接口的调用很简洁，使用起来十分方便。用苹果爸爸的话来说，那就是：
+<!doctype html><html lang=zh-ch><head><title>iOS GCD知识点总结 // AirChen Blog</title><link rel="shortcut icon" href=pikachu.ico><meta charset=utf-8><meta name=generator content="Hugo 0.100.0"><meta name=viewport content="width=device-width,initial-scale=1"><meta name=author content="AirChen"><meta name=description content><link rel=stylesheet href=https://blog.airchen-space.top/css/main.min.4a7ec8660f9a44b08c4da97c5f2e31b1192df1d4d0322e65c0dbbc6ecb1b863f.css><meta name=twitter:card content="summary"><meta name=twitter:title content="iOS GCD知识点总结"><meta name=twitter:description content="引入 GCD(Grand Central Dispatch)是苹果从OS X Snow Leopard 和 iOS4 开始引入的一套多线程开发的API，它是基于C语言的实现，其执行效率对比其他的多线程实现方式更高。其接口的调用很简洁，使用起来十分方便。用苹果爸爸的话来说，那就是：
 开发者要做的只是定义想执行的任务并追加到适当的Dispatch Queue
 既然有这么好的东西在这里，为什么不好好地去使用它呢？
-梳理点  多线程把原本顺序执行的程序变成了多个流程来执行，各个流程之间的切换会有性能消耗，但在GCD的时候，永远不用关注这些底层的事情。   苹果爸爸说的那句话是追加，并不是执行，所以在需要考虑执行效率的地方使用GCD接口，一定要记住是追加，追加后并不一定是立刻就执行！！！
-  在iOS6以后的版本，不用考虑dispatch_release()和dispatch_retain()的调用时机，系统以及将其交给ARC来处理。
-  Dispatch Queue分为两类，串行队列和并行队列，都是按照追加顺序执行，但一个串行队列总在一个线程中执行，会有等待，并行队列会发起多线程并发执行，没有等待。
-   Dispatch Queue可以通过dispatch_queue_create来创建，也可以从系统中来获取，系统提供了两类队列：Main Dispatch Queue 和 Global Dispatch Queue,其中Main Dispatch Queue是串行队列，Global Dispatch Queue是并行队列，同时提供四个执行等级。
-  创建多个串行队列来操作同一个资源，会有数据竞争问题，用一个并行队列来操作，不会造成多线程安全问题，并且多个并行队列也不会。
-  dispatch_sync指定一个串行队列，会造成死锁。
-  dispatch_apply会有阻塞线程问题，必须规定次数的block执行完，才走之后的代码。
-  dispatch_walltime可用来创建绝对时间dispatch_time_t，相比dispatch_time创建的相对时间，绝对时间可用来做定时器。dispatch_time_t可用于dispatch_delay 和 dispatch_group_wait函数。
-  {% highlight objc %} dispatch_time_t getDispatchTimeByDate(NSDate *date) { NSTimeInterval interval; double second, subsecond; struct timespec time; dispatch_time_t milestone;"><meta property="og:title" content="iOS GCD知识点总结"><meta property="og:description" content="引入 GCD(Grand Central Dispatch)是苹果从OS X Snow Leopard 和 iOS4 开始引入的一套多线程开发的API，它是基于C语言的实现，其执行效率对比其他的多线程实现方式更高。其接口的调用很简洁，使用起来十分方便。用苹果爸爸的话来说，那就是：
+梳理点 多线程把原本顺序执行的程序变成了多个流程来执行，各个流程之间的切换会有性能消耗，但在GCD的时候，永远不用关注这些底层的事情。 苹果爸爸说的那句话是追加，并不是执行，所以在需要考虑执行效率的地方使用GCD接口，一定要记住是追加，追加后并不一定是立刻就执行！！！
+在iOS6以后的版本，不用考虑dispatch_release()和dispatch_retain()的调用时机，系统以及将其交给ARC来处理。
+Dispatch Queue分为两类，串行队列和并行队列，都是按照追加顺序执行，但一个串行队列总在一个线程中执行，会有等待，并行队列会发起多线程并发执行，没有等待。
+Dispatch Queue可以通过dispatch_queue_create来创建，也可以从系统中来获取，系统提供了两类队列：Main Dispatch Queue 和 Global Dispatch Queue,其中Main Dispatch Queue是串行队列，Global Dispatch Queue是并行队列，同时提供四个执行等级。
+创建多个串行队列来操作同一个资源，会有数据竞争问题，用一个并行队列来操作，不会造成多线程安全问题，并且多个并行队列也不会。
+dispatch_sync指定一个串行队列，会造成死锁。
+dispatch_apply会有阻塞线程问题，必须规定次数的block执行完，才走之后的代码。
+dispatch_walltime可用来创建绝对时间dispatch_time_t，相比dispatch_time创建的相对时间，绝对时间可用来做定时器。dispatch_time_t可用于dispatch_delay 和 dispatch_group_wait函数。
+{% highlight objc %} dispatch_time_t getDispatchTimeByDate(NSDate *date) { NSTimeInterval interval; double second, subsecond; struct timespec time; dispatch_time_t milestone;
+interval = [date timeIntervalSince1970]; subsecond = modf(interval, &second); time.tv_sec = second; time.tv_nsec = subsecond * NSEC_PER_SEC; milestone = dispatch_walltime(&time, 0); return milestone; } {% endhighlight %}"><meta property="og:title" content="iOS GCD知识点总结"><meta property="og:description" content="引入 GCD(Grand Central Dispatch)是苹果从OS X Snow Leopard 和 iOS4 开始引入的一套多线程开发的API，它是基于C语言的实现，其执行效率对比其他的多线程实现方式更高。其接口的调用很简洁，使用起来十分方便。用苹果爸爸的话来说，那就是：
 开发者要做的只是定义想执行的任务并追加到适当的Dispatch Queue
 既然有这么好的东西在这里，为什么不好好地去使用它呢？
-梳理点  多线程把原本顺序执行的程序变成了多个流程来执行，各个流程之间的切换会有性能消耗，但在GCD的时候，永远不用关注这些底层的事情。   苹果爸爸说的那句话是追加，并不是执行，所以在需要考虑执行效率的地方使用GCD接口，一定要记住是追加，追加后并不一定是立刻就执行！！！
-  在iOS6以后的版本，不用考虑dispatch_release()和dispatch_retain()的调用时机，系统以及将其交给ARC来处理。
-  Dispatch Queue分为两类，串行队列和并行队列，都是按照追加顺序执行，但一个串行队列总在一个线程中执行，会有等待，并行队列会发起多线程并发执行，没有等待。
-   Dispatch Queue可以通过dispatch_queue_create来创建，也可以从系统中来获取，系统提供了两类队列：Main Dispatch Queue 和 Global Dispatch Queue,其中Main Dispatch Queue是串行队列，Global Dispatch Queue是并行队列，同时提供四个执行等级。
-  创建多个串行队列来操作同一个资源，会有数据竞争问题，用一个并行队列来操作，不会造成多线程安全问题，并且多个并行队列也不会。
-  dispatch_sync指定一个串行队列，会造成死锁。
-  dispatch_apply会有阻塞线程问题，必须规定次数的block执行完，才走之后的代码。
-  dispatch_walltime可用来创建绝对时间dispatch_time_t，相比dispatch_time创建的相对时间，绝对时间可用来做定时器。dispatch_time_t可用于dispatch_delay 和 dispatch_group_wait函数。
-  {% highlight objc %} dispatch_time_t getDispatchTimeByDate(NSDate *date) { NSTimeInterval interval; double second, subsecond; struct timespec time; dispatch_time_t milestone;"><meta property="og:type" content="article"><meta property="og:url" content="https://blog.airchen-space.top/posts/gcd_about/"><meta property="article:section" content="posts"><meta property="article:published_time" content="2018-01-07T17:19:51+08:00"><meta property="article:modified_time" content="2018-01-07T17:19:51+08:00"></head><body><header class=app-header><a href=https://blog.airchen-space.top/><img class=app-header-avatar src=/log.jpeg alt=AirChen></a><h1>AirChen Blog</h1><nav class=app-header-menu><a class=app-header-menu-item href=/>Home</a>
+梳理点 多线程把原本顺序执行的程序变成了多个流程来执行，各个流程之间的切换会有性能消耗，但在GCD的时候，永远不用关注这些底层的事情。 苹果爸爸说的那句话是追加，并不是执行，所以在需要考虑执行效率的地方使用GCD接口，一定要记住是追加，追加后并不一定是立刻就执行！！！
+在iOS6以后的版本，不用考虑dispatch_release()和dispatch_retain()的调用时机，系统以及将其交给ARC来处理。
+Dispatch Queue分为两类，串行队列和并行队列，都是按照追加顺序执行，但一个串行队列总在一个线程中执行，会有等待，并行队列会发起多线程并发执行，没有等待。
+Dispatch Queue可以通过dispatch_queue_create来创建，也可以从系统中来获取，系统提供了两类队列：Main Dispatch Queue 和 Global Dispatch Queue,其中Main Dispatch Queue是串行队列，Global Dispatch Queue是并行队列，同时提供四个执行等级。
+创建多个串行队列来操作同一个资源，会有数据竞争问题，用一个并行队列来操作，不会造成多线程安全问题，并且多个并行队列也不会。
+dispatch_sync指定一个串行队列，会造成死锁。
+dispatch_apply会有阻塞线程问题，必须规定次数的block执行完，才走之后的代码。
+dispatch_walltime可用来创建绝对时间dispatch_time_t，相比dispatch_time创建的相对时间，绝对时间可用来做定时器。dispatch_time_t可用于dispatch_delay 和 dispatch_group_wait函数。
+{% highlight objc %} dispatch_time_t getDispatchTimeByDate(NSDate *date) { NSTimeInterval interval; double second, subsecond; struct timespec time; dispatch_time_t milestone;
+interval = [date timeIntervalSince1970]; subsecond = modf(interval, &second); time.tv_sec = second; time.tv_nsec = subsecond * NSEC_PER_SEC; milestone = dispatch_walltime(&time, 0); return milestone; } {% endhighlight %}"><meta property="og:type" content="article"><meta property="og:url" content="https://blog.airchen-space.top/posts/gcd_about/"><meta property="article:section" content="posts"><meta property="article:published_time" content="2018-01-07T17:19:51+08:00"><meta property="article:modified_time" content="2018-01-07T17:19:51+08:00"></head><body><header class=app-header><a href=https://blog.airchen-space.top/><img class=app-header-avatar src=/log.jpeg alt=AirChen></a><h1>AirChen Blog</h1><nav class=app-header-menu><a class=app-header-menu-item href=/>Home</a>
 -
 <a class=app-header-menu-item href=/daily/>Tags</a>
 -
