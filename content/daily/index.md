@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WW2Lincoln_EN-US6306243521_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ParrotDay_EN-US9824481217_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]基于 SPICE 协议的硬编推流整合方案在云游戏中的应用 [read](https://blog.csdn.net/ByteDanceTech/article/details/125056992)
+
    \[原\]字节跳动智创音视频团队拿下 NTIRE2022 ESR 挑战赛主赛道冠军 [read](https://blog.csdn.net/ByteDanceTech/article/details/125013331)
 
    \[原\]字节跳动数据库的过去、现状与未来 [read](https://blog.csdn.net/ByteDanceTech/article/details/124996147)
-
-   \[原\]Abase2：字节跳动新一代高可用 NoSQL 数据库 [read](https://blog.csdn.net/ByteDanceTech/article/details/124958274)
 
    如何应对开源组件⻛险？软件成分安全分析（SCA）能力的建设与演进 [read](https://tech.meituan.com/2022/05/26/construction-and-evolution-of-software-component-analysis-capability.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   私自改装这事，新能源车也跑不了 [read](http://www.huxiu.com/article/569144.html?f=wangzhan)
+   复旦梁永安：90后和00后，是伟大的一代 [read](http://www.huxiu.com/article/569565.html?f=wangzhan)
 
-   “最邪恶的公司”孟山都，为何败走中国？ [read](http://www.huxiu.com/article/568914.html?f=wangzhan)
+   电子二手烟，对身体的危害大吗？ [read](http://www.huxiu.com/article/569815.html?f=wangzhan)
 
-   二次元买手的“小生意” [read](http://www.huxiu.com/article/568157.html?f=wangzhan)
+   黄峥的闪电战与陈磊的持久战 [read](http://www.huxiu.com/article/569360.html?f=wangzhan)
 
-   科氪 \| 双轮驱动理念引领创新赛道，荣耀70系列全面释放产品体验 [read](https://36kr.com/p/1763724570654979)
+   让更多人实现“数字人自由”，海马云要做元宇宙的铺路人 [read](https://36kr.com/p/1764455968864774)
 
-   研报淘金丨猴痘突袭多国，这些公司可能收获「疫」外之财 [read](https://36kr.com/p/1763402998151685)
+   氪星晚报丨贝壳一季度营收125亿元，宣布10亿美元股票回购计划；脉脉：阿里巴巴员工平均月收入3.35万元居首位 [read](https://36kr.com/p/1764914897205765)
 
-   即氪健身 Vol.05丨STEPN清查中国大陆账户；区块链技术涌入健身业；Keep推出真人运动秀 [read](https://36kr.com/p/1763631366355456)
+   职位顺风车｜未可知制作人、运营、剪辑、设计、品宣/PR、财务机会 [read](https://36kr.com/p/1764889820412419)
 
    ACL 2022 \| NLP领域最新热门研究，你一定不能错过！ [read](https://www.msra.cn/zh-cn/news/features/acl-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    非自回归生成研究最新综述，近200篇文献揭示挑战和未来方向 [read](https://www.msra.cn/zh-cn/news/features/a-survey-on-non-autoregressive-generation)
 
+   对话「硬科技」提出者：当赛道从极夜到极昼 [read](http://www.geekpark.net/news/303083)
+
+   「OKR」已经过时？谷歌为什么要推新「绩效改革」 [read](http://www.geekpark.net/news/303018)
+
    荣耀70 Pro 评测：首发索尼 IMX800 和天玑旗舰芯片，个性又能打的「升杯」之作 [read](http://www.geekpark.net/news/302948)
-
-   特斯拉比不过燃油车公司，标榜环保的「ESG」排名是怎么回事？ [read](http://www.geekpark.net/news/302915)
-
-   极客简报｜苹果新系统抢先看 / 小米邀徕卡工程师进京 / 第四大运营商号段公布 [read](http://www.geekpark.net/news/302951)
 
 ### 金融类
 
-   ETF纳入互联互通！外资笑了，港股却哭了 [read](http://xueqiu.com/5223191485/221341676)
+   聊聊腾讯视频号 [read](http://xueqiu.com/1818877481/221380761)
 
-   基金经理该不该为控制回撤卖股票？ [read](http://xueqiu.com/2245748859/221314675)
+   组合快要关停了，分享一些基金组合构建思路 [read](http://xueqiu.com/9290769077/221460189)
 
-   歌尔股份的预期与预期差 [read](http://xueqiu.com/2833711870/221258031)
+   从三费的节奏变化，看拼多多的平台竞争优势 [read](http://xueqiu.com/7847648151/221463405)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Seven Potions Packaging [read](https://www.behance.net/gallery/142652169/Seven-Potions-Packaging)
+   Granu [read](https://www.behance.net/gallery/144401381/Granu)
 
-   Joints - Bricks [read](https://www.behance.net/gallery/144197083/Joints-Bricks)
+   CGI RANDOM STUFF v1 [read](https://www.behance.net/gallery/144701721/CGI-RANDOM-STUFF-v1)
 
-   SUM OVER HISTORIES ? BRANDING [read](https://www.behance.net/gallery/144695529/SUM-OVER-HISTORIES-BRANDING)
+   OFFF Visual Identity [read](https://www.behance.net/gallery/144553585/OFFF-Visual-Identity)
 
    Meet This Month’s Guest Curator: Lucas Camargo of Untitled Army [read](https://medium.com/behance-blog/meet-this-months-guest-curator-lucas-camargo-of-untitled-army-3592b70bdbc3?source=rss-f5272b7f3182------2)
 
@@ -142,15 +142,15 @@ title: "今日资讯"
 
    Our H2 2021 Transparency Report [read](https://newsroom.pinterest.com/en/post/our-h2-2021-transparency-report)
 
-   Pinterest and Campspot team up to bring you the top travel trends of spring/summer [read](https://newsroom.pinterest.com/en/post/PinterestSpring/SummerTravelTrends2022)
+   Pinterest and Campspot team up to bring you the top travel trends of summer [read](https://newsroom.pinterest.com/en/post/PinterestSpring/SummerTravelTrends2022)
 
    Pinterest joins MTV Entertainment Group for first-ever Mental Health Youth Action Forum [read](https://newsroom.pinterest.com/en/post/pinterest-joins-mtv-entertainment-group-for-first-ever-mental-health-youth-action-forum)
 
-   剪纸风海报怎么做？推荐这5位顶尖艺术家和超多免费教程！ [read](https://www.uisdc.com/paper-cut-posters)
+   造字工房全部字体可免费用于义务教育教材出版与设计 [read](https://www.uisdc.com/makefont-2022)
 
-   腾讯出品！2022-2023 设计趋势报告：NFT 玩法应用篇 [read](https://www.uisdc.com/design-trend-nft)
+   第四波！2022年5月精选实用设计干货合集 [read](https://www.uisdc.com/2022-5-design-resources-vol4)
 
-   可视化大屏设计快速入门指南，看这篇就够了！ [read](https://www.uisdc.com/visualization-large-screen-introduction)
+   想要用好网格系统，这8个小技巧你必须掌握！ [read](https://www.uisdc.com/8-grid-design-techniques)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
