@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ParrotDay_EN-US9824481217_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MarovoLagoon_EN-US9916170608_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -10,11 +10,11 @@ title: "今日资讯"
 
    科技爱好者周刊（第 207 期）：汽车行业的顶峰可能过去了 [read](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html)
 
+   一个 VLA （动态长度数组）的实现 [read](https://blog.codingnow.com/2022/06/vla.html)
+
    RogueLike 原型开发工具 [read](https://blog.codingnow.com/2022/05/roguelike_lua.html)
 
    游戏数据的展示 [read](https://blog.codingnow.com/2022/05/gameplay_viewport.html)
-
-   蒙皮数据的压缩 [read](https://blog.codingnow.com/2022/04/vertex_blend_attribute_compression.html)
 
    一个付费 chrome 插件的一生 [read](https://blog.t9t.io/star-history-2021-01-21/)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   复旦梁永安：90后和00后，是伟大的一代 [read](http://www.huxiu.com/article/569565.html?f=wangzhan)
+   苹果最想收购的技术，被“特斯拉劲敌”玩透了 [read](http://www.huxiu.com/article/542200.html?f=wangzhan)
 
-   电子二手烟，对身体的危害大吗？ [read](http://www.huxiu.com/article/569815.html?f=wangzhan)
+   广州为何要向野外释放500万只蚊子？ [read](http://www.huxiu.com/article/570254.html?f=wangzhan)
 
-   黄峥的闪电战与陈磊的持久战 [read](http://www.huxiu.com/article/569360.html?f=wangzhan)
+   综艺“投喂”心理咨询师 [read](http://www.huxiu.com/article/570234.html?f=wangzhan)
 
-   让更多人实现“数字人自由”，海马云要做元宇宙的铺路人 [read](https://36kr.com/p/1764455968864774)
+   没能“让程序员下岗”的零代码，为何先在大厂开花？ [read](https://36kr.com/p/1766345656351232)
 
-   氪星晚报丨贝壳一季度营收125亿元，宣布10亿美元股票回购计划；脉脉：阿里巴巴员工平均月收入3.35万元居首位 [read](https://36kr.com/p/1764914897205765)
+   万科「现任」牵手「前任」：深铁与华润合营TOD背后 [read](https://36kr.com/p/1766335127976192)
 
-   职位顺风车｜未可知制作人、运营、剪辑、设计、品宣/PR、财务机会 [read](https://36kr.com/p/1764889820412419)
+   最前线 \| 小派科技发布首款量产级8K VR一体机，支持可换透镜模组 [read](https://36kr.com/p/1766123871795717)
 
    ACL 2022 \| NLP领域最新热门研究，你一定不能错过！ [read](https://www.msra.cn/zh-cn/news/features/acl-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    非自回归生成研究最新综述，近200篇文献揭示挑战和未来方向 [read](https://www.msra.cn/zh-cn/news/features/a-survey-on-non-autoregressive-generation)
 
+   华为成立第三批军团，涉及数字金融和站点能源；马斯克：二代星链更大更强；Meta 元宇宙硬件使用定制芯片 [read](http://www.geekpark.net/news/303086)
+
    对话「硬科技」提出者：当赛道从极夜到极昼 [read](http://www.geekpark.net/news/303083)
 
    「OKR」已经过时？谷歌为什么要推新「绩效改革」 [read](http://www.geekpark.net/news/303018)
 
-   荣耀70 Pro 评测：首发索尼 IMX800 和天玑旗舰芯片，个性又能打的「升杯」之作 [read](http://www.geekpark.net/news/302948)
-
 ### 金融类
 
-   聊聊腾讯视频号 [read](http://xueqiu.com/1818877481/221380761)
+   雪球专刊——2022雪球投资炼金季 [read](http://xueqiu.com/3746414875/221567254)
 
-   组合快要关停了，分享一些基金组合构建思路 [read](http://xueqiu.com/9290769077/221460189)
+   为什么指数增强基金最喜欢中证500？ [read](http://xueqiu.com/3209134259/221399390)
 
-   从三费的节奏变化，看拼多多的平台竞争优势 [read](http://xueqiu.com/7847648151/221463405)
+   没有券商参与的行情是缺少灵魂的 [read](http://xueqiu.com/2299425930/221491282)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Granu [read](https://www.behance.net/gallery/144401381/Granu)
+   Future Super [read](https://www.behance.net/gallery/144075321/Future-Super)
 
-   CGI RANDOM STUFF v1 [read](https://www.behance.net/gallery/144701721/CGI-RANDOM-STUFF-v1)
+   Future Retail [read](https://www.behance.net/gallery/143436151/Future-Retail)
 
-   OFFF Visual Identity [read](https://www.behance.net/gallery/144553585/OFFF-Visual-Identity)
+   Our Mallorca 2022 [read](https://www.behance.net/gallery/144894715/Our-Mallorca-2022)
 
    Meet This Month’s Guest Curator: Lucas Camargo of Untitled Army [read](https://medium.com/behance-blog/meet-this-months-guest-curator-lucas-camargo-of-untitled-army-3592b70bdbc3?source=rss-f5272b7f3182------2)
 
@@ -140,17 +140,17 @@ title: "今日资讯"
 
    Make Monthly Income with Your Behance Content Through Subscriptions [read](https://medium.com/behance-blog/make-monthly-income-with-your-behance-content-through-subscriptions-2071ac795d4d?source=rss-f5272b7f3182------2)
 
+   Pinterest Opens its Doors in Warsaw [read](https://newsroom.pinterest.com/en/post/pinterest-opens-its-doors-in-warsaw)
+
+   Pinterest Launches Ads and Expands Shopify Partnership in Japan [read](https://newsroom.pinterest.com/en/post/pinterest/launches/ads/japan)
+
    Our H2 2021 Transparency Report [read](https://newsroom.pinterest.com/en/post/our-h2-2021-transparency-report)
 
-   Pinterest and Campspot team up to bring you the top travel trends of summer [read](https://newsroom.pinterest.com/en/post/PinterestSpring/SummerTravelTrends2022)
+   “NVIDIA Studio 创意加速”聚焦农历虎年，带你走进 3D 动物艺术家 Massimo Righi 的创意世界 [read](https://www.uisdc.com/massimo-righi-2022)
 
-   Pinterest joins MTV Entertainment Group for first-ever Mental Health Youth Action Forum [read](https://newsroom.pinterest.com/en/post/pinterest-joins-mtv-entertainment-group-for-first-ever-mental-health-youth-action-forum)
+   超全干货！五个方面帮你掌握标签栏设计 [read](https://www.uisdc.com/tabbar)
 
-   造字工房全部字体可免费用于义务教育教材出版与设计 [read](https://www.uisdc.com/makefont-2022)
-
-   第四波！2022年5月精选实用设计干货合集 [read](https://www.uisdc.com/2022-5-design-resources-vol4)
-
-   想要用好网格系统，这8个小技巧你必须掌握！ [read](https://www.uisdc.com/8-grid-design-techniques)
+   设计师如何培养细节思考的能力？ [read](https://www.uisdc.com/details-thinking-ability)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
