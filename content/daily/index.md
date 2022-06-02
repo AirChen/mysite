@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MarovoLagoon_EN-US9916170608_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.QueenJubilee_EN-US9964271686_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -10,11 +10,11 @@ title: "今日资讯"
 
    科技爱好者周刊（第 207 期）：汽车行业的顶峰可能过去了 [read](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html)
 
+   用邻接表实现无向图 [read](https://blog.codingnow.com/2022/06/ajdjacency_list.html)
+
    一个 VLA （动态长度数组）的实现 [read](https://blog.codingnow.com/2022/06/vla.html)
 
    RogueLike 原型开发工具 [read](https://blog.codingnow.com/2022/05/roguelike_lua.html)
-
-   游戏数据的展示 [read](https://blog.codingnow.com/2022/05/gameplay_viewport.html)
 
    一个付费 chrome 插件的一生 [read](https://blog.t9t.io/star-history-2021-01-21/)
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]RayRTC：大规模分布式计算学习引擎 Ray 在字节跳动 NLP 场景下的实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125093465)
+
    \[原\]基于 SPICE 协议的硬编推流整合方案在云游戏中的应用 [read](https://blog.csdn.net/ByteDanceTech/article/details/125056992)
 
    \[原\]字节跳动智创音视频团队拿下 NTIRE2022 ESR 挑战赛主赛道冠军 [read](https://blog.csdn.net/ByteDanceTech/article/details/125013331)
-
-   \[原\]字节跳动数据库的过去、现状与未来 [read](https://blog.csdn.net/ByteDanceTech/article/details/124996147)
 
    如何应对开源组件⻛险？软件成分安全分析（SCA）能力的建设与演进 [read](https://tech.meituan.com/2022/05/26/construction-and-evolution-of-software-component-analysis-capability.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   苹果最想收购的技术，被“特斯拉劲敌”玩透了 [read](http://www.huxiu.com/article/542200.html?f=wangzhan)
+   人生第一次做“大码模特”，收到1000多条恶评 [read](http://www.huxiu.com/article/571987.html?f=wangzhan)
 
-   广州为何要向野外释放500万只蚊子？ [read](http://www.huxiu.com/article/570254.html?f=wangzhan)
+   如果我错了请让老天惩罚我，而不是让我的宠物便秘 [read](http://www.huxiu.com/article/572325.html?f=wangzhan)
 
-   综艺“投喂”心理咨询师 [read](http://www.huxiu.com/article/570234.html?f=wangzhan)
+   残酷的“风投冷静期”，创业者该如何应对？ [read](http://www.huxiu.com/article/571859.html?f=wangzhan)
 
-   没能“让程序员下岗”的零代码，为何先在大厂开花？ [read](https://36kr.com/p/1766345656351232)
+   县城连锁超市，开始自我革命 [read](https://36kr.com/p/1767524193761800)
 
-   万科「现任」牵手「前任」：深铁与华润合营TOD背后 [read](https://36kr.com/p/1766335127976192)
+   品牌扎堆儿翻车，到底是不是反向营销？｜营销看点vol.32 [read](https://36kr.com/p/1767742873286919)
 
-   最前线 \| 小派科技发布首款量产级8K VR一体机，支持可换透镜模组 [read](https://36kr.com/p/1766123871795717)
+   氪星晚报丨亚马逊明年6月30日在中国停止Kindle电子书店运营；美团一季度新业务分部收入同比增加47.0%至145亿元 [read](https://36kr.com/p/1767737835583749)
 
    ACL 2022 \| NLP领域最新热门研究，你一定不能错过！ [read](https://www.msra.cn/zh-cn/news/features/acl-2022)
 
@@ -86,33 +86,33 @@ title: "今日资讯"
 
    非自回归生成研究最新综述，近200篇文献揭示挑战和未来方向 [read](https://www.msra.cn/zh-cn/news/features/a-survey-on-non-autoregressive-generation)
 
+   我们与四位 App Store「独立开发者」，聊了聊他们的作品 [read](http://www.geekpark.net/news/303164)
+
+   腾讯调整薪酬制度，晋升暂不涨薪；Meta 桑德伯格卸任 COO；2022 ChinaJoy 线下展延期 \| 极客早知道 [read](http://www.geekpark.net/news/303166)
+
    华为成立第三批军团，涉及数字金融和站点能源；马斯克：二代星链更大更强；Meta 元宇宙硬件使用定制芯片 [read](http://www.geekpark.net/news/303086)
-
-   对话「硬科技」提出者：当赛道从极夜到极昼 [read](http://www.geekpark.net/news/303083)
-
-   「OKR」已经过时？谷歌为什么要推新「绩效改革」 [read](http://www.geekpark.net/news/303018)
 
 ### 金融类
 
-   雪球专刊——2022雪球投资炼金季 [read](http://xueqiu.com/3746414875/221567254)
+   品行的奖赏 [read](http://xueqiu.com/3491303582/221687184)
 
-   为什么指数增强基金最喜欢中证500？ [read](http://xueqiu.com/3209134259/221399390)
+   隐形正畸行业小笔记：行业空间与渗透率突破的难点 [read](http://xueqiu.com/8565549431/221667127)
 
-   没有券商参与的行情是缺少灵魂的 [read](http://xueqiu.com/2299425930/221491282)
+   养老目标基金来袭，买不买先搞懂这五个问题！ [read](http://xueqiu.com/7552001880/110272227)
 
 ### 学习类
+
+   💻 Issue 310 - The curse of strong typing by fasterthanlime [read](https://rust.libhunt.com/newsletter/310)
 
    💻 Issue 309 - Are most Rust jobs in crypto? Yes, a little over 50% are indeed blockchain job offers. [read](https://rust.libhunt.com/newsletter/309)
 
    💻 Issue 308 - Things Are Getting Rusty In Kernel Land (Hackaday) [read](https://rust.libhunt.com/newsletter/308)
 
-   💻 Issue 307 - Security advisory: malicious crate rustdecimal \| Rust Blog [read](https://rust.libhunt.com/newsletter/307)
+   This Week in Rust 445 [read](https://this-week-in-rust.org/blog/2022/06/01/this-week-in-rust-445/)
 
    This Week in Rust 444 [read](https://this-week-in-rust.org/blog/2022/05/25/this-week-in-rust-444/)
 
    This Week in Rust 443 [read](https://this-week-in-rust.org/blog/2022/05/18/this-week-in-rust-443/)
-
-   This Week in Rust 442 [read](https://this-week-in-rust.org/blog/2022/05/11/this-week-in-rust-442/)
 
    ETCD的内存问题 [read](https://coolshell.cn/articles/22242.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Future Super [read](https://www.behance.net/gallery/144075321/Future-Super)
+   The Glorious Shifting [read](https://www.behance.net/gallery/145052949/The-Glorious-Shifting)
 
-   Future Retail [read](https://www.behance.net/gallery/143436151/Future-Retail)
+   Instagram Summit 2022 by Manychat [read](https://www.behance.net/gallery/141494925/Instagram-Summit-2022-by-Manychat)
 
-   Our Mallorca 2022 [read](https://www.behance.net/gallery/144894715/Our-Mallorca-2022)
+   Apple "Share Your Gifts" [read](https://www.behance.net/gallery/134131605/Apple-Share-Your-Gifts)
 
    Meet This Month’s Guest Curator: Lucas Camargo of Untitled Army [read](https://medium.com/behance-blog/meet-this-months-guest-curator-lucas-camargo-of-untitled-army-3592b70bdbc3?source=rss-f5272b7f3182------2)
 
@@ -140,17 +140,17 @@ title: "今日资讯"
 
    Make Monthly Income with Your Behance Content Through Subscriptions [read](https://medium.com/behance-blog/make-monthly-income-with-your-behance-content-through-subscriptions-2071ac795d4d?source=rss-f5272b7f3182------2)
 
+   Pinterest to acquire THE YES, an AI powered shopping platform for fashion [read](https://newsroom.pinterest.com/en/post/pinterest-to-acquire-the-yes-an-ai-powered-shopping-platform-for-fashion)
+
+   Pinterest inspires you to be who you are through “We Belong Here” campaign for Pride [read](https://newsroom.pinterest.com/en/post/pinterest-inspires-you-to-be-who-you-are-through-we-belong-here-campaign-for-pride)
+
    Pinterest Opens its Doors in Warsaw [read](https://newsroom.pinterest.com/en/post/pinterest-opens-its-doors-in-warsaw)
 
-   Pinterest Launches Ads and Expands Shopify Partnership in Japan [read](https://newsroom.pinterest.com/en/post/pinterest/launches/ads/japan)
+   国内 UI 设计工具「即时设计」完成数千万美元B+轮融资，达成百万数量级的用户增长 [read](https://www.uisdc.com/jishi-design-2022)
 
-   Our H2 2021 Transparency Report [read](https://newsroom.pinterest.com/en/post/our-h2-2021-transparency-report)
+   海报设计如何更有个性？加上这个元素准没错！（附素材下载） [read](https://www.uisdc.com/brush-font)
 
-   “NVIDIA Studio 创意加速”聚焦农历虎年，带你走进 3D 动物艺术家 Massimo Righi 的创意世界 [read](https://www.uisdc.com/massimo-righi-2022)
-
-   超全干货！五个方面帮你掌握标签栏设计 [read](https://www.uisdc.com/tabbar)
-
-   设计师如何培养细节思考的能力？ [read](https://www.uisdc.com/details-thinking-ability)
+   8000字干货！在线启蒙教育的产品设计公式（附竞品分析模型工具） [read](https://www.uisdc.com/online-primer-design)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
