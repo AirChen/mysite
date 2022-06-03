@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.QueenJubilee_EN-US9964271686_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MoabCycling_EN-US6614069772_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 208 期）：晋升制度的问题 [read](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-208.html)
+   字节序探析：大端与小端的比较 [read](http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html)
 
-   科技爱好者周刊（第 207 期）：汽车行业的顶峰可能过去了 [read](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html)
+   科技爱好者周刊（第 208 期）：晋升制度的问题 [read](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-208.html)
 
    用邻接表实现无向图 [read](https://blog.codingnow.com/2022/06/ajdjacency_list.html)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 449 期 [read](https://weekly.75.team/issue449.html)
+
    奇舞周刊第 448 期 [read](https://weekly.75.team/issue448.html)
 
    奇舞周刊第 447 期 [read](https://weekly.75.team/issue447.html)
-
-   奇舞周刊第 446 期 [read](https://weekly.75.team/issue446.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]抖音功耗优化实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125109383)
+
    \[原\]RayRTC：大规模分布式计算学习引擎 Ray 在字节跳动 NLP 场景下的实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125093465)
 
    \[原\]基于 SPICE 协议的硬编推流整合方案在云游戏中的应用 [read](https://blog.csdn.net/ByteDanceTech/article/details/125056992)
-
-   \[原\]字节跳动智创音视频团队拿下 NTIRE2022 ESR 挑战赛主赛道冠军 [read](https://blog.csdn.net/ByteDanceTech/article/details/125013331)
 
    如何应对开源组件⻛险？软件成分安全分析（SCA）能力的建设与演进 [read](https://tech.meituan.com/2022/05/26/construction-and-evolution-of-software-component-analysis-capability.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   马斯克的“中国心” [read](http://www.huxiu.com/article/572959.html?f=wangzhan)
+
+   从亏损3000万到年销200亿，这个中国品牌做对了一件事 [read](http://www.huxiu.com/article/571812.html?f=wangzhan)
+
    人生第一次做“大码模特”，收到1000多条恶评 [read](http://www.huxiu.com/article/571987.html?f=wangzhan)
 
-   如果我错了请让老天惩罚我，而不是让我的宠物便秘 [read](http://www.huxiu.com/article/572325.html?f=wangzhan)
+   Long China 50 分析｜拒绝公布GMV背后，美团在担心什么？ [read](https://36kr.com/p/1767836101081344)
 
-   残酷的“风投冷静期”，创业者该如何应对？ [read](http://www.huxiu.com/article/571859.html?f=wangzhan)
+   IPO观察 \| 威马上市，低价电动车的故事不好讲 [read](https://36kr.com/p/1768813052868870)
 
-   县城连锁超市，开始自我革命 [read](https://36kr.com/p/1767524193761800)
-
-   品牌扎堆儿翻车，到底是不是反向营销？｜营销看点vol.32 [read](https://36kr.com/p/1767742873286919)
-
-   氪星晚报丨亚马逊明年6月30日在中国停止Kindle电子书店运营；美团一季度新业务分部收入同比增加47.0%至145亿元 [read](https://36kr.com/p/1767737835583749)
+   沈阳新设首席数据官职位；《广州市数字经济促进条例》于6月1日施行｜36氪大公司数字创新指南0602 [read](https://36kr.com/p/1767979020302851)
 
    ACL 2022 \| NLP领域最新热门研究，你一定不能错过！ [read](https://www.msra.cn/zh-cn/news/features/acl-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    非自回归生成研究最新综述，近200篇文献揭示挑战和未来方向 [read](https://www.msra.cn/zh-cn/news/features/a-survey-on-non-autoregressive-generation)
 
-   我们与四位 App Store「独立开发者」，聊了聊他们的作品 [read](http://www.geekpark.net/news/303164)
+   买油车相当于用功能机？油车电车该不该对立？ [read](http://www.geekpark.net/news/303227)
 
-   腾讯调整薪酬制度，晋升暂不涨薪；Meta 桑德伯格卸任 COO；2022 ChinaJoy 线下展延期 \| 极客早知道 [read](http://www.geekpark.net/news/303166)
+   Kindle 终将远离我们而去 [read](http://www.geekpark.net/news/303253)
 
-   华为成立第三批军团，涉及数字金融和站点能源；马斯克：二代星链更大更强；Meta 元宇宙硬件使用定制芯片 [read](http://www.geekpark.net/news/303086)
+   亚马逊停止 Kindle 中国电子书运营；甲骨文 283 亿美元收医疗信息公司；《回到未来》电动神车曝光｜极客早知道 [read](http://www.geekpark.net/news/303250)
 
 ### 金融类
 
-   品行的奖赏 [read](http://xueqiu.com/3491303582/221687184)
+   复盘下上轮美联储缩表的市场表现 [read](http://xueqiu.com/9222280625/221719760)
 
-   隐形正畸行业小笔记：行业空间与渗透率突破的难点 [read](http://xueqiu.com/8565549431/221667127)
+   美团2022Q1财报电话会议 [read](http://xueqiu.com/3393395193/221716963)
 
-   养老目标基金来袭，买不买先搞懂这五个问题！ [read](http://xueqiu.com/7552001880/110272227)
+   金元顺安近半年26.90%！优秀“中小盘”基金小盘点！ [read](http://xueqiu.com/8687456694/221722473)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   The Glorious Shifting [read](https://www.behance.net/gallery/145052949/The-Glorious-Shifting)
+   Selected client works 2021 [read](https://www.behance.net/gallery/144486003/Selected-client-works-2021)
 
-   Instagram Summit 2022 by Manychat [read](https://www.behance.net/gallery/141494925/Instagram-Summit-2022-by-Manychat)
+   Riviera [read](https://www.behance.net/gallery/144186233/Riviera)
 
-   Apple "Share Your Gifts" [read](https://www.behance.net/gallery/134131605/Apple-Share-Your-Gifts)
+   Shadovvs 2022 : Mandala Series. [read](https://www.behance.net/gallery/145085017/Shadovvs-2022-Mandala-Series)
 
    Meet This Month’s Guest Curator: Lucas Camargo of Untitled Army [read](https://medium.com/behance-blog/meet-this-months-guest-curator-lucas-camargo-of-untitled-army-3592b70bdbc3?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Opens its Doors in Warsaw [read](https://newsroom.pinterest.com/en/post/pinterest-opens-its-doors-in-warsaw)
 
+   超多案例！2022年十大动效与动画设计潮流趋势 [read](https://www.uisdc.com/animation-trends-2022)
+
    国内 UI 设计工具「即时设计」完成数千万美元B+轮融资，达成百万数量级的用户增长 [read](https://www.uisdc.com/jishi-design-2022)
 
    海报设计如何更有个性？加上这个元素准没错！（附素材下载） [read](https://www.uisdc.com/brush-font)
-
-   8000字干货！在线启蒙教育的产品设计公式（附竞品分析模型工具） [read](https://www.uisdc.com/online-primer-design)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
