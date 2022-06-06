@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.RapadalenSNP_EN-US6836173287_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.IndigoBunting_EN-US6919965546_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -12,7 +12,7 @@ title: "今日资讯"
 
    用邻接表实现无向图 [read](https://blog.codingnow.com/2022/06/ajdjacency_list.html)
 
-   一个 VLA （动态长度数组）的实现 [read](https://blog.codingnow.com/2022/06/vla.html)
+   一个 VLA （可变长度数组）的实现 [read](https://blog.codingnow.com/2022/06/vla.html)
 
    RogueLike 原型开发工具 [read](https://blog.codingnow.com/2022/05/roguelike_lua.html)
 
@@ -54,11 +54,11 @@ title: "今日资讯"
 
    \[原\]RayRTC：大规模分布式计算学习引擎 Ray 在字节跳动 NLP 场景下的实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125093465)
 
+   Android对so体积优化的探索与实践 [read](https://tech.meituan.com/2022/06/02/meituans-technical-exploration-and-practice-of-android-so-volume-optimization.html)
+
    如何应对开源组件⻛险？软件成分安全分析（SCA）能力的建设与演进 [read](https://tech.meituan.com/2022/05/26/construction-and-evolution-of-software-component-analysis-capability.html)
 
    对话摘要技术在美团的探索（SIGIR） [read](https://tech.meituan.com/2022/05/26/exploration-of-dialogue-summary-technology-sigir.html)
-
-   图神经网络训练框架的实践和探索 [read](https://tech.meituan.com/2022/05/20/gnn-framework-tulong.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   清北博士生夫妻的爱情：把个人成长放第一位 [read](http://www.huxiu.com/article/574508.html?f=wangzhan)
+
+   威马再战港交所：你看我还有机会吗？ [read](http://www.huxiu.com/article/574489.html?f=wangzhan)
+
    旧衣回收：一个利用爱心的灰色产业 [read](http://www.huxiu.com/article/571010.html?f=wangzhan)
 
-   宇航员在太空中，到底是如何生活的？ [read](http://www.huxiu.com/article/573589.html?f=wangzhan)
+   全程回顾 \| 苹果2022年WWDC没有VR头戴，但带来M2芯片和更轻薄的MacBook Air [read](https://36kr.com/p/1773705471375879)
 
-   比王思聪还有钱？“沪上皇”秦奋家世曝光 [read](http://www.huxiu.com/article/572833.html?f=wangzhan)
+   中部十强齐聚武汉，首届工业互联网标识创新应用大赛中部赛区区域决赛即将拉开帷幕 [read](https://36kr.com/p/1773649633098245)
 
-   中国的环保手艺人，城市里的鲁滨逊 \| 36碳特别策划 [read](https://36kr.com/p/1771848820291848)
-
-   医疗健康行业周报 \| 「阅尔基因」获5000万美元B轮融资；「尚德药缘」获C轮数亿元融资 [read](https://36kr.com/p/1771650427205892)
-
-   产品观察｜抖音电商深入淘宝腹地 [read](https://36kr.com/p/1770600821619208)
+   氪星晚报｜台积电将砸1万亿扩大2纳米产能布局；苹果聘好莱坞名导为其MR头显制作视频内容，硬件可能明年发布 [read](https://36kr.com/p/1773438146230791)
 
    ACL 2022 \| NLP领域最新热门研究，你一定不能错过！ [read](https://www.msra.cn/zh-cn/news/features/acl-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    非自回归生成研究最新综述，近200篇文献揭示挑战和未来方向 [read](https://www.msra.cn/zh-cn/news/features/a-survey-on-non-autoregressive-generation)
 
-   极客简报｜iOS 16 锁屏大改动 / 小米接手徕卡「百年算法」/ 神舟十四号成功对接空间站 [read](http://www.geekpark.net/news/303258)
+   华为 FreeBuds 5i 体验：500 元唯一小金标认证，同价位全能耳机首选 [read](http://www.geekpark.net/news/303134)
 
-   硅谷「最成功」的女性，决定离开 [read](http://www.geekpark.net/news/303257)
+   惠普星 14 Pro 体验：全新升级，轻薄机身战斗力拉满 [read](http://www.geekpark.net/news/303330)
 
-   谷歌创始人电动飞艇年底试飞；「神舟十四」载三宇航员计划今日发射；居家还是到岗，马斯克和澳亿万富翁「吵起来了」 [read](http://www.geekpark.net/news/303256)
+   突发丨传滴滴、满帮、BOSS 直聘将于近期恢复新用户注册 [read](http://www.geekpark.net/news/303332)
 
 ### 金融类
 
-   可转债策略——按照最低价格轮动 [read](http://xueqiu.com/6146592061/221775677)
+   如何均衡的构建一个基金组合 [read](http://xueqiu.com/9290769077/221890110)
 
-   全球煤炭市场的简化分析框架 [read](http://xueqiu.com/3695462684/221765136)
+   散户投资港股的风险在哪儿？ [read](http://xueqiu.com/9277793488/221788206)
 
-   掘金猪周期，读此一文足矣 [read](http://xueqiu.com/2598429298/221778729)
+   谈一谈植发龙头“雍禾医疗”的成长基因 [read](http://xueqiu.com/1926044066/221820185)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Woman portrait illustrations [read](https://www.behance.net/gallery/145218355/Woman-portrait-illustrations)
+   MBTI [read](https://www.behance.net/gallery/142704905/MBTI)
 
-   Raven Bank - Rebranding &amp; Visual Identity [read](https://www.behance.net/gallery/144665791/Raven-Bank-Rebranding-Visual-Identity)
+   New South Wales Government Identity [read](https://www.behance.net/gallery/145365419/New-South-Wales-Government-Identity)
 
-   Landscape In Motion ? Chapter 2: WAVES [read](https://www.behance.net/gallery/145170207/Landscape-In-Motion-Chapter-2-WAVES)
+   MUTUAL [read](https://www.behance.net/gallery/144050197/MUTUAL)
 
    Meet This Month’s Guest Curator: Lucas Camargo of Untitled Army [read](https://medium.com/behance-blog/meet-this-months-guest-curator-lucas-camargo-of-untitled-army-3592b70bdbc3?source=rss-f5272b7f3182------2)
 
@@ -148,13 +148,13 @@ title: "今日资讯"
 
    设计师求职，哪种情况让人察觉到公司不靠谱？ [read](https://www.uisdc.com/uisdc-good-talk)
 
-   快速出效果！8 个简单易上手的 PS 字效教程 [read](https://www.uisdc.com/ps-font)
+   如何快速提高过稿率？我分3个阶段帮你完全掌握！ [read](https://www.uisdc.com/design-review-up)
 
-   超多案例！新手必看的交互设计七大法则 [read](https://www.uisdc.com/7-interactive-design-laws)
+   腾讯工作8年，我总结了大厂设计师该有的 6 个优秀习惯！ [read](https://www.uisdc.com/designer-6-good-habit)
+
+   CDC夜校回顾NO.24｜从实习生角度看体验设计工具、20世纪初西方基督教是如何对中国社会进行调查研究的 [read](https://cdc.tencent.com/2022/06/06/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-24%ef%bd%9c%e4%bb%8e%e5%ae%9e%e4%b9%a0%e7%94%9f%e8%a7%92%e5%ba%a6%e7%9c%8b%e4%bd%93%e9%aa%8c%e8%ae%be%e8%ae%a1%e5%b7%a5%e5%85%b7%e3%80%8120%e4%b8%96%e7%ba%aa/)
 
    CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
    微前端框架核心技术揭秘 [read](https://cdc.tencent.com/2022/02/22/micro-frontend-framework/)
-
-   做个“人格分裂”的研究者——质性研究中研究关系探讨 [read](https://cdc.tencent.com/2022/02/16/%e5%81%9a%e4%b8%aa%e4%ba%ba%e6%a0%bc%e5%88%86%e8%a3%82%e7%9a%84%e7%a0%94%e7%a9%b6%e8%80%85-%e8%b4%a8%e6%80%a7%e7%a0%94%e7%a9%b6%e4%b8%ad%e7%a0%94%e7%a9%b6%e5%85%b3/)
 
