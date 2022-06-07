@@ -141,7 +141,7 @@ self.collectionView = [[UICollectionView alloc] initWithFrame:CGRectZero collect
 -(CGSize)collectionViewContentSize //返回contentsize的总大小 -(BOOL)shouldInvalidateLayoutForBoundsChange:(CGRect)newBounds //自定义布局必须YES - (UICollectionViewLayoutAttributes *)layoutAttributesForItemAtIndexPath:(NSIndexPath *)path{}//返回每个cell的布局属性 -(NSArray*)layoutAttributesForElementsInRect:(CGRect)rect //返回所有cell的布局属性 参考实例</description></item><item><title>About Me</title><link>https://blog.airchen-space.top/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.airchen-space.top/about/</guid><description>个人信息 任志琛 男 30岁 工作经验 5年 工作经历 北京百度网讯科技有限公司 C++ 地图服务 2021年8月 至今 北京四维图新科技股份有限公司 C++ 地图引擎开发 2018年4月 2021年8月 北京四维智联科技有限公司 iOS SDK开发 2017年7月 2018年4月 教育经历 研究生 广西师范大学 电子科学与技术 本科 北京邮电大学世纪学院 通信工程 联系我 邮箱 renzhichen2012@163.com qq 252199456</description></item><item><title>今日资讯</title><link>https://blog.airchen-space.top/daily/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.airchen-space.top/daily/</guid><description>个人博客 字节序探析：大端与小端的比较 read
 科技爱好者周刊（第 208 期）：晋升制度的问题 read
 用邻接表实现无向图 read
-一个 VLA （动态长度数组）的实现 read
+一个 VLA （可变长度数组）的实现 read
 RogueLike 原型开发工具 read
 一个付费 chrome 插件的一生 read
 通过 GitHub 订阅 Hacker News 每日 top 10 read
