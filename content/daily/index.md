@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.HaagaRhododendron_EN-US7190183460_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CommonDolphin_EN-US7311583363_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]以一次 Data Catalog 架构升级为例聊业务系统的性能优化 [read](https://blog.csdn.net/ByteDanceTech/article/details/125176612)
+
    \[原\]智能问答：基于 BERT 的语义模型 [read](https://blog.csdn.net/ByteDanceTech/article/details/125157328)
 
    \[原\]字节跳动使用 Flink State 的经验分享 [read](https://blog.csdn.net/ByteDanceTech/article/details/125117958)
-
-   \[原\]抖音功耗优化实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125109383)
 
    Android对so体积优化的探索与实践 [read](https://tech.meituan.com/2022/06/02/meituans-technical-exploration-and-practice-of-android-so-volume-optimization.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   领克：吊打比亚迪，你看我行吗 [read](http://www.huxiu.com/article/575248.html?f=wangzhan)
+   百度的概念车，可太好笑了 [read](http://www.huxiu.com/article/576845.html?f=wangzhan)
 
-   汽车半导体，布局正当时 [read](http://www.huxiu.com/article/575500.html?f=wangzhan)
+   人工智能挑战高考作文，语文老师打几分？ [read](http://www.huxiu.com/article/576570.html?f=wangzhan)
 
-   国产男性虚拟偶像，为什么难以“真香”？ [read](http://www.huxiu.com/article/574542.html?f=wangzhan)
+   比亚迪给特斯拉打工，谁赚大了？ [read](http://www.huxiu.com/article/576417.html?f=wangzhan)
 
-   山东理工大学刘聪：国内流程挖掘处于发展初期，面临人才、技术短板 \| 36氪专访 [read](https://36kr.com/p/1774338991913221)
+   智氪丨最强图谱：国产大飞机背后的投资秘密 [read](https://36kr.com/p/1776403231001729)
 
-   X·36Under36创业者盛典亮点，一图抢先看! [read](https://36kr.com/p/1774726477740289)
+   氪星晚报丨字节跳动音乐热度预测专利公布；消息称三星电机获得特斯拉相机模块订单；顺丰科技获全国首批数据商资格 [read](https://36kr.com/p/1776218766051716)
 
-   「蓬阳医疗」获数千万元B轮融资，加速远程心电诊断服务平台建设 [read](https://36kr.com/p/1774628096702728)
+   最前线｜比亚迪将为特斯拉提供电池产品，宁德时代多面受敌 [read](https://36kr.com/p/1775926269757833)
 
    ACL 2022 \| NLP领域最新热门研究，你一定不能错过！ [read](https://www.msra.cn/zh-cn/news/features/acl-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    非自回归生成研究最新综述，近200篇文献揭示挑战和未来方向 [read](https://www.msra.cn/zh-cn/news/features/a-survey-on-non-autoregressive-generation)
 
+   看似「叫好」的苹果 WWDC，隐藏的是科技行业的焦虑和迷茫 [read](http://www.geekpark.net/news/303399)
+
+   比亚迪市值超越大众；罗永浩正式退出「交个朋友」管理层；苹果也将使用 USB-C 接口充电 [read](http://www.geekpark.net/news/303390)
+
    星河动力 刘百奇：商业航天不必照搬 SpaceX \| Founder 100 [read](http://www.geekpark.net/news/303387)
-
-   猪心脏移植，离我们还有多远？ [read](http://www.geekpark.net/news/303349)
-
-   苹果开发者大会：没 VR，推两款 M2 芯片笔记本；小米与 Redmi 合并产品部；专家：至少 4 个外星文明可能入侵地球 [read](http://www.geekpark.net/news/303334)
 
 ### 金融类
 
-   拧巴的A股biotech和港股biotech [read](http://xueqiu.com/4777061674/221993964)
+   健帆生物年度股东大会独家纪要 [read](http://xueqiu.com/9508433096/222095077)
 
-   可转债适合你吗？分享2只优秀的可转债基金 [read](http://xueqiu.com/2217395043/221987164)
+   2022比亚迪股东大会见闻 [read](http://xueqiu.com/1429749445/222099183)
 
-   哪只基金这么猛，今年竟涨40%+ [read](http://xueqiu.com/9333035501/221807180)
+   清仓万科及投资反思 [read](http://xueqiu.com/8094080648/222085943)
 
 ### 学习类
 
@@ -128,33 +128,33 @@ title: "今日资讯"
 
 ### 设计类
 
-   Chocotoy Art Collection/05 [read](https://www.behance.net/gallery/145446309/Chocotoy-Art-Collection05)
+   Robots in Designer Chairs [read](https://www.behance.net/gallery/145451733/Robots-in-Designer-Chairs)
 
-   About Detail, Photography Studio [read](https://www.behance.net/gallery/139262759/About-Detail-Photography-Studio)
+   FIGURE AND GROUND [read](https://www.behance.net/gallery/145545789/FIGURE-AND-GROUND)
 
-   LAB02 - LEGACY WASTE [read](https://www.behance.net/gallery/144290047/LAB02-LEGACY-WASTE)
+   Melt With You [read](https://www.behance.net/gallery/145363193/Melt-With-You)
+
+   Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
    Meet This Month’s Guest Curator: Lucas Camargo of Untitled Army [read](https://medium.com/behance-blog/meet-this-months-guest-curator-lucas-camargo-of-untitled-army-3592b70bdbc3?source=rss-f5272b7f3182------2)
 
    A New Home for the Behance Blog [read](https://medium.com/behance-blog/a-new-home-for-the-behance-blog-8261c8e49c2b?source=rss-f5272b7f3182------2)
 
-   Make Monthly Income with Your Behance Content Through Subscriptions [read](https://medium.com/behance-blog/make-monthly-income-with-your-behance-content-through-subscriptions-2071ac795d4d?source=rss-f5272b7f3182------2)
+   Knit Con 2022: Taking Inspiration to Realization for our Employees [read](https://newsroom.pinterest.com/en/post/knit-con-2022-taking-inspiration-to-realization-for-our-employees)
 
    Pinterest to acquire THE YES, an AI powered shopping platform for fashion [read](https://newsroom.pinterest.com/en/post/pinterest-to-acquire-the-yes-an-ai-powered-shopping-platform-for-fashion)
 
    Pinterest inspires you to be who you are through “We Belong Here” campaign for Pride [read](https://newsroom.pinterest.com/en/post/pinterest-inspires-you-to-be-who-you-are-through-we-belong-here-campaign-for-pride)
 
-   Pinterest Opens its Doors in Warsaw [read](https://newsroom.pinterest.com/en/post/pinterest-opens-its-doors-in-warsaw)
+   2022 米兰设计周：高校设计展非命题赛道全国总决赛专业组获奖名单公示 [read](https://www.uisdc.com/milan-design-week-2022)
 
-   10W 现金！优设&即时设计网页插画创作大赛，投稿倒计时12天 [read](https://www.uisdc.com/illustration-competition-2022)
+   审美提升必备！这5个顶尖设计师的个人网站你收藏了吗？ [read](https://www.uisdc.com/5-top-designer-sites)
 
-   第一波！2022年6月精选实用设计干货合集 [read](https://www.uisdc.com/2022-6-design-resources-vol1)
+   4000字干货！五个方面帮你完整掌握筛选功能设计 [read](https://www.uisdc.com/filter-control)
 
-   如何快速提高过稿率？我分3个阶段帮你完全掌握（中） [read](https://www.uisdc.com/design-review-up-2)
+   CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
    主旋“绿”｜六一&十六 [read](https://cdc.tencent.com/2022/06/07/%e4%b8%bb%e6%97%8b%e7%bb%bf%ef%bd%9c%e5%85%ad%e4%b8%80%e5%8d%81%e5%85%ad/)
 
    CDC夜校回顾NO.24｜从实习生角度看体验设计工具、20世纪初西方基督教是如何对中国社会进行调查研究的 [read](https://cdc.tencent.com/2022/06/06/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-24%ef%bd%9c%e4%bb%8e%e5%ae%9e%e4%b9%a0%e7%94%9f%e8%a7%92%e5%ba%a6%e7%9c%8b%e4%bd%93%e9%aa%8c%e8%ae%be%e8%ae%a1%e5%b7%a5%e5%85%b7%e3%80%8120%e4%b8%96%e7%ba%aa/)
-
-   CDC夜校回顾NO.22｜生命游戏中的工程实践、设计与研发的融合之路 [read](https://cdc.tencent.com/2022/04/13/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-22%ef%bd%9c%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e3%80%81%e8%ae%be%e8%ae%a1%e4%b8%8e%e7%a0%94%e5%8f%91/)
 
