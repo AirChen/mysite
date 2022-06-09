@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CommonDolphin_EN-US7311583363_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SweetheartAbbey_EN-US7440629451_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   百度的概念车，可太好笑了 [read](http://www.huxiu.com/article/576845.html?f=wangzhan)
+   “红包”都发了，买车是不可能买车的？ [read](http://www.huxiu.com/article/577187.html?f=wangzhan)
 
-   人工智能挑战高考作文，语文老师打几分？ [read](http://www.huxiu.com/article/576570.html?f=wangzhan)
+   阿里巴巴获评全球十大计算机网络研究机构 [read](http://www.huxiu.com/article/577218.html?f=wangzhan)
 
-   比亚迪给特斯拉打工，谁赚大了？ [read](http://www.huxiu.com/article/576417.html?f=wangzhan)
+   “倒爷”折戟上海尾货 [read](http://www.huxiu.com/article/577548.html?f=wangzhan)
 
-   智氪丨最强图谱：国产大飞机背后的投资秘密 [read](https://36kr.com/p/1776403231001729)
+   36氪独家 \| 高瓴：正在组建S基金团队，推动创投活水 [read](https://36kr.com/p/1777839472970882)
 
-   氪星晚报丨字节跳动音乐热度预测专利公布；消息称三星电机获得特斯拉相机模块订单；顺丰科技获全国首批数据商资格 [read](https://36kr.com/p/1776218766051716)
+   「无限光能」获数千万元天使轮投资，由碧桂园创投、耀途资本、光跃投资共同参投 [read](https://36kr.com/p/1777824031263873)
 
-   最前线｜比亚迪将为特斯拉提供电池产品，宁德时代多面受敌 [read](https://36kr.com/p/1775926269757833)
+   自如总部裁员20% [read](https://36kr.com/p/1777756088322952)
 
    ACL 2022 \| NLP领域最新热门研究，你一定不能错过！ [read](https://www.msra.cn/zh-cn/news/features/acl-2022)
 
@@ -86,33 +86,33 @@ title: "今日资讯"
 
    非自回归生成研究最新综述，近200篇文献揭示挑战和未来方向 [read](https://www.msra.cn/zh-cn/news/features/a-survey-on-non-autoregressive-generation)
 
-   看似「叫好」的苹果 WWDC，隐藏的是科技行业的焦虑和迷茫 [read](http://www.geekpark.net/news/303399)
+   「线上」时代，我们需要一款怎样的平板电脑? [read](http://www.geekpark.net/news/303516)
 
-   比亚迪市值超越大众；罗永浩正式退出「交个朋友」管理层；苹果也将使用 USB-C 接口充电 [read](http://www.geekpark.net/news/303390)
+   航天，让流体的魔法走进千家万户 [read](http://www.geekpark.net/news/303506)
 
-   星河动力 刘百奇：商业航天不必照搬 SpaceX \| Founder 100 [read](http://www.geekpark.net/news/303387)
+   618 你也许可以清醒亿点——数码装备篇 [read](http://www.geekpark.net/news/303360)
 
 ### 金融类
 
-   健帆生物年度股东大会独家纪要 [read](http://xueqiu.com/9508433096/222095077)
+   药明生物成长驱动因素分析 [read](http://xueqiu.com/7173595940/221920634)
 
-   2022比亚迪股东大会见闻 [read](http://xueqiu.com/1429749445/222099183)
+   【股东大会系列】记海底捞2021年股东大会 [read](http://xueqiu.com/5000499189/222155985)
 
-   清仓万科及投资反思 [read](http://xueqiu.com/8094080648/222085943)
+   低点以来「固收+」反弹榜，58只收益率超10% [read](http://xueqiu.com/8092949786/222166453)
 
 ### 学习类
+
+   💻 Issue 311 - Rust is hard, or: The misery of mainstream programming [read](https://rust.libhunt.com/newsletter/311)
 
    💻 Issue 310 - The curse of strong typing by fasterthanlime [read](https://rust.libhunt.com/newsletter/310)
 
    💻 Issue 309 - Are most Rust jobs in crypto? Yes, a little over 50% are indeed blockchain job offers. [read](https://rust.libhunt.com/newsletter/309)
 
-   💻 Issue 308 - Things Are Getting Rusty In Kernel Land (Hackaday) [read](https://rust.libhunt.com/newsletter/308)
+   This Week in Rust 446 [read](https://this-week-in-rust.org/blog/2022/06/08/this-week-in-rust-446/)
 
    This Week in Rust 445 [read](https://this-week-in-rust.org/blog/2022/06/01/this-week-in-rust-445/)
 
    This Week in Rust 444 [read](https://this-week-in-rust.org/blog/2022/05/25/this-week-in-rust-444/)
-
-   This Week in Rust 443 [read](https://this-week-in-rust.org/blog/2022/05/18/this-week-in-rust-443/)
 
    ETCD的内存问题 [read](https://coolshell.cn/articles/22242.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Robots in Designer Chairs [read](https://www.behance.net/gallery/145451733/Robots-in-Designer-Chairs)
+   Adobe Acrobat [read](https://www.behance.net/gallery/145625661/Adobe-Acrobat)
 
-   FIGURE AND GROUND [read](https://www.behance.net/gallery/145545789/FIGURE-AND-GROUND)
+   LieVe \| Brand Identity &amp; Packaging [read](https://www.behance.net/gallery/145544539/LieVe-Brand-Identity-Packaging)
 
-   Melt With You [read](https://www.behance.net/gallery/145363193/Melt-With-You)
+   Brooklyn Film Festival [read](https://www.behance.net/gallery/145488291/Brooklyn-Film-Festival)
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest inspires you to be who you are through “We Belong Here” campaign for Pride [read](https://newsroom.pinterest.com/en/post/pinterest-inspires-you-to-be-who-you-are-through-we-belong-here-campaign-for-pride)
 
-   2022 米兰设计周：高校设计展非命题赛道全国总决赛专业组获奖名单公示 [read](https://www.uisdc.com/milan-design-week-2022)
+   2022 当代好设计奖启动全球征件，全新智能智造组别驱动产业升级 [read](https://www.uisdc.com/cgd-2022)
 
-   审美提升必备！这5个顶尖设计师的个人网站你收藏了吗？ [read](https://www.uisdc.com/5-top-designer-sites)
+   2022 苹果设计大奖出炉！盘点那些官方认证的优秀产品设计 [read](https://www.uisdc.com/apple-design-awards-2022)
 
-   4000字干货！五个方面帮你完整掌握筛选功能设计 [read](https://www.uisdc.com/filter-control)
+   一秒生成三维立体图表的免费神器「NB 3D Charts」 [read](https://www.uisdc.com/nb-3d-charts)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
