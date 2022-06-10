@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SweetheartAbbey_EN-US7440629451_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CRPoppies_EN-US7563691816_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   字节序探析：大端与小端的比较 [read](http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html)
+   科技爱好者周刊（第 209 期）：程序员是怎样的人 [read](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html)
 
-   科技爱好者周刊（第 208 期）：晋升制度的问题 [read](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-208.html)
+   字节序探析：大端与小端的比较 [read](http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html)
 
    用邻接表实现无向图 [read](https://blog.codingnow.com/2022/06/ajdjacency_list.html)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 450 期 [read](https://weekly.75.team/issue450.html)
+
    奇舞周刊第 449 期 [read](https://weekly.75.team/issue449.html)
 
    奇舞周刊第 448 期 [read](https://weekly.75.team/issue448.html)
-
-   奇舞周刊第 447 期 [read](https://weekly.75.team/issue447.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -48,17 +48,17 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]移动端渲染原理浅析 [read](https://blog.csdn.net/ByteDanceTech/article/details/125213904)
+
    \[原\]以一次 Data Catalog 架构升级为例聊业务系统的性能优化 [read](https://blog.csdn.net/ByteDanceTech/article/details/125176612)
 
    \[原\]智能问答：基于 BERT 的语义模型 [read](https://blog.csdn.net/ByteDanceTech/article/details/125157328)
 
-   \[原\]字节跳动使用 Flink State 的经验分享 [read](https://blog.csdn.net/ByteDanceTech/article/details/125117958)
+   数据库全量SQL分析与审计系统性能优化之旅 [read](https://tech.meituan.com/2022/06/09/the-route-of-database-get-audit-sql-optimize.html)
+
+   美团获得小样本学习榜单FewCLUE第一！Prompt Learning+自训练实战 [read](https://tech.meituan.com/2022/06/09/fewclue-low-resource-learning.html)
 
    Android对so体积优化的探索与实践 [read](https://tech.meituan.com/2022/06/02/meituans-technical-exploration-and-practice-of-android-so-volume-optimization.html)
-
-   如何应对开源组件⻛险？软件成分安全分析（SCA）能力的建设与演进 [read](https://tech.meituan.com/2022/05/26/construction-and-evolution-of-software-component-analysis-capability.html)
-
-   对话摘要技术在美团的探索（SIGIR） [read](https://tech.meituan.com/2022/05/26/exploration-of-dialogue-summary-technology-sigir.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,37 +68,37 @@ title: "今日资讯"
 
 ### 互联网类
 
-   “红包”都发了，买车是不可能买车的？ [read](http://www.huxiu.com/article/577187.html?f=wangzhan)
+   巨头围剿，元气森林变“危机森林”？ [read](http://www.huxiu.com/article/577677.html?f=wangzhan)
 
-   阿里巴巴获评全球十大计算机网络研究机构 [read](http://www.huxiu.com/article/577218.html?f=wangzhan)
+   你如何刹得住几十吨的重卡？ [read](http://www.huxiu.com/article/578473.html?f=wangzhan)
 
-   “倒爷”折戟上海尾货 [read](http://www.huxiu.com/article/577548.html?f=wangzhan)
+   任正非的咖啡哲学 [read](http://www.huxiu.com/article/577392.html?f=wangzhan)
 
-   36氪独家 \| 高瓴：正在组建S基金团队，推动创投活水 [read](https://36kr.com/p/1777839472970882)
+   请保持奇迹，这是疫情也无法磨灭的创新活力 [read](https://36kr.com/p/1779346941890180)
 
-   「无限光能」获数千万元天使轮投资，由碧桂园创投、耀途资本、光跃投资共同参投 [read](https://36kr.com/p/1777824031263873)
+   最前线 \| 特斯拉在德州举行虚拟电厂试验，或可一年内推出住宅发电计划 [read](https://36kr.com/p/1777812925959040)
 
-   自如总部裁员20% [read](https://36kr.com/p/1777756088322952)
+   一句话惹争议，品牌冤不冤？ [read](https://36kr.com/p/1778995913657223)
+
+   NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
 
    ACL 2022 \| NLP领域最新热门研究，你一定不能错过！ [read](https://www.msra.cn/zh-cn/news/features/acl-2022)
 
    3D视频会议系统VirtualCube：相隔万里也如近在咫尺般身临其境 [read](https://www.msra.cn/zh-cn/news/features/virtualcube)
 
-   非自回归生成研究最新综述，近200篇文献揭示挑战和未来方向 [read](https://www.msra.cn/zh-cn/news/features/a-survey-on-non-autoregressive-generation)
+   618 你也许可以清醒亿点——生活方式篇 [read](http://www.geekpark.net/news/303518)
 
-   「线上」时代，我们需要一款怎样的平板电脑? [read](http://www.geekpark.net/news/303516)
+   英伟达已经做好了「统治」AI 的准备 [read](http://www.geekpark.net/news/303540)
 
-   航天，让流体的魔法走进千家万户 [read](http://www.geekpark.net/news/303506)
-
-   618 你也许可以清醒亿点——数码装备篇 [read](http://www.geekpark.net/news/303360)
+   蚂蚁集团辟谣：没有重启 IPO；HTC 将推元宇宙手机；欧航局飞船拍到眼球状陨坑｜极客早知道 [read](http://www.geekpark.net/news/303525)
 
 ### 金融类
 
-   药明生物成长驱动因素分析 [read](http://xueqiu.com/7173595940/221920634)
+   毛发医疗，这个生意比想象中要好不少 [read](http://xueqiu.com/3203620784/222282117)
 
-   【股东大会系列】记海底捞2021年股东大会 [read](http://xueqiu.com/5000499189/222155985)
+   从艰难挑战中汲取营养 [read](http://xueqiu.com/3770558188/222321881)
 
-   低点以来「固收+」反弹榜，58只收益率超10% [read](http://xueqiu.com/8092949786/222166453)
+   佐罗： 投资要具备富人思维 [read](http://xueqiu.com/9498737718/222271927)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Adobe Acrobat [read](https://www.behance.net/gallery/145625661/Adobe-Acrobat)
+   Chillhop Essentials 2021 [read](https://www.behance.net/gallery/134453987/Chillhop-Essentials-2021)
 
-   LieVe \| Brand Identity &amp; Packaging [read](https://www.behance.net/gallery/145544539/LieVe-Brand-Identity-Packaging)
+   Zaha Hadid Architects [read](https://www.behance.net/gallery/141257839/Zaha-Hadid-Architects)
 
-   Brooklyn Film Festival [read](https://www.behance.net/gallery/145488291/Brooklyn-Film-Festival)
+   The National Museum - Motion Identity [read](https://www.behance.net/gallery/135766515/The-National-Museum-Motion-Identity)
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest inspires you to be who you are through “We Belong Here” campaign for Pride [read](https://newsroom.pinterest.com/en/post/pinterest-inspires-you-to-be-who-you-are-through-we-belong-here-campaign-for-pride)
 
-   2022 当代好设计奖启动全球征件，全新智能智造组别驱动产业升级 [read](https://www.uisdc.com/cgd-2022)
+   边玩边学！5个设计师必玩的在线小游戏 [read](https://www.uisdc.com/5-design-game)
 
-   2022 苹果设计大奖出炉！盘点那些官方认证的优秀产品设计 [read](https://www.uisdc.com/apple-design-awards-2022)
+   进阶技巧！从4个角度教你打磨视觉设计细节 [read](https://www.uisdc.com/visual-design-details)
 
-   一秒生成三维立体图表的免费神器「NB 3D Charts」 [read](https://www.uisdc.com/nb-3d-charts)
+   我拆解了 Behance 首推作品集，总结出 7 个让作品集更高级的技巧 [read](https://www.uisdc.com/behance-recommend-portfolio-2)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
