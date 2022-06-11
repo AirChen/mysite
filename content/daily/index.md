@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CRPoppies_EN-US7563691816_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MisoolIsland_EN-US7672276436_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]大规模实时分位数计算——Quantile Sketches 简史 [read](https://blog.csdn.net/ByteDanceTech/article/details/125230400)
+
    \[原\]移动端渲染原理浅析 [read](https://blog.csdn.net/ByteDanceTech/article/details/125213904)
 
    \[原\]以一次 Data Catalog 架构升级为例聊业务系统的性能优化 [read](https://blog.csdn.net/ByteDanceTech/article/details/125176612)
-
-   \[原\]智能问答：基于 BERT 的语义模型 [read](https://blog.csdn.net/ByteDanceTech/article/details/125157328)
 
    数据库全量SQL分析与审计系统性能优化之旅 [read](https://tech.meituan.com/2022/06/09/the-route-of-database-get-audit-sql-optimize.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   巨头围剿，元气森林变“危机森林”？ [read](http://www.huxiu.com/article/577677.html?f=wangzhan)
+   该死的低欲望社会，从资不抵债开始 [read](http://www.huxiu.com/article/578588.html?f=wangzhan)
 
-   你如何刹得住几十吨的重卡？ [read](http://www.huxiu.com/article/578473.html?f=wangzhan)
+   和马云称兄道弟的神秘富豪，两度遭遇生死危机 [read](http://www.huxiu.com/article/578685.html?f=wangzhan)
 
-   任正非的咖啡哲学 [read](http://www.huxiu.com/article/577392.html?f=wangzhan)
+   商用三年整，5G摆脱无用论了吗？ [read](http://www.huxiu.com/article/578885.html?f=wangzhan)
 
-   请保持奇迹，这是疫情也无法磨灭的创新活力 [read](https://36kr.com/p/1779346941890180)
+   36碳周报丨工信部：中方愿与英方深化新能源汽车、绿色制造等领域政策协调、技术合作；丰田将在2023年生产新款氢能燃料电池汽车 [read](https://36kr.com/p/1779606095597193)
 
-   最前线 \| 特斯拉在德州举行虚拟电厂试验，或可一年内推出住宅发电计划 [read](https://36kr.com/p/1777812925959040)
+   工业互联网标识创新应用大赛“江苏三强”诞生 [read](https://36kr.com/p/1780276520128130)
 
-   一句话惹争议，品牌冤不冤？ [read](https://36kr.com/p/1778995913657223)
+   最前线｜能链借壳完成，将登陆纳斯达克 [read](https://36kr.com/p/1780150649769352)
 
    NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    3D视频会议系统VirtualCube：相隔万里也如近在咫尺般身临其境 [read](https://www.msra.cn/zh-cn/news/features/virtualcube)
 
+   罗永浩：如做苹果产品负责人，将造福人们；Soul 撤回美股 IPO；苹果 M1 芯片存硬性缺陷 ｜极客早知道 [read](http://www.geekpark.net/news/303588)
+
    618 你也许可以清醒亿点——生活方式篇 [read](http://www.geekpark.net/news/303518)
 
    英伟达已经做好了「统治」AI 的准备 [read](http://www.geekpark.net/news/303540)
 
-   蚂蚁集团辟谣：没有重启 IPO；HTC 将推元宇宙手机；欧航局飞船拍到眼球状陨坑｜极客早知道 [read](http://www.geekpark.net/news/303525)
-
 ### 金融类
 
-   毛发医疗，这个生意比想象中要好不少 [read](http://xueqiu.com/3203620784/222282117)
+   盘点：基金公司“投顾组合”都持有哪些基金 [read](http://xueqiu.com/8687456694/222266234)
 
-   从艰难挑战中汲取营养 [read](http://xueqiu.com/3770558188/222321881)
+   可转债回售套利策略 [read](http://xueqiu.com/6146592061/222365123)
 
-   佐罗： 投资要具备富人思维 [read](http://xueqiu.com/9498737718/222271927)
+   诚实与贪婪：一名散户的自我修养 [read](http://xueqiu.com/7947659357/222356812)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Chillhop Essentials 2021 [read](https://www.behance.net/gallery/134453987/Chillhop-Essentials-2021)
+   Archi-Union Architects \| IN BAMBOO [read](https://www.behance.net/gallery/143242655/Archi-Union-Architects-IN-BAMBOO)
 
-   Zaha Hadid Architects [read](https://www.behance.net/gallery/141257839/Zaha-Hadid-Architects)
+   Norsk Etikett [read](https://www.behance.net/gallery/142470033/Norsk-Etikett)
 
-   The National Museum - Motion Identity [read](https://www.behance.net/gallery/135766515/The-National-Museum-Motion-Identity)
+   ZOIO: Earth comes first [read](https://www.behance.net/gallery/145738301/ZOIO-Earth-comes-first)
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
