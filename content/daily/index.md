@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MisoolIsland_EN-US7672276436_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SierraPonce_EN-US7735077868_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]看《梦华录》上头的人都该尝试下这款抖音特效 [read](https://blog.csdn.net/ByteDanceTech/article/details/125240877)
+
    \[原\]大规模实时分位数计算——Quantile Sketches 简史 [read](https://blog.csdn.net/ByteDanceTech/article/details/125230400)
 
    \[原\]移动端渲染原理浅析 [read](https://blog.csdn.net/ByteDanceTech/article/details/125213904)
-
-   \[原\]以一次 Data Catalog 架构升级为例聊业务系统的性能优化 [read](https://blog.csdn.net/ByteDanceTech/article/details/125176612)
 
    数据库全量SQL分析与审计系统性能优化之旅 [read](https://tech.meituan.com/2022/06/09/the-route-of-database-get-audit-sql-optimize.html)
 
@@ -74,11 +74,11 @@ title: "今日资讯"
 
    商用三年整，5G摆脱无用论了吗？ [read](http://www.huxiu.com/article/578885.html?f=wangzhan)
 
-   36碳周报丨工信部：中方愿与英方深化新能源汽车、绿色制造等领域政策协调、技术合作；丰田将在2023年生产新款氢能燃料电池汽车 [read](https://36kr.com/p/1779606095597193)
+   今年618，最值钱的流量在哪里？ [read](https://36kr.com/p/1781973665959304)
 
-   工业互联网标识创新应用大赛“江苏三强”诞生 [read](https://36kr.com/p/1780276520128130)
+   医疗健康行业周报 \| 「鹍远生物」获3亿元B+轮融资；「英矽智能」获6000万美元D轮融资 [read](https://36kr.com/p/1781872457731716)
 
-   最前线｜能链借壳完成，将登陆纳斯达克 [read](https://36kr.com/p/1780150649769352)
+   Long China 50 分析 \| B站需要竖屏短视频 [read](https://36kr.com/p/1779120000535687)
 
    NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    3D视频会议系统VirtualCube：相隔万里也如近在咫尺般身临其境 [read](https://www.msra.cn/zh-cn/news/features/virtualcube)
 
+   抱怨字节文化太卷，TikTok 英国电商团队一半离职 [read](http://www.geekpark.net/news/303595)
+
+   特斯拉将进行 1:3 比例拆股；知网：个人论文查重 1.5 元/千字；只有 16% 的玩家对 NFT 游戏感兴趣 [read](http://www.geekpark.net/news/303593)
+
    罗永浩：如做苹果产品负责人，将造福人们；Soul 撤回美股 IPO；苹果 M1 芯片存硬性缺陷 ｜极客早知道 [read](http://www.geekpark.net/news/303588)
-
-   618 你也许可以清醒亿点——生活方式篇 [read](http://www.geekpark.net/news/303518)
-
-   英伟达已经做好了「统治」AI 的准备 [read](http://www.geekpark.net/news/303540)
 
 ### 金融类
 
-   盘点：基金公司“投顾组合”都持有哪些基金 [read](http://xueqiu.com/8687456694/222266234)
+   国内CRO之终局 [read](http://xueqiu.com/4400942027/221897548)
 
-   可转债回售套利策略 [read](http://xueqiu.com/6146592061/222365123)
+   光伏VS锂电 [read](http://xueqiu.com/1624692750/222383124)
 
-   诚实与贪婪：一名散户的自我修养 [read](http://xueqiu.com/7947659357/222356812)
+   重读宁德时代 [read](http://xueqiu.com/2333298548/222394140)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Archi-Union Architects \| IN BAMBOO [read](https://www.behance.net/gallery/143242655/Archi-Union-Architects-IN-BAMBOO)
+   KoshyBlue Visual Identity ? By Zoey [read](https://www.behance.net/gallery/139666667/KoshyBlue-Visual-Identity-By-Zoey)
 
-   Norsk Etikett [read](https://www.behance.net/gallery/142470033/Norsk-Etikett)
+   Belif EP.05 - Solar land [read](https://www.behance.net/gallery/145190627/Belif-EP05-Solar-land)
 
-   ZOIO: Earth comes first [read](https://www.behance.net/gallery/145738301/ZOIO-Earth-comes-first)
+   The Edwin Group [read](https://www.behance.net/gallery/145195505/The-Edwin-Group)
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest inspires you to be who you are through “We Belong Here” campaign for Pride [read](https://newsroom.pinterest.com/en/post/pinterest-inspires-you-to-be-who-you-are-through-we-belong-here-campaign-for-pride)
 
+   这 5 款工具，让设计师工作效率提升 200%！（六） [read](https://www.uisdc.com/5-efficiency-tools)
+
    边玩边学！5个设计师必玩的在线小游戏 [read](https://www.uisdc.com/5-design-game)
 
    进阶技巧！从4个角度教你打磨视觉设计细节 [read](https://www.uisdc.com/visual-design-details)
-
-   我拆解了 Behance 首推作品集，总结出 7 个让作品集更高级的技巧 [read](https://www.uisdc.com/behance-recommend-portfolio-2)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
