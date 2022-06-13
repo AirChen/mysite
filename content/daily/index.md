@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SierraPonce_EN-US7735077868_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.OkavangoElephant_EN-US7949357706_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   该死的低欲望社会，从资不抵债开始 [read](http://www.huxiu.com/article/578588.html?f=wangzhan)
+   电动车自燃，锅别甩给电池 [read](http://www.huxiu.com/article/578763.html?f=wangzhan)
 
-   和马云称兄道弟的神秘富豪，两度遭遇生死危机 [read](http://www.huxiu.com/article/578685.html?f=wangzhan)
+   吉利喜提魅族，第一台手机明年见 [read](http://www.huxiu.com/article/580652.html?f=wangzhan)
 
-   商用三年整，5G摆脱无用论了吗？ [read](http://www.huxiu.com/article/578885.html?f=wangzhan)
+   穿越时空的对视：AI修复一百年前的街头木偶布袋戏 [read](http://www.huxiu.com/article/579821.html?f=wangzhan)
 
-   今年618，最值钱的流量在哪里？ [read](https://36kr.com/p/1781973665959304)
+   即氪健身 Vol.07丨“雷神索尔”成为健身名人；心理健康成健身首要目的；超猩推出沉浸式健身课程 [read](https://36kr.com/p/1783505224928649)
 
-   医疗健康行业周报 \| 「鹍远生物」获3亿元B+轮融资；「英矽智能」获6000万美元D轮融资 [read](https://36kr.com/p/1781872457731716)
+   最前线 \| 自研路越走越远，阿里云发布云数据中心处理器CIPU [read](https://36kr.com/p/1783197423324806)
 
-   Long China 50 分析 \| B站需要竖屏短视频 [read](https://36kr.com/p/1779120000535687)
+   氪星晚报丨沃尔玛寻求英国商家入驻其电商平台；谷歌工程师称公司AI系统“具有人类感知力”，遭谷歌停职；宜家中国：宜家上海杨浦商场将于7月初关闭 [read](https://36kr.com/p/1783365147692419)
 
    NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    3D视频会议系统VirtualCube：相隔万里也如近在咫尺般身临其境 [read](https://www.msra.cn/zh-cn/news/features/virtualcube)
 
-   抱怨字节文化太卷，TikTok 英国电商团队一半离职 [read](http://www.geekpark.net/news/303595)
+   为什么第一个万亿自主车企是比亚迪？ [read](http://www.geekpark.net/news/303661)
 
-   特斯拉将进行 1:3 比例拆股；知网：个人论文查重 1.5 元/千字；只有 16% 的玩家对 NFT 游戏感兴趣 [read](http://www.geekpark.net/news/303593)
+   电动车集体涨价后，还值得继续入手吗？ [read](http://www.geekpark.net/news/303492)
 
-   罗永浩：如做苹果产品负责人，将造福人们；Soul 撤回美股 IPO；苹果 M1 芯片存硬性缺陷 ｜极客早知道 [read](http://www.geekpark.net/news/303588)
+   图计算，下一个科技前沿? [read](http://www.geekpark.net/news/303628)
 
 ### 金融类
 
-   国内CRO之终局 [read](http://xueqiu.com/4400942027/221897548)
+   抢权配售的高光时刻？ [read](http://xueqiu.com/1314783718/222504890)
 
-   光伏VS锂电 [read](http://xueqiu.com/1624692750/222383124)
+   为什么隆基氢能的未来，必然是一家气体投资公司？ [read](http://xueqiu.com/3982875075/222468813)
 
-   重读宁德时代 [read](http://xueqiu.com/2333298548/222394140)
+   5178点过去七年了，哪些基金跑赢了同行？ [read](http://xueqiu.com/8663769490/222501187)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   KoshyBlue Visual Identity ? By Zoey [read](https://www.behance.net/gallery/139666667/KoshyBlue-Visual-Identity-By-Zoey)
+   Iliad - Visual identity [read](https://www.behance.net/gallery/145883909/Iliad-Visual-identity)
 
-   Belif EP.05 - Solar land [read](https://www.behance.net/gallery/145190627/Belif-EP05-Solar-land)
+   BoConcept [read](https://www.behance.net/gallery/145902183/BoConcept)
 
-   The Edwin Group [read](https://www.behance.net/gallery/145195505/The-Edwin-Group)
+   Saraghina Caffè [read](https://www.behance.net/gallery/145498019/Saraghina-Caffe)
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest inspires you to be who you are through “We Belong Here” campaign for Pride [read](https://newsroom.pinterest.com/en/post/pinterest-inspires-you-to-be-who-you-are-through-we-belong-here-campaign-for-pride)
 
-   这 5 款工具，让设计师工作效率提升 200%！（六） [read](https://www.uisdc.com/5-efficiency-tools)
+   挖掘培养汽车设计新星！广汽设计大赛邀你创造 2050 年「超级玩伴」 [read](https://www.uisdc.com/gac-design-award-2022)
 
-   边玩边学！5个设计师必玩的在线小游戏 [read](https://www.uisdc.com/5-design-game)
+   2022 最全收集！23个免费图片压缩在线神器都在这了！ [read](https://www.uisdc.com/23-image-compressor)
 
-   进阶技巧！从4个角度教你打磨视觉设计细节 [read](https://www.uisdc.com/visual-design-details)
+   腾讯出品！2022-2023 设计趋势报告：NFT虚拟时装篇 [read](https://www.uisdc.com/nft-clothing)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
