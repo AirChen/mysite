@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.OkavangoElephant_EN-US7949357706_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MuseumMile_EN-US8035796645_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -10,11 +10,11 @@ title: "今日资讯"
 
    字节序探析：大端与小端的比较 [read](http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html)
 
+   给 ECS 增加分组功能 [read](https://blog.codingnow.com/2022/06/ecs_group.html)
+
    用邻接表实现无向图 [read](https://blog.codingnow.com/2022/06/ajdjacency_list.html)
 
    一个 VLA （可变长度数组）的实现 [read](https://blog.codingnow.com/2022/06/vla.html)
-
-   RogueLike 原型开发工具 [read](https://blog.codingnow.com/2022/05/roguelike_lua.html)
 
    一个付费 chrome 插件的一生 [read](https://blog.t9t.io/star-history-2021-01-21/)
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]行为序列模型在抖音风控中的应用 [read](https://blog.csdn.net/ByteDanceTech/article/details/125270664)
+
    \[原\]看《梦华录》上头的人都该尝试下这款抖音特效 [read](https://blog.csdn.net/ByteDanceTech/article/details/125240877)
 
    \[原\]大规模实时分位数计算——Quantile Sketches 简史 [read](https://blog.csdn.net/ByteDanceTech/article/details/125230400)
-
-   \[原\]移动端渲染原理浅析 [read](https://blog.csdn.net/ByteDanceTech/article/details/125213904)
 
    数据库全量SQL分析与审计系统性能优化之旅 [read](https://tech.meituan.com/2022/06/09/the-route-of-database-get-audit-sql-optimize.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   电动车自燃，锅别甩给电池 [read](http://www.huxiu.com/article/578763.html?f=wangzhan)
+   一年新增23.9万台，被“嫌弃”的慢充桩又火了？ [read](http://www.huxiu.com/article/581598.html?f=wangzhan)
 
-   吉利喜提魅族，第一台手机明年见 [read](http://www.huxiu.com/article/580652.html?f=wangzhan)
+   谷歌AI活了？是人类的滤镜太厚了 [read](http://www.huxiu.com/article/580914.html?f=wangzhan)
 
-   穿越时空的对视：AI修复一百年前的街头木偶布袋戏 [read](http://www.huxiu.com/article/579821.html?f=wangzhan)
+   我们为什么要花几十亿修长城？ [read](http://www.huxiu.com/article/581277.html?f=wangzhan)
 
-   即氪健身 Vol.07丨“雷神索尔”成为健身名人；心理健康成健身首要目的；超猩推出沉浸式健身课程 [read](https://36kr.com/p/1783505224928649)
+   什么样的办公空间 不会被远程办公淘汰 \| 36氪「未来办公」调查问卷 [read](https://36kr.com/p/1784799819796102)
 
-   最前线 \| 自研路越走越远，阿里云发布云数据中心处理器CIPU [read](https://36kr.com/p/1783197423324806)
+   36氪晚报丨新东方旗下直播公司已成立6家分公司；微软：将在动视暴雪工会运动中保持中立；小米车辆控制专利可准确确定路口 [read](https://36kr.com/p/1784660003720838)
 
-   氪星晚报丨沃尔玛寻求英国商家入驻其电商平台；谷歌工程师称公司AI系统“具有人类感知力”，遭谷歌停职；宜家中国：宜家上海杨浦商场将于7月初关闭 [read](https://36kr.com/p/1783365147692419)
+   36氪首发 \| 主攻商用车电控解决方案，硅山技术获三一重工数千万元投资 [read](https://36kr.com/p/1783524796091776)
 
    NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    3D视频会议系统VirtualCube：相隔万里也如近在咫尺般身临其境 [read](https://www.msra.cn/zh-cn/news/features/virtualcube)
 
-   为什么第一个万亿自主车企是比亚迪？ [read](http://www.geekpark.net/news/303661)
+   疫情把 B 站打回「小破站」？ [read](http://www.geekpark.net/news/303725)
 
-   电动车集体涨价后，还值得继续入手吗？ [read](http://www.geekpark.net/news/303492)
+   Redmi K50 晴雪色图赏：这一抹白，是你在等的那个颜色吗？ [read](http://www.geekpark.net/news/303684)
 
-   图计算，下一个科技前沿? [read](http://www.geekpark.net/news/303628)
+   隐秘的角落：ToB 销售、乱象和 SaaS 堪忧的未来 [read](http://www.geekpark.net/news/303596)
 
 ### 金融类
 
-   抢权配售的高光时刻？ [read](http://xueqiu.com/1314783718/222504890)
+   跟耶鲁模式学资产配置 [read](http://xueqiu.com/4778574435/222606579)
 
-   为什么隆基氢能的未来，必然是一家气体投资公司？ [read](http://xueqiu.com/3982875075/222468813)
+   起舞滞涨：转绿火电股四年十倍？ [read](http://xueqiu.com/8895446470/222560305)
 
-   5178点过去七年了，哪些基金跑赢了同行？ [read](http://xueqiu.com/8663769490/222501187)
+   对陕煤的估值思考 [read](http://xueqiu.com/1929796343/222562720)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Iliad - Visual identity [read](https://www.behance.net/gallery/145883909/Iliad-Visual-identity)
+   Package Renewal Design for Sujipmihak [read](https://www.behance.net/gallery/145908245/Package-Renewal-Design-for-Sujipmihak)
 
-   BoConcept [read](https://www.behance.net/gallery/145902183/BoConcept)
+   Solo exhibition "Children somewhere else" [read](https://www.behance.net/gallery/145372317/Solo-exhibition-Children-somewhere-else)
 
-   Saraghina Caffè [read](https://www.behance.net/gallery/145498019/Saraghina-Caffe)
+   WM ? The Home Industry [read](https://www.behance.net/gallery/145466171/WM-The-Home-Industry)
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
@@ -140,17 +140,17 @@ title: "今日资讯"
 
    A New Home for the Behance Blog [read](https://medium.com/behance-blog/a-new-home-for-the-behance-blog-8261c8e49c2b?source=rss-f5272b7f3182------2)
 
+   Pinterest and Tastemade partner on scaling creators, content and live streaming around the world [read](https://newsroom.pinterest.com/en/post/pinterest-and-tastemade-partner-on-scaling-creators-content-and-live-streaming-around-the)
+
    Knit Con 2022: Taking Inspiration to Realization for our Employees [read](https://newsroom.pinterest.com/en/post/knit-con-2022-taking-inspiration-to-realization-for-our-employees)
 
    Pinterest to acquire THE YES, an AI powered shopping platform for fashion [read](https://newsroom.pinterest.com/en/post/pinterest-to-acquire-the-yes-an-ai-powered-shopping-platform-for-fashion)
 
-   Pinterest inspires you to be who you are through “We Belong Here” campaign for Pride [read](https://newsroom.pinterest.com/en/post/pinterest-inspires-you-to-be-who-you-are-through-we-belong-here-campaign-for-pride)
+   新手如何做好字体管理？快来看资深设计师的的4点建议 [read](https://www.uisdc.com/font-management)
 
-   挖掘培养汽车设计新星！广汽设计大赛邀你创造 2050 年「超级玩伴」 [read](https://www.uisdc.com/gac-design-award-2022)
+   第二波！2022年6月精选实用设计干货合集 [read](https://www.uisdc.com/2022-6-design-resources-vol2)
 
-   2022 最全收集！23个免费图片压缩在线神器都在这了！ [read](https://www.uisdc.com/23-image-compressor)
-
-   腾讯出品！2022-2023 设计趋势报告：NFT虚拟时装篇 [read](https://www.uisdc.com/nft-clothing)
+   10个产品细节剖析，看看高手是如何做设计的！ [read](https://www.uisdc.com/product-detail-experience)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
