@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MuseumMile_EN-US8035796645_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ClingmansDome_EN-US8094094597_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]从单机到分布式数据库存储系统的演进 [read](https://blog.csdn.net/ByteDanceTech/article/details/125289041)
+
    \[原\]行为序列模型在抖音风控中的应用 [read](https://blog.csdn.net/ByteDanceTech/article/details/125270664)
 
    \[原\]看《梦华录》上头的人都该尝试下这款抖音特效 [read](https://blog.csdn.net/ByteDanceTech/article/details/125240877)
-
-   \[原\]大规模实时分位数计算——Quantile Sketches 简史 [read](https://blog.csdn.net/ByteDanceTech/article/details/125230400)
 
    数据库全量SQL分析与审计系统性能优化之旅 [read](https://tech.meituan.com/2022/06/09/the-route-of-database-get-audit-sql-optimize.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   一年新增23.9万台，被“嫌弃”的慢充桩又火了？ [read](http://www.huxiu.com/article/581598.html?f=wangzhan)
+   电动车的轮子，怎么那么难看 [read](http://www.huxiu.com/article/582576.html?f=wangzhan)
 
-   谷歌AI活了？是人类的滤镜太厚了 [read](http://www.huxiu.com/article/580914.html?f=wangzhan)
+   微软IE浏览器正式退休 [read](http://www.huxiu.com/article/581603.html?f=wangzhan)
 
-   我们为什么要花几十亿修长城？ [read](http://www.huxiu.com/article/581277.html?f=wangzhan)
+   三星堆的宝藏，到底有多少？ [read](http://www.huxiu.com/article/581787.html?f=wangzhan)
 
-   什么样的办公空间 不会被远程办公淘汰 \| 36氪「未来办公」调查问卷 [read](https://36kr.com/p/1784799819796102)
+   万科跟投制度6.0：被取消的劣后机制 [read](https://36kr.com/p/1786256625471112)
 
-   36氪晚报丨新东方旗下直播公司已成立6家分公司；微软：将在动视暴雪工会运动中保持中立；小米车辆控制专利可准确确定路口 [read](https://36kr.com/p/1784660003720838)
+   氪星晚报｜网络小贷整改加速：京东整合牌照，旗下小贷公司仅留一家；李想卸任理想汽车科技公司职务；微软IE浏览器将于6月15日被永久关闭 [read](https://36kr.com/p/1786079095295620)
 
-   36氪首发 \| 主攻商用车电控解决方案，硅山技术获三一重工数千万元投资 [read](https://36kr.com/p/1783524796091776)
+   研报淘金 \| 重大利好，电子烟板块7连阳后，谁是下一个十倍股？ [read](https://36kr.com/p/1786088949222793)
 
    NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    3D视频会议系统VirtualCube：相隔万里也如近在咫尺般身临其境 [read](https://www.msra.cn/zh-cn/news/features/virtualcube)
 
-   疫情把 B 站打回「小破站」？ [read](http://www.geekpark.net/news/303725)
+   阿里云 CIPU，是一场「原生」的冒险 [read](http://www.geekpark.net/news/303795)
 
-   Redmi K50 晴雪色图赏：这一抹白，是你在等的那个颜色吗？ [read](http://www.geekpark.net/news/303684)
+   Marshall Willen 图赏：更小巧的「马勺」音箱，时尚达人必备 [read](http://www.geekpark.net/news/303761)
 
-   隐秘的角落：ToB 销售、乱象和 SaaS 堪忧的未来 [read](http://www.geekpark.net/news/303596)
+   5 个月长成独角兽，STEPN 能打破「庞氏宿命」吗？ [read](http://www.geekpark.net/news/303753)
 
 ### 金融类
 
-   跟耶鲁模式学资产配置 [read](http://xueqiu.com/4778574435/222606579)
+   几只芯片设备股的估值 [read](http://xueqiu.com/6671267797/222695759)
 
-   起舞滞涨：转绿火电股四年十倍？ [read](http://xueqiu.com/8895446470/222560305)
+   买基金和新东方做直播是一回事 [read](http://xueqiu.com/1731685223/222642443)
 
-   对陕煤的估值思考 [read](http://xueqiu.com/1929796343/222562720)
+   中天科技和亨通光电最值得对比分析的公司 [read](http://xueqiu.com/3995301829/222536813)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Package Renewal Design for Sujipmihak [read](https://www.behance.net/gallery/145908245/Package-Renewal-Design-for-Sujipmihak)
+   Sector SPDR ETFs '20 [read](https://www.behance.net/gallery/142468753/Sector-SPDR-ETFs-20)
 
-   Solo exhibition "Children somewhere else" [read](https://www.behance.net/gallery/145372317/Solo-exhibition-Children-somewhere-else)
+   Aerospace Xelerated ? Brand Identity [read](https://www.behance.net/gallery/143517979/Aerospace-Xelerated-Brand-Identity)
 
-   WM ? The Home Industry [read](https://www.behance.net/gallery/145466171/WM-The-Home-Industry)
+   Drive Safe Series [read](https://www.behance.net/gallery/145967879/Drive-Safe-Series)
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
@@ -140,11 +140,11 @@ title: "今日资讯"
 
    A New Home for the Behance Blog [read](https://medium.com/behance-blog/a-new-home-for-the-behance-blog-8261c8e49c2b?source=rss-f5272b7f3182------2)
 
+   Introducing new ways for advertisers and creators to inspire with Idea ads [read](https://newsroom.pinterest.com/en/post/introducing-new-ways-for-advertisers-and-creators-to-inspire-with-idea-ads)
+
    Pinterest and Tastemade partner on scaling creators, content and live streaming around the world [read](https://newsroom.pinterest.com/en/post/pinterest-and-tastemade-partner-on-scaling-creators-content-and-live-streaming-around-the)
 
    Knit Con 2022: Taking Inspiration to Realization for our Employees [read](https://newsroom.pinterest.com/en/post/knit-con-2022-taking-inspiration-to-realization-for-our-employees)
-
-   Pinterest to acquire THE YES, an AI powered shopping platform for fashion [read](https://newsroom.pinterest.com/en/post/pinterest-to-acquire-the-yes-an-ai-powered-shopping-platform-for-fashion)
 
    新手如何做好字体管理？快来看资深设计师的的4点建议 [read](https://www.uisdc.com/font-management)
 
