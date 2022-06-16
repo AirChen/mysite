@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ClingmansDome_EN-US8094094597_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SeonamTemple_EN-US8180397216_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]从响应式编程到 Combine 实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125308184)
+
    \[原\]从单机到分布式数据库存储系统的演进 [read](https://blog.csdn.net/ByteDanceTech/article/details/125289041)
 
    \[原\]行为序列模型在抖音风控中的应用 [read](https://blog.csdn.net/ByteDanceTech/article/details/125270664)
-
-   \[原\]看《梦华录》上头的人都该尝试下这款抖音特效 [read](https://blog.csdn.net/ByteDanceTech/article/details/125240877)
 
    数据库全量SQL分析与审计系统性能优化之旅 [read](https://tech.meituan.com/2022/06/09/the-route-of-database-get-audit-sql-optimize.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   电动车的轮子，怎么那么难看 [read](http://www.huxiu.com/article/582576.html?f=wangzhan)
+   别着急为阿里“造”的新车买单 [read](http://www.huxiu.com/article/582286.html?f=wangzhan)
 
-   微软IE浏览器正式退休 [read](http://www.huxiu.com/article/581603.html?f=wangzhan)
+   我们的消费DNA，已经被电商购物节完全拿捏？ [read](http://www.huxiu.com/article/583637.html?f=wangzhan)
 
-   三星堆的宝藏，到底有多少？ [read](http://www.huxiu.com/article/581787.html?f=wangzhan)
+   高考填报人工智能专业，靠谱吗？ [read](http://www.huxiu.com/article/583016.html?f=wangzhan)
 
-   万科跟投制度6.0：被取消的劣后机制 [read](https://36kr.com/p/1786256625471112)
+   保利打响5%首付第一枪？ [read](https://36kr.com/p/1787807825719681)
 
-   氪星晚报｜网络小贷整改加速：京东整合牌照，旗下小贷公司仅留一家；李想卸任理想汽车科技公司职务；微软IE浏览器将于6月15日被永久关闭 [read](https://36kr.com/p/1786079095295620)
+   新品突围，「王牌」待命 [read](https://36kr.com/p/1787420592796288)
 
-   研报淘金 \| 重大利好，电子烟板块7连阳后，谁是下一个十倍股？ [read](https://36kr.com/p/1786088949222793)
+   9款产品入选，2022夏季「焦点」产品计划重磅发布 [read](https://36kr.com/p/1787422937706884)
 
    NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
 
@@ -86,33 +86,33 @@ title: "今日资讯"
 
    3D视频会议系统VirtualCube：相隔万里也如近在咫尺般身临其境 [read](https://www.msra.cn/zh-cn/news/features/virtualcube)
 
+   英伟达如何参与元宇宙？ [read](http://www.geekpark.net/news/303856)
+
+   被嫌弃的「IE」 的一生 [read](http://www.geekpark.net/news/303775)
+
    阿里云 CIPU，是一场「原生」的冒险 [read](http://www.geekpark.net/news/303795)
-
-   Marshall Willen 图赏：更小巧的「马勺」音箱，时尚达人必备 [read](http://www.geekpark.net/news/303761)
-
-   5 个月长成独角兽，STEPN 能打破「庞氏宿命」吗？ [read](http://www.geekpark.net/news/303753)
 
 ### 金融类
 
-   几只芯片设备股的估值 [read](http://xueqiu.com/6671267797/222695759)
+   主升浪的深度思考 [read](http://xueqiu.com/2299425930/222854750)
 
-   买基金和新东方做直播是一回事 [read](http://xueqiu.com/1731685223/222642443)
+   接下来猪价的演绎 [read](http://xueqiu.com/8418018079/222850346)
 
-   中天科技和亨通光电最值得对比分析的公司 [read](http://xueqiu.com/3995301829/222536813)
+   贵州茅台股东会见闻——尝到茅台冰激凌 [read](http://xueqiu.com/3106769741/222835545)
 
 ### 学习类
+
+   💻 Issue 312 - The Rust borrow checker just got (a little bit) smarter [read](https://rust.libhunt.com/newsletter/312)
 
    💻 Issue 311 - Rust is hard, or: The misery of mainstream programming [read](https://rust.libhunt.com/newsletter/311)
 
    💻 Issue 310 - The curse of strong typing by fasterthanlime [read](https://rust.libhunt.com/newsletter/310)
 
-   💻 Issue 309 - Are most Rust jobs in crypto? Yes, a little over 50% are indeed blockchain job offers. [read](https://rust.libhunt.com/newsletter/309)
+   This Week in Rust 447 [read](https://this-week-in-rust.org/blog/2022/06/15/this-week-in-rust-447/)
 
    This Week in Rust 446 [read](https://this-week-in-rust.org/blog/2022/06/08/this-week-in-rust-446/)
 
    This Week in Rust 445 [read](https://this-week-in-rust.org/blog/2022/06/01/this-week-in-rust-445/)
-
-   This Week in Rust 444 [read](https://this-week-in-rust.org/blog/2022/05/25/this-week-in-rust-444/)
 
    ETCD的内存问题 [read](https://coolshell.cn/articles/22242.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Sector SPDR ETFs '20 [read](https://www.behance.net/gallery/142468753/Sector-SPDR-ETFs-20)
+   Uniform convergence [read](https://www.behance.net/gallery/146104539/Uniform-convergence)
 
-   Aerospace Xelerated ? Brand Identity [read](https://www.behance.net/gallery/143517979/Aerospace-Xelerated-Brand-Identity)
+   Material Girl Rebrand [read](https://www.behance.net/gallery/146054903/Material-Girl-Rebrand)
 
-   Drive Safe Series [read](https://www.behance.net/gallery/145967879/Drive-Safe-Series)
+   VOZES NEGRAS [read](https://www.behance.net/gallery/145940791/VOZES-NEGRAS)
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Knit Con 2022: Taking Inspiration to Realization for our Employees [read](https://newsroom.pinterest.com/en/post/knit-con-2022-taking-inspiration-to-realization-for-our-employees)
 
-   新手如何做好字体管理？快来看资深设计师的的4点建议 [read](https://www.uisdc.com/font-management)
+   3D 环境艺术家 Jacinta Vu 做客「NVIDIA Studio 创意加速」，将介绍 3D 内容创作工作流 [read](https://www.uisdc.com/jacinta-vu-2022)
 
-   第二波！2022年6月精选实用设计干货合集 [read](https://www.uisdc.com/2022-6-design-resources-vol2)
+   掌握这5个Ai小技巧，帮你快速提升文字排版效率 [read](https://www.uisdc.com/5-ai-tips)
 
-   10个产品细节剖析，看看高手是如何做设计的！ [read](https://www.uisdc.com/product-detail-experience)
+   如何快速提高过稿率？我分3个阶段帮你完全掌握（下） [read](https://www.uisdc.com/design-review-up-3)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
