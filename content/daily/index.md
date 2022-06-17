@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SeonamTemple_EN-US8180397216_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Balsamroot_EN-US8641268598_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 209 期）：程序员是怎样的人 [read](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html)
+   科技爱好者周刊（第 210 期）：为什么软件变得复杂 [read](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html)
 
-   字节序探析：大端与小端的比较 [read](http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html)
+   科技爱好者周刊（第 209 期）：程序员是怎样的人 [read](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html)
 
    给 ECS 增加分组功能 [read](https://blog.codingnow.com/2022/06/ecs_group.html)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 451 期 [read](https://weekly.75.team/issue451.html)
+
    奇舞周刊第 450 期 [read](https://weekly.75.team/issue450.html)
 
    奇舞周刊第 449 期 [read](https://weekly.75.team/issue449.html)
-
-   奇舞周刊第 448 期 [read](https://weekly.75.team/issue448.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -48,17 +48,17 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]通过 Goyacc 构建 Elasticsearch Querystring 解析器 - 领域特定语言语法分析实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125325930)
+
    \[原\]从响应式编程到 Combine 实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125308184)
 
    \[原\]从单机到分布式数据库存储系统的演进 [read](https://blog.csdn.net/ByteDanceTech/article/details/125289041)
 
-   \[原\]行为序列模型在抖音风控中的应用 [read](https://blog.csdn.net/ByteDanceTech/article/details/125270664)
+   端智能在大众点评搜索重排序的应用实践 [read](https://tech.meituan.com/2022/06/16/edge-search-rerank.html)
+
+   美团综合业务推荐系统的质量模型及实践 [read](https://tech.meituan.com/2022/06/16/recommendation-system-quality-model.html)
 
    数据库全量SQL分析与审计系统性能优化之旅 [read](https://tech.meituan.com/2022/06/09/the-route-of-database-get-audit-sql-optimize.html)
-
-   美团获得小样本学习榜单FewCLUE第一！Prompt Learning+自训练实战 [read](https://tech.meituan.com/2022/06/09/fewclue-low-resource-learning.html)
-
-   Android对so体积优化的探索与实践 [read](https://tech.meituan.com/2022/06/02/meituans-technical-exploration-and-practice-of-android-so-volume-optimization.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   奥迪电动车，折戟在中国 [read](http://www.huxiu.com/article/584608.html?f=wangzhan)
+
+   你的快递，为什么要在转运中心“换乘”？ [read](http://www.huxiu.com/article/584603.html?f=wangzhan)
+
    别着急为阿里“造”的新车买单 [read](http://www.huxiu.com/article/582286.html?f=wangzhan)
 
-   我们的消费DNA，已经被电商购物节完全拿捏？ [read](http://www.huxiu.com/article/583637.html?f=wangzhan)
+   即时零售，京东的新杀手锏，实体商家和品牌的新大陆 [read](https://36kr.com/p/1788631711789705)
 
-   高考填报人工智能专业，靠谱吗？ [read](http://www.huxiu.com/article/583016.html?f=wangzhan)
+   今年618：超头消失，黑马补位，店播上扬 [read](https://36kr.com/p/1788891679240584)
 
-   保利打响5%首付第一枪？ [read](https://36kr.com/p/1787807825719681)
-
-   新品突围，「王牌」待命 [read](https://36kr.com/p/1787420592796288)
-
-   9款产品入选，2022夏季「焦点」产品计划重磅发布 [read](https://36kr.com/p/1787422937706884)
+   氪星晚报丨新东方直播间被曝尝试自建供应链，未来考虑发展自营产品；京东拆散京喜事业群，京喜拼拼并入零售业务；谷歌因违反俄罗斯“数据本地化”相关法规被罚款 [read](https://36kr.com/p/1788953591313029)
 
    NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    3D视频会议系统VirtualCube：相隔万里也如近在咫尺般身临其境 [read](https://www.msra.cn/zh-cn/news/features/virtualcube)
 
-   英伟达如何参与元宇宙？ [read](http://www.geekpark.net/news/303856)
+   贾跃亭 PPT 的威力，美国人终于见识了 [read](http://www.geekpark.net/news/303908)
 
-   被嫌弃的「IE」 的一生 [read](http://www.geekpark.net/news/303775)
+   成为全球第四大跨境物流商，菜鸟做了什么？ [read](http://www.geekpark.net/news/303909)
 
-   阿里云 CIPU，是一场「原生」的冒险 [read](http://www.geekpark.net/news/303795)
+   SpaceX 员工指责马斯克：丢我们的脸；新东方直播一周，股价暴涨 6 倍；雅虎将在香港测试元宇宙技术｜极客早知道 [read](http://www.geekpark.net/news/303890)
 
 ### 金融类
 
-   主升浪的深度思考 [read](http://xueqiu.com/2299425930/222854750)
+   舍得：趁着反弹，啰嗦几句 [read](http://xueqiu.com/1614119807/222930927)
 
-   接下来猪价的演绎 [read](http://xueqiu.com/8418018079/222850346)
+   虽然美股跌了很多，但A股也跌了很多，这时候要投纳斯达克100吗？ [read](http://xueqiu.com/9290769077/222859586)
 
-   贵州茅台股东会见闻——尝到茅台冰激凌 [read](http://xueqiu.com/3106769741/222835545)
+   白酒啤酒还是葡萄酒？这只酒类基金不做选择题 [read](http://xueqiu.com/1900077504/222900077)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Uniform convergence [read](https://www.behance.net/gallery/146104539/Uniform-convergence)
+   Crazy [read](https://www.behance.net/gallery/145395893/Crazy)
 
-   Material Girl Rebrand [read](https://www.behance.net/gallery/146054903/Material-Girl-Rebrand)
+   Ma Design [read](https://www.behance.net/gallery/145464801/Ma-Design)
 
-   VOZES NEGRAS [read](https://www.behance.net/gallery/145940791/VOZES-NEGRAS)
+   Let's Go Nuts [read](https://www.behance.net/gallery/146058763/Lets-Go-Nuts)
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Knit Con 2022: Taking Inspiration to Realization for our Employees [read](https://newsroom.pinterest.com/en/post/knit-con-2022-taking-inspiration-to-realization-for-our-employees)
 
-   3D 环境艺术家 Jacinta Vu 做客「NVIDIA Studio 创意加速」，将介绍 3D 内容创作工作流 [read](https://www.uisdc.com/jacinta-vu-2022)
+   想用网页版Photoshop？这2个免费在线工具就很不错！ [read](https://www.uisdc.com/free-online-tools)
 
-   掌握这5个Ai小技巧，帮你快速提升文字排版效率 [read](https://www.uisdc.com/5-ai-tips)
+   全新的 iOS 16 锁屏设计，我总结了这10个功能要点！ [read](https://www.uisdc.com/ios-16-lock-screen)
 
-   如何快速提高过稿率？我分3个阶段帮你完全掌握（下） [read](https://www.uisdc.com/design-review-up-3)
+   设计师第一次做可用性测试，这篇文章就够了！ [read](https://www.uisdc.com/usability-test)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
