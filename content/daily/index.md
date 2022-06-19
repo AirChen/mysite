@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CelebratingSurfing_EN-US8732112733_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Cassowary_EN-US8797645265_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   小众个性的旅行车，试驾沃尔沃V90 CC [read](http://www.huxiu.com/article/584827.html?f=wangzhan)
+   废除购置税，你就会买车吗？ [read](http://www.huxiu.com/article/585833.html?f=wangzhan)
 
-   数字敦煌藏经洞1:1还原，到底有多好玩？ [read](http://www.huxiu.com/article/584464.html?f=wangzhan)
+   吉利做手机，魅族造汽车？吉利魅族能否白头偕老？ [read](http://www.huxiu.com/article/585359.html?f=wangzhan)
 
-   文和友垮了，却预言了“实体经济”的新趋势 [read](http://www.huxiu.com/article/584755.html?f=wangzhan)
+   《梦华录》的傲慢：假圣女与真名妓 [read](http://www.huxiu.com/article/585696.html?f=wangzhan)
 
-   智氪 \| 一年跌去60%后，「药房们」的「疫情依赖症」痊愈了吗？ [read](https://36kr.com/p/1790519137743493)
+   IPO留言板 \| 瑞泰新材挂牌创业板；天齐锂业港交所上市获批准；中证协进一步健全保荐机构执业专业标准 [read](https://36kr.com/p/1791333239045764)
 
-   智能制造系列研究 \| 锂电设备二十年进化史 [read](https://36kr.com/p/1788828820353668)
+   一群不满字节跳动的 A-Soul 粉丝，正在“重塑 A-Soul” [read](https://36kr.com/p/1783129956929155)
 
-   焦点分析｜多条业务线大裁撤，字节教育回到孵化状态 [read](https://36kr.com/p/1789814950359432)
+   被罚1.08亿的主播，没人听说过 [read](https://36kr.com/p/1791409275813255)
 
    NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    3D视频会议系统VirtualCube：相隔万里也如近在咫尺般身临其境 [read](https://www.msra.cn/zh-cn/news/features/virtualcube)
 
+   谷歌 AI 没有觉醒，科幻电影走不进现实 [read](http://www.geekpark.net/news/303889)
+
+   比特币跌破两万美元关口；京东 618 下单金额 3793 亿元；巴菲特「最后午餐」拍出 1900 万美元 [read](http://www.geekpark.net/news/304002)
+
    抖快淘小心，视频号来了 [read](http://www.geekpark.net/news/304000)
-
-   马斯克聊推特：学微信才能 10 亿日活；字节解散上海游戏工作室；京东开始考察外卖业务 [read](http://www.geekpark.net/news/303998)
-
-   贾跃亭 PPT 的威力，美国人终于见识了 [read](http://www.geekpark.net/news/303908)
 
 ### 金融类
 
-   月涨44%，新东方带火了教育ETF！ [read](http://xueqiu.com/4579887327/222836145)
+   我的盈利基金清单 [read](http://xueqiu.com/8653750491/223041310)
 
-   过去五年业绩优秀且有自购的百亿基金经理 [read](http://xueqiu.com/5679199459/222878712)
+   浅谈稀缺的酒ETF512690和中证酒指数的投资价值 [read](http://xueqiu.com/2443086428/223048608)
 
-   投资消费行业指数基金，看这一篇就够了 [read](http://xueqiu.com/2356382715/222895062)
+   股票与实业 [read](http://xueqiu.com/8094080648/223037717)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Duceppe - Campagne 2022-23 [read](https://www.behance.net/gallery/146008813/Duceppe-Campagne-2022-23)
+   TV Heads (Procedural Test) [read](https://www.behance.net/gallery/146272547/TV-Heads-%28Procedural-Test%29)
 
-   Nostalgia For The Future [read](https://www.behance.net/gallery/146223671/Nostalgia-For-The-Future)
+   Jidu [read](https://www.behance.net/gallery/145555059/Jidu)
 
-   Linktree [read](https://www.behance.net/gallery/146097989/Linktree)
+   Blue and Nata [read](https://www.behance.net/gallery/145854237/Blue-and-Nata)
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
