@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Cassowary_EN-US8797645265_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SwallowtailFlower_EN-US6952825144_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   废除购置税，你就会买车吗？ [read](http://www.huxiu.com/article/585833.html?f=wangzhan)
+   改名等于改命？科技巨头更名背后的三大定律 [read](http://www.huxiu.com/article/586428.html?f=wangzhan)
 
-   吉利做手机，魅族造汽车？吉利魅族能否白头偕老？ [read](http://www.huxiu.com/article/585359.html?f=wangzhan)
+   国产汽车的崛起：从产量为零到全球产量第一 [read](http://www.huxiu.com/article/586457.html?f=wangzhan)
 
-   《梦华录》的傲慢：假圣女与真名妓 [read](http://www.huxiu.com/article/585696.html?f=wangzhan)
+   是什么样的电动车企，上市1年就破产？ [read](http://www.huxiu.com/article/586431.html?f=wangzhan)
 
-   IPO留言板 \| 瑞泰新材挂牌创业板；天齐锂业港交所上市获批准；中证协进一步健全保荐机构执业专业标准 [read](https://36kr.com/p/1791333239045764)
+   10%的生意人正在抓住的时代机遇是什么？ [read](https://36kr.com/p/1793420459245577)
 
-   一群不满字节跳动的 A-Soul 粉丝，正在“重塑 A-Soul” [read](https://36kr.com/p/1783129956929155)
+   海外news things丨商业贷款服务公司「Able」获2000万美元A轮融资，称当前为拓展市场最佳时机 [read](https://36kr.com/p/1792301113245319)
 
-   被罚1.08亿的主播，没人听说过 [read](https://36kr.com/p/1791409275813255)
+   海外news things丨网络安全服务公司「RapidFort」获850万美元种子轮融资，专注于APP服务器安全维护 [read](https://36kr.com/p/1792257661845127)
 
    NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    3D视频会议系统VirtualCube：相隔万里也如近在咫尺般身临其境 [read](https://www.msra.cn/zh-cn/news/features/virtualcube)
 
+   电影票「不退不改」，售票网站被罚 8000 元；新东方 5 万高薪聘请双语主播；苹果 iOS 16 系统内置机器人 [read](http://www.geekpark.net/news/304004)
+
    谷歌 AI 没有觉醒，科幻电影走不进现实 [read](http://www.geekpark.net/news/303889)
 
    比特币跌破两万美元关口；京东 618 下单金额 3793 亿元；巴菲特「最后午餐」拍出 1900 万美元 [read](http://www.geekpark.net/news/304002)
 
-   抖快淘小心，视频号来了 [read](http://www.geekpark.net/news/304000)
-
 ### 金融类
 
-   我的盈利基金清单 [read](http://xueqiu.com/8653750491/223041310)
+   国企资产证券化三种主要方式 [read](http://xueqiu.com/4183717273/223045156)
 
-   浅谈稀缺的酒ETF512690和中证酒指数的投资价值 [read](http://xueqiu.com/2443086428/223048608)
+   家电的反转与未来 [read](http://xueqiu.com/7516820417/223136157)
 
-   股票与实业 [read](http://xueqiu.com/8094080648/223037717)
+   宏观经济政策和个人投资的关系 [read](http://xueqiu.com/9243653052/223141938)
 
 ### 学习类
 
@@ -128,17 +128,17 @@ title: "今日资讯"
 
 ### 设计类
 
-   TV Heads (Procedural Test) [read](https://www.behance.net/gallery/146272547/TV-Heads-%28Procedural-Test%29)
+   Tokyo Tracks / Official Olympics 21 Documentary [read](https://www.behance.net/gallery/145044367/Tokyo-Tracks-Official-Olympics-21-Documentary)
 
-   Jidu [read](https://www.behance.net/gallery/145555059/Jidu)
+   The Snow - The Palace Museum [read](https://www.behance.net/gallery/136311997/The-Snow-The-Palace-Museum)
 
-   Blue and Nata [read](https://www.behance.net/gallery/145854237/Blue-and-Nata)
+   BASE NYC [read](https://www.behance.net/gallery/146025421/BASE-NYC)
+
+   Meet This Month’s Guest Curator: AJ Jefferies [read](https://medium.com/behance-blog/meet-this-months-guest-curator-aj-jeffries-df95220b780f?source=rss-f5272b7f3182------2)
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
    Meet This Month’s Guest Curator: Lucas Camargo of Untitled Army [read](https://medium.com/behance-blog/meet-this-months-guest-curator-lucas-camargo-of-untitled-army-3592b70bdbc3?source=rss-f5272b7f3182------2)
-
-   A New Home for the Behance Blog [read](https://medium.com/behance-blog/a-new-home-for-the-behance-blog-8261c8e49c2b?source=rss-f5272b7f3182------2)
 
    Introducing new ways for advertisers and creators to inspire with Idea ads [read](https://newsroom.pinterest.com/en/post/introducing-new-ways-for-advertisers-and-creators-to-inspire-with-idea-ads)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Knit Con 2022: Taking Inspiration to Realization for our Employees [read](https://newsroom.pinterest.com/en/post/knit-con-2022-taking-inspiration-to-realization-for-our-employees)
 
-   这 5 款工具，让设计师工作效率提升 200%！（七） [read](https://www.uisdc.com/5-practical-software-7)
+   菜鸟设计师化身「梦想改造家」，24小时打造全新驿站 [read](https://www.uisdc.com/cainiao-yizhan-design)
 
-   想用网页版Photoshop？这2个免费在线工具就很不错！ [read](https://www.uisdc.com/free-online-tools)
+   腾讯出品！2022-2023 设计趋势报告：协作产品篇 [read](https://www.uisdc.com/online-collaboration)
 
-   全新的 iOS 16 锁屏设计，我总结了这10个功能要点！ [read](https://www.uisdc.com/ios-16-lock-screen)
+   用一个公式，从3个方面教你搞定场景化设计 [read](https://www.uisdc.com/design-of-scene)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
