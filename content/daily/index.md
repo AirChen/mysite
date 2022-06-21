@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SwallowtailFlower_EN-US6952825144_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GlastonburySolstice_EN-US7196057692_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,12 +48,6 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
-   \[原\]A/B 测试助力游戏业务增长 [read](https://blog.csdn.net/ByteDanceTech/article/details/125342531)
-
-   \[原\]2022 春节抖音视频红包系统设计与实现 [read](https://blog.csdn.net/ByteDanceTech/article/details/125342256)
-
-   \[原\]通过 Goyacc 构建 Elasticsearch Querystring 解析器 - 领域特定语言语法分析实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125325930)
-
    端智能在大众点评搜索重排序的应用实践 [read](https://tech.meituan.com/2022/06/16/edge-search-rerank.html)
 
    美团综合业务推荐系统的质量模型及实践 [read](https://tech.meituan.com/2022/06/16/recommendation-system-quality-model.html)
@@ -68,17 +62,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   改名等于改命？科技巨头更名背后的三大定律 [read](http://www.huxiu.com/article/586428.html?f=wangzhan)
+   46万的理想，也配对标百万奔驰宝马？ [read](http://www.huxiu.com/article/587630.html?f=wangzhan)
 
-   国产汽车的崛起：从产量为零到全球产量第一 [read](http://www.huxiu.com/article/586457.html?f=wangzhan)
+   现在的年轻人，到底怎样才愿意生？ [read](http://www.huxiu.com/article/587687.html?f=wangzhan)
 
-   是什么样的电动车企，上市1年就破产？ [read](http://www.huxiu.com/article/586431.html?f=wangzhan)
+   没有一个技术宅，可以抵挡“造火箭”的诱惑 [read](http://www.huxiu.com/article/586819.html?f=wangzhan)
 
-   10%的生意人正在抓住的时代机遇是什么？ [read](https://36kr.com/p/1793420459245577)
+   薇诺娜的功效性护肤破圈之路 [read](https://36kr.com/p/1794752983023617)
 
-   海外news things丨商业贷款服务公司「Able」获2000万美元A轮融资，称当前为拓展市场最佳时机 [read](https://36kr.com/p/1792301113245319)
+   最前线 \| 腾讯视频公布新一年片单，《三体》第二支全新预告片出炉 [read](https://36kr.com/p/1794595223928840)
 
-   海外news things丨网络安全服务公司「RapidFort」获850万美元种子轮融资，专注于APP服务器安全维护 [read](https://36kr.com/p/1792257661845127)
+   西部赛区“三强”诞生，展现西部工业互联网标识创新应用新风貌 \| 首届中国工业互联网标识创新应用大赛 [read](https://36kr.com/p/1794648264261637)
 
    NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
 
@@ -86,19 +80,19 @@ title: "今日资讯"
 
    3D视频会议系统VirtualCube：相隔万里也如近在咫尺般身临其境 [read](https://www.msra.cn/zh-cn/news/features/virtualcube)
 
-   电影票「不退不改」，售票网站被罚 8000 元；新东方 5 万高薪聘请双语主播；苹果 iOS 16 系统内置机器人 [read](http://www.geekpark.net/news/304004)
+   独家｜爆视频号正接触董宇辉，抖音栽树，腾讯乘凉？ [read](http://www.geekpark.net/news/304148)
 
-   谷歌 AI 没有觉醒，科幻电影走不进现实 [read](http://www.geekpark.net/news/303889)
+   如何用 AI 帮助「渐冻症」，「商汤」有一些新想法 [read](http://www.geekpark.net/news/304105)
 
-   比特币跌破两万美元关口；京东 618 下单金额 3793 亿元；巴菲特「最后午餐」拍出 1900 万美元 [read](http://www.geekpark.net/news/304002)
+   腾讯「清仓式」减持新东方在线，套现 7 亿港元；苹果在华招聘汽车软件工程师；世界上第一个真正的赛博格宣告死亡｜极客早知道 [read](http://www.geekpark.net/news/304081)
 
 ### 金融类
 
-   国企资产证券化三种主要方式 [read](http://xueqiu.com/4183717273/223045156)
+   阿哲参加股东大会见闻——同仁堂-千亿中药航母行稳致远 [read](http://xueqiu.com/9022396617/223203007)
 
-   家电的反转与未来 [read](http://xueqiu.com/7516820417/223136157)
+   未来十年，资产最值得配置的十大行业！ [read](http://xueqiu.com/2496980475/223198596)
 
-   宏观经济政策和个人投资的关系 [read](http://xueqiu.com/9243653052/223141938)
+   息差收窄，哪些银行会穿越周期 [read](http://xueqiu.com/1642562749/223119143)
 
 ### 学习类
 
@@ -128,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Tokyo Tracks / Official Olympics 21 Documentary [read](https://www.behance.net/gallery/145044367/Tokyo-Tracks-Official-Olympics-21-Documentary)
+   Samsung Galaxy Studio in My Hand [read](https://www.behance.net/gallery/146239535/Samsung-Galaxy-Studio-in-My-Hand)
 
-   The Snow - The Palace Museum [read](https://www.behance.net/gallery/136311997/The-Snow-The-Palace-Museum)
+   XXL - Loyalty Program XXL Reward [read](https://www.behance.net/gallery/146117369/XXL-Loyalty-Program-XXL-Reward)
 
-   BASE NYC [read](https://www.behance.net/gallery/146025421/BASE-NYC)
+   Cosmic Planta [read](https://www.behance.net/gallery/146179969/Cosmic-Planta)
 
    Meet This Month’s Guest Curator: AJ Jefferies [read](https://medium.com/behance-blog/meet-this-months-guest-curator-aj-jeffries-df95220b780f?source=rss-f5272b7f3182------2)
 
@@ -146,11 +140,11 @@ title: "今日资讯"
 
    Knit Con 2022: Taking Inspiration to Realization for our Employees [read](https://newsroom.pinterest.com/en/post/knit-con-2022-taking-inspiration-to-realization-for-our-employees)
 
-   菜鸟设计师化身「梦想改造家」，24小时打造全新驿站 [read](https://www.uisdc.com/cainiao-yizhan-design)
+   第三波！2022年6月精选实用设计干货合集 [read](https://www.uisdc.com/2022-6-design-resources-vol3)
 
-   腾讯出品！2022-2023 设计趋势报告：协作产品篇 [read](https://www.uisdc.com/online-collaboration)
+   这10个顶尖大神的作品，是我每日学习的源泉 [read](https://www.uisdc.com/10-c4d-illustration-designer)
 
-   用一个公式，从3个方面教你搞定场景化设计 [read](https://www.uisdc.com/design-of-scene)
+   腾讯实战案例！QQ社交形象年度盘点的设计密码 [read](https://www.uisdc.com/qq-social-image-design)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
