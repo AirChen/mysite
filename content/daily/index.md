@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AmazonianEcuador_EN-US0278717095_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MostarBridge_EN-US7365620237_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]抖音支付十万级 TPS 流量发券实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125419247)
+
    \[原\]字节跳动开源 Go HTTP 框架 Hertz 设计实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125401537)
 
    \[原\]西瓜视频 iOS 播放器技术重构 [read](https://blog.csdn.net/ByteDanceTech/article/details/125383252)
-
-   \[原\]A/B 测试助力游戏业务增长 [read](https://blog.csdn.net/ByteDanceTech/article/details/125342531)
 
    端智能在大众点评搜索重排序的应用实践 [read](https://tech.meituan.com/2022/06/16/edge-search-rerank.html)
 
@@ -68,51 +68,51 @@ title: "今日资讯"
 
 ### 互联网类
 
-   ABS不止能刹车，它还有个非常实用的功能 [read](http://www.huxiu.com/article/588782.html?f=wangzhan)
+   7年前奔驰就有的功能，也许能救蔚来坠楼试车员的命 [read](http://www.huxiu.com/article/590030.html?f=wangzhan)
 
-   能否给暑期档一个百亿？ [read](http://www.huxiu.com/article/588427.html?f=wangzhan)
+   500万内“最好”的车，在中国没能火起来 [read](http://www.huxiu.com/article/589252.html?f=wangzhan)
 
-   从马桶进化史参透人类文明史：古人的如厕文化 [read](http://www.huxiu.com/article/588430.html?f=wangzhan)
+   从小被灌输的思想，就一定对吗？ [read](http://www.huxiu.com/article/589086.html?f=wangzhan)
 
-   我，北京人，越南创业三年，目睹河内地价三年翻三倍 [read](https://36kr.com/p/1796238820901634)
+   最前线｜上海一辆蔚来测试车坠楼，两名试车员送医后身亡 [read](https://36kr.com/p/1797540134241025)
 
-   70天套现80亿 远洋集团否认流动性存忧 [read](https://36kr.com/p/1796121761366793)
+   氪星晚报｜蔚来汽车被曝冲出总部大楼坠落；扎克伯格宣布Facebook支付服务更名，计划打造元宇宙钱包；大众CEO：对苹果造车持怀疑态度 [read](https://36kr.com/p/1797524003045892)
 
-   最前线 \| Meta下调 VR 销量预测40%？行业人士：消息不准确 [read](https://36kr.com/p/1796068640571657)
+   内外环境巨变之下，企业如何穿越资本寒冬？丨CEO锦囊Vol.5 [read](https://36kr.com/p/1797374170809090)
+
+   渣画质视频秒变清晰，“达芬奇”工具集帮你自动搞定 [read](https://www.msra.cn/zh-cn/news/features/davinci)
 
    CVPR 2022 \| 一键解锁微软亚洲研究院计算机视觉领域前沿进展! [read](https://www.msra.cn/zh-cn/news/features/cvpr-2022)
 
    NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
 
-   ACL 2022 \| NLP领域最新热门研究，你一定不能错过！ [read](https://www.msra.cn/zh-cn/news/features/acl-2022)
+   Meta 出货量削减 300 万台，元宇宙要碰到天花板了吗 [read](http://www.geekpark.net/news/304260)
 
-   李想：L9 销量肯定稳超理想 ONE [read](http://www.geekpark.net/news/304201)
+   元宇宙由虚入实第一动力，竟然是「买买买」和「逛逛逛」 [read](http://www.geekpark.net/news/304207)
 
-   游戏订阅，救不了微软和索尼的「主机危机」 [read](http://www.geekpark.net/news/304162)
-
-   董事会拍板，建议股东批准马斯克收购推特；抖音获 2022 世界杯转播权；《三体》国产剧曝光海报 [read](http://www.geekpark.net/news/304152)
+   视频号：主播无专业资质，将封号掐直播；传 Meta 下调 VR 出货量，歌尔股价闪崩；苹果开通官方抖音账号 [read](http://www.geekpark.net/news/304206)
 
 ### 金融类
 
-   别用TTM口径计算股息率 [read](http://xueqiu.com/1340904670/223267855)
+   中证1000将推期货期权，是机会还是风险？ [read](http://xueqiu.com/2245748859/223454182)
 
-   以资本开支的视角看待商品大周期 [read](http://xueqiu.com/9488028880/223252727)
+   2022年平均猪价及牧原利润预测 [read](http://xueqiu.com/8418018079/223461673)
 
-   有趣的“懒人”资产配置实践 [read](http://xueqiu.com/2356382715/223299596)
+   这届直播节，不太一样！ [read](http://xueqiu.com/9243245648/223388577)
 
 ### 学习类
+
+   💻 Issue 313 - Rust tops StackOverflow Survey 2022 as the most loved language for the 7th year. [read](https://rust.libhunt.com/newsletter/313)
 
    💻 Issue 312 - The Rust borrow checker just got (a little bit) smarter [read](https://rust.libhunt.com/newsletter/312)
 
    💻 Issue 311 - Rust is hard, or: The misery of mainstream programming [read](https://rust.libhunt.com/newsletter/311)
 
-   💻 Issue 310 - The curse of strong typing by fasterthanlime [read](https://rust.libhunt.com/newsletter/310)
+   This Week in Rust 448 [read](https://this-week-in-rust.org/blog/2022/06/22/this-week-in-rust-448/)
 
    This Week in Rust 447 [read](https://this-week-in-rust.org/blog/2022/06/15/this-week-in-rust-447/)
 
    This Week in Rust 446 [read](https://this-week-in-rust.org/blog/2022/06/08/this-week-in-rust-446/)
-
-   This Week in Rust 445 [read](https://this-week-in-rust.org/blog/2022/06/01/this-week-in-rust-445/)
 
    ETCD的内存问题 [read](https://coolshell.cn/articles/22242.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Client Works 20-21 [read](https://www.behance.net/gallery/146494563/Client-Works-20-21)
+   Maldivas Netflix Brazil [read](https://www.behance.net/gallery/146066837/Maldivas-Netflix-Brazil)
 
-   Árbol [read](https://www.behance.net/gallery/145948871/Arbol)
+   ED 22 V [read](https://www.behance.net/gallery/146563347/ED-22-V)
 
-   Footlocker EU [read](https://www.behance.net/gallery/146492965/Footlocker-EU)
+   24 Solar Terms Typography24??????(2022) [read](https://www.behance.net/gallery/146562549/24-Solar-Terms-Typography24%282022%29)
 
    Meet This Month’s Guest Curator: AJ Jefferies [read](https://medium.com/behance-blog/meet-this-months-guest-curator-aj-jeffries-df95220b780f?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Knit Con 2022: Taking Inspiration to Realization for our Employees [read](https://newsroom.pinterest.com/en/post/knit-con-2022-taking-inspiration-to-realization-for-our-employees)
 
-   在线协同工具蓝湖正式入驻钉钉开放平台，共同赋能“一站式办公”模式 [read](https://www.uisdc.com/lanhu-dingding-2022)
+   艺术家 Jae Solina 在本周“NVIDIA Studio 创意加速”中，分享其独特 3D 创意工作流 [read](https://www.uisdc.com/jae-solina-2022)
 
-   超燃！2022广汽设计大赛全球30强诞生，“最佳人气奖”等你来投票 [read](https://www.uisdc.com/gac-vote-2022)
+   5个经典的付费英文字体，我们都帮你找到了免费可商用替代款！（二） [read](https://www.uisdc.com/commercially-available-english-font-2)
 
-   对话罗元：揭秘2万多个「小人」的创作过程 [read](https://www.uisdc.com/luoyuan-interview)
+   从 4 个方面，总结 B 端表单的交互设计细节 [read](https://www.uisdc.com/form-interaction)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
