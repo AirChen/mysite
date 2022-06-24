@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MostarBridge_EN-US7365620237_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CenoteDiver_EN-US7458460864_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 210 期）：为什么软件变得复杂 [read](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html)
+   科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP [read](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html)
 
-   科技爱好者周刊（第 209 期）：程序员是怎样的人 [read](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html)
+   科技爱好者周刊（第 210 期）：为什么软件变得复杂 [read](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html)
 
    给 ECS 增加分组功能 [read](https://blog.codingnow.com/2022/06/ecs_group.html)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 452 期 [read](https://weekly.75.team/issue452.html)
+
    奇舞周刊第 451 期 [read](https://weekly.75.team/issue451.html)
 
    奇舞周刊第 450 期 [read](https://weekly.75.team/issue450.html)
-
-   奇舞周刊第 449 期 [read](https://weekly.75.team/issue449.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -48,17 +48,17 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]融合模型权限管理设计方案 [read](https://blog.csdn.net/ByteDanceTech/article/details/125437591)
+
    \[原\]抖音支付十万级 TPS 流量发券实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125419247)
 
    \[原\]字节跳动开源 Go HTTP 框架 Hertz 设计实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125401537)
 
-   \[原\]西瓜视频 iOS 播放器技术重构 [read](https://blog.csdn.net/ByteDanceTech/article/details/125383252)
+   CVPR 2022 \| 美团技术团队精选论文解读 [read](https://tech.meituan.com/2022/06/23/cvpr-2022-meituan.html)
+
+   YOLOv6：又快又准的目标检测框架开源啦 [read](https://tech.meituan.com/2022/06/23/yolov6-a-fast-and-accurate-target-detection-framework-is-opening-source.html)
 
    端智能在大众点评搜索重排序的应用实践 [read](https://tech.meituan.com/2022/06/16/edge-search-rerank.html)
-
-   美团综合业务推荐系统的质量模型及实践 [read](https://tech.meituan.com/2022/06/16/recommendation-system-quality-model.html)
-
-   数据库全量SQL分析与审计系统性能优化之旅 [read](https://tech.meituan.com/2022/06/09/the-route-of-database-get-audit-sql-optimize.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   7年前奔驰就有的功能，也许能救蔚来坠楼试车员的命 [read](http://www.huxiu.com/article/590030.html?f=wangzhan)
+   一个前提，三个关键，从“古代驿站”透视“东数西算” [read](http://www.huxiu.com/article/590834.html?f=wangzhan)
 
-   500万内“最好”的车，在中国没能火起来 [read](http://www.huxiu.com/article/589252.html?f=wangzhan)
+   39.9进门拍写真，信用卡刷爆走出来 [read](http://www.huxiu.com/article/590964.html?f=wangzhan)
 
-   从小被灌输的思想，就一定对吗？ [read](http://www.huxiu.com/article/589086.html?f=wangzhan)
+   买下希尔顿，威胁史玉柱，“小宁波”郁国祥究竟是谁？ [read](http://www.huxiu.com/article/590841.html?f=wangzhan)
 
-   最前线｜上海一辆蔚来测试车坠楼，两名试车员送医后身亡 [read](https://36kr.com/p/1797540134241025)
+   一次性实现六大高危癌症早筛，多癌种早筛产品「全思宁」上市 [read](https://36kr.com/p/1799001942852617)
 
-   氪星晚报｜蔚来汽车被曝冲出总部大楼坠落；扎克伯格宣布Facebook支付服务更名，计划打造元宇宙钱包；大众CEO：对苹果造车持怀疑态度 [read](https://36kr.com/p/1797524003045892)
+   氪星晚报｜腾讯公布“车云一体化”战略布局；天猫618期间商品消费减碳超15.3万吨；茅台退出白金酒公司股东；金柚网发布HR SaaS+AI新产品“梧桐范式”； [read](https://36kr.com/p/1799030153659648)
 
-   内外环境巨变之下，企业如何穿越资本寒冬？丨CEO锦囊Vol.5 [read](https://36kr.com/p/1797374170809090)
+   新消费品牌的2022：回归本质与挖掘新机 [read](https://36kr.com/p/1798907074348294)
 
    渣画质视频秒变清晰，“达芬奇”工具集帮你自动搞定 [read](https://www.msra.cn/zh-cn/news/features/davinci)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
 
-   Meta 出货量削减 300 万台，元宇宙要碰到天花板了吗 [read](http://www.geekpark.net/news/304260)
+   被「热捧」的词典笔，背后藏着「教育公平」的理想 [read](http://www.geekpark.net/news/304041)
 
-   元宇宙由虚入实第一动力，竟然是「买买买」和「逛逛逛」 [read](http://www.geekpark.net/news/304207)
+   现在，网剧都这么会「玩」了吗？ [read](http://www.geekpark.net/news/304261)
 
-   视频号：主播无专业资质，将封号掐直播；传 Meta 下调 VR 出货量，歌尔股价闪崩；苹果开通官方抖音账号 [read](http://www.geekpark.net/news/304206)
+   Mirror，想把内容创作者怎样带进 Web3？ [read](http://www.geekpark.net/news/304225)
 
 ### 金融类
 
-   中证1000将推期货期权，是机会还是风险？ [read](http://xueqiu.com/2245748859/223454182)
+   上半年基金调研一览：窥视基金经理的动向 [read](http://xueqiu.com/8915001532/223564371)
 
-   2022年平均猪价及牧原利润预测 [read](http://xueqiu.com/8418018079/223461673)
+   我的亏损检讨书 [read](http://xueqiu.com/7104920967/223559292)
 
-   这届直播节，不太一样！ [read](http://xueqiu.com/9243245648/223388577)
+   上市公司破产重整专题分析——债务分析 [read](http://xueqiu.com/3949100611/223482719)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Maldivas Netflix Brazil [read](https://www.behance.net/gallery/146066837/Maldivas-Netflix-Brazil)
+   Diamett [read](https://www.behance.net/gallery/146672719/Diamett)
 
-   ED 22 V [read](https://www.behance.net/gallery/146563347/ED-22-V)
+   METAVERSE 4.0 [read](https://www.behance.net/gallery/146633033/METAVERSE-40)
 
-   24 Solar Terms Typography24??????(2022) [read](https://www.behance.net/gallery/146562549/24-Solar-Terms-Typography24%282022%29)
+   Neutral Urban Packing Collection ?? to Define 20-21 [read](https://www.behance.net/gallery/138370739/Neutral-Urban-Packing-Collection-to-Define-20-21)
 
    Meet This Month’s Guest Curator: AJ Jefferies [read](https://medium.com/behance-blog/meet-this-months-guest-curator-aj-jeffries-df95220b780f?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Knit Con 2022: Taking Inspiration to Realization for our Employees [read](https://newsroom.pinterest.com/en/post/knit-con-2022-taking-inspiration-to-realization-for-our-employees)
 
-   艺术家 Jae Solina 在本周“NVIDIA Studio 创意加速”中，分享其独特 3D 创意工作流 [read](https://www.uisdc.com/jae-solina-2022)
+   想做好可用性测试？5个人就够了！ [read](https://www.uisdc.com/usability-testing-with-5-users)
 
-   5个经典的付费英文字体，我们都帮你找到了免费可商用替代款！（二） [read](https://www.uisdc.com/commercially-available-english-font-2)
+   如何让按钮转化率更高？收下这7条微文案建议！ [read](https://www.uisdc.com/7-tips-improve-microcopy)
 
-   从 4 个方面，总结 B 端表单的交互设计细节 [read](https://www.uisdc.com/form-interaction)
+   用一篇文章，帮你认识 B 端交互的页面、浮层、弹窗和抽屉 [read](https://www.uisdc.com/b-end-interaction)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
