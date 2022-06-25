@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CenoteDiver_EN-US7458460864_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BBMomCub_EN-US7553314922_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   一个前提，三个关键，从“古代驿站”透视“东数西算” [read](http://www.huxiu.com/article/590834.html?f=wangzhan)
+   微信上车趋缓，腾讯选择“云造车” [read](http://www.huxiu.com/article/590461.html?f=wangzhan)
 
-   39.9进门拍写真，信用卡刷爆走出来 [read](http://www.huxiu.com/article/590964.html?f=wangzhan)
+   全网“最败家”画家何水晶：天赋是不遗余力的热爱 [read](http://www.huxiu.com/article/588772.html?f=wangzhan)
 
-   买下希尔顿，威胁史玉柱，“小宁波”郁国祥究竟是谁？ [read](http://www.huxiu.com/article/590841.html?f=wangzhan)
+   美国围剿，日欧着急，云计算为什么重要？ [read](http://www.huxiu.com/article/590996.html?f=wangzhan)
 
-   一次性实现六大高危癌症早筛，多癌种早筛产品「全思宁」上市 [read](https://36kr.com/p/1799001942852617)
+   互联网头部企业退租面积超5万平 北京上半年出现退租潮 [read](https://36kr.com/p/1800196220519686)
 
-   氪星晚报｜腾讯公布“车云一体化”战略布局；天猫618期间商品消费减碳超15.3万吨；茅台退出白金酒公司股东；金柚网发布HR SaaS+AI新产品“梧桐范式”； [read](https://36kr.com/p/1799030153659648)
+   奈雪还在亏钱，它的供应商却赚钱上市了｜IPO观察 [read](https://36kr.com/p/1799830751823106)
 
-   新消费品牌的2022：回归本质与挖掘新机 [read](https://36kr.com/p/1798907074348294)
+   趋势雷达｜行业流行力——《新锐美妆种草看点》 [read](https://36kr.com/p/1798662162531591)
 
    渣画质视频秒变清晰，“达芬奇”工具集帮你自动搞定 [read](https://www.msra.cn/zh-cn/news/features/davinci)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
 
+   监管对知网采取网络安全审查；IBM 研发「电子舌头」，可尝出假酒；「权游」作者马丁证实正在制作《雪诺》剧集 \| 极客早知道 [read](http://www.geekpark.net/news/304327)
+
    被「热捧」的词典笔，背后藏着「教育公平」的理想 [read](http://www.geekpark.net/news/304041)
 
    现在，网剧都这么会「玩」了吗？ [read](http://www.geekpark.net/news/304261)
 
-   Mirror，想把内容创作者怎样带进 Web3？ [read](http://www.geekpark.net/news/304225)
-
 ### 金融类
 
-   上半年基金调研一览：窥视基金经理的动向 [read](http://xueqiu.com/8915001532/223564371)
+   为什么很多人不敢买中海油？ [read](http://xueqiu.com/6700029114/223623956)
 
-   我的亏损检讨书 [read](http://xueqiu.com/7104920967/223559292)
+   折价抛售35亿！格力电器二股东跑路了 [read](http://xueqiu.com/7318086163/223595028)
 
-   上市公司破产重整专题分析——债务分析 [read](http://xueqiu.com/3949100611/223482719)
+   这12只新能源权益基金到底有何差异 [read](http://xueqiu.com/9333035501/223574329)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Diamett [read](https://www.behance.net/gallery/146672719/Diamett)
+   40th Rendez-vous Québec Cinéma [read](https://www.behance.net/gallery/146519261/40th-Rendez-vous-Qubec-Cinma)
 
-   METAVERSE 4.0 [read](https://www.behance.net/gallery/146633033/METAVERSE-40)
+   Various illustrations 2021-22 [read](https://www.behance.net/gallery/146716537/Various-illustrations-2021-22)
 
-   Neutral Urban Packing Collection ?? to Define 20-21 [read](https://www.behance.net/gallery/138370739/Neutral-Urban-Packing-Collection-to-Define-20-21)
+   Komptech - Branding [read](https://www.behance.net/gallery/146726375/Komptech-Branding)
 
    Meet This Month’s Guest Curator: AJ Jefferies [read](https://medium.com/behance-blog/meet-this-months-guest-curator-aj-jeffries-df95220b780f?source=rss-f5272b7f3182------2)
 
@@ -146,15 +146,9 @@ title: "今日资讯"
 
    Knit Con 2022: Taking Inspiration to Realization for our Employees [read](https://newsroom.pinterest.com/en/post/knit-con-2022-taking-inspiration-to-realization-for-our-employees)
 
+   如何提升页面还原度？我总结了这4个方法！ [read](https://www.uisdc.com/promotion-page-restore)
+
    想做好可用性测试？5个人就够了！ [read](https://www.uisdc.com/usability-testing-with-5-users)
 
    如何让按钮转化率更高？收下这7条微文案建议！ [read](https://www.uisdc.com/7-tips-improve-microcopy)
-
-   用一篇文章，帮你认识 B 端交互的页面、浮层、弹窗和抽屉 [read](https://www.uisdc.com/b-end-interaction)
-
-   CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
-
-   主旋“绿”｜六一&十六 [read](https://cdc.tencent.com/2022/06/07/%e4%b8%bb%e6%97%8b%e7%bb%bf%ef%bd%9c%e5%85%ad%e4%b8%80%e5%8d%81%e5%85%ad/)
-
-   CDC夜校回顾NO.24｜从实习生角度看体验设计工具、20世纪初西方基督教是如何对中国社会进行调查研究的 [read](https://cdc.tencent.com/2022/06/06/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-24%ef%bd%9c%e4%bb%8e%e5%ae%9e%e4%b9%a0%e7%94%9f%e8%a7%92%e5%ba%a6%e7%9c%8b%e4%bd%93%e9%aa%8c%e8%ae%be%e8%ae%a1%e5%b7%a5%e5%85%b7%e3%80%8120%e4%b8%96%e7%ba%aa/)
 
