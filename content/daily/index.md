@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BBMomCub_EN-US7553314922_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Pride2022_EN-US7651790852_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   微信上车趋缓，腾讯选择“云造车” [read](http://www.huxiu.com/article/590461.html?f=wangzhan)
+   长安、宁德时代、华为的身边，阿维塔坐不下 [read](http://www.huxiu.com/article/592274.html?f=wangzhan)
 
-   全网“最败家”画家何水晶：天赋是不遗余力的热爱 [read](http://www.huxiu.com/article/588772.html?f=wangzhan)
+   赚钱必码：从小白进阶有钱人的高分搞钱书单 [read](http://www.huxiu.com/article/591957.html?f=wangzhan)
 
-   美国围剿，日欧着急，云计算为什么重要？ [read](http://www.huxiu.com/article/590996.html?f=wangzhan)
+   即将超越Zara，千亿美金独角兽“Shein”是家怎样的公司？ [read](http://www.huxiu.com/article/591617.html?f=wangzhan)
+
+   智氪 \| 全球粮食危机下的机会：科创板第一股IPO正当时 [read](https://36kr.com/p/1800426389701634)
 
    互联网头部企业退租面积超5万平 北京上半年出现退租潮 [read](https://36kr.com/p/1800196220519686)
 
    奈雪还在亏钱，它的供应商却赚钱上市了｜IPO观察 [read](https://36kr.com/p/1799830751823106)
-
-   趋势雷达｜行业流行力——《新锐美妆种草看点》 [read](https://36kr.com/p/1798662162531591)
 
    渣画质视频秒变清晰，“达芬奇”工具集帮你自动搞定 [read](https://www.msra.cn/zh-cn/news/features/davinci)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
 
+   美国最高法院取消堕胎权；宁德时代研发新电池：凝聚态电池；「世界最深沉船」被发现 [read](http://www.geekpark.net/news/304332)
+
    监管对知网采取网络安全审查；IBM 研发「电子舌头」，可尝出假酒；「权游」作者马丁证实正在制作《雪诺》剧集 \| 极客早知道 [read](http://www.geekpark.net/news/304327)
 
    被「热捧」的词典笔，背后藏着「教育公平」的理想 [read](http://www.geekpark.net/news/304041)
 
-   现在，网剧都这么会「玩」了吗？ [read](http://www.geekpark.net/news/304261)
-
 ### 金融类
 
-   为什么很多人不敢买中海油？ [read](http://xueqiu.com/6700029114/223623956)
+   基金快回本了！要不要卖出？先看看这5个原则 [read](http://xueqiu.com/1843761023/223639575)
 
-   折价抛售35亿！格力电器二股东跑路了 [read](http://xueqiu.com/7318086163/223595028)
+   弱者体系中发挥优势——答谷樾兄 [read](http://xueqiu.com/1553799558/223640167)
 
-   这12只新能源权益基金到底有何差异 [read](http://xueqiu.com/9333035501/223574329)
+   广誉远2022股东大会参会有感 [read](http://xueqiu.com/1266879770/223621272)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   40th Rendez-vous Québec Cinéma [read](https://www.behance.net/gallery/146519261/40th-Rendez-vous-Qubec-Cinma)
+   goolf [read](https://www.behance.net/gallery/145659925/goolf)
 
-   Various illustrations 2021-22 [read](https://www.behance.net/gallery/146716537/Various-illustrations-2021-22)
+   Xbox 'Ara History Untold' [read](https://www.behance.net/gallery/146536761/Xbox-Ara-History-Untold)
 
-   Komptech - Branding [read](https://www.behance.net/gallery/146726375/Komptech-Branding)
+   URG Corporate Identity Development [read](https://www.behance.net/gallery/145117097/URG-Corporate-Identity-Development)
 
    Meet This Month’s Guest Curator: AJ Jefferies [read](https://medium.com/behance-blog/meet-this-months-guest-curator-aj-jeffries-df95220b780f?source=rss-f5272b7f3182------2)
 
