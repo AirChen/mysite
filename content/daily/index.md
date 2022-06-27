@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Pride2022_EN-US7651790852_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ValensoleLavender_EN-US7717234716_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   长安、宁德时代、华为的身边，阿维塔坐不下 [read](http://www.huxiu.com/article/592274.html?f=wangzhan)
+   干掉比亚迪，大众不用“电动帕萨特” [read](http://www.huxiu.com/article/593393.html?f=wangzhan)
 
-   赚钱必码：从小白进阶有钱人的高分搞钱书单 [read](http://www.huxiu.com/article/591957.html?f=wangzhan)
+   五块钱一支的雪糕，都算便宜？ [read](http://www.huxiu.com/article/592900.html?f=wangzhan)
 
-   即将超越Zara，千亿美金独角兽“Shein”是家怎样的公司？ [read](http://www.huxiu.com/article/591617.html?f=wangzhan)
+   耗时10天，我盯着AI“画”了一首音乐MV [read](http://www.huxiu.com/article/591475.html?f=wangzhan)
 
-   智氪 \| 全球粮食危机下的机会：科创板第一股IPO正当时 [read](https://36kr.com/p/1800426389701634)
+   当代年轻人的音乐喜好，竟暴露了感情状态？\| 2022年轻人音乐行为报告 [read](https://36kr.com/p/1803262145234177)
 
-   互联网头部企业退租面积超5万平 北京上半年出现退租潮 [read](https://36kr.com/p/1800196220519686)
+   氪星晚报丨腾讯申请光子宇宙商标；B站陈睿：2009年注册的B站用户依然有65%活跃；腾讯QQ回应大规模账号被盗：受影响范围已得到控制 [read](https://36kr.com/p/1803150118650885)
 
-   奈雪还在亏钱，它的供应商却赚钱上市了｜IPO观察 [read](https://36kr.com/p/1799830751823106)
+   世茂股份暂停拿地 物业出售回款将投资商业综合体 [read](https://36kr.com/p/1803104922960899)
 
    渣画质视频秒变清晰，“达芬奇”工具集帮你自动搞定 [read](https://www.msra.cn/zh-cn/news/features/davinci)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
 
+   在「元宇宙」里工作一周，是什么体验？ [read](http://www.geekpark.net/news/304331)
+
+   B 站 13 周年： 65% 初代用户仍活跃；特斯拉中国推出鼓励「油换电」活动；虚拟「中文梗博物馆」来了 [read](http://www.geekpark.net/news/304336)
+
    美国最高法院取消堕胎权；宁德时代研发新电池：凝聚态电池；「世界最深沉船」被发现 [read](http://www.geekpark.net/news/304332)
-
-   监管对知网采取网络安全审查；IBM 研发「电子舌头」，可尝出假酒；「权游」作者马丁证实正在制作《雪诺》剧集 \| 极客早知道 [read](http://www.geekpark.net/news/304327)
-
-   被「热捧」的词典笔，背后藏着「教育公平」的理想 [read](http://www.geekpark.net/news/304041)
 
 ### 金融类
 
-   基金快回本了！要不要卖出？先看看这5个原则 [read](http://xueqiu.com/1843761023/223639575)
+   Naspers/Prosus减持腾讯控股公告原文解读 [read](http://xueqiu.com/8108653112/223758287)
 
-   弱者体系中发挥优势——答谷樾兄 [read](http://xueqiu.com/1553799558/223640167)
+   2年之后还谈中远海控投资价值 [read](http://xueqiu.com/5310697058/223758038)
 
-   广誉远2022股东大会参会有感 [read](http://xueqiu.com/1266879770/223621272)
+   谁在A股重仓了比亚迪 [read](http://xueqiu.com/8095714138/223757179)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   goolf [read](https://www.behance.net/gallery/145659925/goolf)
+   Université de Lille - Brand design [read](https://www.behance.net/gallery/146952031/Universit-de-Lille-Brand-design)
 
-   Xbox 'Ara History Untold' [read](https://www.behance.net/gallery/146536761/Xbox-Ara-History-Untold)
+   SPACE SHOWER TV - Be dream Believer [read](https://www.behance.net/gallery/145339767/SPACE-SHOWER-TV-Be-dream-Believer)
 
-   URG Corporate Identity Development [read](https://www.behance.net/gallery/145117097/URG-Corporate-Identity-Development)
+   PARADISE [read](https://www.behance.net/gallery/127607637/PARADISE)
 
    Meet This Month’s Guest Curator: AJ Jefferies [read](https://medium.com/behance-blog/meet-this-months-guest-curator-aj-jeffries-df95220b780f?source=rss-f5272b7f3182------2)
 
@@ -146,9 +146,9 @@ title: "今日资讯"
 
    Knit Con 2022: Taking Inspiration to Realization for our Employees [read](https://newsroom.pinterest.com/en/post/knit-con-2022-taking-inspiration-to-realization-for-our-employees)
 
-   如何提升页面还原度？我总结了这4个方法！ [read](https://www.uisdc.com/promotion-page-restore)
+   用一篇文章，帮你了解 9 大书籍装帧工艺 [read](https://www.uisdc.com/book-binding-2022)
 
-   想做好可用性测试？5个人就够了！ [read](https://www.uisdc.com/usability-testing-with-5-users)
+   求职大厂被拒？腾讯高手总结了11条被拒的原因！ [read](https://www.uisdc.com/11-job-interview-advice)
 
-   如何让按钮转化率更高？收下这7条微文案建议！ [read](https://www.uisdc.com/7-tips-improve-microcopy)
+   超实用！设计师必看的5个可变字体资源网站 [read](https://www.uisdc.com/5-variable-fonts-websites)
 
