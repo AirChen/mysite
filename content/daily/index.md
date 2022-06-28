@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ValensoleLavender_EN-US7717234716_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.TafilaletOasis_EN-US7798050717_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]电影兑换券的推荐策略——二分图最优匹配算法 [read](https://blog.csdn.net/ByteDanceTech/article/details/125494542)
+
    \[原\]融合模型权限管理设计方案 [read](https://blog.csdn.net/ByteDanceTech/article/details/125437591)
 
    \[原\]抖音支付十万级 TPS 流量发券实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125419247)
-
-   \[原\]字节跳动开源 Go HTTP 框架 Hertz 设计实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125401537)
 
    CVPR 2022 \| 美团技术团队精选论文解读 [read](https://tech.meituan.com/2022/06/23/cvpr-2022-meituan.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   干掉比亚迪，大众不用“电动帕萨特” [read](http://www.huxiu.com/article/593393.html?f=wangzhan)
+   内容平台的下半场，一场从流量转向生态的持久战 [read](http://www.huxiu.com/article/594176.html?f=wangzhan)
 
-   五块钱一支的雪糕，都算便宜？ [read](http://www.huxiu.com/article/592900.html?f=wangzhan)
+   新东方直播带货，让农民更赚钱了吗？ [read](http://www.huxiu.com/article/593979.html?f=wangzhan)
 
-   耗时10天，我盯着AI“画”了一首音乐MV [read](http://www.huxiu.com/article/591475.html?f=wangzhan)
+   90后单身人群生活真相 [read](http://www.huxiu.com/article/593190.html?f=wangzhan)
 
-   当代年轻人的音乐喜好，竟暴露了感情状态？\| 2022年轻人音乐行为报告 [read](https://36kr.com/p/1803262145234177)
+   越智能越缺人：思贤若渴的智能制造（上）｜红利人物·圆桌 [read](https://36kr.com/p/1804575907431431)
 
-   氪星晚报丨腾讯申请光子宇宙商标；B站陈睿：2009年注册的B站用户依然有65%活跃；腾讯QQ回应大规模账号被盗：受影响范围已得到控制 [read](https://36kr.com/p/1803150118650885)
+   最前线 \| 腾讯汤道生：腾讯云将推出系列轻量化工具，降低开发门槛 [read](https://36kr.com/p/1804424326923271)
 
-   世茂股份暂停拿地 物业出售回款将投资商业综合体 [read](https://36kr.com/p/1803104922960899)
+   克洛诺斯完成中芯聚源独家投资近亿元B轮融资，专注高精密运动控制平台 [read](https://36kr.com/p/1804456560477447)
 
    渣画质视频秒变清晰，“达芬奇”工具集帮你自动搞定 [read](https://www.msra.cn/zh-cn/news/features/davinci)
 
@@ -86,11 +86,11 @@ title: "今日资讯"
 
    NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
 
+   「新贵」米哈游，被老金融圈上了一课 [read](http://www.geekpark.net/news/304440)
+
+   腾讯发布 12 款新游戏，《王者荣耀》版本更新；米哈游购买的 23 亿理财产品暴雷；NASA：停止拍卖吃过月尘的蟑螂｜极客早知道 [read](http://www.geekpark.net/news/304413)
+
    在「元宇宙」里工作一周，是什么体验？ [read](http://www.geekpark.net/news/304331)
-
-   B 站 13 周年： 65% 初代用户仍活跃；特斯拉中国推出鼓励「油换电」活动；虚拟「中文梗博物馆」来了 [read](http://www.geekpark.net/news/304336)
-
-   美国最高法院取消堕胎权；宁德时代研发新电池：凝聚态电池；「世界最深沉船」被发现 [read](http://www.geekpark.net/news/304332)
 
 ### 金融类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Université de Lille - Brand design [read](https://www.behance.net/gallery/146952031/Universit-de-Lille-Brand-design)
+   Visual Explorations [read](https://www.behance.net/gallery/146739027/Visual-Explorations)
 
-   SPACE SHOWER TV - Be dream Believer [read](https://www.behance.net/gallery/145339767/SPACE-SHOWER-TV-Be-dream-Believer)
+   Spain, Guest of Honour of the Frankfurt Bookfair [read](https://www.behance.net/gallery/146912427/Spain-Guest-of-Honour-of-the-Frankfurt-Bookfair)
 
-   PARADISE [read](https://www.behance.net/gallery/127607637/PARADISE)
+   Hong Kong Folk [read](https://www.behance.net/gallery/106185753/Hong-Kong-Folk)
 
    Meet This Month’s Guest Curator: AJ Jefferies [read](https://medium.com/behance-blog/meet-this-months-guest-curator-aj-jeffries-df95220b780f?source=rss-f5272b7f3182------2)
 
@@ -140,15 +140,15 @@ title: "今日资讯"
 
    Meet This Month’s Guest Curator: Lucas Camargo of Untitled Army [read](https://medium.com/behance-blog/meet-this-months-guest-curator-lucas-camargo-of-untitled-army-3592b70bdbc3?source=rss-f5272b7f3182------2)
 
+   Pinterest Appoints Bill Ready CEO; Co-Founder and CEO Ben Silbermann Transitions to Executive Chairman [read](https://newsroom.pinterest.com/en/post/CEO)
+
    Introducing new ways for advertisers and creators to inspire with Idea ads [read](https://newsroom.pinterest.com/en/post/introducing-new-ways-for-advertisers-and-creators-to-inspire-with-idea-ads)
 
    Pinterest and Tastemade partner on scaling creators, content and live streaming around the world [read](https://newsroom.pinterest.com/en/post/pinterest-and-tastemade-partner-on-scaling-creators-content-and-live-streaming-around-the)
 
-   Knit Con 2022: Taking Inspiration to Realization for our Employees [read](https://newsroom.pinterest.com/en/post/knit-con-2022-taking-inspiration-to-realization-for-our-employees)
+   超越流行的独特设计概念，艾戈勒上线名为“燃系列”的火山主题手表 [read](https://www.uisdc.com/agelocer-2022)
 
-   用一篇文章，帮你了解 9 大书籍装帧工艺 [read](https://www.uisdc.com/book-binding-2022)
+   第四波！2022年6月精选实用设计干货合集 [read](https://www.uisdc.com/2022-6-design-resources-vol4)
 
-   求职大厂被拒？腾讯高手总结了11条被拒的原因！ [read](https://www.uisdc.com/11-job-interview-advice)
-
-   超实用！设计师必看的5个可变字体资源网站 [read](https://www.uisdc.com/5-variable-fonts-websites)
+   裁员潮下拿到大厂Offer，我总结了这些面试技巧 [read](https://www.uisdc.com/interview-skills-2)
 
