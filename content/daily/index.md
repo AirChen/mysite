@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.TafilaletOasis_EN-US7798050717_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.PhangNgaBay_EN-US7871649198_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP [read](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html)
+   云主机上手教程：轻量应用服务器体验 [read](http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html)
 
-   科技爱好者周刊（第 210 期）：为什么软件变得复杂 [read](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html)
+   科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP [read](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html)
 
    给 ECS 增加分组功能 [read](https://blog.codingnow.com/2022/06/ecs_group.html)
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]字节云数据库未来方向的探索与实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125512644)
+
    \[原\]电影兑换券的推荐策略——二分图最优匹配算法 [read](https://blog.csdn.net/ByteDanceTech/article/details/125494542)
 
    \[原\]融合模型权限管理设计方案 [read](https://blog.csdn.net/ByteDanceTech/article/details/125437591)
-
-   \[原\]抖音支付十万级 TPS 流量发券实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125419247)
 
    CVPR 2022 \| 美团技术团队精选论文解读 [read](https://tech.meituan.com/2022/06/23/cvpr-2022-meituan.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   在劳斯莱斯的老家，看燃油车末日 [read](http://www.huxiu.com/article/593651.html?f=wangzhan)
+
    内容平台的下半场，一场从流量转向生态的持久战 [read](http://www.huxiu.com/article/594176.html?f=wangzhan)
 
    新东方直播带货，让农民更赚钱了吗？ [read](http://www.huxiu.com/article/593979.html?f=wangzhan)
 
-   90后单身人群生活真相 [read](http://www.huxiu.com/article/593190.html?f=wangzhan)
+   最前线｜京东与腾讯续签三年战略合作协议，微信继续提供入口 [read](https://36kr.com/p/1805808877487367)
 
-   越智能越缺人：思贤若渴的智能制造（上）｜红利人物·圆桌 [read](https://36kr.com/p/1804575907431431)
+   36氪首发丨元宇宙空间服务商「大有」完成数千万元融资，由小米联合创始人领投 [read](https://36kr.com/p/1805456107226375)
 
-   最前线 \| 腾讯汤道生：腾讯云将推出系列轻量化工具，降低开发门槛 [read](https://36kr.com/p/1804424326923271)
-
-   克洛诺斯完成中芯聚源独家投资近亿元B轮融资，专注高精密运动控制平台 [read](https://36kr.com/p/1804456560477447)
+   还没谈过恋爱的00后，开始和房子「相亲」了 [read](https://36kr.com/p/1805898002727937)
 
    渣画质视频秒变清晰，“达芬奇”工具集帮你自动搞定 [read](https://www.msra.cn/zh-cn/news/features/davinci)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
 
-   「新贵」米哈游，被老金融圈上了一课 [read](http://www.geekpark.net/news/304440)
+   困在疫情三年，携程迎来曙光 [read](http://www.geekpark.net/news/304551)
 
-   腾讯发布 12 款新游戏，《王者荣耀》版本更新；米哈游购买的 23 亿理财产品暴雷；NASA：停止拍卖吃过月尘的蟑螂｜极客早知道 [read](http://www.geekpark.net/news/304413)
+   爆火的「小天才」背后，藏着一个物联网「基建」巨头 [read](http://www.geekpark.net/news/304555)
 
-   在「元宇宙」里工作一周，是什么体验？ [read](http://www.geekpark.net/news/304331)
+   中国美国忙了半天，结果非洲先进入 Web3？ [read](http://www.geekpark.net/news/304352)
 
 ### 金融类
+
+   【奋发向上-星光璀璨】平安银行（2021）年度股东大会-回家的感觉真好！ [read](http://xueqiu.com/1733359280/223908952)
 
    Naspers/Prosus减持腾讯控股公告原文解读 [read](http://xueqiu.com/8108653112/223758287)
 
    2年之后还谈中远海控投资价值 [read](http://xueqiu.com/5310697058/223758038)
-
-   谁在A股重仓了比亚迪 [read](http://xueqiu.com/8095714138/223757179)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Visual Explorations [read](https://www.behance.net/gallery/146739027/Visual-Explorations)
+   MID JOURNEY Ai Collection [read](https://www.behance.net/gallery/146989475/MID-JOURNEY-Ai-Collection)
 
-   Spain, Guest of Honour of the Frankfurt Bookfair [read](https://www.behance.net/gallery/146912427/Spain-Guest-of-Honour-of-the-Frankfurt-Bookfair)
+   Enterprise Blockchain [read](https://www.behance.net/gallery/146488185/Enterprise-Blockchain)
 
-   Hong Kong Folk [read](https://www.behance.net/gallery/106185753/Hong-Kong-Folk)
+   The Inner Realm [read](https://www.behance.net/gallery/145913935/The-Inner-Realm)
 
    Meet This Month’s Guest Curator: AJ Jefferies [read](https://medium.com/behance-blog/meet-this-months-guest-curator-aj-jeffries-df95220b780f?source=rss-f5272b7f3182------2)
 
@@ -146,9 +146,9 @@ title: "今日资讯"
 
    Pinterest and Tastemade partner on scaling creators, content and live streaming around the world [read](https://newsroom.pinterest.com/en/post/pinterest-and-tastemade-partner-on-scaling-creators-content-and-live-streaming-around-the)
 
-   超越流行的独特设计概念，艾戈勒上线名为“燃系列”的火山主题手表 [read](https://www.uisdc.com/agelocer-2022)
+   设计赋能，共绘未来！2022 海南国际设计岛海口专场推介会成功召开 [read](https://www.uisdc.com/haikou-design-future-2022)
 
-   第四波！2022年6月精选实用设计干货合集 [read](https://www.uisdc.com/2022-6-design-resources-vol4)
+   无科技，不广汽！“科技奔现”2022广汽科技日举行 [read](https://www.uisdc.com/gac-tech-day-2022)
 
-   裁员潮下拿到大厂Offer，我总结了这些面试技巧 [read](https://www.uisdc.com/interview-skills-2)
+   免费商用！提升设计质感必备的5个样机网站 [read](https://www.uisdc.com/5-mockups)
 
