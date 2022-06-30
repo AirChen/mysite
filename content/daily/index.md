@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.PhangNgaBay_EN-US7871649198_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AcramanCrater_EN-US7941020158_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   在劳斯莱斯的老家，看燃油车末日 [read](http://www.huxiu.com/article/593651.html?f=wangzhan)
+   第四家运营商，为什么是中国广电？ [read](http://www.huxiu.com/article/595913.html?f=wangzhan)
 
-   内容平台的下半场，一场从流量转向生态的持久战 [read](http://www.huxiu.com/article/594176.html?f=wangzhan)
+   新茶饮行业的寒冬里，到底谁最难？ [read](http://www.huxiu.com/article/595853.html?f=wangzhan)
 
-   新东方直播带货，让农民更赚钱了吗？ [read](http://www.huxiu.com/article/593979.html?f=wangzhan)
+   揭秘“黑帮经济学”：黑社会靠什么赚钱？ [read](http://www.huxiu.com/article/595193.html?f=wangzhan)
 
-   最前线｜京东与腾讯续签三年战略合作协议，微信继续提供入口 [read](https://36kr.com/p/1805808877487367)
+   知料｜2022年，飞盘飞出“小红书” [read](https://36kr.com/p/1807249425148677)
 
-   36氪首发丨元宇宙空间服务商「大有」完成数千万元融资，由小米联合创始人领投 [read](https://36kr.com/p/1805456107226375)
+   行业观察 \| 惠民保险的“亏损”游戏，何以为继？ [read](https://36kr.com/p/1807456065595907)
 
-   还没谈过恋爱的00后，开始和房子「相亲」了 [read](https://36kr.com/p/1805898002727937)
+   郁亮大赞万科雁南飞计划背后：不限购的珠海库存几何 [read](https://36kr.com/p/1807492057311749)
 
    渣画质视频秒变清晰，“达芬奇”工具集帮你自动搞定 [read](https://www.msra.cn/zh-cn/news/features/davinci)
 
@@ -86,11 +86,11 @@ title: "今日资讯"
 
    NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
 
+   开盘暴跌 45%，「AI第一股」怎么了？ [read](http://www.geekpark.net/news/304596)
+
+   工信部：即日起取消通信行程卡「星号」；今天 iPhone 15 岁了；Facebook 测试类似 Discord 频道 [read](http://www.geekpark.net/news/304568)
+
    困在疫情三年，携程迎来曙光 [read](http://www.geekpark.net/news/304551)
-
-   爆火的「小天才」背后，藏着一个物联网「基建」巨头 [read](http://www.geekpark.net/news/304555)
-
-   中国美国忙了半天，结果非洲先进入 Web3？ [read](http://www.geekpark.net/news/304352)
 
 ### 金融类
 
@@ -102,17 +102,17 @@ title: "今日资讯"
 
 ### 学习类
 
+   💻 Issue 314 - Linus Torvalds is cautiously optimistic about bringing Rust into Linux kernel's next release [read](https://rust.libhunt.com/newsletter/314)
+
    💻 Issue 313 - Rust tops StackOverflow Survey 2022 as the most loved language for the 7th year. [read](https://rust.libhunt.com/newsletter/313)
 
    💻 Issue 312 - The Rust borrow checker just got (a little bit) smarter [read](https://rust.libhunt.com/newsletter/312)
 
-   💻 Issue 311 - Rust is hard, or: The misery of mainstream programming [read](https://rust.libhunt.com/newsletter/311)
+   This Week in Rust 449 [read](https://this-week-in-rust.org/blog/2022/06/29/this-week-in-rust-449/)
 
    This Week in Rust 448 [read](https://this-week-in-rust.org/blog/2022/06/22/this-week-in-rust-448/)
 
    This Week in Rust 447 [read](https://this-week-in-rust.org/blog/2022/06/15/this-week-in-rust-447/)
-
-   This Week in Rust 446 [read](https://this-week-in-rust.org/blog/2022/06/08/this-week-in-rust-446/)
 
    ETCD的内存问题 [read](https://coolshell.cn/articles/22242.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   MID JOURNEY Ai Collection [read](https://www.behance.net/gallery/146989475/MID-JOURNEY-Ai-Collection)
+   Painted Plants Series [read](https://www.behance.net/gallery/144460667/Painted-Plants-Series)
 
-   Enterprise Blockchain [read](https://www.behance.net/gallery/146488185/Enterprise-Blockchain)
+   Nike ? Progress [read](https://www.behance.net/gallery/147020457/Nike-Progress)
 
-   The Inner Realm [read](https://www.behance.net/gallery/145913935/The-Inner-Realm)
+   Evergreen ? Foot Locker EU [read](https://www.behance.net/gallery/146676945/Evergreen-Foot-Locker-EU)
 
    Meet This Month’s Guest Curator: AJ Jefferies [read](https://medium.com/behance-blog/meet-this-months-guest-curator-aj-jeffries-df95220b780f?source=rss-f5272b7f3182------2)
 
@@ -146,9 +146,15 @@ title: "今日资讯"
 
    Pinterest and Tastemade partner on scaling creators, content and live streaming around the world [read](https://newsroom.pinterest.com/en/post/pinterest-and-tastemade-partner-on-scaling-creators-content-and-live-streaming-around-the)
 
-   设计赋能，共绘未来！2022 海南国际设计岛海口专场推介会成功召开 [read](https://www.uisdc.com/haikou-design-future-2022)
+   6月版 Studio 驱动支持 Blender 3.2 等创意应用中的工作流 [read](https://www.uisdc.com/daniel-barnes-2022)
 
-   无科技，不广汽！“科技奔现”2022广汽科技日举行 [read](https://www.uisdc.com/gac-tech-day-2022)
+   想把表单的用户体验做到极致？我总结了这5个细节！ [read](https://www.uisdc.com/form-design-7)
 
-   免费商用！提升设计质感必备的5个样机网站 [read](https://www.uisdc.com/5-mockups)
+   PPT设计必看！5个 Behance 上排版超绝的灵感参考 [read](https://www.uisdc.com/ppt-designer)
+
+   CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
+
+   主旋“绿”｜六一&十六 [read](https://cdc.tencent.com/2022/06/07/%e4%b8%bb%e6%97%8b%e7%bb%bf%ef%bd%9c%e5%85%ad%e4%b8%80%e5%8d%81%e5%85%ad/)
+
+   CDC夜校回顾NO.24｜从实习生角度看体验设计工具、20世纪初西方基督教是如何对中国社会进行调查研究的 [read](https://cdc.tencent.com/2022/06/06/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-24%ef%bd%9c%e4%bb%8e%e5%ae%9e%e4%b9%a0%e7%94%9f%e8%a7%92%e5%ba%a6%e7%9c%8b%e4%bd%93%e9%aa%8c%e8%ae%be%e8%ae%a1%e5%b7%a5%e5%85%b7%e3%80%8120%e4%b8%96%e7%ba%aa/)
 
