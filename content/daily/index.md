@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AcramanCrater_EN-US7941020158_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WeatherGirls_EN-US6924387788_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   云主机上手教程：轻量应用服务器体验 [read](http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html)
+   科技爱好者周刊（第 212 期）：人生不短 [read](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html)
 
-   科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP [read](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html)
+   云主机上手教程：轻量应用服务器体验 [read](http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html)
 
    给 ECS 增加分组功能 [read](https://blog.codingnow.com/2022/06/ecs_group.html)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 453 期 [read](https://weekly.75.team/issue453.html)
+
    奇舞周刊第 452 期 [read](https://weekly.75.team/issue452.html)
 
    奇舞周刊第 451 期 [read](https://weekly.75.team/issue451.html)
-
-   奇舞周刊第 450 期 [read](https://weekly.75.team/issue450.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]8K HDR!｜为 Chromium 实现 HEVC 硬解 - 原理/实测指南 [read](https://blog.csdn.net/ByteDanceTech/article/details/125551027)
+
    \[原\]字节云数据库未来方向的探索与实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125512644)
 
    \[原\]电影兑换券的推荐策略——二分图最优匹配算法 [read](https://blog.csdn.net/ByteDanceTech/article/details/125494542)
-
-   \[原\]融合模型权限管理设计方案 [read](https://blog.csdn.net/ByteDanceTech/article/details/125437591)
 
    CVPR 2022 \| 美团技术团队精选论文解读 [read](https://tech.meituan.com/2022/06/23/cvpr-2022-meituan.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   第四家运营商，为什么是中国广电？ [read](http://www.huxiu.com/article/595913.html?f=wangzhan)
+   卖二手车，怎么也卷起来了？ [read](http://www.huxiu.com/article/596846.html?f=wangzhan)
 
-   新茶饮行业的寒冬里，到底谁最难？ [read](http://www.huxiu.com/article/595853.html?f=wangzhan)
+   国产鞋何时才能干翻外资？ [read](http://www.huxiu.com/article/596666.html?f=wangzhan)
 
-   揭秘“黑帮经济学”：黑社会靠什么赚钱？ [read](http://www.huxiu.com/article/595193.html?f=wangzhan)
+   一个人的用户型企业：小区钟点工“家政女王”的故事 [read](http://www.huxiu.com/article/596662.html?f=wangzhan)
 
-   知料｜2022年，飞盘飞出“小红书” [read](https://36kr.com/p/1807249425148677)
+   2022上半年深交所和上交所分列IPO数量和筹资额全球首位 [read](https://36kr.com/p/1808622889757449)
 
-   行业观察 \| 惠民保险的“亏损”游戏，何以为继？ [read](https://36kr.com/p/1807456065595907)
+   数字家庭赛道局限性背后：存在标准制定和技术路线选择困难 [read](https://36kr.com/p/1808923581089156)
 
-   郁亮大赞万科雁南飞计划背后：不限购的珠海库存几何 [read](https://36kr.com/p/1807492057311749)
+   36碳周报｜LG将在清洁技术领域投资2万亿韩元；吉利2045年实现全链路碳中和；深圳发布居民低碳用电碳普惠方法学； [read](https://36kr.com/p/1808771238904962)
 
    渣画质视频秒变清晰，“达芬奇”工具集帮你自动搞定 [read](https://www.msra.cn/zh-cn/news/features/davinci)
 
@@ -86,11 +86,11 @@ title: "今日资讯"
 
    NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
 
+   中消协 618 维权报告：东方甄选被点名；SpaceX 星链可为飞机、车辆供网；《阿凡达》游戏画面曝光 \| 极客早知道 [read](http://www.geekpark.net/news/304635)
+
    开盘暴跌 45%，「AI第一股」怎么了？ [read](http://www.geekpark.net/news/304596)
 
    工信部：即日起取消通信行程卡「星号」；今天 iPhone 15 岁了；Facebook 测试类似 Discord 频道 [read](http://www.geekpark.net/news/304568)
-
-   困在疫情三年，携程迎来曙光 [read](http://www.geekpark.net/news/304551)
 
 ### 金融类
 
@@ -128,17 +128,17 @@ title: "今日资讯"
 
 ### 设计类
 
-   Painted Plants Series [read](https://www.behance.net/gallery/144460667/Painted-Plants-Series)
+   Delve [read](https://www.behance.net/gallery/147133509/Delve)
 
-   Nike ? Progress [read](https://www.behance.net/gallery/147020457/Nike-Progress)
+   June '22 - GIFs [read](https://www.behance.net/gallery/147083351/June-22-GIFs)
 
-   Evergreen ? Foot Locker EU [read](https://www.behance.net/gallery/146676945/Evergreen-Foot-Locker-EU)
+   LAHAUS [read](https://www.behance.net/gallery/147175573/LAHAUS)
+
+   How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
    Meet This Month’s Guest Curator: AJ Jefferies [read](https://medium.com/behance-blog/meet-this-months-guest-curator-aj-jeffries-df95220b780f?source=rss-f5272b7f3182------2)
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
-
-   Meet This Month’s Guest Curator: Lucas Camargo of Untitled Army [read](https://medium.com/behance-blog/meet-this-months-guest-curator-lucas-camargo-of-untitled-army-3592b70bdbc3?source=rss-f5272b7f3182------2)
 
    Pinterest Appoints Bill Ready CEO; Co-Founder and CEO Ben Silbermann Transitions to Executive Chairman [read](https://newsroom.pinterest.com/en/post/CEO)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest and Tastemade partner on scaling creators, content and live streaming around the world [read](https://newsroom.pinterest.com/en/post/pinterest-and-tastemade-partner-on-scaling-creators-content-and-live-streaming-around-the)
 
-   6月版 Studio 驱动支持 Blender 3.2 等创意应用中的工作流 [read](https://www.uisdc.com/daniel-barnes-2022)
+   为什么很多设计系统，并不能提高效率？ [read](https://www.uisdc.com/bad-design-system-failure)
 
-   想把表单的用户体验做到极致？我总结了这5个细节！ [read](https://www.uisdc.com/form-design-7)
+   7000字总结！一份专业的奢侈品用户类型和用户历程报告 [read](https://www.uisdc.com/luxury-terrible-ecommerce-2)
 
-   PPT设计必看！5个 Behance 上排版超绝的灵感参考 [read](https://www.uisdc.com/ppt-designer)
+   2022 U设计周开票啦，大会全攻略出炉！ [read](https://www.uisdc.com/u-design-week-2022)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
