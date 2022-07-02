@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WeatherGirls_EN-US6924387788_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.HalfwayDay_EN-US6981774268_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]海量数据冷热分离方案与实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125567986)
+
    \[原\]8K HDR!｜为 Chromium 实现 HEVC 硬解 - 原理/实测指南 [read](https://blog.csdn.net/ByteDanceTech/article/details/125551027)
 
    \[原\]字节云数据库未来方向的探索与实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125512644)
-
-   \[原\]电影兑换券的推荐策略——二分图最优匹配算法 [read](https://blog.csdn.net/ByteDanceTech/article/details/125494542)
 
    CVPR 2022 \| 美团技术团队精选论文解读 [read](https://tech.meituan.com/2022/06/23/cvpr-2022-meituan.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   卖二手车，怎么也卷起来了？ [read](http://www.huxiu.com/article/596846.html?f=wangzhan)
+   “哭惨”的蔚来和小鹏，6月销量都破万了 [read](http://www.huxiu.com/article/596685.html?f=wangzhan)
 
-   国产鞋何时才能干翻外资？ [read](http://www.huxiu.com/article/596666.html?f=wangzhan)
+   30岁生日，我用一场没有新郎的婚礼嫁给了自己 [read](http://www.huxiu.com/article/595991.html?f=wangzhan)
 
-   一个人的用户型企业：小区钟点工“家政女王”的故事 [read](http://www.huxiu.com/article/596662.html?f=wangzhan)
+   丰田，为什么总欺负中国人？ [read](http://www.huxiu.com/article/595704.html?f=wangzhan)
 
-   2022上半年深交所和上交所分列IPO数量和筹资额全球首位 [read](https://36kr.com/p/1808622889757449)
+   Meta掉队、「果链」摔倒，元宇宙是蜜糖还是毒药？｜氪金 · 大事件 [read](https://36kr.com/p/1809935497708935)
 
-   数字家庭赛道局限性背后：存在标准制定和技术路线选择困难 [read](https://36kr.com/p/1808923581089156)
+   36氪专访 \| 厂货也有春天 [read](https://36kr.com/p/1804256374801412)
 
-   36碳周报｜LG将在清洁技术领域投资2万亿韩元；吉利2045年实现全链路碳中和；深圳发布居民低碳用电碳普惠方法学； [read](https://36kr.com/p/1808771238904962)
+   暑假，大学生涌入富士康流水线 [read](https://36kr.com/p/1808561683360262)
 
    渣画质视频秒变清晰，“达芬奇”工具集帮你自动搞定 [read](https://www.msra.cn/zh-cn/news/features/davinci)
 
@@ -86,11 +86,11 @@ title: "今日资讯"
 
    NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
 
+   消息称 AirPods Pro 2 将换用 USB-C 接口；周杰伦新专辑《最伟大的作品》7 月 6 日首播；新算法可提前一周预测到未来的犯罪：准确率达 90% [read](http://www.geekpark.net/news/304697)
+
    中消协 618 维权报告：东方甄选被点名；SpaceX 星链可为飞机、车辆供网；《阿凡达》游戏画面曝光 \| 极客早知道 [read](http://www.geekpark.net/news/304635)
 
-   开盘暴跌 45%，「AI第一股」怎么了？ [read](http://www.geekpark.net/news/304596)
-
-   工信部：即日起取消通信行程卡「星号」；今天 iPhone 15 岁了；Facebook 测试类似 Discord 频道 [read](http://www.geekpark.net/news/304568)
+   马斯克大裁「数据标记员」，其实一点不让人意外 [read](http://www.geekpark.net/news/304623)
 
 ### 金融类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Delve [read](https://www.behance.net/gallery/147133509/Delve)
+   Blanc Bec \| lg2 [read](https://www.behance.net/gallery/144904213/Blanc-Bec-lg2)
 
-   June '22 - GIFs [read](https://www.behance.net/gallery/147083351/June-22-GIFs)
+   I LOVE POKEMON [read](https://www.behance.net/gallery/146122559/I-LOVE-POKEMON)
 
-   LAHAUS [read](https://www.behance.net/gallery/147175573/LAHAUS)
+   DE CAAI [read](https://www.behance.net/gallery/146072157/DE-CAAI)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
