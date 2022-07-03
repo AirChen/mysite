@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.HalfwayDay_EN-US6981774268_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SummerDogs_EN-US7055120050_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,12 +48,6 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
-   \[原\]海量数据冷热分离方案与实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125567986)
-
-   \[原\]8K HDR!｜为 Chromium 实现 HEVC 硬解 - 原理/实测指南 [read](https://blog.csdn.net/ByteDanceTech/article/details/125551027)
-
-   \[原\]字节云数据库未来方向的探索与实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125512644)
-
    CVPR 2022 \| 美团技术团队精选论文解读 [read](https://tech.meituan.com/2022/06/23/cvpr-2022-meituan.html)
 
    YOLOv6：又快又准的目标检测框架开源啦 [read](https://tech.meituan.com/2022/06/23/yolov6-a-fast-and-accurate-target-detection-framework-is-opening-source.html)
@@ -68,17 +62,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   一线赚钱三线花：“数字游民”的三重套利 [read](http://www.huxiu.com/article/597700.html?f=wangzhan)
+
    “哭惨”的蔚来和小鹏，6月销量都破万了 [read](http://www.huxiu.com/article/596685.html?f=wangzhan)
 
    30岁生日，我用一场没有新郎的婚礼嫁给了自己 [read](http://www.huxiu.com/article/595991.html?f=wangzhan)
 
-   丰田，为什么总欺负中国人？ [read](http://www.huxiu.com/article/595704.html?f=wangzhan)
+   科氪 \| 飞越北纬40.42°  VFLY全球品牌焕新发布会 [read](https://36kr.com/p/1811826847680135)
 
-   Meta掉队、「果链」摔倒，元宇宙是蜜糖还是毒药？｜氪金 · 大事件 [read](https://36kr.com/p/1809935497708935)
+   36氪首发 \| 「集群车宝」获1亿元C+轮融资，将布局新能源售后市场 [read](https://36kr.com/p/1809626617874048)
 
-   36氪专访 \| 厂货也有春天 [read](https://36kr.com/p/1804256374801412)
-
-   暑假，大学生涌入富士康流水线 [read](https://36kr.com/p/1808561683360262)
+   被嫌弃的40%：去中专和技校的，后来都怎么样了？ [read](https://36kr.com/p/1808564264937987)
 
    渣画质视频秒变清晰，“达芬奇”工具集帮你自动搞定 [read](https://www.msra.cn/zh-cn/news/features/davinci)
 
@@ -86,11 +80,11 @@ title: "今日资讯"
 
    NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
 
+   小鹏回应事故气囊未弹出：撞击力度未达要求；AMD 被窃 450Gb 数据，因密码太弱；灌篮高手最新电影 12 月上映｜极客早知道 [read](http://www.geekpark.net/news/304702)
+
+   雅迪「进阶」：用生态和体验打造核心竞争力 [read](http://www.geekpark.net/news/304701)
+
    消息称 AirPods Pro 2 将换用 USB-C 接口；周杰伦新专辑《最伟大的作品》7 月 6 日首播；新算法可提前一周预测到未来的犯罪：准确率达 90% [read](http://www.geekpark.net/news/304697)
-
-   中消协 618 维权报告：东方甄选被点名；SpaceX 星链可为飞机、车辆供网；《阿凡达》游戏画面曝光 \| 极客早知道 [read](http://www.geekpark.net/news/304635)
-
-   马斯克大裁「数据标记员」，其实一点不让人意外 [read](http://www.geekpark.net/news/304623)
 
 ### 金融类
 
@@ -128,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Blanc Bec \| lg2 [read](https://www.behance.net/gallery/144904213/Blanc-Bec-lg2)
+   Bezaranha // Brand [read](https://www.behance.net/gallery/145636265/Bezaranha-Brand)
 
-   I LOVE POKEMON [read](https://www.behance.net/gallery/146122559/I-LOVE-POKEMON)
+   Magic the Gathering - Kamigawa - Neon Dynasty [read](https://www.behance.net/gallery/147087685/Magic-the-Gathering-Kamigawa-Neon-Dynasty)
 
-   DE CAAI [read](https://www.behance.net/gallery/146072157/DE-CAAI)
+   YÖTO® AudioDynamics [read](https://www.behance.net/gallery/147172927/YOETO-AudioDynamics)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +140,11 @@ title: "今日资讯"
 
    Pinterest and Tastemade partner on scaling creators, content and live streaming around the world [read](https://newsroom.pinterest.com/en/post/pinterest-and-tastemade-partner-on-scaling-creators-content-and-live-streaming-around-the)
 
-   为什么很多设计系统，并不能提高效率？ [read](https://www.uisdc.com/bad-design-system-failure)
+   为什么大热的数据可视化行业，我不建议轻易入行？ [read](https://www.uisdc.com/data-visualization-industry-analysis)
 
-   7000字总结！一份专业的奢侈品用户类型和用户历程报告 [read](https://www.uisdc.com/luxury-terrible-ecommerce-2)
+   5000字干货！单选/复选/拨动开关的使用技巧全在这！ [read](https://www.uisdc.com/option-component)
 
-   2022 U设计周开票啦，大会全攻略出炉！ [read](https://www.uisdc.com/u-design-week-2022)
+   这5位绘本大师的作品，是我每日学习的灵感来源！ [read](https://www.uisdc.com/5-picture-book-master)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
