@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SummerDogs_EN-US7055120050_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WHFireworks_EN-US7107173560_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,6 +48,12 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]海量数据冷热分离方案与实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125567986)
+
+   \[原\]8K HDR!｜为 Chromium 实现 HEVC 硬解 - 原理/实测指南 [read](https://blog.csdn.net/ByteDanceTech/article/details/125551027)
+
+   \[原\]字节云数据库未来方向的探索与实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125512644)
+
    CVPR 2022 \| 美团技术团队精选论文解读 [read](https://tech.meituan.com/2022/06/23/cvpr-2022-meituan.html)
 
    YOLOv6：又快又准的目标检测框架开源啦 [read](https://tech.meituan.com/2022/06/23/yolov6-a-fast-and-accurate-target-detection-framework-is-opening-source.html)
@@ -62,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   一线赚钱三线花：“数字游民”的三重套利 [read](http://www.huxiu.com/article/597700.html?f=wangzhan)
+   当魅族的未来，交给车圈的 80 后 [read](http://www.huxiu.com/article/599180.html?f=wangzhan)
 
-   “哭惨”的蔚来和小鹏，6月销量都破万了 [read](http://www.huxiu.com/article/596685.html?f=wangzhan)
+   氢弹、激光、大炮，这个核聚变流派怎么如此暴躁？ [read](http://www.huxiu.com/article/598815.html?f=wangzhan)
 
-   30岁生日，我用一场没有新郎的婚礼嫁给了自己 [read](http://www.huxiu.com/article/595991.html?f=wangzhan)
+   长在飞书上，困在基因里的飞书People [read](http://www.huxiu.com/article/598788.html?f=wangzhan)
 
-   科氪 \| 飞越北纬40.42°  VFLY全球品牌焕新发布会 [read](https://36kr.com/p/1811826847680135)
+   应届00后的奇遇人生：钱我赚了，世界我看了 [read](https://36kr.com/p/1813265610196359)
 
-   36氪首发 \| 「集群车宝」获1亿元C+轮融资，将布局新能源售后市场 [read](https://36kr.com/p/1809626617874048)
+   氪星晚报｜华为发布nova10系列手机；德国交通部门召回特斯拉Model Y和Model 3，全球超5.9万辆汽车受影响；吉利正式收购魅族 [read](https://36kr.com/p/1813066727507337)
 
-   被嫌弃的40%：去中专和技校的，后来都怎么样了？ [read](https://36kr.com/p/1808564264937987)
+   海外new things｜「PINA」筹集到300万美元的种子资金，为印度尼西亚的中上层阶级提供财富管理 [read](https://36kr.com/p/1812904667154048)
 
    渣画质视频秒变清晰，“达芬奇”工具集帮你自动搞定 [read](https://www.msra.cn/zh-cn/news/features/davinci)
 
@@ -80,11 +86,11 @@ title: "今日资讯"
 
    NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
 
+   4 年涨 23 倍，中国户外储能出海火了 [read](http://www.geekpark.net/news/304749)
+
+   字节收购虚拟社交公司，专注社交元宇宙；雷军：小米 12S Pro 三颗莱卡镜头；著名科幻作家倪匡离世 [read](http://www.geekpark.net/news/304705)
+
    小鹏回应事故气囊未弹出：撞击力度未达要求；AMD 被窃 450Gb 数据，因密码太弱；灌篮高手最新电影 12 月上映｜极客早知道 [read](http://www.geekpark.net/news/304702)
-
-   雅迪「进阶」：用生态和体验打造核心竞争力 [read](http://www.geekpark.net/news/304701)
-
-   消息称 AirPods Pro 2 将换用 USB-C 接口；周杰伦新专辑《最伟大的作品》7 月 6 日首播；新算法可提前一周预测到未来的犯罪：准确率达 90% [read](http://www.geekpark.net/news/304697)
 
 ### 金融类
 
@@ -122,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Bezaranha // Brand [read](https://www.behance.net/gallery/145636265/Bezaranha-Brand)
+   Bright [read](https://www.behance.net/gallery/125284001/Bright)
 
-   Magic the Gathering - Kamigawa - Neon Dynasty [read](https://www.behance.net/gallery/147087685/Magic-the-Gathering-Kamigawa-Neon-Dynasty)
+   Website Illustrations for Architect Alberto Vidale [read](https://www.behance.net/gallery/147118713/Website-Illustrations-%03for-Architect-Alberto-Vidale)
 
-   YÖTO® AudioDynamics [read](https://www.behance.net/gallery/147172927/YOETO-AudioDynamics)
+   ARTKEY UNIVERSE [read](https://www.behance.net/gallery/147334731/ARTKEY-UNIVERSE)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -145,10 +151,4 @@ title: "今日资讯"
    5000字干货！单选/复选/拨动开关的使用技巧全在这！ [read](https://www.uisdc.com/option-component)
 
    这5位绘本大师的作品，是我每日学习的灵感来源！ [read](https://www.uisdc.com/5-picture-book-master)
-
-   CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
-
-   主旋“绿”｜六一&十六 [read](https://cdc.tencent.com/2022/06/07/%e4%b8%bb%e6%97%8b%e7%bb%bf%ef%bd%9c%e5%85%ad%e4%b8%80%e5%8d%81%e5%85%ad/)
-
-   CDC夜校回顾NO.24｜从实习生角度看体验设计工具、20世纪初西方基督教是如何对中国社会进行调查研究的 [read](https://cdc.tencent.com/2022/06/06/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-24%ef%bd%9c%e4%bb%8e%e5%ae%9e%e4%b9%a0%e7%94%9f%e8%a7%92%e5%ba%a6%e7%9c%8b%e4%bd%93%e9%aa%8c%e8%ae%be%e8%ae%a1%e5%b7%a5%e5%85%b7%e3%80%8120%e4%b8%96%e7%ba%aa/)
 
