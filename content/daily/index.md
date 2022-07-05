@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WHFireworks_EN-US7107173560_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FannetteIsland_EN-US7369656560_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]基于 http-flv 的抖音直播端到端延迟优化实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125631101)
+
    \[原\]海量数据冷热分离方案与实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125567986)
 
    \[原\]8K HDR!｜为 Chromium 实现 HEVC 硬解 - 原理/实测指南 [read](https://blog.csdn.net/ByteDanceTech/article/details/125551027)
-
-   \[原\]字节云数据库未来方向的探索与实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125512644)
 
    CVPR 2022 \| 美团技术团队精选论文解读 [read](https://tech.meituan.com/2022/06/23/cvpr-2022-meituan.html)
 
@@ -68,37 +68,37 @@ title: "今日资讯"
 
 ### 互联网类
 
-   当魅族的未来，交给车圈的 80 后 [read](http://www.huxiu.com/article/599180.html?f=wangzhan)
+   三顿半创业故事：回到二线城市，每年卖出十个亿 [read](http://www.huxiu.com/article/599636.html?f=wangzhan)
 
-   氢弹、激光、大炮，这个核聚变流派怎么如此暴躁？ [read](http://www.huxiu.com/article/598815.html?f=wangzhan)
+   6月车市反弹，是“重燃希望”还是“加重焦虑”？ [read](http://www.huxiu.com/article/599566.html?f=wangzhan)
 
-   长在飞书上，困在基因里的飞书People [read](http://www.huxiu.com/article/598788.html?f=wangzhan)
+   张远：我享受歌红人不红带来的自由 [read](http://www.huxiu.com/article/598831.html?f=wangzhan)
 
-   应届00后的奇遇人生：钱我赚了，世界我看了 [read](https://36kr.com/p/1813265610196359)
+   科氪 \| 酷冷战神 先手致胜 腾讯ROG游戏手机6发布会亮点一文看懂 [read](https://36kr.com/p/1814594812855681)
 
-   氪星晚报｜华为发布nova10系列手机；德国交通部门召回特斯拉Model Y和Model 3，全球超5.9万辆汽车受影响；吉利正式收购魅族 [read](https://36kr.com/p/1813066727507337)
+   氪星晚报｜华为已注册多个PETAL系列商标；特斯拉首次公布太阳能增程拖车原型，将为电动皮卡“续航”；长城汽车坦克300正式在沙特上市 [read](https://36kr.com/p/1814591235933825)
 
-   海外new things｜「PINA」筹集到300万美元的种子资金，为印度尼西亚的中上层阶级提供财富管理 [read](https://36kr.com/p/1812904667154048)
+   海外new things｜「Onomondo」完成2100万美元融资，为多个国家的物联网设备提供网络支持 [read](https://36kr.com/p/1814344563197575)
+
+   AI与教育的深度融合，究竟什么是核心问题？ [read](https://www.msra.cn/zh-cn/news/features/yan-xia-chanjin-zheng)
 
    渣画质视频秒变清晰，“达芬奇”工具集帮你自动搞定 [read](https://www.msra.cn/zh-cn/news/features/davinci)
 
    CVPR 2022 \| 一键解锁微软亚洲研究院计算机视觉领域前沿进展! [read](https://www.msra.cn/zh-cn/news/features/cvpr-2022)
 
-   NaturalSpeech模型合成语音在CMOS测试中首次达到真人语音水平 [read](https://www.msra.cn/zh-cn/news/features/naturalspeech)
+   砸 1 亿美元奖励，这次马斯克要和碳「干到底」 [read](http://www.geekpark.net/news/304796)
 
-   4 年涨 23 倍，中国户外储能出海火了 [read](http://www.geekpark.net/news/304749)
+   暴跌、扭亏、出海、做品牌……名创优品上市两年的经验与教训 [read](http://www.geekpark.net/news/304779)
 
-   字节收购虚拟社交公司，专注社交元宇宙；雷军：小米 12S Pro 三颗莱卡镜头；著名科幻作家倪匡离世 [read](http://www.geekpark.net/news/304705)
-
-   小鹏回应事故气囊未弹出：撞击力度未达要求；AMD 被窃 450Gb 数据，因密码太弱；灌篮高手最新电影 12 月上映｜极客早知道 [read](http://www.geekpark.net/news/304702)
+   罗永浩：靠内容做直播，对销售帮助有限；任正非：华为没有「天才少年」；吉利正式收购魅族，后者将独立运营 [read](http://www.geekpark.net/news/304755)
 
 ### 金融类
 
-   【奋发向上-星光璀璨】平安银行（2021）年度股东大会-回家的感觉真好！ [read](http://xueqiu.com/1733359280/223908952)
+   小知识：股价创新高的意义 [read](http://xueqiu.com/3293352184/224508259)
 
-   Naspers/Prosus减持腾讯控股公告原文解读 [read](http://xueqiu.com/8108653112/223758287)
+   神华的那些铁路 [read](http://xueqiu.com/8745459979/224435295)
 
-   2年之后还谈中远海控投资价值 [read](http://xueqiu.com/5310697058/223758038)
+   追求进攻性的黑马经理组合 VS 追求确定性的白马经理组合 [read](http://xueqiu.com/9290769077/224530094)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Bright [read](https://www.behance.net/gallery/125284001/Bright)
+   Urban Jungle [read](https://www.behance.net/gallery/135853969/Urban-Jungle)
 
-   Website Illustrations for Architect Alberto Vidale [read](https://www.behance.net/gallery/147118713/Website-Illustrations-%03for-Architect-Alberto-Vidale)
+   SPACES INSIDE SLEEP [read](https://www.behance.net/gallery/141636869/SPACES-INSIDE-SLEEP)
 
-   ARTKEY UNIVERSE [read](https://www.behance.net/gallery/147334731/ARTKEY-UNIVERSE)
+   Scandium Type Specimen Book [read](https://www.behance.net/gallery/147245367/Scandium-Type-Specimen-Book)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,9 +146,15 @@ title: "今日资讯"
 
    Pinterest and Tastemade partner on scaling creators, content and live streaming around the world [read](https://newsroom.pinterest.com/en/post/pinterest-and-tastemade-partner-on-scaling-creators-content-and-live-streaming-around-the)
 
-   为什么大热的数据可视化行业，我不建议轻易入行？ [read](https://www.uisdc.com/data-visualization-industry-analysis)
+   第一波！2022年7月精选实用设计干货合集 [read](https://www.uisdc.com/2022-7-design-resources-vol1)
 
-   5000字干货！单选/复选/拨动开关的使用技巧全在这！ [read](https://www.uisdc.com/option-component)
+   超全面！写给应届设计师的面试就业白皮书 [read](https://www.uisdc.com/interview-guide)
 
-   这5位绘本大师的作品，是我每日学习的灵感来源！ [read](https://www.uisdc.com/5-picture-book-master)
+   6000字干货！聊聊个人设计偏好的效用与避坑指南 [read](https://www.uisdc.com/use-design-preferences-at-work)
+
+   CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
+
+   主旋“绿”｜六一&十六 [read](https://cdc.tencent.com/2022/06/07/%e4%b8%bb%e6%97%8b%e7%bb%bf%ef%bd%9c%e5%85%ad%e4%b8%80%e5%8d%81%e5%85%ad/)
+
+   CDC夜校回顾NO.24｜从实习生角度看体验设计工具、20世纪初西方基督教是如何对中国社会进行调查研究的 [read](https://cdc.tencent.com/2022/06/06/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-24%ef%bd%9c%e4%bb%8e%e5%ae%9e%e4%b9%a0%e7%94%9f%e8%a7%92%e5%ba%a6%e7%9c%8b%e4%bd%93%e9%aa%8c%e8%ae%be%e8%ae%a1%e5%b7%a5%e5%85%b7%e3%80%8120%e4%b8%96%e7%ba%aa/)
 
