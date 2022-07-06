@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FannetteIsland_EN-US7369656560_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.KissingPuffins_EN-US7469101764_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -10,11 +10,11 @@ title: "今日资讯"
 
    云主机上手教程：轻量应用服务器体验 [read](http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html)
 
+   分组功能在挂接系统上的使用 [read](https://blog.codingnow.com/2022/07/group_mount.html)
+
    给 ECS 增加分组功能 [read](https://blog.codingnow.com/2022/06/ecs_group.html)
 
    用邻接表实现无向图 [read](https://blog.codingnow.com/2022/06/ajdjacency_list.html)
-
-   一个 VLA （可变长度数组）的实现 [read](https://blog.codingnow.com/2022/06/vla.html)
 
    一个付费 chrome 插件的一生 [read](https://blog.t9t.io/star-history-2021-01-21/)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   三顿半创业故事：回到二线城市，每年卖出十个亿 [read](http://www.huxiu.com/article/599636.html?f=wangzhan)
+   自动驾驶“进城”，想绕过地图却离不开 [read](http://www.huxiu.com/article/600486.html?f=wangzhan)
 
-   6月车市反弹，是“重燃希望”还是“加重焦虑”？ [read](http://www.huxiu.com/article/599566.html?f=wangzhan)
+   国产医疗剧，为何十年磨不出一剑？ [read](http://www.huxiu.com/article/600549.html?f=wangzhan)
 
-   张远：我享受歌红人不红带来的自由 [read](http://www.huxiu.com/article/598831.html?f=wangzhan)
+   你闭眼买雪糕的样子，真令人羡慕 [read](http://www.huxiu.com/article/600700.html?f=wangzhan)
 
-   科氪 \| 酷冷战神 先手致胜 腾讯ROG游戏手机6发布会亮点一文看懂 [read](https://36kr.com/p/1814594812855681)
+   氪星晚报 \| 蔚来发布2025年高速换电网络建设计划；飞书首次发布制造行业最佳实践合集；我国新能源汽车数量突破1000万辆 [read](https://36kr.com/p/1815857882295174)
 
-   氪星晚报｜华为已注册多个PETAL系列商标；特斯拉首次公布太阳能增程拖车原型，将为电动皮卡“续航”；长城汽车坦克300正式在沙特上市 [read](https://36kr.com/p/1814591235933825)
+   焦点分析 \| 周杰伦《最伟大的作品》来了，哪家平台能接得住？ [read](https://36kr.com/p/1815548781784200)
 
-   海外new things｜「Onomondo」完成2100万美元融资，为多个国家的物联网设备提供网络支持 [read](https://36kr.com/p/1814344563197575)
+   创变者私董会：硬科技正当时，如何借力香港走出去？ [read](https://36kr.com/p/1815826941750407)
 
    AI与教育的深度融合，究竟什么是核心问题？ [read](https://www.msra.cn/zh-cn/news/features/yan-xia-chanjin-zheng)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    CVPR 2022 \| 一键解锁微软亚洲研究院计算机视觉领域前沿进展! [read](https://www.msra.cn/zh-cn/news/features/cvpr-2022)
 
-   砸 1 亿美元奖励，这次马斯克要和碳「干到底」 [read](http://www.geekpark.net/news/304796)
+   一个职高生的逆袭之路 [read](http://www.geekpark.net/news/304487)
 
-   暴跌、扭亏、出海、做品牌……名创优品上市两年的经验与教训 [read](http://www.geekpark.net/news/304779)
+   堵塞交通对抗警察，自动驾驶车辆要「起义」了？ [read](http://www.geekpark.net/news/304818)
 
-   罗永浩：靠内容做直播，对销售帮助有限；任正非：华为没有「天才少年」；吉利正式收购魅族，后者将独立运营 [read](http://www.geekpark.net/news/304755)
+   红杉中国完成 90 亿美元募资；微信测试「大小号」功能；周杰伦新专辑明日首播，QQ 音乐预约突破 400 万 [read](http://www.geekpark.net/news/304799)
 
 ### 金融类
+
+   投资经理需要从不完备的信息中得出有效的决策 [read](http://xueqiu.com/1553799558/224554652)
 
    小知识：股价创新高的意义 [read](http://xueqiu.com/3293352184/224508259)
 
    神华的那些铁路 [read](http://xueqiu.com/8745459979/224435295)
-
-   追求进攻性的黑马经理组合 VS 追求确定性的白马经理组合 [read](http://xueqiu.com/9290769077/224530094)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Urban Jungle [read](https://www.behance.net/gallery/135853969/Urban-Jungle)
+   Suma Content Visual Brand [read](https://www.behance.net/gallery/147453985/Suma-Content-Visual-Brand)
 
-   SPACES INSIDE SLEEP [read](https://www.behance.net/gallery/141636869/SPACES-INSIDE-SLEEP)
+   Planet Earth [read](https://www.behance.net/gallery/143095423/Planet-Earth)
 
-   Scandium Type Specimen Book [read](https://www.behance.net/gallery/147245367/Scandium-Type-Specimen-Book)
+   LE CERCLE [read](https://www.behance.net/gallery/145717847/LE-CERCLE)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -140,17 +140,17 @@ title: "今日资讯"
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
+   Pinterest Launches Ads in Argentina, Colombia and Chile [read](https://newsroom.pinterest.com/en/post/pinterest-launches-ads-in-argentina-colombia-and-chile)
+
    Pinterest Appoints Bill Ready CEO; Co-Founder and CEO Ben Silbermann Transitions to Executive Chairman [read](https://newsroom.pinterest.com/en/post/CEO)
 
    Introducing new ways for advertisers and creators to inspire with Idea ads [read](https://newsroom.pinterest.com/en/post/introducing-new-ways-for-advertisers-and-creators-to-inspire-with-idea-ads)
 
-   Pinterest and Tastemade partner on scaling creators, content and live streaming around the world [read](https://newsroom.pinterest.com/en/post/pinterest-and-tastemade-partner-on-scaling-creators-content-and-live-streaming-around-the)
+   NVIDIA Studio 创意加速：CG 艺术家杨雪果分享其分形艺术系列作品的创作流程 [read](https://www.uisdc.com/yangxueguo-2022)
 
-   第一波！2022年7月精选实用设计干货合集 [read](https://www.uisdc.com/2022-7-design-resources-vol1)
+   7W 奖金、159 个获奖名额！「虚幻映未来」虚拟 IP 形象创意设计大赛等你参加 [read](https://www.uisdc.com/ip-virtualimage-2022)
 
-   超全面！写给应届设计师的面试就业白皮书 [read](https://www.uisdc.com/interview-guide)
-
-   6000字干货！聊聊个人设计偏好的效用与避坑指南 [read](https://www.uisdc.com/use-design-preferences-at-work)
+   插画师自我提升必看！一个网站带你全面了解插画发展史 [read](https://www.uisdc.com/illustration-history)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
