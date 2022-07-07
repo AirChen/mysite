@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.KissingPuffins_EN-US7469101764_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.HecetaHead_EN-US7658704670_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -54,11 +54,11 @@ title: "今日资讯"
 
    \[原\]8K HDR!｜为 Chromium 实现 HEVC 硬解 - 原理/实测指南 [read](https://blog.csdn.net/ByteDanceTech/article/details/125551027)
 
+   外卖广告大规模深度学习模型工程实践 \| 美团外卖广告工程实践专题连载 [read](https://tech.meituan.com/2022/07/06/largescaledeeplearningmodel-engineeringpractice-in-mtwaimaiad.html)
+
+   大众点评搜索相关性技术探索与实践 [read](https://tech.meituan.com/2022/07/06/semantic-relevance-matching.html)
+
    CVPR 2022 \| 美团技术团队精选论文解读 [read](https://tech.meituan.com/2022/06/23/cvpr-2022-meituan.html)
-
-   YOLOv6：又快又准的目标检测框架开源啦 [read](https://tech.meituan.com/2022/06/23/yolov6-a-fast-and-accurate-target-detection-framework-is-opening-source.html)
-
-   端智能在大众点评搜索重排序的应用实践 [read](https://tech.meituan.com/2022/06/16/edge-search-rerank.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,29 +68,29 @@ title: "今日资讯"
 
 ### 互联网类
 
+   造概念车上瘾的高合，该踏实点了 [read](http://www.huxiu.com/article/600283.html?f=wangzhan)
+
+   德云社风波不断，郭德纲还能撑多久？ [read](http://www.huxiu.com/article/601505.html?f=wangzhan)
+
    自动驾驶“进城”，想绕过地图却离不开 [read](http://www.huxiu.com/article/600486.html?f=wangzhan)
 
-   国产医疗剧，为何十年磨不出一剑？ [read](http://www.huxiu.com/article/600549.html?f=wangzhan)
+   氪星晚报 \| 索尼中国公司董事长变更；宁德时代成交额突破100亿元；汽车产业链掀起涨停潮 [read](https://36kr.com/p/1817345606708613)
 
-   你闭眼买雪糕的样子，真令人羡慕 [read](http://www.huxiu.com/article/600700.html?f=wangzhan)
+   CEO锦囊vol.7丨如何组建一支势破如竹的上市智囊团？ [read](https://36kr.com/p/1817000313367937)
 
-   氪星晚报 \| 蔚来发布2025年高速换电网络建设计划；飞书首次发布制造行业最佳实践合集；我国新能源汽车数量突破1000万辆 [read](https://36kr.com/p/1815857882295174)
+   每一个工业齿轮都值得拥有“姓名” [read](https://36kr.com/p/1817316977454470)
 
-   焦点分析 \| 周杰伦《最伟大的作品》来了，哪家平台能接得住？ [read](https://36kr.com/p/1815548781784200)
-
-   创变者私董会：硬科技正当时，如何借力香港走出去？ [read](https://36kr.com/p/1815826941750407)
+   科学智能（AI4Science）赋能科学发现的第五范式 [read](https://www.msra.cn/zh-cn/news/features/ai4science)
 
    AI与教育的深度融合，究竟什么是核心问题？ [read](https://www.msra.cn/zh-cn/news/features/yan-xia-chanjin-zheng)
 
    渣画质视频秒变清晰，“达芬奇”工具集帮你自动搞定 [read](https://www.msra.cn/zh-cn/news/features/davinci)
 
-   CVPR 2022 \| 一键解锁微软亚洲研究院计算机视觉领域前沿进展! [read](https://www.msra.cn/zh-cn/news/features/cvpr-2022)
+   硅谷富豪为科学家妻子捐建科研机构，还拉上 V 神、小扎 [read](http://www.geekpark.net/news/304875)
 
-   一个职高生的逆袭之路 [read](http://www.geekpark.net/news/304487)
+   被传夸大解读华为，陈春花：消息不实，已请律师；TikTok 放弃欧美直播带货；马斯克弟弟接盘英特尔无人机 [read](http://www.geekpark.net/news/304848)
 
-   堵塞交通对抗警察，自动驾驶车辆要「起义」了？ [read](http://www.geekpark.net/news/304818)
-
-   红杉中国完成 90 亿美元募资；微信测试「大小号」功能；周杰伦新专辑明日首播，QQ 音乐预约突破 400 万 [read](http://www.geekpark.net/news/304799)
+   一个职校生的逆袭 [read](http://www.geekpark.net/news/304487)
 
 ### 金融类
 
@@ -102,17 +102,17 @@ title: "今日资讯"
 
 ### 学习类
 
+   💻 Issue 315 - RLS Deprecation \| Rust Blog [read](https://rust.libhunt.com/newsletter/315)
+
    💻 Issue 314 - Linus Torvalds is cautiously optimistic about bringing Rust into Linux kernel's next release [read](https://rust.libhunt.com/newsletter/314)
 
    💻 Issue 313 - Rust tops StackOverflow Survey 2022 as the most loved language for the 7th year. [read](https://rust.libhunt.com/newsletter/313)
 
-   💻 Issue 312 - The Rust borrow checker just got (a little bit) smarter [read](https://rust.libhunt.com/newsletter/312)
+   This Week in Rust 450 [read](https://this-week-in-rust.org/blog/2022/07/06/this-week-in-rust-450/)
 
    This Week in Rust 449 [read](https://this-week-in-rust.org/blog/2022/06/29/this-week-in-rust-449/)
 
    This Week in Rust 448 [read](https://this-week-in-rust.org/blog/2022/06/22/this-week-in-rust-448/)
-
-   This Week in Rust 447 [read](https://this-week-in-rust.org/blog/2022/06/15/this-week-in-rust-447/)
 
    ETCD的内存问题 [read](https://coolshell.cn/articles/22242.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Suma Content Visual Brand [read](https://www.behance.net/gallery/147453985/Suma-Content-Visual-Brand)
+   SHINSAIBASHI PARCO 2021 "RE: CULTURE" [read](https://www.behance.net/gallery/147363489/SHINSAIBASHI-PARCO-2021-RE-CULTURE)
 
-   Planet Earth [read](https://www.behance.net/gallery/143095423/Planet-Earth)
+   From the streets of Bhaktapur [read](https://www.behance.net/gallery/147525613/From-the-streets-of-Bhaktapur)
 
-   LE CERCLE [read](https://www.behance.net/gallery/145717847/LE-CERCLE)
+   TURKUS+LAINER the flooring brand for those who aim high [read](https://www.behance.net/gallery/147472937/TURKUSLAINER-the-flooring-brand-for-those-who-aim-high)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -140,17 +140,17 @@ title: "今日资讯"
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
+   Pinterest doubles down on Shopping, introducing API for Shopping and Product Tagging for Pins, Driving Merchant Success on the Platform [read](https://newsroom.pinterest.com/en/post/pinterest-doubles-down-on-shopping-introducing-api-for-shopping-and-product-tagging-for-pins-0)
+
    Pinterest Launches Ads in Argentina, Colombia and Chile [read](https://newsroom.pinterest.com/en/post/pinterest-launches-ads-in-argentina-colombia-and-chile)
 
    Pinterest Appoints Bill Ready CEO; Co-Founder and CEO Ben Silbermann Transitions to Executive Chairman [read](https://newsroom.pinterest.com/en/post/CEO)
 
-   Introducing new ways for advertisers and creators to inspire with Idea ads [read](https://newsroom.pinterest.com/en/post/introducing-new-ways-for-advertisers-and-creators-to-inspire-with-idea-ads)
+   从不同行业场景出发，解锁音视频技术议题 [read](https://www.uisdc.com/live-video-stackcon-2022)
 
-   NVIDIA Studio 创意加速：CG 艺术家杨雪果分享其分形艺术系列作品的创作流程 [read](https://www.uisdc.com/yangxueguo-2022)
+   腾讯重磅出品！2022-2023 设计趋势报告：NFT虚拟形象篇（上） [read](https://www.uisdc.com/nft-virtual-image)
 
-   7W 奖金、159 个获奖名额！「虚幻映未来」虚拟 IP 形象创意设计大赛等你参加 [read](https://www.uisdc.com/ip-virtualimage-2022)
-
-   插画师自我提升必看！一个网站带你全面了解插画发展史 [read](https://www.uisdc.com/illustration-history)
+   除了思源黑体，这5款免费可商用黑体字也不容错过！ [read](https://www.uisdc.com/5-commercially-available-blackbody)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
