@@ -2,19 +2,19 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.HecetaHead_EN-US7658704670_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.PreveliGorge_EN-US7830712096_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
+   科技爱好者周刊（第 213 期）：知识孤岛，知识软件 [read](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html)
+
    科技爱好者周刊（第 212 期）：人生不短 [read](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html)
 
-   云主机上手教程：轻量应用服务器体验 [read](http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html)
+   ECS 系统中 Entity 的生命期管理 [read](https://blog.codingnow.com/2022/07/entity_lifespan.html)
 
    分组功能在挂接系统上的使用 [read](https://blog.codingnow.com/2022/07/group_mount.html)
 
    给 ECS 增加分组功能 [read](https://blog.codingnow.com/2022/06/ecs_group.html)
-
-   用邻接表实现无向图 [read](https://blog.codingnow.com/2022/06/ajdjacency_list.html)
 
    一个付费 chrome 插件的一生 [read](https://blog.t9t.io/star-history-2021-01-21/)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 454 期 [read](https://weekly.75.team/issue454.html)
+
    奇舞周刊第 453 期 [read](https://weekly.75.team/issue453.html)
 
    奇舞周刊第 452 期 [read](https://weekly.75.team/issue452.html)
-
-   奇舞周刊第 451 期 [read](https://weekly.75.team/issue451.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]数据质量动态探查及相关前端实现 [read](https://blog.csdn.net/ByteDanceTech/article/details/125670112)
+
    \[原\]基于 http-flv 的抖音直播端到端延迟优化实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125631101)
 
    \[原\]海量数据冷热分离方案与实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125567986)
-
-   \[原\]8K HDR!｜为 Chromium 实现 HEVC 硬解 - 原理/实测指南 [read](https://blog.csdn.net/ByteDanceTech/article/details/125551027)
 
    外卖广告大规模深度学习模型工程实践 \| 美团外卖广告工程实践专题连载 [read](https://tech.meituan.com/2022/07/06/largescaledeeplearningmodel-engineeringpractice-in-mtwaimaiad.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   造概念车上瘾的高合，该踏实点了 [read](http://www.huxiu.com/article/600283.html?f=wangzhan)
+   警察叔叔，是如何知道你超速了？ [read](http://www.huxiu.com/article/602804.html?f=wangzhan)
 
-   德云社风波不断，郭德纲还能撑多久？ [read](http://www.huxiu.com/article/601505.html?f=wangzhan)
+   网易，做不了To B的“头号玩家” [read](http://www.huxiu.com/article/602737.html?f=wangzhan)
 
-   自动驾驶“进城”，想绕过地图却离不开 [read](http://www.huxiu.com/article/600486.html?f=wangzhan)
+   谷歌喜提全新机器学习框架，“头胎”TensorFlow练废了？ [read](http://www.huxiu.com/article/602218.html?f=wangzhan)
 
-   氪星晚报 \| 索尼中国公司董事长变更；宁德时代成交额突破100亿元；汽车产业链掀起涨停潮 [read](https://36kr.com/p/1817345606708613)
+   过敏患者的另类人生：因为过敏，我成了同学口中的「木乃伊」 [read](https://36kr.com/p/1818704277597576)
 
-   CEO锦囊vol.7丨如何组建一支势破如竹的上市智囊团？ [read](https://36kr.com/p/1817000313367937)
+   氪星晚报 \| 协鑫集成：拟与伟力得能源设立合资公司，共同开发储能、光伏、风电项目；苏宁易购江苏门店启动绿色节能补贴；抖音推出独立种草App“可颂” [read](https://36kr.com/p/1818685827214728)
 
-   每一个工业齿轮都值得拥有“姓名” [read](https://36kr.com/p/1817316977454470)
+   北京最贵商圈写字楼空置面积超8万平米 [read](https://36kr.com/p/1818557462343046)
 
    科学智能（AI4Science）赋能科学发现的第五范式 [read](https://www.msra.cn/zh-cn/news/features/ai4science)
 
@@ -86,11 +86,11 @@ title: "今日资讯"
 
    渣画质视频秒变清晰，“达芬奇”工具集帮你自动搞定 [read](https://www.msra.cn/zh-cn/news/features/davinci)
 
+   以太坊——Web3 的「黄埔军校」是怎么炼成的 [read](http://www.geekpark.net/news/304894)
+
+   余承东：汽车是华为唯一亏损业务；Musical.ly 创始人阳陆育从字节离职；狂买百万亩，盖茨成美国最大地主 [read](http://www.geekpark.net/news/304879)
+
    硅谷富豪为科学家妻子捐建科研机构，还拉上 V 神、小扎 [read](http://www.geekpark.net/news/304875)
-
-   被传夸大解读华为，陈春花：消息不实，已请律师；TikTok 放弃欧美直播带货；马斯克弟弟接盘英特尔无人机 [read](http://www.geekpark.net/news/304848)
-
-   一个职校生的逆袭 [read](http://www.geekpark.net/news/304487)
 
 ### 金融类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   SHINSAIBASHI PARCO 2021 "RE: CULTURE" [read](https://www.behance.net/gallery/147363489/SHINSAIBASHI-PARCO-2021-RE-CULTURE)
+   Pop culture dystopia part 3 [read](https://www.behance.net/gallery/140735773/Pop-culture-dystopia-part-3)
 
-   From the streets of Bhaktapur [read](https://www.behance.net/gallery/147525613/From-the-streets-of-Bhaktapur)
+   La Rústica [read](https://www.behance.net/gallery/147608505/La-Rustica)
 
-   TURKUS+LAINER the flooring brand for those who aim high [read](https://www.behance.net/gallery/147472937/TURKUSLAINER-the-flooring-brand-for-those-who-aim-high)
+   Hobby Box of Writing Tools - illustrations [read](https://www.behance.net/gallery/147654831/Hobby-Box-of-Writing-Tools-illustrations)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Appoints Bill Ready CEO; Co-Founder and CEO Ben Silbermann Transitions to Executive Chairman [read](https://newsroom.pinterest.com/en/post/CEO)
 
-   从不同行业场景出发，解锁音视频技术议题 [read](https://www.uisdc.com/live-video-stackcon-2022)
+   超简单！从这6个方面入手，彻底掌握表单设计 [read](https://www.uisdc.com/world-class-forms-tips)
 
-   腾讯重磅出品！2022-2023 设计趋势报告：NFT虚拟形象篇（上） [read](https://www.uisdc.com/nft-virtual-image)
+   三维地图绘制神器 NB MAP 升级了！可支持下载区县、乡镇地图！ [read](https://www.uisdc.com/nb-map-2)
 
-   除了思源黑体，这5款免费可商用黑体字也不容错过！ [read](https://www.uisdc.com/5-commercially-available-blackbody)
+   带上耳机，盘点周杰伦《最伟大的作品》里的那些艺术大师 [read](https://www.uisdc.com/greatest-works-of-art)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
