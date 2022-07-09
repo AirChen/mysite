@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.PreveliGorge_EN-US7830712096_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.DolomitesMW_EN-US7903776288_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   警察叔叔，是如何知道你超速了？ [read](http://www.huxiu.com/article/602804.html?f=wangzhan)
+   半年狂卖64万辆，比亚迪还是输给特斯拉？ [read](http://www.huxiu.com/article/603485.html?f=wangzhan)
 
-   网易，做不了To B的“头号玩家” [read](http://www.huxiu.com/article/602737.html?f=wangzhan)
+   买得起自行车？你是隐形富豪吧？ [read](http://www.huxiu.com/article/603596.html?f=wangzhan)
 
-   谷歌喜提全新机器学习框架，“头胎”TensorFlow练废了？ [read](http://www.huxiu.com/article/602218.html?f=wangzhan)
+   大众电动车，中国受够了 [read](http://www.huxiu.com/article/602828.html?f=wangzhan)
 
-   过敏患者的另类人生：因为过敏，我成了同学口中的「木乃伊」 [read](https://36kr.com/p/1818704277597576)
+   36碳周报｜8只碳中和主题ETF合计认购逾130亿；香港交易所成立香港国际碳市场委员会，布局发展碳市场；苏宁易购江苏门店启动绿色节能补贴；欧洲央行宣布采取更多措施把气候变化因素纳入货币政策 [read](https://36kr.com/p/1818833746128512)
 
-   氪星晚报 \| 协鑫集成：拟与伟力得能源设立合资公司，共同开发储能、光伏、风电项目；苏宁易购江苏门店启动绿色节能补贴；抖音推出独立种草App“可颂” [read](https://36kr.com/p/1818685827214728)
+   一个男生的「女装实验」：穿裙装出门会发生什么？ [read](https://36kr.com/p/1818707417280130)
 
-   北京最贵商圈写字楼空置面积超8万平米 [read](https://36kr.com/p/1818557462343046)
+   9点1氪丨日本前首相安倍晋三因伤势过重不治身亡；​马斯克终止对推特的收购；小米回应“自动驾驶车路试” [read](https://36kr.com/p/1819547876109959)
 
    科学智能（AI4Science）赋能科学发现的第五范式 [read](https://www.msra.cn/zh-cn/news/features/ai4science)
 
@@ -86,11 +86,11 @@ title: "今日资讯"
 
    渣画质视频秒变清晰，“达芬奇”工具集帮你自动搞定 [read](https://www.msra.cn/zh-cn/news/features/davinci)
 
+   马斯克宣布终止收购推特，及时止血还是极限施压？ [read](http://www.geekpark.net/news/304925)
+
+   马斯克放弃收购 Twitter；B 站回应「2 亿用户信息泄露」：完全不实；抖音推内容社区「可颂」 [read](http://www.geekpark.net/news/304924)
+
    以太坊——Web3 的「黄埔军校」是怎么炼成的 [read](http://www.geekpark.net/news/304894)
-
-   余承东：汽车是华为唯一亏损业务；Musical.ly 创始人阳陆育从字节离职；狂买百万亩，盖茨成美国最大地主 [read](http://www.geekpark.net/news/304879)
-
-   硅谷富豪为科学家妻子捐建科研机构，还拉上 V 神、小扎 [read](http://www.geekpark.net/news/304875)
 
 ### 金融类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Pop culture dystopia part 3 [read](https://www.behance.net/gallery/140735773/Pop-culture-dystopia-part-3)
+   CYBER KITTY (NFT) [read](https://www.behance.net/gallery/147347921/CYBER-KITTY-%28NFT%29)
 
-   La Rústica [read](https://www.behance.net/gallery/147608505/La-Rustica)
+   Pizza 24 Icons [read](https://www.behance.net/gallery/147522125/Pizza-24-Icons)
 
-   Hobby Box of Writing Tools - illustrations [read](https://www.behance.net/gallery/147654831/Hobby-Box-of-Writing-Tools-illustrations)
+   ? Tropical ? Geo XIV ? [read](https://www.behance.net/gallery/147650575/-Tropical-Geo-XIV-)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
