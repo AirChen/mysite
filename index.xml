@@ -138,11 +138,11 @@ self.collectionView = [[UICollectionView alloc] initWithFrame:CGRectZero collect
 - (NSInteger)collectionView:(UICollectionView *)collectionView numberOfItemsInSection:(NSInteger)section; - (__kindof UICollectionViewCell *)collectionView:(UICollectionView *)collectionView cellForItemAtIndexPath:(NSIndexPath *)indexPath; 其中UICollectionViewCell可以子类化，添加一些label或者ImageView。
 可以简单的子类化一个UICollectionViewFlowLayout，只需复写以下init方法：
 -(id)init { if (!(self = [super init])) return nil; self.itemSize = CGSizeMake(30, 30); self.sectionInset = UIEdgeInsetsMake(10, 10, 10, 10); self.minimumInteritemSpacing = 10.0f; self.minimumLineSpacing = 10.0f; return self; } 此外UICollectionViewFlowLayout还包括一些其他的方法，可以根据需求来选择：
--(CGSize)collectionViewContentSize //返回contentsize的总大小 -(BOOL)shouldInvalidateLayoutForBoundsChange:(CGRect)newBounds //自定义布局必须YES - (UICollectionViewLayoutAttributes *)layoutAttributesForItemAtIndexPath:(NSIndexPath *)path{}//返回每个cell的布局属性 -(NSArray*)layoutAttributesForElementsInRect:(CGRect)rect //返回所有cell的布局属性 参考实例</description></item><item><title>About Me</title><link>https://blog.airchen-space.top/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.airchen-space.top/about/</guid><description>个人信息 任志琛 男 30岁 工作经验 5年 工作经历 北京百度网讯科技有限公司 C++ 地图服务 2021年8月 至今 北京四维图新科技股份有限公司 C++ 地图引擎开发 2018年4月 2021年8月 北京四维智联科技有限公司 iOS SDK开发 2017年7月 2018年4月 教育经历 研究生 广西师范大学 电子科学与技术 本科 北京邮电大学世纪学院 通信工程 联系我 邮箱 renzhichen2012@163.com qq 252199456</description></item><item><title>今日资讯</title><link>https://blog.airchen-space.top/daily/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.airchen-space.top/daily/</guid><description>个人博客 科技爱好者周刊（第 212 期）：人生不短 read
-云主机上手教程：轻量应用服务器体验 read
+-(CGSize)collectionViewContentSize //返回contentsize的总大小 -(BOOL)shouldInvalidateLayoutForBoundsChange:(CGRect)newBounds //自定义布局必须YES - (UICollectionViewLayoutAttributes *)layoutAttributesForItemAtIndexPath:(NSIndexPath *)path{}//返回每个cell的布局属性 -(NSArray*)layoutAttributesForElementsInRect:(CGRect)rect //返回所有cell的布局属性 参考实例</description></item><item><title>About Me</title><link>https://blog.airchen-space.top/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.airchen-space.top/about/</guid><description>个人信息 任志琛 男 30岁 工作经验 5年 工作经历 北京百度网讯科技有限公司 C++ 地图服务 2021年8月 至今 北京四维图新科技股份有限公司 C++ 地图引擎开发 2018年4月 2021年8月 北京四维智联科技有限公司 iOS SDK开发 2017年7月 2018年4月 教育经历 研究生 广西师范大学 电子科学与技术 本科 北京邮电大学世纪学院 通信工程 联系我 邮箱 renzhichen2012@163.com qq 252199456</description></item><item><title>今日资讯</title><link>https://blog.airchen-space.top/daily/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.airchen-space.top/daily/</guid><description>个人博客 科技爱好者周刊（第 213 期）：知识孤岛，知识软件 read
+科技爱好者周刊（第 212 期）：人生不短 read
+ECS 系统中 Entity 的生命期管理 read
 分组功能在挂接系统上的使用 read
 给 ECS 增加分组功能 read
-用邻接表实现无向图 read
 一个付费 chrome 插件的一生 read
 通过 GitHub 订阅 Hacker News 每日 top 10 read
 让用户决定软件长什么样 read
@@ -152,11 +152,9 @@ self.collectionView = [[UICollectionView alloc] initWithFrame:CGRectZero collect
 IT团队博客 走向匿名化，谈谈微信小程序新授权登录 read
 yield 学习 read
 callable-object read
+奇舞周刊第 454 期 read
 奇舞周刊第 453 期 read
 奇舞周刊第 452 期 read
-奇舞周刊第 451 期 read
 VS Code 是如何优化启动性能的？ read
 服饰3D柔性渲染调研及实践 read
-业务系统的稳定性建设 read
-[原]基于 http-flv 的抖音直播端到端延迟优化实践 read
-[原]海量数据冷热分离方案与实践 read</description></item></channel></rss>
+业务系统的稳定性建设 read</description></item></channel></rss>
