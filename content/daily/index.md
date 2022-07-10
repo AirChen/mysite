@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.DolomitesMW_EN-US7903776288_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.OludenizTurkey_EN-US7964154843_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -74,11 +74,11 @@ title: "今日资讯"
 
    大众电动车，中国受够了 [read](http://www.huxiu.com/article/602828.html?f=wangzhan)
 
+   不要假装爱周杰伦 [read](https://36kr.com/p/1821217118269057)
+
+   医疗健康行业周报（双周） \|「铖联科技」获1.4亿元A轮融资；「艾登科技」再获2亿元B+轮融资 [read](https://36kr.com/p/1821444572851584)
+
    36碳周报｜8只碳中和主题ETF合计认购逾130亿；香港交易所成立香港国际碳市场委员会，布局发展碳市场；苏宁易购江苏门店启动绿色节能补贴；欧洲央行宣布采取更多措施把气候变化因素纳入货币政策 [read](https://36kr.com/p/1818833746128512)
-
-   一个男生的「女装实验」：穿裙装出门会发生什么？ [read](https://36kr.com/p/1818707417280130)
-
-   9点1氪丨日本前首相安倍晋三因伤势过重不治身亡；​马斯克终止对推特的收购；小米回应“自动驾驶车路试” [read](https://36kr.com/p/1819547876109959)
 
    科学智能（AI4Science）赋能科学发现的第五范式 [read](https://www.msra.cn/zh-cn/news/features/ai4science)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    渣画质视频秒变清晰，“达芬奇”工具集帮你自动搞定 [read](https://www.msra.cn/zh-cn/news/features/davinci)
 
+   抖音严惩汽车「泛黄」擦边直播；无印良品推联名电单车，4980元；美国风能、太阳能发电超过核电 [read](http://www.geekpark.net/news/304926)
+
    马斯克宣布终止收购推特，及时止血还是极限施压？ [read](http://www.geekpark.net/news/304925)
 
    马斯克放弃收购 Twitter；B 站回应「2 亿用户信息泄露」：完全不实；抖音推内容社区「可颂」 [read](http://www.geekpark.net/news/304924)
 
-   以太坊——Web3 的「黄埔军校」是怎么炼成的 [read](http://www.geekpark.net/news/304894)
-
 ### 金融类
 
-   投资经理需要从不完备的信息中得出有效的决策 [read](http://xueqiu.com/1553799558/224554652)
+   格力渠道销售改革进展汇报暨2022年半年报预测 [read](http://xueqiu.com/9565842679/224919839)
 
-   小知识：股价创新高的意义 [read](http://xueqiu.com/3293352184/224508259)
+   万亿市值比亚迪的投资价值在哪里？ [read](http://xueqiu.com/2021998461/224765516)
 
-   神华的那些铁路 [read](http://xueqiu.com/8745459979/224435295)
+   决定长仓中远海控，直至机构开始重仓 [read](http://xueqiu.com/4762760963/224824516)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   CYBER KITTY (NFT) [read](https://www.behance.net/gallery/147347921/CYBER-KITTY-%28NFT%29)
+   Supersam Brochure illustrations [read](https://www.behance.net/gallery/147757805/Supersam-Brochure-illustrations)
 
-   Pizza 24 Icons [read](https://www.behance.net/gallery/147522125/Pizza-24-Icons)
+   Kalach TAX [read](https://www.behance.net/gallery/147636855/Kalach-TAX)
 
-   ? Tropical ? Geo XIV ? [read](https://www.behance.net/gallery/147650575/-Tropical-Geo-XIV-)
+   NFL SUPERSTARS [read](https://www.behance.net/gallery/147694427/NFL-SUPERSTARS)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Appoints Bill Ready CEO; Co-Founder and CEO Ben Silbermann Transitions to Executive Chairman [read](https://newsroom.pinterest.com/en/post/CEO)
 
+   设计师职场焦虑怎么办？我总结了这4个方面！ [read](https://www.uisdc.com/designer-thinking)
+
    超简单！从这6个方面入手，彻底掌握表单设计 [read](https://www.uisdc.com/world-class-forms-tips)
 
    三维地图绘制神器 NB MAP 升级了！可支持下载区县、乡镇地图！ [read](https://www.uisdc.com/nb-map-2)
-
-   带上耳机，盘点周杰伦《最伟大的作品》里的那些艺术大师 [read](https://www.uisdc.com/greatest-works-of-art)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
