@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.OludenizTurkey_EN-US7964154843_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BarcelonaPop_EN-US8033472712_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   半年狂卖64万辆，比亚迪还是输给特斯拉？ [read](http://www.huxiu.com/article/603485.html?f=wangzhan)
+   浅析周杰伦新作背后：音乐媒介发展简史 [read](http://www.huxiu.com/article/604944.html?f=wangzhan)
 
-   买得起自行车？你是隐形富豪吧？ [read](http://www.huxiu.com/article/603596.html?f=wangzhan)
+   40岁大龄单身：我不想为了结婚而结婚 [read](http://www.huxiu.com/article/604983.html?f=wangzhan)
 
-   大众电动车，中国受够了 [read](http://www.huxiu.com/article/602828.html?f=wangzhan)
+   早已卸任的安倍，为什么还会遇刺？ [read](http://www.huxiu.com/article/604689.html?f=wangzhan)
 
-   不要假装爱周杰伦 [read](https://36kr.com/p/1821217118269057)
+   氪星晚报丨央行：上半年人民币贷款增加13.68万亿元，同比多增9192亿元；抖音本地生活狂飙突进：上半年GMV 220亿，今年拓城至55个 [read](https://36kr.com/p/1822951005335433)
 
-   医疗健康行业周报（双周） \|「铖联科技」获1.4亿元A轮融资；「艾登科技」再获2亿元B+轮融资 [read](https://36kr.com/p/1821444572851584)
+   PropTech周刊｜保利资本领投钢结构数字化平台、绿地设立100亿碳中和科技投资基金、上海元宇宙产业规模目标3500亿元 [read](https://36kr.com/p/1823132084973440)
 
-   36碳周报｜8只碳中和主题ETF合计认购逾130亿；香港交易所成立香港国际碳市场委员会，布局发展碳市场；苏宁易购江苏门店启动绿色节能补贴；欧洲央行宣布采取更多措施把气候变化因素纳入货币政策 [read](https://36kr.com/p/1818833746128512)
+   第一家抖音数字商品服务优质服务商，福禄网络做对了什么？ [read](https://36kr.com/p/1822881268756616)
 
    科学智能（AI4Science）赋能科学发现的第五范式 [read](https://www.msra.cn/zh-cn/news/features/ai4science)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    渣画质视频秒变清晰，“达芬奇”工具集帮你自动搞定 [read](https://www.msra.cn/zh-cn/news/features/davinci)
 
+   重新认识九号 [read](http://www.geekpark.net/news/304993)
+
+   罗永浩公布新公司「细红线」，官网曝光；中国新能源车突破千万大关；新专辑曝光后，周杰伦账号堆满粉丝「差评」｜极客早知道 [read](http://www.geekpark.net/news/304928)
+
    抖音严惩汽车「泛黄」擦边直播；无印良品推联名电单车，4980元；美国风能、太阳能发电超过核电 [read](http://www.geekpark.net/news/304926)
-
-   马斯克宣布终止收购推特，及时止血还是极限施压？ [read](http://www.geekpark.net/news/304925)
-
-   马斯克放弃收购 Twitter；B 站回应「2 亿用户信息泄露」：完全不实；抖音推内容社区「可颂」 [read](http://www.geekpark.net/news/304924)
 
 ### 金融类
 
-   格力渠道销售改革进展汇报暨2022年半年报预测 [read](http://xueqiu.com/9565842679/224919839)
+   养猪上市公司的“遮羞布” [read](http://xueqiu.com/4019095410/224896572)
 
-   万亿市值比亚迪的投资价值在哪里？ [read](http://xueqiu.com/2021998461/224765516)
+   硅料三杰2022年上半年业绩预告对比分析及未来发展预测 [read](http://xueqiu.com/3386934197/224944077)
 
-   决定长仓中远海控，直至机构开始重仓 [read](http://xueqiu.com/4762760963/224824516)
+   21年银行数据分析（完） [read](http://xueqiu.com/3501227211/224947411)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Supersam Brochure illustrations [read](https://www.behance.net/gallery/147757805/Supersam-Brochure-illustrations)
+   Mr.377 \| 377????7?? [read](https://www.behance.net/gallery/147737697/Mr377-3777)
 
-   Kalach TAX [read](https://www.behance.net/gallery/147636855/Kalach-TAX)
+   An image from the inside. Poster [read](https://www.behance.net/gallery/147742509/An-image-from-the-inside-Poster)
 
-   NFL SUPERSTARS [read](https://www.behance.net/gallery/147694427/NFL-SUPERSTARS)
+   HUMXN [read](https://www.behance.net/gallery/146547395/HUMXN)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -140,17 +140,17 @@ title: "今日资讯"
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
+   Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
+
    Pinterest doubles down on Shopping, introducing API for Shopping and Product Tagging for Pins, Driving Merchant Success on the Platform [read](https://newsroom.pinterest.com/en/post/pinterest-doubles-down-on-shopping-introducing-api-for-shopping-and-product-tagging-for-pins-0)
 
    Pinterest Launches Ads in Argentina, Colombia and Chile [read](https://newsroom.pinterest.com/en/post/pinterest-launches-ads-in-argentina-colombia-and-chile)
 
-   Pinterest Appoints Bill Ready CEO; Co-Founder and CEO Ben Silbermann Transitions to Executive Chairman [read](https://newsroom.pinterest.com/en/post/CEO)
+   涨知识！9 种常见中式传统纹样 [read](https://www.uisdc.com/9-chinese-pattern)
 
-   设计师职场焦虑怎么办？我总结了这4个方面！ [read](https://www.uisdc.com/designer-thinking)
+   腾讯重磅出品！2022-2023 设计趋势报告：NFT虚拟形象篇（下） [read](https://www.uisdc.com/nft-virtual-image-2)
 
-   超简单！从这6个方面入手，彻底掌握表单设计 [read](https://www.uisdc.com/world-class-forms-tips)
-
-   三维地图绘制神器 NB MAP 升级了！可支持下载区县、乡镇地图！ [read](https://www.uisdc.com/nb-map-2)
+   高手才懂的6个设计细节问题，这次终于学会了！ [read](https://www.uisdc.com/6-visual-illusion)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
