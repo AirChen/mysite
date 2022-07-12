@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BarcelonaPop_EN-US8033472712_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SpiralHill_EN-US8098037208_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]字节跳动 Flink 状态查询实践与优化 [read](https://blog.csdn.net/ByteDanceTech/article/details/125755236)
+
+   \[原\]Go 1.18 的那些事——工作区、模糊测试、泛型 [read](https://blog.csdn.net/ByteDanceTech/article/details/125734590)
+
    \[原\]数据质量动态探查及相关前端实现 [read](https://blog.csdn.net/ByteDanceTech/article/details/125670112)
-
-   \[原\]基于 http-flv 的抖音直播端到端延迟优化实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125631101)
-
-   \[原\]海量数据冷热分离方案与实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125567986)
 
    外卖广告大规模深度学习模型工程实践 \| 美团外卖广告工程实践专题连载 [read](https://tech.meituan.com/2022/07/06/largescaledeeplearningmodel-engineeringpractice-in-mtwaimaiad.html)
 
@@ -68,37 +68,37 @@ title: "今日资讯"
 
 ### 互联网类
 
-   浅析周杰伦新作背后：音乐媒介发展简史 [read](http://www.huxiu.com/article/604944.html?f=wangzhan)
+   企业家如何面对复杂的舆论环境？ [read](http://www.huxiu.com/article/605734.html?f=wangzhan)
 
-   40岁大龄单身：我不想为了结婚而结婚 [read](http://www.huxiu.com/article/604983.html?f=wangzhan)
+   电商SaaS入冬，有赞们的新衣难御寒 [read](http://www.huxiu.com/article/605215.html?f=wangzhan)
 
-   早已卸任的安倍，为什么还会遇刺？ [read](http://www.huxiu.com/article/604689.html?f=wangzhan)
+   降低癌症死亡率，AI能做些什么？ [read](http://www.huxiu.com/article/605133.html?f=wangzhan)
 
-   氪星晚报丨央行：上半年人民币贷款增加13.68万亿元，同比多增9192亿元；抖音本地生活狂飙突进：上半年GMV 220亿，今年拓城至55个 [read](https://36kr.com/p/1822951005335433)
+   氪星晚报丨腾讯CSIG组织升级：成立政企业务线，李强担任政企业务总裁；顺丰同城：2021年科技研发投入1.93亿元；比亚迪成立新能源汽车综合测试场 [read](https://36kr.com/p/1824315207233670)
 
-   PropTech周刊｜保利资本领投钢结构数字化平台、绿地设立100亿碳中和科技投资基金、上海元宇宙产业规模目标3500亿元 [read](https://36kr.com/p/1823132084973440)
+   最前线 \| 腾讯CSIG新调整：成立政企业务线，李强任业务线总裁 [read](https://36kr.com/p/1824270478241925)
 
-   第一家抖音数字商品服务优质服务商，福禄网络做对了什么？ [read](https://36kr.com/p/1822881268756616)
+   海外new things｜「Kadmos」完成2950万美元A轮融资，帮助移民工人轻松获得报酬 [read](https://36kr.com/p/1824261198753921)
+
+   OSDI 2022 \| 速来围观！微软亚洲研究院计算机系统领域最新论文！ [read](https://www.msra.cn/zh-cn/news/features/osdi-2022)
 
    科学智能（AI4Science）赋能科学发现的第五范式 [read](https://www.msra.cn/zh-cn/news/features/ai4science)
 
    AI与教育的深度融合，究竟什么是核心问题？ [read](https://www.msra.cn/zh-cn/news/features/yan-xia-chanjin-zheng)
 
-   渣画质视频秒变清晰，“达芬奇”工具集帮你自动搞定 [read](https://www.msra.cn/zh-cn/news/features/davinci)
+   为什么硅谷巨头，都想弄一个「微信」出来？ [read](http://www.geekpark.net/news/305036)
+
+   上海：不得歧视新冠阳性康复者；苹果发 iOS 16公开测试版；NASA 公布韦伯太空望远镜首张全彩照片 [read](http://www.geekpark.net/news/304996)
 
    重新认识九号 [read](http://www.geekpark.net/news/304993)
 
-   罗永浩公布新公司「细红线」，官网曝光；中国新能源车突破千万大关；新专辑曝光后，周杰伦账号堆满粉丝「差评」｜极客早知道 [read](http://www.geekpark.net/news/304928)
-
-   抖音严惩汽车「泛黄」擦边直播；无印良品推联名电单车，4980元；美国风能、太阳能发电超过核电 [read](http://www.geekpark.net/news/304926)
-
 ### 金融类
 
-   养猪上市公司的“遮羞布” [read](http://xueqiu.com/4019095410/224896572)
+   业绩排名前10%，规模却不到10亿——盘点“小而美”基金 [read](http://xueqiu.com/1810621710/225128641)
 
-   硅料三杰2022年上半年业绩预告对比分析及未来发展预测 [read](http://xueqiu.com/3386934197/224944077)
+   巴菲特清仓比亚迪的启示 [read](http://xueqiu.com/6169865362/225105805)
 
-   21年银行数据分析（完） [read](http://xueqiu.com/3501227211/224947411)
+   从2020年人口普查数据看乘用车市场格局 [read](http://xueqiu.com/5436386345/225049938)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Mr.377 \| 377????7?? [read](https://www.behance.net/gallery/147737697/Mr377-3777)
+   Le Relais Plaza [read](https://www.behance.net/gallery/147562285/Le-Relais-Plaza)
 
-   An image from the inside. Poster [read](https://www.behance.net/gallery/147742509/An-image-from-the-inside-Poster)
+   ?~????? [read](https://www.behance.net/gallery/142833903/_)
 
-   HUMXN [read](https://www.behance.net/gallery/146547395/HUMXN)
+   Sana Labs [read](https://www.behance.net/gallery/147901325/Sana-Labs)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Launches Ads in Argentina, Colombia and Chile [read](https://newsroom.pinterest.com/en/post/pinterest-launches-ads-in-argentina-colombia-and-chile)
 
-   涨知识！9 种常见中式传统纹样 [read](https://www.uisdc.com/9-chinese-pattern)
+   第二波！2022年7月精选实用设计干货合集 [read](https://www.uisdc.com/2022-7-design-resources-vol2)
 
-   腾讯重磅出品！2022-2023 设计趋势报告：NFT虚拟形象篇（下） [read](https://www.uisdc.com/nft-virtual-image-2)
+   网页设计必看！盘点 6个 Dribbble 上的优质设计工作室 [read](https://www.uisdc.com/6-dribbble-design-studios)
 
-   高手才懂的6个设计细节问题，这次终于学会了！ [read](https://www.uisdc.com/6-visual-illusion)
+   从3个阶段，由浅入深帮你完全掌握竞品分析 [read](https://www.uisdc.com/analysis-for-competitive-products)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
