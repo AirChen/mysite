@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BasaltGiants_EN-US8165410401_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BabyLemons_EN-US8232804860_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]慢 SQL 分析与优化 [read](https://blog.csdn.net/ByteDanceTech/article/details/125795764)
+
+   \[原\]文本理解算法在抖音风控上的应用 [read](https://blog.csdn.net/ByteDanceTech/article/details/125775731)
+
    \[原\]字节跳动 Flink 状态查询实践与优化 [read](https://blog.csdn.net/ByteDanceTech/article/details/125755236)
-
-   \[原\]Go 1.18 的那些事——工作区、模糊测试、泛型 [read](https://blog.csdn.net/ByteDanceTech/article/details/125734590)
-
-   \[原\]数据质量动态探查及相关前端实现 [read](https://blog.csdn.net/ByteDanceTech/article/details/125670112)
 
    外卖广告大规模深度学习模型工程实践 \| 美团外卖广告工程实践专题连载 [read](https://tech.meituan.com/2022/07/06/largescaledeeplearningmodel-engineeringpractice-in-mtwaimaiad.html)
 
@@ -68,51 +68,45 @@ title: "今日资讯"
 
 ### 互联网类
 
-   创维贴牌搞业务，四面出击八面受敌 [read](http://www.huxiu.com/article/607090.html?f=wangzhan)
+   湘江畔150平巨幅横厅，把“海底总动员”带回家什么感觉？ [read](http://www.huxiu.com/article/608190.html?f=wangzhan)
 
-   基于女性刻板印象造车，不体面 [read](http://www.huxiu.com/article/607319.html?f=wangzhan)
+   今年的世界杯，为什么跑到冬天去了？ [read](http://www.huxiu.com/article/608072.html?f=wangzhan)
 
-   夏天最热的城市，到底是哪个？ [read](http://www.huxiu.com/article/607036.html?f=wangzhan)
+   李书福想先吃肉，让马斯克去喝汤 [read](http://www.huxiu.com/article/605947.html?f=wangzhan)
 
-   00后和资本的宠儿，Web3在讲什么故事？｜新行业研究 [read](https://36kr.com/p/1825744908977668)
+   海外new things｜「Continuum」完成1200万美元A轮融资，帮助陷入困境的公司人性化裁员 [read](https://36kr.com/p/1827129682560772)
 
-   36氪专访｜“芯”困局下的「安谋科技」：一手加速本土自研IP，一手推广Arm IP与生态 [read](https://36kr.com/p/1825700061267456)
+   发币、关店、供应商谜团，奈雪的茶越走越偏？丨氪金 · 大消费 [read](https://36kr.com/p/1827185406871044)
 
-   最前线 \| 阿里云宣布“伙伴优先”战略，伙伴业务规模四年间增长超7倍 [read](https://36kr.com/p/1825566262200073)
+   产业的​「云梯」：上云一小步，上链一大步 [read](https://36kr.com/p/1827157604533763)
 
-   OSDI 2022 \| 速来围观！微软亚洲研究院计算机系统领域最新论文！ [read](https://www.msra.cn/zh-cn/news/features/osdi-2022)
+   后疫情时代启示录：是时候重新审视数字化了 [read](http://www.geekpark.net/news/305158)
 
-   科学智能（AI4Science）赋能科学发现的第五范式 [read](https://www.msra.cn/zh-cn/news/features/ai4science)
+   对于苹果 AR，罗老师这波点评会不会「草率」了？ [read](http://www.geekpark.net/news/305125)
 
-   AI与教育的深度融合，究竟什么是核心问题？ [read](https://www.msra.cn/zh-cn/news/features/yan-xia-chanjin-zheng)
-
-   尼康回应「停止研发单反」：会继续生产；苹果与 Jony Ive 「彻底分手」；乐视：400 员工不靠《甄嬛传》存活 [read](http://www.geekpark.net/news/305047)
-
-   为什么硅谷巨头，都想弄一个「微信」出来？ [read](http://www.geekpark.net/news/305036)
-
-   上海：不得歧视新冠阳性康复者；苹果发 iOS 16公开测试版；NASA 公布韦伯太空望远镜首张全彩照片 [read](http://www.geekpark.net/news/304996)
+   字节从高通、华为挖芯片人才；特斯拉自动驾驶 AI 负责人离职；欧元 20 年来首次跌至与美元平价 [read](http://www.geekpark.net/news/305107)
 
 ### 金融类
 
-   现金大于市值，买入即稳赚不赔？ [read](http://xueqiu.com/2772596432/225254542)
+   成长风格行业主题指数基金大盘点 [read](http://xueqiu.com/2356382715/225168066)
 
-   下半年比亚迪整车及电池工厂产能梳理及销量预测 [read](http://xueqiu.com/5436386345/225155943)
+   苏州固锝中报业绩点评，银浆业务困境反转20220713 [read](http://xueqiu.com/6008117039/225258144)
 
-   为什么普通投资者在股市赚钱那么难 [read](http://xueqiu.com/3081204011/225162002)
+   股债双全的低调大神公布季报，加仓了新能源、高端白酒 [read](http://xueqiu.com/5679199459/225289023)
 
 ### 学习类
+
+   💻 Issue 316 - Tauri 1.0 has launched [read](https://rust.libhunt.com/newsletter/316)
 
    💻 Issue 315 - RLS Deprecation \| Rust Blog [read](https://rust.libhunt.com/newsletter/315)
 
    💻 Issue 314 - Linus Torvalds is cautiously optimistic about bringing Rust into Linux kernel's next release [read](https://rust.libhunt.com/newsletter/314)
 
-   💻 Issue 313 - Rust tops StackOverflow Survey 2022 as the most loved language for the 7th year. [read](https://rust.libhunt.com/newsletter/313)
+   This Week in Rust 451 [read](https://this-week-in-rust.org/blog/2022/07/13/this-week-in-rust-451/)
 
    This Week in Rust 450 [read](https://this-week-in-rust.org/blog/2022/07/06/this-week-in-rust-450/)
 
    This Week in Rust 449 [read](https://this-week-in-rust.org/blog/2022/06/29/this-week-in-rust-449/)
-
-   This Week in Rust 448 [read](https://this-week-in-rust.org/blog/2022/06/22/this-week-in-rust-448/)
 
    ETCD的内存问题 [read](https://coolshell.cn/articles/22242.html)
 
@@ -128,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   The Flood and Other Drawings \| drawing series [read](https://www.behance.net/gallery/147920723/The-Flood-and-Other-Drawings-drawing-series)
+   KONICA MINOLTA - PLANETARIUM [read](https://www.behance.net/gallery/141704837/KONICA-MINOLTA-PLANETARIUM)
 
-   Compound [read](https://www.behance.net/gallery/147875295/Compound)
+   ? Asseta - RECOVER THE FUTURE [read](https://www.behance.net/gallery/147912083/-Asseta-RECOVER-THE-FUTURE)
 
-   "Un Peu de Tout" [read](https://www.behance.net/gallery/147922377/Un-Peu-de-Tout)
+   FUTURE [read](https://www.behance.net/gallery/148027925/FUTURE)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +140,11 @@ title: "今日资讯"
 
    Pinterest doubles down on Shopping, introducing API for Shopping and Product Tagging for Pins, Driving Merchant Success on the Platform [read](https://newsroom.pinterest.com/en/post/pinterest-doubles-down-on-shopping-introducing-api-for-shopping-and-product-tagging-for-pins-0)
 
-   好玩又好看！像素风星球生成器 Pixel Planet Generator [read](https://www.uisdc.com/pixel-planet-generator)
+   8000字干货！奢侈品电商设计的正确打开方式 [read](https://www.uisdc.com/luxury-terrible-ecommerce-3)
 
-   如何做好 B 端场景下的搜索设计？来看腾讯高手的总结！ [read](https://www.uisdc.com/b-end-search-design)
+   全面系统！帮你快速掌握头像设计的基础知识 [read](https://www.uisdc.com/avatar-design)
 
-   用单选还是多选？超多案例帮你完全掌握！ [read](https://www.uisdc.com/checkbox-vs-radio-buttons)
+   NVIDIA Studio 创意加速：Surfaced Studio 视觉特效艺术家介绍其创意工作流 [read](https://www.uisdc.com/surfaced-studio-2022)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
