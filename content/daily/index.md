@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BabyLemons_EN-US8232804860_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Arrone_EN-US2438328393_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 213 期）：知识孤岛，知识软件 [read](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html)
+   科技爱好者周刊（第 214 期）：你的地图是错的 [read](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html)
 
-   科技爱好者周刊（第 212 期）：人生不短 [read](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html)
+   科技爱好者周刊（第 213 期）：知识孤岛，知识软件 [read](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html)
 
    ECS 系统中 Entity 的生命期管理 [read](https://blog.codingnow.com/2022/07/entity_lifespan.html)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 455 期 [read](https://weekly.75.team/issue455.html)
+
    奇舞周刊第 454 期 [read](https://weekly.75.team/issue454.html)
 
    奇舞周刊第 453 期 [read](https://weekly.75.team/issue453.html)
-
-   奇舞周刊第 452 期 [read](https://weekly.75.team/issue452.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -68,31 +68,37 @@ title: "今日资讯"
 
 ### 互联网类
 
-   湘江畔150平巨幅横厅，把“海底总动员”带回家什么感觉？ [read](http://www.huxiu.com/article/608190.html?f=wangzhan)
+   陆冲板火了，“正经人谁玩陆冲啊？你玩陆冲吗？” [read](http://www.huxiu.com/article/609110.html?f=wangzhan)
 
-   今年的世界杯，为什么跑到冬天去了？ [read](http://www.huxiu.com/article/608072.html?f=wangzhan)
+   蔚来：我要做大哥，谁支持，谁反对？ [read](http://www.huxiu.com/article/602100.html?f=wangzhan)
 
-   李书福想先吃肉，让马斯克去喝汤 [read](http://www.huxiu.com/article/605947.html?f=wangzhan)
+   普通人如何利用经济周期改变命运？ [read](http://www.huxiu.com/article/608305.html?f=wangzhan)
 
-   海外new things｜「Continuum」完成1200万美元A轮融资，帮助陷入困境的公司人性化裁员 [read](https://36kr.com/p/1827129682560772)
+   阿里云不做「孤勇者」 [read](https://36kr.com/p/1828714312091401)
 
-   发币、关店、供应商谜团，奈雪的茶越走越偏？丨氪金 · 大消费 [read](https://36kr.com/p/1827185406871044)
+   36氪战略签约中韩（长春）国际合作示范区 助推东北亚新经济协同发展 [read](https://36kr.com/p/1828703780259593)
 
-   产业的​「云梯」：上云一小步，上链一大步 [read](https://36kr.com/p/1827157604533763)
+   华夏基金林伟鑫：平均涨幅为34% 园区REITs获超额收益的底层逻辑 [read](https://36kr.com/p/1828652657723144)
+
+   OSDI 2022 \| 速来围观！微软亚洲研究院计算机系统领域最新论文！ [read](https://www.msra.cn/zh-cn/news/features/osdi-2022)
+
+   科学智能（AI4Science）赋能科学发现的第五范式 [read](https://www.msra.cn/zh-cn/news/features/ai4science)
+
+   AI与教育的深度融合，究竟什么是核心问题？ [read](https://www.msra.cn/zh-cn/news/features/yan-xia-chanjin-zheng)
+
+   被炒到上百万的数字藏品，还有人买吗？ [read](http://www.geekpark.net/news/305127)
+
+   传直播禁提微信快手，抖音：不实消息；阿里「战投」裁员三分之一；盖茨向个人基金会捐出 200 亿美元｜极客早知道 [read](http://www.geekpark.net/news/305170)
 
    后疫情时代启示录：是时候重新审视数字化了 [read](http://www.geekpark.net/news/305158)
 
-   对于苹果 AR，罗老师这波点评会不会「草率」了？ [read](http://www.geekpark.net/news/305125)
-
-   字节从高通、华为挖芯片人才；特斯拉自动驾驶 AI 负责人离职；欧元 20 年来首次跌至与美元平价 [read](http://www.geekpark.net/news/305107)
-
 ### 金融类
 
+   QDII基金投资指南 [read](http://xueqiu.com/2356382715/225413629)
+
+   不做短期展望，但我投资中国 [read](http://xueqiu.com/3491303582/225382634)
+
    成长风格行业主题指数基金大盘点 [read](http://xueqiu.com/2356382715/225168066)
-
-   苏州固锝中报业绩点评，银浆业务困境反转20220713 [read](http://xueqiu.com/6008117039/225258144)
-
-   股债双全的低调大神公布季报，加仓了新能源、高端白酒 [read](http://xueqiu.com/5679199459/225289023)
 
 ### 学习类
 
@@ -122,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   KONICA MINOLTA - PLANETARIUM [read](https://www.behance.net/gallery/141704837/KONICA-MINOLTA-PLANETARIUM)
+   Janet&amp;Co [read](https://www.behance.net/gallery/148115819/Janet-Co)
 
-   ? Asseta - RECOVER THE FUTURE [read](https://www.behance.net/gallery/147912083/-Asseta-RECOVER-THE-FUTURE)
+   Selig - Imaginary World collection designs [read](https://www.behance.net/gallery/147554783/Selig-Imaginary-World-collection-designs)
 
-   FUTURE [read](https://www.behance.net/gallery/148027925/FUTURE)
+   Flora Code [read](https://www.behance.net/gallery/143533147/Flora-Code)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -140,11 +146,11 @@ title: "今日资讯"
 
    Pinterest doubles down on Shopping, introducing API for Shopping and Product Tagging for Pins, Driving Merchant Success on the Platform [read](https://newsroom.pinterest.com/en/post/pinterest-doubles-down-on-shopping-introducing-api-for-shopping-and-product-tagging-for-pins-0)
 
+   全球大型设计赛事！意大利 A’ Design Award 早鸟报名即将截止 [read](https://www.uisdc.com/a-design-award-2022)
+
    8000字干货！奢侈品电商设计的正确打开方式 [read](https://www.uisdc.com/luxury-terrible-ecommerce-3)
 
    全面系统！帮你快速掌握头像设计的基础知识 [read](https://www.uisdc.com/avatar-design)
-
-   NVIDIA Studio 创意加速：Surfaced Studio 视觉特效艺术家介绍其创意工作流 [read](https://www.uisdc.com/surfaced-studio-2022)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
