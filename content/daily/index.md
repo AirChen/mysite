@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Arrone_EN-US2438328393_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AmericanGoldfinch_EN-US2664017758_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]聊聊分布式锁 [read](https://blog.csdn.net/ByteDanceTech/article/details/125814670)
+
    \[原\]慢 SQL 分析与优化 [read](https://blog.csdn.net/ByteDanceTech/article/details/125795764)
 
    \[原\]文本理解算法在抖音风控上的应用 [read](https://blog.csdn.net/ByteDanceTech/article/details/125775731)
-
-   \[原\]字节跳动 Flink 状态查询实践与优化 [read](https://blog.csdn.net/ByteDanceTech/article/details/125755236)
 
    外卖广告大规模深度学习模型工程实践 \| 美团外卖广告工程实践专题连载 [read](https://tech.meituan.com/2022/07/06/largescaledeeplearningmodel-engineeringpractice-in-mtwaimaiad.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   陆冲板火了，“正经人谁玩陆冲啊？你玩陆冲吗？” [read](http://www.huxiu.com/article/609110.html?f=wangzhan)
+   雷军造车能有多快？ [read](http://www.huxiu.com/article/609770.html?f=wangzhan)
 
-   蔚来：我要做大哥，谁支持，谁反对？ [read](http://www.huxiu.com/article/602100.html?f=wangzhan)
+   下次执行暗杀的，会是AI刺客吗？ [read](http://www.huxiu.com/article/609387.html?f=wangzhan)
 
-   普通人如何利用经济周期改变命运？ [read](http://www.huxiu.com/article/608305.html?f=wangzhan)
+   撤店、罢工、业绩下滑，一元的甜筒，也救不了宜家？ [read](http://www.huxiu.com/article/609367.html?f=wangzhan)
 
-   阿里云不做「孤勇者」 [read](https://36kr.com/p/1828714312091401)
+   从细胞垃圾到行业新贵，外泌体何以逆袭？ [read](https://36kr.com/p/1829496771797253)
 
-   36氪战略签约中韩（长春）国际合作示范区 助推东北亚新经济协同发展 [read](https://36kr.com/p/1828703780259593)
+   两位中职毕业生的25岁：家暴、欠债与逆��翻盘 [read](https://36kr.com/p/1828571534558727)
 
-   华夏基金林伟鑫：平均涨幅为34% 园区REITs获超额收益的底层逻辑 [read](https://36kr.com/p/1828652657723144)
+   边学边忘，边忘边学，从小被逼学英语的你现在留下了什么？ [read](https://36kr.com/p/1828575009080841)
 
    OSDI 2022 \| 速来围观！微软亚洲研究院计算机系统领域最新论文！ [read](https://www.msra.cn/zh-cn/news/features/osdi-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    AI与教育的深度融合，究竟什么是核心问题？ [read](https://www.msra.cn/zh-cn/news/features/yan-xia-chanjin-zheng)
 
+   监管发文整治「雪糕刺客」；微信测试朋友圈「共同回忆」功能；史蒂芬·金：新冠战胜了人类 [read](http://www.geekpark.net/news/305233)
+
    被炒到上百万的数字藏品，还有人买吗？ [read](http://www.geekpark.net/news/305127)
 
    传直播禁提微信快手，抖音：不实消息；阿里「战投」裁员三分之一；盖茨向个人基金会捐出 200 亿美元｜极客早知道 [read](http://www.geekpark.net/news/305170)
 
-   后疫情时代启示录：是时候重新审视数字化了 [read](http://www.geekpark.net/news/305158)
-
 ### 金融类
 
+   2022年上半年公募基金数据盘点 [read](http://xueqiu.com/3340475156/225542556)
+
+   理解公司的五个层次 [read](http://xueqiu.com/1340904670/225514079)
+
    QDII基金投资指南 [read](http://xueqiu.com/2356382715/225413629)
-
-   不做短期展望，但我投资中国 [read](http://xueqiu.com/3491303582/225382634)
-
-   成长风格行业主题指数基金大盘点 [read](http://xueqiu.com/2356382715/225168066)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Janet&amp;Co [read](https://www.behance.net/gallery/148115819/Janet-Co)
+   Philanthropy Org [read](https://www.behance.net/gallery/148009101/Philanthropy-Org)
 
-   Selig - Imaginary World collection designs [read](https://www.behance.net/gallery/147554783/Selig-Imaginary-World-collection-designs)
+   OFFF BARCELONA 2022 &amp; tonik [read](https://www.behance.net/gallery/143490613/OFFF-BARCELONA-2022-tonik)
 
-   Flora Code [read](https://www.behance.net/gallery/143533147/Flora-Code)
+   Jeff Aphisit NFT project (MAY-JULY 2022) [read](https://www.behance.net/gallery/148157507/Jeff-Aphisit-NFT-project-%28MAY-JULY-2022%29)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest doubles down on Shopping, introducing API for Shopping and Product Tagging for Pins, Driving Merchant Success on the Platform [read](https://newsroom.pinterest.com/en/post/pinterest-doubles-down-on-shopping-introducing-api-for-shopping-and-product-tagging-for-pins-0)
 
-   全球大型设计赛事！意大利 A’ Design Award 早鸟报名即将截止 [read](https://www.uisdc.com/a-design-award-2022)
+   10个产品细节剖析，看看大厂是如何做设计的！ [read](https://www.uisdc.com/product-details-8)
 
-   8000字干货！奢侈品电商设计的正确打开方式 [read](https://www.uisdc.com/luxury-terrible-ecommerce-3)
+   万字产品拆解！QQ音乐产品设计全方位深度解析（下） [read](https://www.uisdc.com/qq-music-product-design-2)
 
-   全面系统！帮你快速掌握头像设计的基础知识 [read](https://www.uisdc.com/avatar-design)
+   从3个方面，聊聊体验度量过程如何达成沟通共识 [read](https://www.uisdc.com/experience-measurement-communication)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
