@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AmericanGoldfinch_EN-US2664017758_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CoyoteButtes_EN-US2729289736_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -36,12 +36,6 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
-   奇舞周刊第 455 期 [read](https://weekly.75.team/issue455.html)
-
-   奇舞周刊第 454 期 [read](https://weekly.75.team/issue454.html)
-
-   奇舞周刊第 453 期 [read](https://weekly.75.team/issue453.html)
-
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
    服饰3D柔性渲染调研及实践 [read](https://fed.taobao.org/blog/taofed/do71ct/fufsgh)
@@ -68,37 +62,31 @@ title: "今日资讯"
 
 ### 互联网类
 
+   Soul失去灵魂 [read](http://www.huxiu.com/article/610168.html?f=wangzhan)
+
    雷军造车能有多快？ [read](http://www.huxiu.com/article/609770.html?f=wangzhan)
 
    下次执行暗杀的，会是AI刺客吗？ [read](http://www.huxiu.com/article/609387.html?f=wangzhan)
 
-   撤店、罢工、业绩下滑，一元的甜筒，也救不了宜家？ [read](http://www.huxiu.com/article/609367.html?f=wangzhan)
+   36氪项目报道｜社交媒体管理平台「KAWO」，带领品牌营销步入“智能制造”时代 [read](https://36kr.com/p/1831177132171523)
 
-   从细胞垃圾到行业新贵，外泌体何以逆袭？ [read](https://36kr.com/p/1829496771797253)
+   去海外做蓝领的年轻人，高薪、不卷、实现「星巴克自由」 [read](https://36kr.com/p/1828578185938692)
 
-   两位中职毕业生的25岁：家暴、欠债与逆��翻盘 [read](https://36kr.com/p/1828571534558727)
+   最爱吃香菜东北排第一，7成女生要求对象必须会做饭｜2022年轻人下厨报告 [read](https://36kr.com/p/1828582977079042)
 
-   边学边忘，边忘边学，从小被逼学英语的你现在留下了什么？ [read](https://36kr.com/p/1828575009080841)
+   估值缩水 70%，这个烧了 40 亿美元的独角兽还有机会吗？ [read](http://www.geekpark.net/news/305238)
 
-   OSDI 2022 \| 速来围观！微软亚洲研究院计算机系统领域最新论文！ [read](https://www.msra.cn/zh-cn/news/features/osdi-2022)
-
-   科学智能（AI4Science）赋能科学发现的第五范式 [read](https://www.msra.cn/zh-cn/news/features/ai4science)
-
-   AI与教育的深度融合，究竟什么是核心问题？ [read](https://www.msra.cn/zh-cn/news/features/yan-xia-chanjin-zheng)
+   新 iPhone 相机凸起厚度将超两枚硬币；华为合作车企小康定增 71 亿元；《艾尔登法环》成上半年美国最畅销游戏 [read](http://www.geekpark.net/news/305234)
 
    监管发文整治「雪糕刺客」；微信测试朋友圈「共同回忆」功能；史蒂芬·金：新冠战胜了人类 [read](http://www.geekpark.net/news/305233)
 
-   被炒到上百万的数字藏品，还有人买吗？ [read](http://www.geekpark.net/news/305127)
-
-   传直播禁提微信快手，抖音：不实消息；阿里「战投」裁员三分之一；盖茨向个人基金会捐出 200 亿美元｜极客早知道 [read](http://www.geekpark.net/news/305170)
-
 ### 金融类
 
-   2022年上半年公募基金数据盘点 [read](http://xueqiu.com/3340475156/225542556)
+   我是你们的代问人 [read](http://xueqiu.com/1955602780/225562877)
 
-   理解公司的五个层次 [read](http://xueqiu.com/1340904670/225514079)
+   闲来札记：论弹性 [read](http://xueqiu.com/3491303582/225552805)
 
-   QDII基金投资指南 [read](http://xueqiu.com/2356382715/225413629)
+   低迷两年的希瓦私募还敢买吗？（22年中总结干货提炼及点评） [read](http://xueqiu.com/3737366006/225515580)
 
 ### 学习类
 
@@ -128,11 +116,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Philanthropy Org [read](https://www.behance.net/gallery/148009101/Philanthropy-Org)
+   Mutja [read](https://www.behance.net/gallery/148328981/Mutja)
 
-   OFFF BARCELONA 2022 &amp; tonik [read](https://www.behance.net/gallery/143490613/OFFF-BARCELONA-2022-tonik)
+   LedsC4 - 2022 News Campaign [read](https://www.behance.net/gallery/148127197/LedsC4-2022-News-Campaign)
 
-   Jeff Aphisit NFT project (MAY-JULY 2022) [read](https://www.behance.net/gallery/148157507/Jeff-Aphisit-NFT-project-%28MAY-JULY-2022%29)
+   Portraits [read](https://www.behance.net/gallery/131605727/Portraits)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
