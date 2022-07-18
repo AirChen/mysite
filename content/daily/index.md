@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CoyoteButtes_EN-US2729289736_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.OmijimaIsland_EN-US2811609327_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    \[原\]文本理解算法在抖音风控上的应用 [read](https://blog.csdn.net/ByteDanceTech/article/details/125775731)
 
+   工程效能CI/CD之流水线引擎的建设实践 [read](https://tech.meituan.com/2022/07/14/cicd-pipeline.html)
+
    外卖广告大规模深度学习模型工程实践 \| 美团外卖广告工程实践专题连载 [read](https://tech.meituan.com/2022/07/06/largescaledeeplearningmodel-engineeringpractice-in-mtwaimaiad.html)
 
    大众点评搜索相关性技术探索与实践 [read](https://tech.meituan.com/2022/07/06/semantic-relevance-matching.html)
-
-   CVPR 2022 \| 美团技术团队精选论文解读 [read](https://tech.meituan.com/2022/06/23/cvpr-2022-meituan.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -62,31 +62,37 @@ title: "今日资讯"
 
 ### 互联网类
 
-   Soul失去灵魂 [read](http://www.huxiu.com/article/610168.html?f=wangzhan)
+   虚拟偶像为什么越来越多，却越来越糊 [read](http://www.huxiu.com/article/611340.html?f=wangzhan)
 
-   雷军造车能有多快？ [read](http://www.huxiu.com/article/609770.html?f=wangzhan)
+   斯里兰卡破产，欠中国的债会还吗？ [read](http://www.huxiu.com/article/611377.html?f=wangzhan)
 
-   下次执行暗杀的，会是AI刺客吗？ [read](http://www.huxiu.com/article/609387.html?f=wangzhan)
+   云鲸腰斩618，“搁浅”2022 [read](http://www.huxiu.com/article/611278.html?f=wangzhan)
 
-   36氪项目报道｜社交媒体管理平台「KAWO」，带领品牌营销步入“智能制造”时代 [read](https://36kr.com/p/1831177132171523)
+   网商银行：12年​「低空飞行」 [read](https://36kr.com/p/1832791938686982)
 
-   去海外做蓝领的年轻人，高薪、不卷、实现「星巴克自由」 [read](https://36kr.com/p/1828578185938692)
+   万科城市总调整：被郁亮点名的江门公司降为事业部 [read](https://36kr.com/p/1832924689998601)
 
-   最爱吃香菜东北排第一，7成女生要求对象必须会做饭｜2022年轻人下厨报告 [read](https://36kr.com/p/1828582977079042)
+   未来产业园区：从人脸识别到碳中和再到元宇宙 [read](https://36kr.com/p/1832899769066240)
+
+   OSDI 2022 \| 速来围观！微软亚洲研究院计算机系统领域最新论文！ [read](https://www.msra.cn/zh-cn/news/features/osdi-2022)
+
+   科学智能（AI4Science）赋能科学发现的第五范式 [read](https://www.msra.cn/zh-cn/news/features/ai4science)
+
+   AI与教育的深度融合，究竟什么是核心问题？ [read](https://www.msra.cn/zh-cn/news/features/yan-xia-chanjin-zheng)
+
+   后疫情时代启示录：那些逆势上涨的企业，都做对了什么？ [read](http://www.geekpark.net/news/305302)
+
+   「华为版」极狐阿尔法 S 交付，余承东：自动驾驶世界最强；微陨石造成韦布望远镜永久误差；全球码农收入榜，中国第 19 \| 极客早知道 [read](http://www.geekpark.net/news/305239)
 
    估值缩水 70%，这个烧了 40 亿美元的独角兽还有机会吗？ [read](http://www.geekpark.net/news/305238)
 
-   新 iPhone 相机凸起厚度将超两枚硬币；华为合作车企小康定增 71 亿元；《艾尔登法环》成上半年美国最畅销游戏 [read](http://www.geekpark.net/news/305234)
-
-   监管发文整治「雪糕刺客」；微信测试朋友圈「共同回忆」功能；史蒂芬·金：新冠战胜了人类 [read](http://www.geekpark.net/news/305233)
-
 ### 金融类
 
-   我是你们的代问人 [read](http://xueqiu.com/1955602780/225562877)
+   从固定资产投资看我们经历过的大时代 [read](http://xueqiu.com/7355827634/225558581)
 
-   闲来札记：论弹性 [read](http://xueqiu.com/3491303582/225552805)
+   浅谈神华的火电业务 [read](http://xueqiu.com/8745459979/225571333)
 
-   低迷两年的希瓦私募还敢买吗？（22年中总结干货提炼及点评） [read](http://xueqiu.com/3737366006/225515580)
+   半导体行业投资的中长期观点 [read](http://xueqiu.com/5732727263/225638443)
 
 ### 学习类
 
@@ -116,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Mutja [read](https://www.behance.net/gallery/148328981/Mutja)
+   Illustration Play 3 [read](https://www.behance.net/gallery/148394939/Illustration-Play-3)
 
-   LedsC4 - 2022 News Campaign [read](https://www.behance.net/gallery/148127197/LedsC4-2022-News-Campaign)
+   {?????? x ??????} ????? [read](https://www.behance.net/gallery/148121525/-x-)
 
-   Portraits [read](https://www.behance.net/gallery/131605727/Portraits)
+   Wimbledon [read](https://www.behance.net/gallery/148274979/Wimbledon)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -134,11 +140,11 @@ title: "今日资讯"
 
    Pinterest doubles down on Shopping, introducing API for Shopping and Product Tagging for Pins, Driving Merchant Success on the Platform [read](https://newsroom.pinterest.com/en/post/pinterest-doubles-down-on-shopping-introducing-api-for-shopping-and-product-tagging-for-pins-0)
 
-   10个产品细节剖析，看看大厂是如何做设计的！ [read](https://www.uisdc.com/product-details-8)
+   常见的图标到底怎么用？包装设计师必备资质认证图标指南 [read](https://www.uisdc.com/quality-certification-icon-2022)
 
-   万字产品拆解！QQ音乐产品设计全方位深度解析（下） [read](https://www.uisdc.com/qq-music-product-design-2)
+   掌握这 5 个 Ai 小技巧，帮你快速提升文字排版效率（三） [read](https://www.uisdc.com/5-ai-tips-3)
 
-   从3个方面，聊聊体验度量过程如何达成沟通共识 [read](https://www.uisdc.com/experience-measurement-communication)
+   产品出海如何做好本土化设计？来看京东高手的实战总结！ [read](https://www.uisdc.com/localization-design)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
