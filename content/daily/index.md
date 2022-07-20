@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.YellowstoneBison_EN-US2891320959_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MoonPhases_EN-US3514261526_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -10,11 +10,11 @@ title: "今日资讯"
 
    科技爱好者周刊（第 213 期）：知识孤岛，知识软件 [read](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html)
 
+   重构数学库 [read](https://blog.codingnow.com/2022/07/refactor_math3d.html)
+
    ECS 系统中 Entity 的生命期管理 [read](https://blog.codingnow.com/2022/07/entity_lifespan.html)
 
    分组功能在挂接系统上的使用 [read](https://blog.codingnow.com/2022/07/group_mount.html)
-
-   给 ECS 增加分组功能 [read](https://blog.codingnow.com/2022/06/ecs_group.html)
 
    一个付费 chrome 插件的一生 [read](https://blog.t9t.io/star-history-2021-01-21/)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   前撕问界，后酸比亚迪，长城汽车急了？ [read](http://www.huxiu.com/article/612394.html?f=wangzhan)
+   试驾前，别着急买理想L9 [read](http://www.huxiu.com/article/608858.html?f=wangzhan)
 
-   别再把智能汽车当手机了 [read](http://www.huxiu.com/article/612247.html?f=wangzhan)
+   不懂财务规划，富翁也会变乞丐 [read](http://www.huxiu.com/article/612268.html?f=wangzhan)
 
-   好好荐股就完了，拆什么特斯拉 [read](http://www.huxiu.com/article/612009.html?f=wangzhan)
+   一条诈骗短信，如何成为漏网之鱼？ [read](http://www.huxiu.com/article/612592.html?f=wangzhan)
 
-   探访万物云「蝶城」：一个数据中心、2000个物管项目、30分钟内响应需求 [read](https://36kr.com/p/1834360339833604)
+   蓝卓发布supOS4.0，为工厂数字化转型提供「数据基座」 [read](https://36kr.com/p/1835851749663744)
 
-   氪星晚报丨蜂巢能源与宁德时代达成和解；B站上线防网暴专项，发布一键取证等多项功能；阿里巴巴eWTP出海一站式服务再次升级 [read](https://36kr.com/p/1834244862993157)
+   氪星晚报｜苹果同意赔款5000万美元，解决MacBook键盘缺陷诉讼案；奈飞：计划未来在内容投入170亿美元；马斯克脑机接口公司Neuralink又一名联合创始人离职：8人仅剩2人 [read](https://36kr.com/p/1835812997358857)
 
-   最前线｜宁德时代、蜂巢能源握手言和，电池巨头纠纷达成和解 [read](https://36kr.com/p/1834101718606341)
+   36氪首发丨「利和味道」完成D轮融资，业务连续三年翻倍增长 [read](https://36kr.com/p/1835278090200069)
 
    OSDI 2022 \| 速来围观！微软亚洲研究院计算机系统领域最新论文！ [read](https://www.msra.cn/zh-cn/news/features/osdi-2022)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    AI与教育的深度融合，究竟什么是核心问题？ [read](https://www.msra.cn/zh-cn/news/features/yan-xia-chanjin-zheng)
 
-   后疫情时代启示录：增强「数字化生命力」的三张牌 [read](http://www.geekpark.net/news/305364)
+   TikTok 在壮大，各国政府对它的警惕也在增长 [read](http://www.geekpark.net/news/305410)
 
-   为人体续命，猪准备好了吗 [read](http://www.geekpark.net/news/305171)
+   对话 Soul 张璐：我是在互联网红海抓住了一个小机会 [read](http://www.geekpark.net/news/305352)
 
-   视频号原生广告上线；抖音关闭「圈子」功能；《沙丘 2》正式开机，明年上映 \| 极客早知道 [read](http://www.geekpark.net/news/305313)
+   马斯克：已将大脑上传云端；抖音合作爱奇艺，推动「二创」规范化；B 站上线「防网暴」功能｜极客早知道 [read](http://www.geekpark.net/news/305367)
 
 ### 金融类
+
+   坚守能力圈：张坤、萧楠、金梓才，含电量0！ [read](http://xueqiu.com/1489509056/225882154)
 
    听完希瓦这次3小时的路演有点意犹未尽，梁宏真是太敢说了...（路演文字版篇3-问答环节） [read](http://xueqiu.com/9047540546/225671026)
 
    【深度剖析】基金经理如何投资C位板块？ [read](http://xueqiu.com/7245734636/225699886)
-
-   “孤身走暗巷”，业绩却可圈可点的基金经理 [read](http://xueqiu.com/5679199459/225699274)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Track&amp;Field [read](https://www.behance.net/gallery/145591357/Track-Field)
+   South Korea Series [read](https://www.behance.net/gallery/148056937/South-Korea-Series)
 
-   BACK TO BASICS [read](https://www.behance.net/gallery/148017157/BACK-TO-BASICS)
+   Audela Font Family [read](https://www.behance.net/gallery/147000795/Audela-Font-Family)
 
-   Wästberg digital [read](https://www.behance.net/gallery/147609469/Waestberg-digital)
+   Artwork V [read](https://www.behance.net/gallery/148483929/Artwork-V)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest doubles down on Shopping, introducing API for Shopping and Product Tagging for Pins, Driving Merchant Success on the Platform [read](https://newsroom.pinterest.com/en/post/pinterest-doubles-down-on-shopping-introducing-api-for-shopping-and-product-tagging-for-pins-0)
 
-   从7个方面，从零开始帮你掌握导视设计 [read](https://www.uisdc.com/guide-design-2)
+   腾讯万字干货！如何让设计创新源源不断？（渐进篇） [read](https://www.uisdc.com/incremental-change)
 
-   科技又温情！美的携手方正打造全新品牌定制字体“美的无界联动体” [read](https://www.uisdc.com/midea-font-2022)
+   用7大章节，帮你从零开始学会栅格系统 [read](https://www.uisdc.com/analyse-grid-system)
 
-   第三波！2022年7月精选实用设计干货合集 [read](https://www.uisdc.com/2022-7-design-resources-vol3)
+   想学3D设计？收下这份超详细的电脑配置入门指南 [read](https://www.uisdc.com/guide-to-computer-configuration)
 
    CDC夜校回顾NO.26｜如何运营一个开源项目、出海产品设计之多语言设计 [read](https://cdc.tencent.com/2022/07/19/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-26%ef%bd%9c%e5%a6%82%e4%bd%95%e8%bf%90%e8%90%a5%e4%b8%80%e4%b8%aa%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e3%80%81%e5%87%ba%e6%b5%b7%e4%ba%a7%e5%93%81%e8%ae%be/)
 
