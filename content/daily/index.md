@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MoonPhases_EN-US3514261526_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AbbeyGardens_EN-US3622669026_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]MemoryThrashing：抖音直播解决内存抖动实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125903830)
+
    \[原\]抖音 Android 性能优化系列：Java 锁优化 [read](https://blog.csdn.net/ByteDanceTech/article/details/125863436)
 
    \[原\]聊聊分布式锁 [read](https://blog.csdn.net/ByteDanceTech/article/details/125814670)
-
-   \[原\]慢 SQL 分析与优化 [read](https://blog.csdn.net/ByteDanceTech/article/details/125795764)
 
    工程效能CI/CD之流水线引擎的建设实践 [read](https://tech.meituan.com/2022/07/14/cicd-pipeline.html)
 
@@ -68,29 +68,29 @@ title: "今日资讯"
 
 ### 互联网类
 
-   试驾前，别着急买理想L9 [read](http://www.huxiu.com/article/608858.html?f=wangzhan)
+   马斯克的降价心，特斯拉没听到 [read](http://www.huxiu.com/article/613869.html?f=wangzhan)
 
-   不懂财务规划，富翁也会变乞丐 [read](http://www.huxiu.com/article/612268.html?f=wangzhan)
+   大哥你玩胶片，你玩它有啥用呀？ [read](http://www.huxiu.com/article/613816.html?f=wangzhan)
 
-   一条诈骗短信，如何成为漏网之鱼？ [read](http://www.huxiu.com/article/612592.html?f=wangzhan)
+   百度：拜拜，方向盘 [read](http://www.huxiu.com/article/613769.html?f=wangzhan)
 
-   蓝卓发布supOS4.0，为工厂数字化转型提供「数据基座」 [read](https://36kr.com/p/1835851749663744)
+   氪星晚报丨支付宝全面开放小程序消息配置，商家可推送消息至App首页；百度发布第六代量产无人车Apollo RT6；比亚迪宣布正式进入日本市场 [read](https://36kr.com/p/1837123820889347)
 
-   氪星晚报｜苹果同意赔款5000万美元，解决MacBook键盘缺陷诉讼案；奈飞：计划未来在内容投入170亿美元；马斯克脑机接口公司Neuralink又一名联合创始人离职：8人仅剩2人 [read](https://36kr.com/p/1835812997358857)
+   最前线｜百度AI进展：发布无方向盘汽车、全球首个航天大模型 [read](https://36kr.com/p/1836876210349064)
 
-   36氪首发丨「利和味道」完成D轮融资，业务连续三年翻倍增长 [read](https://36kr.com/p/1835278090200069)
+   海外new things｜「Creative Galileo」完成750万美元A轮融资，用卡通人物让儿童学习变得更有趣味 [read](https://36kr.com/p/1836992968893702)
+
+   ICML 2022 \| 机器学习前沿论文精选！ [read](https://www.msra.cn/zh-cn/news/features/icml-2022)
 
    OSDI 2022 \| 速来围观！微软亚洲研究院计算机系统领域最新论文！ [read](https://www.msra.cn/zh-cn/news/features/osdi-2022)
 
    科学智能（AI4Science）赋能科学发现的第五范式 [read](https://www.msra.cn/zh-cn/news/features/ai4science)
 
-   AI与教育的深度融合，究竟什么是核心问题？ [read](https://www.msra.cn/zh-cn/news/features/yan-xia-chanjin-zheng)
+   百度智能云将给实体经济带来多少生命力？ [read](http://www.geekpark.net/news/305455)
 
-   TikTok 在壮大，各国政府对它的警惕也在增长 [read](http://www.geekpark.net/news/305410)
+   四天暴涨 180 亿美金，《怪奇物语》暂时拯救了奈飞 [read](http://www.geekpark.net/news/305426)
 
-   对话 Soul 张璐：我是在互联网红海抓住了一个小机会 [read](http://www.geekpark.net/news/305352)
-
-   马斯克：已将大脑上传云端；抖音合作爱奇艺，推动「二创」规范化；B 站上线「防网暴」功能｜极客早知道 [read](http://www.geekpark.net/news/305367)
+   特斯拉卖出比特币，套现 10 亿美元；腾讯关停数字藏品应用「幻核」；TikTok 用户平均时长超 YouTube [read](http://www.geekpark.net/news/305411)
 
 ### 金融类
 
@@ -102,17 +102,17 @@ title: "今日资讯"
 
 ### 学习类
 
+   💻 Issue 317 - How to speed up the Rust compiler in July 2022 [read](https://rust.libhunt.com/newsletter/317)
+
    💻 Issue 316 - Tauri 1.0 has launched [read](https://rust.libhunt.com/newsletter/316)
 
    💻 Issue 315 - RLS Deprecation \| Rust Blog [read](https://rust.libhunt.com/newsletter/315)
 
-   💻 Issue 314 - Linus Torvalds is cautiously optimistic about bringing Rust into Linux kernel's next release [read](https://rust.libhunt.com/newsletter/314)
+   This Week in Rust 452 [read](https://this-week-in-rust.org/blog/2022/07/20/this-week-in-rust-452/)
 
    This Week in Rust 451 [read](https://this-week-in-rust.org/blog/2022/07/13/this-week-in-rust-451/)
 
    This Week in Rust 450 [read](https://this-week-in-rust.org/blog/2022/07/06/this-week-in-rust-450/)
-
-   This Week in Rust 449 [read](https://this-week-in-rust.org/blog/2022/06/29/this-week-in-rust-449/)
 
    ETCD的内存问题 [read](https://coolshell.cn/articles/22242.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   South Korea Series [read](https://www.behance.net/gallery/148056937/South-Korea-Series)
+   SpatialGo [read](https://www.behance.net/gallery/134509141/SpatialGo)
 
-   Audela Font Family [read](https://www.behance.net/gallery/147000795/Audela-Font-Family)
+   everlasting. [read](https://www.behance.net/gallery/147645161/everlasting)
 
-   Artwork V [read](https://www.behance.net/gallery/148483929/Artwork-V)
+   27th Internatonal Poster Biennale [read](https://www.behance.net/gallery/138044971/27th-Internatonal-Poster-Biennale)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest doubles down on Shopping, introducing API for Shopping and Product Tagging for Pins, Driving Merchant Success on the Platform [read](https://newsroom.pinterest.com/en/post/pinterest-doubles-down-on-shopping-introducing-api-for-shopping-and-product-tagging-for-pins-0)
 
+   百万人气大咖助阵，虚拟IP形象设计，赢7万现金奖励！ [read](https://www.uisdc.com/3d-class-17)
+
+   NVIDIA Studio 创意加速：主播 Big Cheese 分享其直播经验 [read](https://www.uisdc.com/nvidia-broadcast-2022)
+
    腾讯万字干货！如何让设计创新源源不断？（渐进篇） [read](https://www.uisdc.com/incremental-change)
-
-   用7大章节，帮你从零开始学会栅格系统 [read](https://www.uisdc.com/analyse-grid-system)
-
-   想学3D设计？收下这份超详细的电脑配置入门指南 [read](https://www.uisdc.com/guide-to-computer-configuration)
 
    CDC夜校回顾NO.26｜如何运营一个开源项目、出海产品设计之多语言设计 [read](https://cdc.tencent.com/2022/07/19/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-26%ef%bd%9c%e5%a6%82%e4%bd%95%e8%bf%90%e8%90%a5%e4%b8%80%e4%b8%aa%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e3%80%81%e5%87%ba%e6%b5%b7%e4%ba%a7%e5%93%81%e8%ae%be/)
 
