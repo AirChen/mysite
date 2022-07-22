@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AbbeyGardens_EN-US3622669026_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SGIMontenegro_EN-US4280095085_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 214 期）：你的地图是错的 [read](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html)
+   科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式 [read](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html)
 
-   科技爱好者周刊（第 213 期）：知识孤岛，知识软件 [read](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html)
+   科技爱好者周刊（第 214 期）：你的地图是错的 [read](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html)
 
    重构数学库 [read](https://blog.codingnow.com/2022/07/refactor_math3d.html)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 456 期 [read](https://weekly.75.team/issue456.html)
+
    奇舞周刊第 455 期 [read](https://weekly.75.team/issue455.html)
 
    奇舞周刊第 454 期 [read](https://weekly.75.team/issue454.html)
-
-   奇舞周刊第 453 期 [read](https://weekly.75.team/issue453.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   \[原\]RTC 性能自动化工具在内存优化场景下的实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125942459)
+
    \[原\]MemoryThrashing：抖音直播解决内存抖动实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125903830)
 
    \[原\]抖音 Android 性能优化系列：Java 锁优化 [read](https://blog.csdn.net/ByteDanceTech/article/details/125863436)
-
-   \[原\]聊聊分布式锁 [read](https://blog.csdn.net/ByteDanceTech/article/details/125814670)
 
    工程效能CI/CD之流水线引擎的建设实践 [read](https://tech.meituan.com/2022/07/14/cicd-pipeline.html)
 
@@ -68,29 +68,29 @@ title: "今日资讯"
 
 ### 互联网类
 
-   马斯克的降价心，特斯拉没听到 [read](http://www.huxiu.com/article/613869.html?f=wangzhan)
+   岚图“失声” [read](http://www.huxiu.com/article/615820.html?f=wangzhan)
 
-   大哥你玩胶片，你玩它有啥用呀？ [read](http://www.huxiu.com/article/613816.html?f=wangzhan)
+   新能源车狂热之下的隐忧 [read](http://www.huxiu.com/article/615500.html?f=wangzhan)
 
-   百度：拜拜，方向盘 [read](http://www.huxiu.com/article/613769.html?f=wangzhan)
+   新能源汽车，不能再这样“火”了 [read](http://www.huxiu.com/article/615438.html?f=wangzhan)
 
-   氪星晚报丨支付宝全面开放小程序消息配置，商家可推送消息至App首页；百度发布第六代量产无人车Apollo RT6；比亚迪宣布正式进入日本市场 [read](https://36kr.com/p/1837123820889347)
+   36碳周报丨中国光伏行业协会调高今年装机预期；LG新能源将向福特供应更多汽车电池；德国宣布一揽子能源安全计划 [read](https://36kr.com/p/1831930924097801)
 
-   最前线｜百度AI进展：发布无方向盘汽车、全球首个航天大模型 [read](https://36kr.com/p/1836876210349064)
+   TAKI极链创始人金明：城市乐园新遐想 \| WISE2022新消费品牌峰会 [read](https://36kr.com/p/1838451453879560)
 
-   海外new things｜「Creative Galileo」完成750万美元A轮融资，用卡通人物让儿童学习变得更有趣味 [read](https://36kr.com/p/1836992968893702)
+   远洋集团谋求质押成都太古里股权 融资规模约40亿元 [read](https://36kr.com/p/1838522778625031)
+
+   无限视觉生成模型NUWA-Infinity让视觉艺术创作自由延伸 [read](https://www.msra.cn/zh-cn/news/features/nuwa-infinity)
 
    ICML 2022 \| 机器学习前沿论文精选！ [read](https://www.msra.cn/zh-cn/news/features/icml-2022)
 
    OSDI 2022 \| 速来围观！微软亚洲研究院计算机系统领域最新论文！ [read](https://www.msra.cn/zh-cn/news/features/osdi-2022)
 
-   科学智能（AI4Science）赋能科学发现的第五范式 [read](https://www.msra.cn/zh-cn/news/features/ai4science)
+   腾讯的 Web3 梦想，不到一年就「破灭」了？ [read](http://www.geekpark.net/news/305490)
+
+   广汽董事长：电池太贵，车厂给宁德时代打工；被罚 80 亿，滴滴：认真完成整改；美国总统拜登新冠检测呈阳性｜极客早知道 [read](http://www.geekpark.net/news/305461)
 
    百度智能云将给实体经济带来多少生命力？ [read](http://www.geekpark.net/news/305455)
-
-   四天暴涨 180 亿美金，《怪奇物语》暂时拯救了奈飞 [read](http://www.geekpark.net/news/305426)
-
-   特斯拉卖出比特币，套现 10 亿美元；腾讯关停数字藏品应用「幻核」；TikTok 用户平均时长超 YouTube [read](http://www.geekpark.net/news/305411)
 
 ### 金融类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   SpatialGo [read](https://www.behance.net/gallery/134509141/SpatialGo)
+   #WYWT What You Wear Tomorrow [read](https://www.behance.net/gallery/148648685/WYWT-What-You-Wear-Tomorrow)
 
-   everlasting. [read](https://www.behance.net/gallery/147645161/everlasting)
+   Regina Maria - Illustration Branding Kit [read](https://www.behance.net/gallery/148593865/Regina-Maria-Illustration-Branding-Kit)
 
-   27th Internatonal Poster Biennale [read](https://www.behance.net/gallery/138044971/27th-Internatonal-Poster-Biennale)
+   HeimatFrisch / Branding [read](https://www.behance.net/gallery/148400933/HeimatFrisch-Branding)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest doubles down on Shopping, introducing API for Shopping and Product Tagging for Pins, Driving Merchant Success on the Platform [read](https://newsroom.pinterest.com/en/post/pinterest-doubles-down-on-shopping-introducing-api-for-shopping-and-product-tagging-for-pins-0)
 
-   百万人气大咖助阵，虚拟IP形象设计，赢7万现金奖励！ [read](https://www.uisdc.com/3d-class-17)
+   如何进行体系化大改版？京东 APP 11.0 深度解读！ [read](https://www.uisdc.com/jd-app11-0)
 
-   NVIDIA Studio 创意加速：主播 Big Cheese 分享其直播经验 [read](https://www.uisdc.com/nvidia-broadcast-2022)
+   开发说设计效果实现不了该怎么办？来看高手的分析！ [read](https://www.uisdc.com/designer-with-developer)
 
-   腾讯万字干货！如何让设计创新源源不断？（渐进篇） [read](https://www.uisdc.com/incremental-change)
+   2022 年不可错过的台式机配置表，设计师来收 [read](https://www.uisdc.com/computer-configuration-2022)
 
    CDC夜校回顾NO.26｜如何运营一个开源项目、出海产品设计之多语言设计 [read](https://cdc.tencent.com/2022/07/19/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-26%ef%bd%9c%e5%a6%82%e4%bd%95%e8%bf%90%e8%90%a5%e4%b8%80%e4%b8%aa%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e3%80%81%e5%87%ba%e6%b5%b7%e4%ba%a7%e5%93%81%e8%ae%be/)
 
