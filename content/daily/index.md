@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SGIMontenegro_EN-US4280095085_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FoxgloveHawkmoth_EN-US4340017481_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   星巴克在疫情期间，为什么还敢涨价？ [read](http://www.huxiu.com/article/615724.html?f=wangzhan)
+
    岚图“失声” [read](http://www.huxiu.com/article/615820.html?f=wangzhan)
 
    新能源车狂热之下的隐忧 [read](http://www.huxiu.com/article/615500.html?f=wangzhan)
 
-   新能源汽车，不能再这样“火”了 [read](http://www.huxiu.com/article/615438.html?f=wangzhan)
+   多家大型健身俱乐部高管变动，疫情正在持续影响中国健身行业 [read](https://36kr.com/p/1839462979314692)
 
-   36碳周报丨中国光伏行业协会调高今年装机预期；LG新能源将向福特供应更多汽车电池；德国宣布一揽子能源安全计划 [read](https://36kr.com/p/1831930924097801)
+   乐言科技SVP汤文博：AI SaaS+ 助力品牌全链路营销增长 \| WISE2022新消费品牌峰会 [read](https://36kr.com/p/1839588298204162)
 
-   TAKI极链创始人金明：城市乐园新遐想 \| WISE2022新消费品牌峰会 [read](https://36kr.com/p/1838451453879560)
-
-   远洋集团谋求质押成都太古里股权 融资规模约40亿元 [read](https://36kr.com/p/1838522778625031)
+   被董宇辉拉黑，一场爆卖2.5亿的趣店罗老板，两天后掉粉过万 [read](https://36kr.com/p/1839419701847296)
 
    无限视觉生成模型NUWA-Infinity让视觉艺术创作自由延伸 [read](https://www.msra.cn/zh-cn/news/features/nuwa-infinity)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    OSDI 2022 \| 速来围观！微软亚洲研究院计算机系统领域最新论文！ [read](https://www.msra.cn/zh-cn/news/features/osdi-2022)
 
+   特斯拉回应林志颖车祸：不清楚原因；B 站公布直播年龄底线，16 周岁；福特推出电动车自动充电机器人｜极客早知道 [read](http://www.geekpark.net/news/305527)
+
    腾讯的 Web3 梦想，不到一年就「破灭」了？ [read](http://www.geekpark.net/news/305490)
 
    广汽董事长：电池太贵，车厂给宁德时代打工；被罚 80 亿，滴滴：认真完成整改；美国总统拜登新冠检测呈阳性｜极客早知道 [read](http://www.geekpark.net/news/305461)
 
-   百度智能云将给实体经济带来多少生命力？ [read](http://www.geekpark.net/news/305455)
-
 ### 金融类
 
-   坚守能力圈：张坤、萧楠、金梓才，含电量0！ [read](http://xueqiu.com/1489509056/225882154)
+   透过正邦看养殖模式的好坏 [read](http://xueqiu.com/1784228056/226157569)
 
-   听完希瓦这次3小时的路演有点意犹未尽，梁宏真是太敢说了...（路演文字版篇3-问答环节） [read](http://xueqiu.com/9047540546/225671026)
+   卅载坎坷，血泪光荣——美股1990以来全体Biotech上市公司回报分析 [read](http://xueqiu.com/1335311504/225148379)
 
-   【深度剖析】基金经理如何投资C位板块？ [read](http://xueqiu.com/7245734636/225699886)
+   招商中证白酒指数基金二季报解读 [read](http://xueqiu.com/9598902646/225953741)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   #WYWT What You Wear Tomorrow [read](https://www.behance.net/gallery/148648685/WYWT-What-You-Wear-Tomorrow)
+   Qenos iTransform [read](https://www.behance.net/gallery/148365523/Qenos-iTransform)
 
-   Regina Maria - Illustration Branding Kit [read](https://www.behance.net/gallery/148593865/Regina-Maria-Illustration-Branding-Kit)
+   Chill Beats Records Art Vol.3 [read](https://www.behance.net/gallery/148783067/Chill-Beats-Records-Art-Vol3)
 
-   HeimatFrisch / Branding [read](https://www.behance.net/gallery/148400933/HeimatFrisch-Branding)
+   C7 Corvette Grand Sport Drift Car [read](https://www.behance.net/gallery/145300907/C7-Corvette-Grand-Sport-Drift-Car)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
