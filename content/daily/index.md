@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FoxgloveHawkmoth_EN-US4340017481_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AmeliaEarhart_EN-US4396076505_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   星巴克在疫情期间，为什么还敢涨价？ [read](http://www.huxiu.com/article/615724.html?f=wangzhan)
+   吊诡网约车，一边挨打一边入局 [read](http://www.huxiu.com/article/616954.html?f=wangzhan)
 
-   岚图“失声” [read](http://www.huxiu.com/article/615820.html?f=wangzhan)
+   风险偏好，决定你的财务规划 [read](http://www.huxiu.com/article/612283.html?f=wangzhan)
 
-   新能源车狂热之下的隐忧 [read](http://www.huxiu.com/article/615500.html?f=wangzhan)
+   2022汽车市场，争相读懂“她”的心？ [read](http://www.huxiu.com/article/615406.html?f=wangzhan)
 
-   多家大型健身俱乐部高管变动，疫情正在持续影响中国健身行业 [read](https://36kr.com/p/1839462979314692)
+   以疫苗针剂切入宠物服务赛道，「宠鋆」想要打造更贴心的宠物平台 ｜ 早期项目 [read](https://36kr.com/p/1841318502261769)
 
-   乐言科技SVP汤文博：AI SaaS+ 助力品牌全链路营销增长 \| WISE2022新消费品牌峰会 [read](https://36kr.com/p/1839588298204162)
+   医疗健康行业周报 \|「昆迈医疗」获数千万元Pre-A轮融资；「阶梯医疗」要开发脑机接口“Windows系统” [read](https://36kr.com/p/1841096283022343)
 
-   被董宇辉拉黑，一场爆卖2.5亿的趣店罗老板，两天后掉粉过万 [read](https://36kr.com/p/1839419701847296)
+   云鲸智能CMO阎乐：后流量时代，消费者愿意为优秀���验去相信新的品牌\|WISE2022新消费品牌峰会 [read](https://36kr.com/p/1839565378282497)
 
    无限视觉生成模型NUWA-Infinity让视觉艺术创作自由延伸 [read](https://www.msra.cn/zh-cn/news/features/nuwa-infinity)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    OSDI 2022 \| 速来围观！微软亚洲研究院计算机系统领域最新论文！ [read](https://www.msra.cn/zh-cn/news/features/osdi-2022)
 
+   大众 CEO 迪斯辞职，曾主导电气化改革；iPhone 14 或取消 SIM 卡槽；漫威开发真正「灭霸手套」，售价上亿 [read](http://www.geekpark.net/news/305528)
+
    特斯拉回应林志颖车祸：不清楚原因；B 站公布直播年龄底线，16 周岁；福特推出电动车自动充电机器人｜极客早知道 [read](http://www.geekpark.net/news/305527)
 
    腾讯的 Web3 梦想，不到一年就「破灭」了？ [read](http://www.geekpark.net/news/305490)
 
-   广汽董事长：电池太贵，车厂给宁德时代打工；被罚 80 亿，滴滴：认真完成整改；美国总统拜登新冠检测呈阳性｜极客早知道 [read](http://www.geekpark.net/news/305461)
-
 ### 金融类
 
+   从格力小家电发展情况谈当前格力多元化布局进展 [read](http://xueqiu.com/9565842679/226195645)
+
+   光伏龙头隆基与中环的投资逻辑差异 [read](http://xueqiu.com/2236698394/226188671)
+
    透过正邦看养殖模式的好坏 [read](http://xueqiu.com/1784228056/226157569)
-
-   卅载坎坷，血泪光荣——美股1990以来全体Biotech上市公司回报分析 [read](http://xueqiu.com/1335311504/225148379)
-
-   招商中证白酒指数基金二季报解读 [read](http://xueqiu.com/9598902646/225953741)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Qenos iTransform [read](https://www.behance.net/gallery/148365523/Qenos-iTransform)
+   EVERETT [read](https://www.behance.net/gallery/148532479/EVERETT)
 
-   Chill Beats Records Art Vol.3 [read](https://www.behance.net/gallery/148783067/Chill-Beats-Records-Art-Vol3)
+   Townsquares Collection 2 [read](https://www.behance.net/gallery/148730955/Townsquares-Collection-2)
 
-   C7 Corvette Grand Sport Drift Car [read](https://www.behance.net/gallery/145300907/C7-Corvette-Grand-Sport-Drift-Car)
+   Spacious·Qinghai [read](https://www.behance.net/gallery/148811329/SpaciousQinghai)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest doubles down on Shopping, introducing API for Shopping and Product Tagging for Pins, Driving Merchant Success on the Platform [read](https://newsroom.pinterest.com/en/post/pinterest-doubles-down-on-shopping-introducing-api-for-shopping-and-product-tagging-for-pins-0)
 
-   如何进行体系化大改版？京东 APP 11.0 深度解读！ [read](https://www.uisdc.com/jd-app11-0)
+   如何制定B端项目全局框架？收下这篇总监级的经验！ [read](https://www.uisdc.com/global-framework)
 
-   开发说设计效果实现不了该怎么办？来看高手的分析！ [read](https://www.uisdc.com/designer-with-developer)
+   免费商用！6款未来科技感必备的西文字体（附安装包） [read](https://www.uisdc.com/6-science-and-technology-font)
 
-   2022 年不可错过的台式机配置表，设计师来收 [read](https://www.uisdc.com/computer-configuration-2022)
+   腾讯光子全球品牌升级！专访背后的CG主创团队 [read](https://www.uisdc.com/guangzi-cg-design)
 
    CDC夜校回顾NO.26｜如何运营一个开源项目、出海产品设计之多语言设计 [read](https://cdc.tencent.com/2022/07/19/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-26%ef%bd%9c%e5%a6%82%e4%bd%95%e8%bf%90%e8%90%a5%e4%b8%80%e4%b8%aa%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e3%80%81%e5%87%ba%e6%b5%b7%e4%ba%a7%e5%93%81%e8%ae%be/)
 
