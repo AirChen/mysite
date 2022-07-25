@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AmeliaEarhart_EN-US4396076505_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MGRBrighton_EN-US4452708176_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -54,11 +54,11 @@ title: "今日资讯"
 
    \[原\]抖音 Android 性能优化系列：Java 锁优化 [read](https://blog.csdn.net/ByteDanceTech/article/details/125863436)
 
+   ACM SIGIR 2022 \| 美团技术团队精选论文解读 [read](https://tech.meituan.com/2022/07/21/acm-sigir-2022-meituan.html)
+
+   可视化全链路日志追踪 [read](https://tech.meituan.com/2022/07/21/visualized-log-tracing.html)
+
    工程效能CI/CD之流水线引擎的建设实践 [read](https://tech.meituan.com/2022/07/14/cicd-pipeline.html)
-
-   外卖广告大规模深度学习模型工程实践 \| 美团外卖广告工程实践专题连载 [read](https://tech.meituan.com/2022/07/06/largescaledeeplearningmodel-engineeringpractice-in-mtwaimaiad.html)
-
-   大众点评搜索相关性技术探索与实践 [read](https://tech.meituan.com/2022/07/06/semantic-relevance-matching.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   吊诡网约车，一边挨打一边入局 [read](http://www.huxiu.com/article/616954.html?f=wangzhan)
+   储能，下一条可以躺赢的万亿级赛道 [read](http://www.huxiu.com/article/617402.html?f=wangzhan)
 
-   风险偏好，决定你的财务规划 [read](http://www.huxiu.com/article/612283.html?f=wangzhan)
+   波动偏好，对财务规划有什么影响？ [read](http://www.huxiu.com/article/612286.html?f=wangzhan)
 
-   2022汽车市场，争相读懂“她”的心？ [read](http://www.huxiu.com/article/615406.html?f=wangzhan)
+   男生验资，女生面试，飞盘背后资本在打什么算盘？ [read](http://www.huxiu.com/article/617343.html?f=wangzhan)
 
-   以疫苗针剂切入宠物服务赛道，「宠鋆」想要打造更贴心的宠物平台 ｜ 早期项目 [read](https://36kr.com/p/1841318502261769)
+   氪星晚报｜腾讯CSIG调整组织架构，成立地图产品部与数字孪生产品部；中国移动宣布：和飞信将停止服务；Uber承认隐瞒2016年数据被盗事件 [read](https://36kr.com/p/1842758852764930)
 
-   医疗健康行业周报 \|「昆迈医疗」获数千万元Pre-A轮融资；「阶梯医疗」要开发脑机接口“Windows系统” [read](https://36kr.com/p/1841096283022343)
+   鲨鱼菲特创始人强小明：结硬寨、打呆仗，疫情下的持续进攻思考 \| WISE2022新消费品牌峰会 [read](https://36kr.com/p/1842718462092553)
 
-   云鲸智能CMO阎乐：后流量时代，消费者愿意为优秀���验去相信新的品牌\|WISE2022新消费品牌峰会 [read](https://36kr.com/p/1839565378282497)
+   海外new things｜「Cartona」完成1200万美元A轮融资，为快销品牌提供多元运营服务 [read](https://36kr.com/p/1842694748284160)
 
    无限视觉生成模型NUWA-Infinity让视觉艺术创作自由延伸 [read](https://www.msra.cn/zh-cn/news/features/nuwa-infinity)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    OSDI 2022 \| 速来围观！微软亚洲研究院计算机系统领域最新论文！ [read](https://www.msra.cn/zh-cn/news/features/osdi-2022)
 
-   大众 CEO 迪斯辞职，曾主导电气化改革；iPhone 14 或取消 SIM 卡槽；漫威开发真正「灭霸手套」，售价上亿 [read](http://www.geekpark.net/news/305528)
+   双减后一年：新东方转型，俞敏洪自渡 [read](http://www.geekpark.net/news/305572)
 
-   特斯拉回应林志颖车祸：不清楚原因；B 站公布直播年龄底线，16 周岁；福特推出电动车自动充电机器人｜极客早知道 [read](http://www.geekpark.net/news/305527)
+   交出「最差」季报之后，特斯拉大涨 700 亿美元 [read](http://www.geekpark.net/news/305564)
 
-   腾讯的 Web3 梦想，不到一年就「破灭」了？ [read](http://www.geekpark.net/news/305490)
+   「问天」实验舱与「天和」核心舱对接成功；马斯克评大众 CEO 离职：软件是关键；《暗黑破坏神：不朽》国服公测 [read](http://www.geekpark.net/news/305529)
 
 ### 金融类
 
-   从格力小家电发展情况谈当前格力多元化布局进展 [read](http://xueqiu.com/9565842679/226195645)
+   【深度分析】5000字分析张坤二季度报 [read](http://xueqiu.com/1852468973/226266401)
 
-   光伏龙头隆基与中环的投资逻辑差异 [read](http://xueqiu.com/2236698394/226188671)
+   锂电产业链，到底哪个环节该被给予高估值？ [read](http://xueqiu.com/3946267131/226246618)
 
-   透过正邦看养殖模式的好坏 [read](http://xueqiu.com/1784228056/226157569)
+   如何把握“超级周期”的投资机会 [read](http://xueqiu.com/9277793488/226196283)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   EVERETT [read](https://www.behance.net/gallery/148532479/EVERETT)
+   Collection 21/22 [read](https://www.behance.net/gallery/148742855/Collection-2122)
 
-   Townsquares Collection 2 [read](https://www.behance.net/gallery/148730955/Townsquares-Collection-2)
+   ????-??????? \| XIAOHUAN fuctional tea packaging [read](https://www.behance.net/gallery/148548785/-XIAOHUAN-fuctional-tea-packaging)
 
-   Spacious·Qinghai [read](https://www.behance.net/gallery/148811329/SpaciousQinghai)
+   Mutja's Stories [read](https://www.behance.net/gallery/148366309/Mutjas-Stories)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
