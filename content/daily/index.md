@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MGRBrighton_EN-US4452708176_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MangroveDay_EN-US4051479273_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,37 +68,37 @@ title: "今日资讯"
 
 ### 互联网类
 
-   储能，下一条可以躺赢的万亿级赛道 [read](http://www.huxiu.com/article/617402.html?f=wangzhan)
+   奔驰电动车，怎么长这样？ [read](http://www.huxiu.com/article/617253.html?f=wangzhan)
 
-   波动偏好，对财务规划有什么影响？ [read](http://www.huxiu.com/article/612286.html?f=wangzhan)
+   39岁未婚，比离异还不正常？ [read](http://www.huxiu.com/article/618537.html?f=wangzhan)
 
-   男生验资，女生面试，飞盘背后资本在打什么算盘？ [read](http://www.huxiu.com/article/617343.html?f=wangzhan)
+   氢能的“政策风口”，又来了？ [read](http://www.huxiu.com/article/618364.html?f=wangzhan)
 
-   氪星晚报｜腾讯CSIG调整组织架构，成立地图产品部与数字孪生产品部；中国移动宣布：和飞信将停止服务；Uber承认隐瞒2016年数据被盗事件 [read](https://36kr.com/p/1842758852764930)
+   最前线｜遥望网络与海南旅投在抖音快手建立战略级合作 [read](https://36kr.com/p/1844833187040136)
 
-   鲨鱼菲特创始人强小明：结硬寨、打呆仗，疫情下的持续进攻思考 \| WISE2022新消费品牌峰会 [read](https://36kr.com/p/1842718462092553)
+   许家印套牢马云、马化腾 [read](https://36kr.com/p/1844269342378631)
 
-   海外new things｜「Cartona」完成1200万美元A轮融资，为快销品牌提供多元运营服务 [read](https://36kr.com/p/1842694748284160)
+   圆桌共话线下业态及渠道新机遇：小兴趣、数字技术与创新工艺，可以重塑用户体验 \| WISE2022新消费品牌峰会 [read](https://36kr.com/p/1843866027903881)
+
+   文档智能多模态预训练模型LayoutLMv3：兼具通用性与优越性 [read](https://www.msra.cn/zh-cn/news/features/layoutlmv3)
 
    无限视觉生成模型NUWA-Infinity让视觉艺术创作自由延伸 [read](https://www.msra.cn/zh-cn/news/features/nuwa-infinity)
 
    ICML 2022 \| 机器学习前沿论文精选！ [read](https://www.msra.cn/zh-cn/news/features/icml-2022)
 
-   OSDI 2022 \| 速来围观！微软亚洲研究院计算机系统领域最新论文！ [read](https://www.msra.cn/zh-cn/news/features/osdi-2022)
+   850 家公司狂吸 2500 亿美元，谁是 SPAC 热潮中真正的赢家？ [read](http://www.geekpark.net/news/305667)
 
-   双减后一年：新东方转型，俞敏洪自渡 [read](http://www.geekpark.net/news/305572)
+   我在虚拟世界里逛了个展，发现此事「并不简单」 [read](http://www.geekpark.net/news/305657)
 
-   交出「最差」季报之后，特斯拉大涨 700 亿美元 [read](http://www.geekpark.net/news/305564)
-
-   「问天」实验舱与「天和」核心舱对接成功；马斯克评大众 CEO 离职：软件是关键；《暗黑破坏神：不朽》国服公测 [read](http://www.geekpark.net/news/305529)
+   马斯克要「上传大脑」，不应该「只是玩笑」 [read](http://www.geekpark.net/news/305612)
 
 ### 金融类
 
-   【深度分析】5000字分析张坤二季度报 [read](http://xueqiu.com/1852468973/226266401)
+   闲来札记：投资中的人性弱点包括哪些？ [read](http://xueqiu.com/3491303582/226387999)
 
-   锂电产业链，到底哪个环节该被给予高估值？ [read](http://xueqiu.com/3946267131/226246618)
+   我为什么劝你买基金&第一支基金买什么？ [read](http://xueqiu.com/2944053453/226327684)
 
-   如何把握“超级周期”的投资机会 [read](http://xueqiu.com/9277793488/226196283)
+   十问十答解读中炬高新控股权变化及投资价值 [read](http://xueqiu.com/4445206874/225985663)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Collection 21/22 [read](https://www.behance.net/gallery/148742855/Collection-2122)
+   SNFCC - GIVE ME 5 TRIVIA [read](https://www.behance.net/gallery/148830383/SNFCC-GIVE-ME-5-TRIVIA)
 
-   ????-??????? \| XIAOHUAN fuctional tea packaging [read](https://www.behance.net/gallery/148548785/-XIAOHUAN-fuctional-tea-packaging)
+   Package Design &amp; Brand Identity for Démi Bai [read](https://www.behance.net/gallery/148885781/Package-Design-Brand-Identity-for-Dmi-Bai)
 
-   Mutja's Stories [read](https://www.behance.net/gallery/148366309/Mutjas-Stories)
+   A Man. [read](https://www.behance.net/gallery/147917811/A-Man)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest doubles down on Shopping, introducing API for Shopping and Product Tagging for Pins, Driving Merchant Success on the Platform [read](https://newsroom.pinterest.com/en/post/pinterest-doubles-down-on-shopping-introducing-api-for-shopping-and-product-tagging-for-pins-0)
 
-   如何制定B端项目全局框架？收下这篇总监级的经验！ [read](https://www.uisdc.com/global-framework)
+   30 家大厂都在用的设计工具 MasterGo，到底有什么「过人之处」？ [read](https://www.uisdc.com/why-choose-mastergo-2022)
 
-   免费商用！6款未来科技感必备的西文字体（附安装包） [read](https://www.uisdc.com/6-science-and-technology-font)
+   潘虎：审美这事儿，只能自学自救 [read](https://www.uisdc.com/aesthetic-advanced-2022)
 
-   腾讯光子全球品牌升级！专访背后的CG主创团队 [read](https://www.uisdc.com/guangzi-cg-design)
+   第四波！2022年7月精选实用设计干货合集 [read](https://www.uisdc.com/2022-7-design-resources-vol4)
 
    CDC夜校回顾NO.26｜如何运营一个开源项目、出海产品设计之多语言设计 [read](https://cdc.tencent.com/2022/07/19/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-26%ef%bd%9c%e5%a6%82%e4%bd%95%e8%bf%90%e8%90%a5%e4%b8%80%e4%b8%aa%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e3%80%81%e5%87%ba%e6%b5%b7%e4%ba%a7%e5%93%81%e8%ae%be/)
 
