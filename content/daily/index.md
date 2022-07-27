@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MangroveDay_EN-US4051479273_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.NabateanTomb_EN-US4126304993_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式 [read](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html)
+   能源的极限 [read](http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html)
 
-   科技爱好者周刊（第 214 期）：你的地图是错的 [read](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html)
+   科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式 [read](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html)
 
    重构数学库 [read](https://blog.codingnow.com/2022/07/refactor_math3d.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   奔驰电动车，怎么长这样？ [read](http://www.huxiu.com/article/617253.html?f=wangzhan)
+   阿里挥刀，蚂蚁搬家 [read](http://www.huxiu.com/article/619536.html?f=wangzhan)
 
-   39岁未婚，比离异还不正常？ [read](http://www.huxiu.com/article/618537.html?f=wangzhan)
+   3分钟，教你科学驱蚊 [read](http://www.huxiu.com/article/619574.html?f=wangzhan)
 
-   氢能的“政策风口”，又来了？ [read](http://www.huxiu.com/article/618364.html?f=wangzhan)
+   涂鸦智能失控，倒在IoT风口中 [read](http://www.huxiu.com/article/618760.html?f=wangzhan)
 
-   最前线｜遥望网络与海南旅投在抖音快手建立战略级合作 [read](https://36kr.com/p/1844833187040136)
+   最前线 \| Facebook母公司Meta：自今年8月起，VR头显Quest2的售价提高100美元 [read](https://36kr.com/p/1845600293882754)
 
-   许家印套牢马云、马化腾 [read](https://36kr.com/p/1844269342378631)
+   市场动荡加大, 稳健均衡类基金成“避风港” [read](https://36kr.com/p/1845535003052932)
 
-   圆桌共话线下业态及渠道新机遇：小兴趣、数字技术与创新工艺，可以重塑用户体验 \| WISE2022新消费品牌峰会 [read](https://36kr.com/p/1843866027903881)
+   36氪晚报丨飞猪：云南多个城市酒店订单量同比翻倍增长；阿里巴巴国际站：已有近2万家平台商家使用VR Showroom功能；抖音上线默认静音功能，避免公共场合外放打扰他人 [read](https://36kr.com/p/1845575467534978)
 
    文档智能多模态预训练模型LayoutLMv3：兼具通用性与优越性 [read](https://www.msra.cn/zh-cn/news/features/layoutlmv3)
 
@@ -86,11 +86,11 @@ title: "今日资讯"
 
    ICML 2022 \| 机器学习前沿论文精选！ [read](https://www.msra.cn/zh-cn/news/features/icml-2022)
 
+   全球 90% 的贸易活动，都离不开这个「排碳大户」 [read](http://www.geekpark.net/news/305679)
+
+   Meta：与苹果在 AR 上正面交锋；谷歌前 CEO： AI 与核弹一样强大；《魔兽世界》怀旧服「巫妖王之怒」9 月上线｜极客早知道 [read](http://www.geekpark.net/news/305680)
+
    850 家公司狂吸 2500 亿美元，谁是 SPAC 热潮中真正的赢家？ [read](http://www.geekpark.net/news/305667)
-
-   我在虚拟世界里逛了个展，发现此事「并不简单」 [read](http://www.geekpark.net/news/305657)
-
-   马斯克要「上传大脑」，不应该「只是玩笑」 [read](http://www.geekpark.net/news/305612)
 
 ### 金融类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   SNFCC - GIVE ME 5 TRIVIA [read](https://www.behance.net/gallery/148830383/SNFCC-GIVE-ME-5-TRIVIA)
+   TVING [read](https://www.behance.net/gallery/149005713/TVING)
 
-   Package Design &amp; Brand Identity for Démi Bai [read](https://www.behance.net/gallery/148885781/Package-Design-Brand-Identity-for-Dmi-Bai)
+   Personal illustration vol.3 [read](https://www.behance.net/gallery/149018127/Personal-illustration-vol3)
 
-   A Man. [read](https://www.behance.net/gallery/147917811/A-Man)
+   Spectral [read](https://www.behance.net/gallery/148352907/Spectral)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest doubles down on Shopping, introducing API for Shopping and Product Tagging for Pins, Driving Merchant Success on the Platform [read](https://newsroom.pinterest.com/en/post/pinterest-doubles-down-on-shopping-introducing-api-for-shopping-and-product-tagging-for-pins-0)
 
-   30 家大厂都在用的设计工具 MasterGo，到底有什么「过人之处」？ [read](https://www.uisdc.com/why-choose-mastergo-2022)
+   如何参加设计大赛能拿奖赚钱？收下这份超全攻略！ [read](https://www.uisdc.com/design-competition-strategy)
 
-   潘虎：审美这事儿，只能自学自救 [read](https://www.uisdc.com/aesthetic-advanced-2022)
+   7 月版 NVIDIA Studio 驱动现已推出，为 3ds Max 的 Chaos V-Ray 6 渲染器提升性能 [read](https://www.uisdc.com/brian-lai-2022)
 
-   第四波！2022年7月精选实用设计干货合集 [read](https://www.uisdc.com/2022-7-design-resources-vol4)
+   视频体验天花板！15个哔哩哔哩的产品设计细节解析 [read](https://www.uisdc.com/bilibili-product-details)
 
    CDC夜校回顾NO.26｜如何运营一个开源项目、出海产品设计之多语言设计 [read](https://cdc.tencent.com/2022/07/19/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-26%ef%bd%9c%e5%a6%82%e4%bd%95%e8%bf%90%e8%90%a5%e4%b8%80%e4%b8%aa%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e3%80%81%e5%87%ba%e6%b5%b7%e4%ba%a7%e5%93%81%e8%ae%be/)
 
