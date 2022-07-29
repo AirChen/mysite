@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.LongsPeak_EN-US4189093342_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FourTigresses_EN-US0466229333_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   能源的极限 [read](http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html)
+   科技爱好者周刊（第 216 期）：极简主义的胜利 [read](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html)
 
-   科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式 [read](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html)
+   能源的极限 [read](http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html)
 
    RmlUI 的 style 缓存 [read](https://blog.codingnow.com/2022/07/rmlui_style_cache.html)
 
@@ -16,11 +16,11 @@ title: "今日资讯"
 
    ECS 系统中 Entity 的生命期管理 [read](https://blog.codingnow.com/2022/07/entity_lifespan.html)
 
+   为了老婆的乐队梦, 我做了一个弹钢琴的机器人 [read](https://blog.t9t.io/modsoul-2022-07-29/)
+
    一个付费 chrome 插件的一生 [read](https://blog.t9t.io/star-history-2021-01-21/)
 
    通过 GitHub 订阅 Hacker News 每日 top 10 [read](https://blog.t9t.io/headllines-2020-09-03/)
-
-   让用户决定软件长什么样 [read](https://blog.t9t.io/let-user-design-2020-06-18/)
 
    菲律宾这国家到底怎么回事 [read](https://www.kymjs.com/history/2022/05/11/01)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 457 期 [read](https://weekly.75.team/issue457.html)
+
    奇舞周刊第 456 期 [read](https://weekly.75.team/issue456.html)
 
    奇舞周刊第 455 期 [read](https://weekly.75.team/issue455.html)
-
-   奇舞周刊第 454 期 [read](https://weekly.75.team/issue454.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -48,17 +48,17 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
-   \[原\]Thrift 序列化协议浅析 [read](https://blog.csdn.net/ByteDanceTech/article/details/126026133)
+   深入浅出依赖注入及其在抖音直播中的应用 [read](https://blog.csdn.net/ByteDanceTech/article/details/126047109)
 
-   \[原\]RTC 性能自动化工具在内存优化场景下的实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125942459)
+   Thrift 序列化协议浅析 [read](https://blog.csdn.net/ByteDanceTech/article/details/126026133)
 
-   \[原\]MemoryThrashing：抖音直播解决内存抖动实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125903830)
+   RTC 性能自动化工具在内存优化场景下的实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125942459)
+
+   日志导致线程Block的这些坑，你不得不防 [read](https://tech.meituan.com/2022/07/29/tips-for-avoiding-log-blocking-threads.html)
 
    ACM SIGIR 2022 \| 美团技术团队精选论文解读 [read](https://tech.meituan.com/2022/07/21/acm-sigir-2022-meituan.html)
 
    可视化全链路日志追踪 [read](https://tech.meituan.com/2022/07/21/visualized-log-tracing.html)
-
-   工程效能CI/CD之流水线引擎的建设实践 [read](https://tech.meituan.com/2022/07/14/cicd-pipeline.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   二舅72小时，中文互联网都发生了什么 [read](http://www.huxiu.com/article/620603.html?f=wangzhan)
+   钓鱼老哥现状：自从路亚上瘾，每天都超开心 [read](http://www.huxiu.com/article/621716.html?f=wangzhan)
 
-   想实现财务自由？先学会消费规划 [read](http://www.huxiu.com/article/612296.html?f=wangzhan)
+   未来打无人驾驶车，价格便宜一半？ [read](http://www.huxiu.com/article/621220.html?f=wangzhan)
 
-   长城与比亚迪的攻守转换 [read](http://www.huxiu.com/article/620345.html?f=wangzhan)
+   自游家造车，撞上资质的暗礁 [read](http://www.huxiu.com/article/621412.html?f=wangzhan)
 
-   裁员500人、被传破产解散，每日优鲜还能撑多久？丨氪金 · 大事件 [read](https://36kr.com/p/1847015033294211)
+   进入「黑铁时代」 土地投拓会彻底消失吗 \| PropTech深度 [read](https://36kr.com/p/1848579450293635)
 
-   36氪晚报丨BOSS直聘：2022年二季度处置违规招聘者账号20.8万个；韩国SK筹集20亿美元资金，加速欧洲电池工厂建设；国家反垄断局：我国已与美国、欧盟并列为全球三大反垄断司法辖区 [read](https://36kr.com/p/1847007037934724)
+   36氪晚报丨每日优鲜负债15亿-18亿元，曾多方寻求融资未果；索尼集团下调全年净利润预期快手短剧日活用户已超2.6亿；花旗将苹果目标价从175美元上调至185美元 [read](https://36kr.com/p/1848516410264704)
 
-   最前线｜「启英泰伦」推出第三代智能语音芯片，实现端侧自然语言处理，覆盖端云融合语音应用 [read](https://36kr.com/p/1847101044771971)
+   36碳周报丨雪碧为环保将不再使用绿色塑料瓶包装；光伏产业为全球市场供应超70%组件 [read](https://36kr.com/p/1848446020291712)
 
    文档智能多模态预训练模型LayoutLMv3：兼具通用性与优越性 [read](https://www.msra.cn/zh-cn/news/features/layoutlmv3)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    ICML 2022 \| 机器学习前沿论文精选！ [read](https://www.msra.cn/zh-cn/news/features/icml-2022)
 
-   苹果的这次失败，让笔记本电脑倒退 15 年 [read](http://www.geekpark.net/news/305697)
+   TCL 创始人李东生：40 年穿越周期的启示 [read](http://www.geekpark.net/news/305870)
 
-   美政府通过「芯片法案」，540 亿美元补贴半导体；苹果招兰博基尼高管加盟造车；全球最大加密币交易所股价跌去 90% [read](http://www.geekpark.net/news/305746)
+   极氪聪聪： 从 All In「新造车」到加速进化 [read](http://www.geekpark.net/news/305833)
 
-   全球 90% 的贸易活动，都离不开这个「排碳大户」 [read](http://www.geekpark.net/news/305679)
+   传每日优鲜「原地解散」，已无法下单；SpaceX 星链将升级，或直连手机；中国空间站只写中文：母语最直接准确 [read](http://www.geekpark.net/news/305802)
 
 ### 金融类
 
-   要做世界第一的伊利股份今天线下召开投资者日-随想 [read](http://xueqiu.com/6261017149/226544295)
+   “自洽”与“闭环”——王国斌的逻辑真的不自洽吗？ [read](http://xueqiu.com/1649321768/226706145)
 
-   这只不抱团的医药基金，或许比葛兰的更适合新手 [read](http://xueqiu.com/5760078642/226542956)
+   医药行业的艰难时刻过去了吗？ [read](http://xueqiu.com/9047540546/226679038)
 
-   物业的提价权和业绩增速 [read](http://xueqiu.com/7995171607/226478289)
+   雪球专刊——投资中国：2022年下半年投资展望 [read](http://xueqiu.com/3746414875/226691589)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   The Robert McLaughlin Gallery [read](https://www.behance.net/gallery/148749053/The-Robert-McLaughlin-Gallery)
+   Little Moments [read](https://www.behance.net/gallery/149204918/Little-Moments)
 
-   Illustrations July 2022 [read](https://www.behance.net/gallery/149104343/Illustrations-July-2022)
+   dibi [read](https://www.behance.net/gallery/149159075/dibi)
 
-   The Container Series [read](https://www.behance.net/gallery/147972561/The-Container-Series)
+   Many Faces [read](https://www.behance.net/gallery/149125659/Many-Faces)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -140,17 +140,17 @@ title: "今日资讯"
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
+   Pinterest and /dev/color advance Black talent in tech [read](https://newsroom.pinterest.com/en/post/pinterest-and-devcolor-advance-black-talent-in-tech)
+
    Nadine Zylstra is Pinterest’s new Global Head of Programming and Originals [read](https://newsroom.pinterest.com/en/post/nadine-zylstra-is-pinterests-new-global-head-of-programming-and-originals)
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
-   Pinterest doubles down on Shopping, introducing API for Shopping and Product Tagging for Pins, Driving Merchant Success on the Platform [read](https://newsroom.pinterest.com/en/post/pinterest-doubles-down-on-shopping-introducing-api-for-shopping-and-product-tagging-for-pins-0)
+   实战复盘！「顺丰速运」运营版 IP 形象设计总结 [read](https://www.uisdc.com/sf-ip-design)
 
-   如何参加设计大赛拿奖？收下这份超全参赛指南！ [read](https://www.uisdc.com/design-competition-strategy)
+   用一个案例，帮你掌握画册排版中的网格系统 [read](https://www.uisdc.com/album-grid-system)
 
-   8个实操改稿案例，帮你搞定配色难题！ [read](https://www.uisdc.com/case-practice-of-color-matching)
-
-   为了帮你找到工作，求职 APP 的产品设计师有多努力？ [read](https://www.uisdc.com/job-hunting-app)
+   作品落地效果不行？来收下这份印刷必知的纸张知识 [read](https://www.uisdc.com/paper-features-2022)
 
    CDC夜校回顾NO.26｜如何运营一个开源项目、出海产品设计之多语言设计 [read](https://cdc.tencent.com/2022/07/19/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-26%ef%bd%9c%e5%a6%82%e4%bd%95%e8%bf%90%e8%90%a5%e4%b8%80%e4%b8%aa%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e3%80%81%e5%87%ba%e6%b5%b7%e4%ba%a7%e5%93%81%e8%ae%be/)
 
