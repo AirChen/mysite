@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FourTigresses_EN-US0466229333_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FiordlandRainforest_EN-US0539876428_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   幸福里 C 端 iOS 编译优化实践-优化 40% 耗时 [read](https://blog.csdn.net/ByteDanceTech/article/details/126066654)
+
    深入浅出依赖注入及其在抖音直播中的应用 [read](https://blog.csdn.net/ByteDanceTech/article/details/126047109)
 
    Thrift 序列化协议浅析 [read](https://blog.csdn.net/ByteDanceTech/article/details/126026133)
-
-   RTC 性能自动化工具在内存优化场景下的实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/125942459)
 
    日志导致线程Block的这些坑，你不得不防 [read](https://tech.meituan.com/2022/07/29/tips-for-avoiding-log-blocking-threads.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   APP的尽头，是广告“开屏器” [read](http://www.huxiu.com/article/621711.html?f=wangzhan)
+
+   曾经4000亿规模的小龙虾，为什么正在被年轻人抛弃？ [read](http://www.huxiu.com/article/621800.html?f=wangzhan)
+
    钓鱼老哥现状：自从路亚上瘾，每天都超开心 [read](http://www.huxiu.com/article/621716.html?f=wangzhan)
 
-   未来打无人驾驶车，价格便宜一半？ [read](http://www.huxiu.com/article/621220.html?f=wangzhan)
+   「猎阵生物」获赤子基金千万元融资，开发农产品核酸检测试剂卡及设备 \| 36氪首发 [read](https://36kr.com/p/1848312865688711)
 
-   自游家造车，撞上资质的暗礁 [read](http://www.huxiu.com/article/621412.html?f=wangzhan)
+   9点1氪丨微信开放红包封面定制；被晒月薪超8万中金员工停职调查；哈啰回应员工破坏70辆美团单车 [read](https://36kr.com/p/1849285235707017)
 
-   进入「黑铁时代」 土地投拓会彻底消失吗 \| PropTech深度 [read](https://36kr.com/p/1848579450293635)
-
-   36氪晚报丨每日优鲜负债15亿-18亿元，曾多方寻求融资未果；索尼集团下调全年净利润预期快手短剧日活用户已超2.6亿；花旗将苹果目标价从175美元上调至185美元 [read](https://36kr.com/p/1848516410264704)
-
-   36碳周报丨雪碧为环保将不再使用绿色塑料瓶包装；光伏产业为全球市场供应超70%组件 [read](https://36kr.com/p/1848446020291712)
+   7成年轻人接受相亲，5成女生25岁前开始着急｜2022年轻人相亲报告 [read](https://36kr.com/p/1847386422316168)
 
    文档智能多模态预训练模型LayoutLMv3：兼具通用性与优越性 [read](https://www.msra.cn/zh-cn/news/features/layoutlmv3)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    ICML 2022 \| 机器学习前沿论文精选！ [read](https://www.msra.cn/zh-cn/news/features/icml-2022)
 
-   TCL 创始人李东生：40 年穿越周期的启示 [read](http://www.geekpark.net/news/305870)
+   在快手，短视频和直播正在成为行业新的「编程语言」 [read](http://www.geekpark.net/news/305891)
 
-   极氪聪聪： 从 All In「新造车」到加速进化 [read](http://www.geekpark.net/news/305833)
+   ISC与 2022全球数字经济大会共同打造数字安全峰会 [read](http://www.geekpark.net/news/305890)
 
-   传每日优鲜「原地解散」，已无法下单；SpaceX 星链将升级，或直连手机；中国空间站只写中文：母语最直接准确 [read](http://www.geekpark.net/news/305802)
+   Instgram：确实学不了 TikTok；每日优鲜创始人徐正：我没跑路；雪碧「经典绿瓶」或成绝响 \| 极客早知道 [read](http://www.geekpark.net/news/305884)
 
 ### 金融类
 
-   “自洽”与“闭环”——王国斌的逻辑真的不自洽吗？ [read](http://xueqiu.com/1649321768/226706145)
+   买股票与做生意相比，有哪些优势？ [read](http://xueqiu.com/1340904670/226735625)
 
-   医药行业的艰难时刻过去了吗？ [read](http://xueqiu.com/9047540546/226679038)
+   调研伊利股份的五个感悟 [read](http://xueqiu.com/2496980475/226700176)
 
-   雪球专刊——投资中国：2022年下半年投资展望 [read](http://xueqiu.com/3746414875/226691589)
+   可转债新政详解 [read](http://xueqiu.com/8849632795/226725652)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Little Moments [read](https://www.behance.net/gallery/149204918/Little-Moments)
+   Otherside [read](https://www.behance.net/gallery/149151867/Otherside)
 
-   dibi [read](https://www.behance.net/gallery/149159075/dibi)
+   series:simple 5 / NPCs one [read](https://www.behance.net/gallery/149257205/seriessimple-5-NPCs-one)
 
-   Many Faces [read](https://www.behance.net/gallery/149125659/Many-Faces)
+   PAPER DOLL for INFRINGE [read](https://www.behance.net/gallery/149216935/PAPER-DOLL-for-INFRINGE)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
