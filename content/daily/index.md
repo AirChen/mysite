@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FiordlandRainforest_EN-US0539876428_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.NoctilucentClouds_EN-US0838966037_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   APP的尽头，是广告“开屏器” [read](http://www.huxiu.com/article/621711.html?f=wangzhan)
+   考编热，难掩公考培训机构的窘境 [read](http://www.huxiu.com/article/619291.html?f=wangzhan)
 
-   曾经4000亿规模的小龙虾，为什么正在被年轻人抛弃？ [read](http://www.huxiu.com/article/621800.html?f=wangzhan)
+   吉利混动：吊打丰田，你看我行吗 [read](http://www.huxiu.com/article/622605.html?f=wangzhan)
 
-   钓鱼老哥现状：自从路亚上瘾，每天都超开心 [read](http://www.huxiu.com/article/621716.html?f=wangzhan)
+   恒大汽车，大卖成定局？ [read](http://www.huxiu.com/article/622603.html?f=wangzhan)
 
-   「猎阵生物」获赤子基金千万元融资，开发农产品核酸检测试剂卡及设备 \| 36氪首发 [read](https://36kr.com/p/1848312865688711)
+   拥抱不确定性，共话品牌成长新机遇｜WISE2022新消费品牌峰会落幕 [read](https://36kr.com/p/1851735422635138)
 
-   9点1氪丨微信开放红包封面定制；被晒月薪超8万中金员工停职调查；哈啰回应员工破坏70辆美团单车 [read](https://36kr.com/p/1849285235707017)
+   《隐入尘烟》李睿珺：宝藏导演的职业必修与苦��� [read](https://36kr.com/p/1851192358292864)
 
-   7成年轻人接受相亲，5成女生25岁前开始着急｜2022年轻人相亲报告 [read](https://36kr.com/p/1847386422316168)
+   渗透率1%，工程机械电动化道路还要走多久？\| 行业观察 [read](https://36kr.com/p/1851130515639432)
 
    文档智能多模态预训练模型LayoutLMv3：兼具通用性与优越性 [read](https://www.msra.cn/zh-cn/news/features/layoutlmv3)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    ICML 2022 \| 机器学习前沿论文精选！ [read](https://www.msra.cn/zh-cn/news/features/icml-2022)
 
-   在快手，短视频和直播正在成为行业新的「编程语言」 [read](http://www.geekpark.net/news/305891)
+   增长放缓，元宇宙岗位正在消失；马斯克反诉推特；亚马逊将关闭个人网盘业务｜极客早知道 [read](http://www.geekpark.net/news/305892)
 
-   ISC与 2022全球数字经济大会共同打造数字安全峰会 [read](http://www.geekpark.net/news/305890)
+   在快手，短视频和直播正在成为行业新的「编程语言」 [read](http://www.geekpark.net/news/305891)
 
    Instgram：确实学不了 TikTok；每日优鲜创始人徐正：我没跑路；雪碧「经典绿瓶」或成绝响 \| 极客早知道 [read](http://www.geekpark.net/news/305884)
 
 ### 金融类
 
-   买股票与做生意相比，有哪些优势？ [read](http://xueqiu.com/1340904670/226735625)
+   寻找过去三年业绩优秀，目前“小而美”的基金 [read](http://xueqiu.com/5679199459/226778771)
 
-   调研伊利股份的五个感悟 [read](http://xueqiu.com/2496980475/226700176)
+   A股患上“忧郁症”，怎么治 [read](http://xueqiu.com/1448459094/226791201)
 
-   可转债新政详解 [read](http://xueqiu.com/8849632795/226725652)
+   L7才是理想的期末考试 [read](http://xueqiu.com/7947659357/226726402)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Otherside [read](https://www.behance.net/gallery/149151867/Otherside)
+   PROJECT #70 FARMLAND [read](https://www.behance.net/gallery/149274921/PROJECT-70-FARMLAND)
 
-   series:simple 5 / NPCs one [read](https://www.behance.net/gallery/149257205/seriessimple-5-NPCs-one)
+   hand drawings [read](https://www.behance.net/gallery/149281671/hand-drawings)
 
-   PAPER DOLL for INFRINGE [read](https://www.behance.net/gallery/149216935/PAPER-DOLL-for-INFRINGE)
+   linkcoffee BRAND IDENTITY DESIGN [read](https://www.behance.net/gallery/129023299/linkcoffee-BRAND-IDENTITY-DESIGN)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
+   如何应对复杂场景下的B端产品设计？我总结了这3个方面！ [read](https://www.uisdc.com/b-end-product-design)
+
    实战复盘！「顺丰速运」运营版 IP 形象设计总结 [read](https://www.uisdc.com/sf-ip-design)
 
    用一个案例，帮你掌握画册排版中的网格系统 [read](https://www.uisdc.com/album-grid-system)
-
-   作品落地效果不行？来收下这份印刷必知的纸张知识 [read](https://www.uisdc.com/paper-features-2022)
 
    CDC夜校回顾NO.26｜如何运营一个开源项目、出海产品设计之多语言设计 [read](https://cdc.tencent.com/2022/07/19/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-26%ef%bd%9c%e5%a6%82%e4%bd%95%e8%bf%90%e8%90%a5%e4%b8%80%e4%b8%aa%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e3%80%81%e5%87%ba%e6%b5%b7%e4%ba%a7%e5%93%81%e8%ae%be/)
 
