@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.NoctilucentClouds_EN-US0838966037_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.LavaTube_EN-US0984183891_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   考编热，难掩公考培训机构的窘境 [read](http://www.huxiu.com/article/619291.html?f=wangzhan)
+   朋克之都：专属于武汉的躁动 [read](http://www.huxiu.com/article/623941.html?f=wangzhan)
 
-   吉利混动：吊打丰田，你看我行吗 [read](http://www.huxiu.com/article/622605.html?f=wangzhan)
+   当问界脱掉“保护色” [read](http://www.huxiu.com/article/623525.html?f=wangzhan)
 
-   恒大汽车，大卖成定局？ [read](http://www.huxiu.com/article/622603.html?f=wangzhan)
+   年轻人，该不该问父母要钱？ [read](http://www.huxiu.com/article/623586.html?f=wangzhan)
 
-   拥抱不确定性，共话品牌成长新机遇｜WISE2022新消费品牌峰会落幕 [read](https://36kr.com/p/1851735422635138)
+   穆迪下调远洋评级至Ba1 [read](https://36kr.com/p/1852885432634497)
 
-   《隐入尘烟》李睿珺：宝藏导演的职业必修与苦��� [read](https://36kr.com/p/1851192358292864)
+   氪星晚报｜每日优鲜否认“资金断链”：虚假消息，不要上当；碳管理企业“碳阻迹”完成B轮亿元融资；蔚来计划推出第三品牌，价格或下探至10万元；三部门：推动绿色低碳技术重大突破 [read](https://36kr.com/p/1852767995301256)
 
-   渗透率1%，工程机械电动化道路还要走多久？\| 行业观察 [read](https://36kr.com/p/1851130515639432)
+   36氪首发｜恒创睿能完成超3亿元B轮融资，专注新能源电池循环利用 [read](https://36kr.com/p/1852275450596737)
 
    文档智能多模态预训练模型LayoutLMv3：兼具通用性与优越性 [read](https://www.msra.cn/zh-cn/news/features/layoutlmv3)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    ICML 2022 \| 机器学习前沿论文精选！ [read](https://www.msra.cn/zh-cn/news/features/icml-2022)
 
+   二手车全面取消限制，可全国流通；AMD 市值超越英特尔；传英伟达 RTX 4080 跑分是 3080 两倍 [read](http://www.geekpark.net/news/305894)
+
    增长放缓，元宇宙岗位正在消失；马斯克反诉推特；亚马逊将关闭个人网盘业务｜极客早知道 [read](http://www.geekpark.net/news/305892)
 
    在快手，短视频和直播正在成为行业新的「编程语言」 [read](http://www.geekpark.net/news/305891)
 
-   Instgram：确实学不了 TikTok；每日优鲜创始人徐正：我没跑路；雪碧「经典绿瓶」或成绝响 \| 极客早知道 [read](http://www.geekpark.net/news/305884)
-
 ### 金融类
 
-   寻找过去三年业绩优秀，目前“小而美”的基金 [read](http://xueqiu.com/5679199459/226778771)
+   计划不如变化，变化不如计划周全，继续定投 [read](http://xueqiu.com/1448459094/226903364)
 
-   A股患上“忧郁症”，怎么治 [read](http://xueqiu.com/1448459094/226791201)
+   华能国际2022年中报解读：周期不再，大胆看空 [read](http://xueqiu.com/7318086163/226800153)
 
-   L7才是理想的期末考试 [read](http://xueqiu.com/7947659357/226726402)
+   浅谈医疗改革下创新药入院的现状 [read](http://xueqiu.com/7475643401/226804107)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   PROJECT #70 FARMLAND [read](https://www.behance.net/gallery/149274921/PROJECT-70-FARMLAND)
+   Tag Heuer - Monaco GP Historique [read](https://www.behance.net/gallery/149309755/Tag-Heuer-Monaco-GP-Historique)
 
-   hand drawings [read](https://www.behance.net/gallery/149281671/hand-drawings)
+   Editorial Illustrations, 2021, VOL.3 [read](https://www.behance.net/gallery/123166083/Editorial-Illustrations-2021-VOL3)
 
-   linkcoffee BRAND IDENTITY DESIGN [read](https://www.behance.net/gallery/129023299/linkcoffee-BRAND-IDENTITY-DESIGN)
+   Invader Studio - Visual Identity [read](https://www.behance.net/gallery/149130557/Invader-Studio-Visual-Identity)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
-   如何应对复杂场景下的B端产品设计？我总结了这3个方面！ [read](https://www.uisdc.com/b-end-product-design)
+   5000字干货！全方位掌握「导航栏设计」知识点！ [read](https://www.uisdc.com/navigation-bar-design-topic)
 
-   实战复盘！「顺丰速运」运营版 IP 形象设计总结 [read](https://www.uisdc.com/sf-ip-design)
+   用四大章节，帮你10分钟学会 Figma 组件库的搭建和使用 [read](https://www.uisdc.com/construction-of-component-library)
 
-   用一个案例，帮你掌握画册排版中的网格系统 [read](https://www.uisdc.com/album-grid-system)
+   PPT 超全自学指南（1）：明确目标+软件操作 [read](https://www.uisdc.com/ppt-self-study-method)
 
    CDC夜校回顾NO.26｜如何运营一个开源项目、出海产品设计之多语言设计 [read](https://cdc.tencent.com/2022/07/19/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-26%ef%bd%9c%e5%a6%82%e4%bd%95%e8%bf%90%e8%90%a5%e4%b8%80%e4%b8%aa%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e3%80%81%e5%87%ba%e6%b5%b7%e4%ba%a7%e5%93%81%e8%ae%be/)
 
