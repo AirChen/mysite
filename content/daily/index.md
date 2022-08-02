@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.LavaTube_EN-US0984183891_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.HickmanBridge_EN-US1087333208_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 216 期）：极简主义的胜利 [read](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html)
+   DNS 查询原理详解 [read](http://www.ruanyifeng.com/blog/2022/08/dns-query.html)
 
-   能源的极限 [read](http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html)
+   科技爱好者周刊（第 216 期）：极简主义的胜利 [read](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html)
 
    RmlUI 的 style 缓存 [read](https://blog.codingnow.com/2022/07/rmlui_style_cache.html)
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   chrome 插件开发指南 [read](https://blog.csdn.net/ByteDanceTech/article/details/126113100)
+
    幸福里 C 端 iOS 编译优化实践-优化 40% 耗时 [read](https://blog.csdn.net/ByteDanceTech/article/details/126066654)
 
    深入浅出依赖注入及其在抖音直播中的应用 [read](https://blog.csdn.net/ByteDanceTech/article/details/126047109)
-
-   Thrift 序列化协议浅析 [read](https://blog.csdn.net/ByteDanceTech/article/details/126026133)
 
    日志导致线程Block的这些坑，你不得不防 [read](https://tech.meituan.com/2022/07/29/tips-for-avoiding-log-blocking-threads.html)
 
@@ -60,25 +60,19 @@ title: "今日资讯"
 
    可视化全链路日志追踪 [read](https://tech.meituan.com/2022/07/21/visualized-log-tracing.html)
 
-   FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
-
-   FEX 技术周刊 - 2020/06/01 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-01//)
-
-   FEX 技术周刊 - 2020/05/25 [read](http://fex.baidu.com/blog/2020/05/fex-weekly-25//)
-
 ### 互联网类
+
+   蔚小理的好日子，过去了？ [read](http://www.huxiu.com/article/622897.html?f=wangzhan)
 
    朋克之都：专属于武汉的躁动 [read](http://www.huxiu.com/article/623941.html?f=wangzhan)
 
    当问界脱掉“保护色” [read](http://www.huxiu.com/article/623525.html?f=wangzhan)
 
-   年轻人，该不该问父母要钱？ [read](http://www.huxiu.com/article/623586.html?f=wangzhan)
+   哪些电子产品是你生活中不可或缺的？ \| 「潮流电器消费」小调查 [read](https://36kr.com/p/1854150001413763)
 
-   穆迪下调远洋评级至Ba1 [read](https://36kr.com/p/1852885432634497)
+   氪星晚报｜小鹏汽车与阿里云合建自动驾驶智算中心“扶摇”；每日优鲜澄迈公司法定代表人变更；2022年第二季度全球云服务支出达到623亿美元 [read](https://36kr.com/p/1854090068234117)
 
-   氪星晚报｜每日优鲜否认“资金断链”：虚假消息，不要上当；碳管理企业“碳阻迹”完成B轮亿元融资；蔚来计划推出第三品牌，价格或下探至10万元；三部门：推动绿色低碳技术重大突破 [read](https://36kr.com/p/1852767995301256)
-
-   36氪首发｜恒创睿能完成超3亿元B轮融资，专注新能源电池循环利用 [read](https://36kr.com/p/1852275450596737)
+   昆仲资本姚海波：属于中国汽车产业链的机会才刚开始 [read](https://36kr.com/p/1854007115402889)
 
    文档智能多模态预训练模型LayoutLMv3：兼具通用性与优越性 [read](https://www.msra.cn/zh-cn/news/features/layoutlmv3)
 
@@ -86,19 +80,19 @@ title: "今日资讯"
 
    ICML 2022 \| 机器学习前沿论文精选！ [read](https://www.msra.cn/zh-cn/news/features/icml-2022)
 
+   进入深水区，AI 基础设施的角色是什么？ [read](http://www.geekpark.net/news/306013)
+
+   蔚来计划推出 10 万元入门轿车；支付宝中国董事长变更；吉卜力公园最新场景曝光 [read](http://www.geekpark.net/news/305981)
+
    二手车全面取消限制，可全国流通；AMD 市值超越英特尔；传英伟达 RTX 4080 跑分是 3080 两倍 [read](http://www.geekpark.net/news/305894)
-
-   增长放缓，元宇宙岗位正在消失；马斯克反诉推特；亚马逊将关闭个人网盘业务｜极客早知道 [read](http://www.geekpark.net/news/305892)
-
-   在快手，短视频和直播正在成为行业新的「编程语言」 [read](http://www.geekpark.net/news/305891)
 
 ### 金融类
 
-   计划不如变化，变化不如计划周全，继续定投 [read](http://xueqiu.com/1448459094/226903364)
+   粮厂研究员Will：小米集团22年Q2初步更新 [read](http://xueqiu.com/7970049223/226950884)
 
-   华能国际2022年中报解读：周期不再，大胆看空 [read](http://xueqiu.com/7318086163/226800153)
+   量化高频vs中低频，你还在焦虑地选择吗？ [read](http://xueqiu.com/9047540546/227005481)
 
-   浅谈医疗改革下创新药入院的现状 [read](http://xueqiu.com/7475643401/226804107)
+   从富荣沪深300指数增强基金看量化增强 [read](http://xueqiu.com/1147978751/227012702)
 
 ### 学习类
 
@@ -128,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Tag Heuer - Monaco GP Historique [read](https://www.behance.net/gallery/149309755/Tag-Heuer-Monaco-GP-Historique)
+   Discover Japan [read](https://www.behance.net/gallery/149056891/Discover-Japan)
 
-   Editorial Illustrations, 2021, VOL.3 [read](https://www.behance.net/gallery/123166083/Editorial-Illustrations-2021-VOL3)
+   MM VERT GOTHIQUE [read](https://www.behance.net/gallery/149425425/MM-VERT-GOTHIQUE)
 
-   Invader Studio - Visual Identity [read](https://www.behance.net/gallery/149130557/Invader-Studio-Visual-Identity)
+   In the south darling. You ride. [read](https://www.behance.net/gallery/149439317/In-the-south-darling-You-ride)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +140,11 @@ title: "今日资讯"
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
-   5000字干货！全方位掌握「导航栏设计」知识点！ [read](https://www.uisdc.com/navigation-bar-design-topic)
+   万字产品拆解！智联招聘产品设计全方位深度解析 [read](https://www.uisdc.com/zhilian-zhaopin)
 
-   用四大章节，帮你10分钟学会 Figma 组件库的搭建和使用 [read](https://www.uisdc.com/construction-of-component-library)
+   如何做好可用性测试？高手总结了这6个阶段！ [read](https://www.uisdc.com/usability-testing-method)
 
-   PPT 超全自学指南（1）：明确目标+软件操作 [read](https://www.uisdc.com/ppt-self-study-method)
+   设计师如何描述 B 端业务的核心价值（上） [read](https://www.uisdc.com/b-end-value-description)
 
    CDC夜校回顾NO.26｜如何运营一个开源项目、出海产品设计之多语言设计 [read](https://cdc.tencent.com/2022/07/19/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-26%ef%bd%9c%e5%a6%82%e4%bd%95%e8%bf%90%e8%90%a5%e4%b8%80%e4%b8%aa%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e3%80%81%e5%87%ba%e6%b5%b7%e4%ba%a7%e5%93%81%e8%ae%be/)
 
