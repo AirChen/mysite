@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.HickmanBridge_EN-US1087333208_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.RedneckedGrebe_EN-US1190259802_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -60,19 +60,25 @@ title: "今日资讯"
 
    可视化全链路日志追踪 [read](https://tech.meituan.com/2022/07/21/visualized-log-tracing.html)
 
+   FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
+
+   FEX 技术周刊 - 2020/06/01 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-01//)
+
+   FEX 技术周刊 - 2020/05/25 [read](http://fex.baidu.com/blog/2020/05/fex-weekly-25//)
+
 ### 互联网类
+
+   迪斯的数字化“遗产”，大众要如何处置？ [read](http://www.huxiu.com/article/625630.html?f=wangzhan)
+
+   “私桩共享”，能解决“充电难”吗？ [read](http://www.huxiu.com/article/625597.html?f=wangzhan)
 
    蔚小理的好日子，过去了？ [read](http://www.huxiu.com/article/622897.html?f=wangzhan)
 
-   朋克之都：专属于武汉的躁动 [read](http://www.huxiu.com/article/623941.html?f=wangzhan)
+   氪星晚报丨宁德时代四季度向特斯拉供应M3P电池，搭载于Model Y；宝马CEO：考虑研发新一代氢能源汽车；B站新专利可实现虚拟形象直播 [read](https://36kr.com/p/1855533579980422)
 
-   当问界脱掉“保护色” [read](http://www.huxiu.com/article/623525.html?f=wangzhan)
+   36氪首发 \| A轮融资30亿元，上汽和阿里合资的智己汽车估值300亿 [read](https://36kr.com/p/1855424186371716)
 
-   哪些电子产品是你生活中不可或缺的？ \| 「潮流电器消费」小调查 [read](https://36kr.com/p/1854150001413763)
-
-   氪星晚报｜小鹏汽车与阿里云合建自动驾驶智算中心“扶摇”；每日优鲜澄迈公司法定代表人变更；2022年第二季度全球云服务支出达到623亿美元 [read](https://36kr.com/p/1854090068234117)
-
-   昆仲资本姚海波：属于中国汽车产业链的机会才刚开始 [read](https://36kr.com/p/1854007115402889)
+   研报淘金丨三个月涨近80%，培育钻石又将成为下一个风口？ [read](https://36kr.com/p/1855366673714825)
 
    文档智能多模态预训练模型LayoutLMv3：兼具通用性与优越性 [read](https://www.msra.cn/zh-cn/news/features/layoutlmv3)
 
@@ -80,19 +86,19 @@ title: "今日资讯"
 
    ICML 2022 \| 机器学习前沿论文精选！ [read](https://www.msra.cn/zh-cn/news/features/icml-2022)
 
+   一份当代年轻人报告，藏着多少信号 [read](http://www.geekpark.net/news/306044)
+
+   罗技合作腾讯，将推云游戏掌机；何小鹏：望 2025 年实现自动驾驶；温度已达 32.5℃，北极现在可穿短袖｜极客早知道 [read](http://www.geekpark.net/news/306027)
+
    进入深水区，AI 基础设施的角色是什么？ [read](http://www.geekpark.net/news/306013)
-
-   蔚来计划推出 10 万元入门轿车；支付宝中国董事长变更；吉卜力公园最新场景曝光 [read](http://www.geekpark.net/news/305981)
-
-   二手车全面取消限制，可全国流通；AMD 市值超越英特尔；传英伟达 RTX 4080 跑分是 3080 两倍 [read](http://www.geekpark.net/news/305894)
 
 ### 金融类
 
-   粮厂研究员Will：小米集团22年Q2初步更新 [read](http://xueqiu.com/7970049223/226950884)
+   医疗新基建即将迎来爆发期 [read](http://xueqiu.com/3241529995/227096365)
 
-   量化高频vs中低频，你还在焦虑地选择吗？ [read](http://xueqiu.com/9047540546/227005481)
+   最最最小白的投资人至少应该如何看资产负债表 [read](http://xueqiu.com/9598793634/227105209)
 
-   从富荣沪深300指数增强基金看量化增强 [read](http://xueqiu.com/1147978751/227012702)
+   透过《方略》看王国斌的投资本质 [read](http://xueqiu.com/9047540546/227093923)
 
 ### 学习类
 
@@ -122,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Discover Japan [read](https://www.behance.net/gallery/149056891/Discover-Japan)
+   S A N D U R II [read](https://www.behance.net/gallery/149288697/S-A-N-D-U-R-II)
 
-   MM VERT GOTHIQUE [read](https://www.behance.net/gallery/149425425/MM-VERT-GOTHIQUE)
+   Pokéballoon [read](https://www.behance.net/gallery/148968793/Pokballoon)
 
-   In the south darling. You ride. [read](https://www.behance.net/gallery/149439317/In-the-south-darling-You-ride)
+   Prospect ????????????????? [read](https://www.behance.net/gallery/148990043/Prospect-)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -140,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
-   万字产品拆解！智联招聘产品设计全方位深度解析 [read](https://www.uisdc.com/zhilian-zhaopin)
+   NVIDIA Studio 创意加速：3D 艺术奇才 FESQ 分享其令人震撼的超现实主义动画 [read](https://www.uisdc.com/fesq-2022)
 
-   如何做好可用性测试？高手总结了这6个阶段！ [read](https://www.uisdc.com/usability-testing-method)
+   人工智能快速出图！盘点 4 款大厂出品的 AI 绘画神器 [read](https://www.uisdc.com/ai-draw-tool)
 
-   设计师如何描述 B 端业务的核心价值（上） [read](https://www.uisdc.com/b-end-value-description)
+   第一波！2022年8月精选实用设计干货合集 [read](https://www.uisdc.com/2022-8-design-resources-vol1)
 
    CDC夜校回顾NO.26｜如何运营一个开源项目、出海产品设计之多语言设计 [read](https://cdc.tencent.com/2022/07/19/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-26%ef%bd%9c%e5%a6%82%e4%bd%95%e8%bf%90%e8%90%a5%e4%b8%80%e4%b8%aa%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e3%80%81%e5%87%ba%e6%b5%b7%e4%ba%a7%e5%93%81%e8%ae%be/)
 
