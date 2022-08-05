@@ -2,19 +2,19 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BangladeshWaterLilies_EN-US1994505786_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MilitaryTattoo_EN-US2404986711_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
+   科技爱好者周刊（第 217 期）：沙特的新未来城 [read](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html)
+
    DNS 查询原理详解 [read](http://www.ruanyifeng.com/blog/2022/08/dns-query.html)
 
-   科技爱好者周刊（第 216 期）：极简主义的胜利 [read](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html)
+   为 luaecs 增加内置 64bit ID [read](https://blog.codingnow.com/2022/08/luaecs_eid.html)
 
    RmlUI 的 style 缓存 [read](https://blog.codingnow.com/2022/07/rmlui_style_cache.html)
 
    重构数学库 [read](https://blog.codingnow.com/2022/07/refactor_math3d.html)
-
-   ECS 系统中 Entity 的生命期管理 [read](https://blog.codingnow.com/2022/07/entity_lifespan.html)
 
    为了老婆的乐队梦, 我做了一个弹钢琴的机器人 [read](https://blog.t9t.io/modsoul-2022-07-29/)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 458 期 [read](https://weekly.75.team/issue458.html)
+
    奇舞周刊第 457 期 [read](https://weekly.75.team/issue457.html)
 
    奇舞周刊第 456 期 [read](https://weekly.75.team/issue456.html)
-
-   奇舞周刊第 455 期 [read](https://weekly.75.team/issue455.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -54,11 +54,11 @@ title: "今日资讯"
 
    幸福里 C 端 iOS 编译优化实践-优化 40% 耗时 [read](https://blog.csdn.net/ByteDanceTech/article/details/126066654)
 
+   Kafka在美团数据平台的实践 [read](https://tech.meituan.com/2022/08/04/the-practice-of-kafka-in-the-meituan-data-platform.html)
+
    日志导致线程Block的这些坑，你不得不防 [read](https://tech.meituan.com/2022/07/29/tips-for-avoiding-log-blocking-threads.html)
 
    ACM SIGIR 2022 \| 美团技术团队精选论文解读 [read](https://tech.meituan.com/2022/07/21/acm-sigir-2022-meituan.html)
-
-   可视化全链路日志追踪 [read](https://tech.meituan.com/2022/07/21/visualized-log-tracing.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   互联网订阅的今天，会是汽车订阅的明天吗？ [read](http://www.huxiu.com/article/626509.html?f=wangzhan)
+   张子枫的“天才演技”，在《天才基本法》里失效了？ [read](http://www.huxiu.com/article/627993.html?f=wangzhan)
 
-   从鬼畜作品到续画名画，大模型让AI绘画发生了哪些变化？ [read](http://www.huxiu.com/article/625996.html?f=wangzhan)
+   产能是“地狱”，也是挡箭牌 [read](http://www.huxiu.com/article/627889.html?f=wangzhan)
 
-   止咳药，竟被年轻人当成“毒品”？ [read](http://www.huxiu.com/article/626403.html?f=wangzhan)
+   金山还是坟场？一粒盐扭转大唐命运之轮 [read](http://www.huxiu.com/article/627865.html?f=wangzhan)
 
-   恒大造车：拿着接力棒跑马拉松？ [read](https://36kr.com/p/1857078070351490)
+   上午种田，下午写代码，35+程序员在跨国远程里找回生活 [read](https://36kr.com/p/1858506785560199)
 
-   氪星晚报丨特斯拉：上海超级工厂已累计交付32.3万辆汽车；苹果公布多用户共享账户专利；美团单车回应可退摩拜单车押金 [read](https://36kr.com/p/1856913549105027)
+   氪星晚报 \| 宁德时代投资成立储能技术研究院；蔚来成立移动科技公司；魅族专利可对落水车辆电解水供氧 [read](https://36kr.com/p/1858454193264265)
 
-   最前线｜提出大搞信任电商一年后，快手的三个新变化 [read](https://36kr.com/p/1856772194473600)
+   债券价格异动 金地集团披露经营状况回击市场传言 [read](https://36kr.com/p/1858349929535105)
 
    文档智能多模态预训练模型LayoutLMv3：兼具通用性与优越性 [read](https://www.msra.cn/zh-cn/news/features/layoutlmv3)
 
@@ -86,13 +86,19 @@ title: "今日资讯"
 
    ICML 2022 \| 机器学习前沿论文精选！ [read](https://www.msra.cn/zh-cn/news/features/icml-2022)
 
-   看不见的人，怎么用抖音？ [read](http://www.geekpark.net/news/306129)
+   独家：快手组织架构再调整，原商业化负责人马宏彬转任国际化负责人 [read](http://www.geekpark.net/news/306175)
 
-   你身体里的 DNA，能存下整个宇宙的数据 [read](http://www.geekpark.net/news/306100)
+   曾经什么都想要的阿里，正在学会「聚焦」和「取舍」 [read](http://www.geekpark.net/news/306155)
 
-   iPadOS 16 推迟发布；大众 40 亿美元买激光雷达；「世界 500 强」发布，中国 145 家公司上榜｜极客早知道 [read](http://www.geekpark.net/news/306075)
+   阿里张勇：工作重心从增长变为服务好现有用户；「蔚来手机」公司正式成立；美团：现可退还摩拜单车押金 [read](http://www.geekpark.net/news/306130)
 
 ### 金融类
+
+   中小盘基金新锐信澳周期动力混合A和李淑彦深度测评 [read](http://xueqiu.com/2443086428/227279113)
+
+   给中概互联和医疗一些耐心——长期持有的力量 [read](http://xueqiu.com/5760078642/227224042)
+
+   熊思远：买基金容易让你亏钱的那些骚操作 [read](http://xueqiu.com/2680382386/227232983)
 
 ### 学习类
 
@@ -122,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Roam in the Night City #4 Shinjuku [read](https://www.behance.net/gallery/149564547/Roam-in-the-Night-City-4-Shinjuku)
+   Rais Labhar [read](https://www.behance.net/gallery/149563737/Rais-Labhar)
 
-   Gaze Vol: 1 [read](https://www.behance.net/gallery/149570879/Gaze-Vol-1)
+   Some Japanese tunes (woodcuts) [read](https://www.behance.net/gallery/149616793/Some-Japanese-tunes-%28woodcuts%29)
 
-   IPGP, Sciences for the Planet - Brand design [read](https://www.behance.net/gallery/149608319/IPGP-Sciences-for-the-Planet-Brand-design)
+   Artboard [read](https://www.behance.net/gallery/149640889/Artboard)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -140,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
-   可持续发展设计奖杭州论坛完美落幕，共赴低碳生活 [read](https://www.uisdc.com/sustainable-design-award-2022)
+   清华出品！AI 神器 WantQuotes 让你的文案立马变高级 [read](https://www.uisdc.com/wantquotes)
 
-   5000字干货！设计师应该掌握的信息层级梳理指南 [read](https://www.uisdc.com/hierarchical-carding-of-information)
+   8000字干货！超全面的 UI 字体排版设计指南 [read](https://www.uisdc.com/ui-font-typesetting-design-guide)
 
-   如何构建数据体系设计方法论？五大章节帮你掌握！ [read](https://www.uisdc.com/constructing-data-design-methodology)
+   这五位绘本大师的作品，是我每日学习的灵感来源 [read](https://www.uisdc.com/5-picture-book-master-2)
 
    CDC夜校回顾NO.26｜如何运营一个开源项目、出海产品设计之多语言设计 [read](https://cdc.tencent.com/2022/07/19/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-26%ef%bd%9c%e5%a6%82%e4%bd%95%e8%bf%90%e8%90%a5%e4%b8%80%e4%b8%aa%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e3%80%81%e5%87%ba%e6%b5%b7%e4%ba%a7%e5%93%81%e8%ae%be/)
 
