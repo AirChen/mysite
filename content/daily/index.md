@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MilitaryTattoo_EN-US2404986711_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SFSaltFlats_EN-US2301713772_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   Hessian 序列化、反序列化 [read](https://blog.csdn.net/ByteDanceTech/article/details/126188189)
+
    RTC 场景下的屏幕共享优化实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/126151738)
 
    chrome 插件开发指南 [read](https://blog.csdn.net/ByteDanceTech/article/details/126113100)
-
-   幸福里 C 端 iOS 编译优化实践-优化 40% 耗时 [read](https://blog.csdn.net/ByteDanceTech/article/details/126066654)
 
    Kafka在美团数据平台的实践 [read](https://tech.meituan.com/2022/08/04/the-practice-of-kafka-in-the-meituan-data-platform.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   张子枫的“天才演技”，在《天才基本法》里失效了？ [read](http://www.huxiu.com/article/627993.html?f=wangzhan)
+   放弃5G直接研发6G，俄罗斯能行吗？ [read](http://www.huxiu.com/article/626918.html?f=wangzhan)
 
-   产能是“地狱”，也是挡箭牌 [read](http://www.huxiu.com/article/627889.html?f=wangzhan)
+   短保面包三国杀 [read](http://www.huxiu.com/article/627996.html?f=wangzhan)
 
-   金山还是坟场？一粒盐扭转大唐命运之轮 [read](http://www.huxiu.com/article/627865.html?f=wangzhan)
+   男人“力不从心”，别怪电动汽车 [read](http://www.huxiu.com/article/625054.html?f=wangzhan)
 
-   上午种田，下午写代码，35+程序员在跨国远程里找回生活 [read](https://36kr.com/p/1858506785560199)
+   七成年轻人爱听方言说唱，地域文化让中文Hip-hop发光｜2022年轻人潮流说唱报告 [read](https://36kr.com/p/1858104518334085)
 
-   氪星晚报 \| 宁德时代投资成立储能技术研究院；蔚来成立移动科技公司；魅族专利可对落水车辆电解水供氧 [read](https://36kr.com/p/1858454193264265)
+   00后「围猎」大厂offer：泡沫破裂后，依然往里卷 [read](https://36kr.com/p/1858063948633988)
 
-   债券价格异动 金地集团披露经营状况回击市场传言 [read](https://36kr.com/p/1858349929535105)
+   年轻人的精神内耗，带火了这条「冷门」赛道？ [read](https://36kr.com/p/1858059226093449)
 
    文档智能多模态预训练模型LayoutLMv3：兼具通用性与优越性 [read](https://www.msra.cn/zh-cn/news/features/layoutlmv3)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    ICML 2022 \| 机器学习前沿论文精选！ [read](https://www.msra.cn/zh-cn/news/features/icml-2022)
 
+   Salesforce 解散中国团队；亚马逊17 亿美元收购iRobot；快手新一轮组织调整 [read](http://www.geekpark.net/news/306177)
+
    独家：快手组织架构再调整，原商业化负责人马宏彬转任国际化负责人 [read](http://www.geekpark.net/news/306175)
 
    曾经什么都想要的阿里，正在学会「聚焦」和「取舍」 [read](http://www.geekpark.net/news/306155)
 
-   阿里张勇：工作重心从增长变为服务好现有用户；「蔚来手机」公司正式成立；美团：现可退还摩拜单车押金 [read](http://www.geekpark.net/news/306130)
-
 ### 金融类
 
-   中小盘基金新锐信澳周期动力混合A和李淑彦深度测评 [read](http://xueqiu.com/2443086428/227279113)
+   阿里巴巴季度财报解读&历史数据 [read](http://xueqiu.com/6490468241/227267135)
 
-   给中概互联和医疗一些耐心——长期持有的力量 [read](http://xueqiu.com/5760078642/227224042)
+   华能水电中远期成长性及收益水平的底层逻辑探讨 [read](http://xueqiu.com/2681290304/227309063)
 
-   熊思远：买基金容易让你亏钱的那些骚操作 [read](http://xueqiu.com/2680382386/227232983)
+   汤臣倍健22年中报——短期宏观波动，长期要有信心 [read](http://xueqiu.com/6852572880/227318366)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Rais Labhar [read](https://www.behance.net/gallery/149563737/Rais-Labhar)
+   Woody Playground Part 2 [read](https://www.behance.net/gallery/146968087/Woody-Playground-Part-2)
 
-   Some Japanese tunes (woodcuts) [read](https://www.behance.net/gallery/149616793/Some-Japanese-tunes-%28woodcuts%29)
+   Alice Lin solo exhibition 2022 [read](https://www.behance.net/gallery/147593663/Alice-Lin-solo-exhibition-2022)
 
-   Artboard [read](https://www.behance.net/gallery/149640889/Artboard)
+   Brand Identity Design for Rm68 [read](https://www.behance.net/gallery/149610477/Brand-Identity-Design-for-Rm68)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
-   清华出品！AI 神器 WantQuotes 让你的文案立马变高级 [read](https://www.uisdc.com/wantquotes)
+   PPT 超全自学指南（5）：8个常见问题解答 [read](https://www.uisdc.com/ppt-self-study-method-5)
 
-   8000字干货！超全面的 UI 字体排版设计指南 [read](https://www.uisdc.com/ui-font-typesetting-design-guide)
+   如何用 Figma 制作一份可交互的作品集？来看这份超全指南！ [read](https://www.uisdc.com/figma-collection-of-works)
 
-   这五位绘本大师的作品，是我每日学习的灵感来源 [read](https://www.uisdc.com/5-picture-book-master-2)
+   揭秘《明日战记》幕后的天才概念设计师 [read](https://www.uisdc.com/warriors-of-future-mike-nash)
 
    CDC夜校回顾NO.26｜如何运营一个开源项目、出海产品设计之多语言设计 [read](https://cdc.tencent.com/2022/07/19/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-26%ef%bd%9c%e5%a6%82%e4%bd%95%e8%bf%90%e8%90%a5%e4%b8%80%e4%b8%aa%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e3%80%81%e5%87%ba%e6%b5%b7%e4%ba%a7%e5%93%81%e8%ae%be/)
 
