@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SFSaltFlats_EN-US2301713772_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SpringPoint_EN-US2439443308_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   台湾省地图，从何而来？ [read](http://www.huxiu.com/article/628800.html?f=wangzhan)
+
+   从围棋到蛋白质，DeepMind重大突破？ [read](http://www.huxiu.com/article/628653.html?f=wangzhan)
+
    放弃5G直接研发6G，俄罗斯能行吗？ [read](http://www.huxiu.com/article/626918.html?f=wangzhan)
 
-   短保面包三国杀 [read](http://www.huxiu.com/article/627996.html?f=wangzhan)
+   智氪点评丨「股王」茅台交卷：半年净赚298亿，增速创近三年新高 [read](https://36kr.com/p/1859656499943297)
 
-   男人“力不从心”，别怪电动汽车 [read](http://www.huxiu.com/article/625054.html?f=wangzhan)
+   医疗健康行业周报 \|「智享生物」获超5亿元C轮融资;「复星杏脉」完成超亿元战略融资 [read](https://36kr.com/p/1860737322555273)
 
-   七成年轻人爱听方言说唱，地域文化让中文Hip-hop发光｜2022年轻人潮流说唱报告 [read](https://36kr.com/p/1858104518334085)
-
-   00后「围猎」大厂offer：泡沫破裂后，依然往里卷 [read](https://36kr.com/p/1858063948633988)
-
-   年轻人的精神内耗，带火了这条「冷门」赛道？ [read](https://36kr.com/p/1858059226093449)
+   对话吴军、脱不花：从内卷到内耗，时代的焦虑有解药吗？ [read](https://36kr.com/p/1858062069176201)
 
    文档智能多模态预训练模型LayoutLMv3：兼具通用性与优越性 [read](https://www.msra.cn/zh-cn/news/features/layoutlmv3)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    ICML 2022 \| 机器学习前沿论文精选！ [read](https://www.msra.cn/zh-cn/news/features/icml-2022)
 
+   马斯克：特斯拉年底产能突破 200 万；苹果手表首个中文表盘上线；上海举办虚拟体育公开赛 [read](http://www.geekpark.net/news/306179)
+
    Salesforce 解散中国团队；亚马逊17 亿美元收购iRobot；快手新一轮组织调整 [read](http://www.geekpark.net/news/306177)
 
    独家：快手组织架构再调整，原商业化负责人马宏彬转任国际化负责人 [read](http://www.geekpark.net/news/306175)
 
-   曾经什么都想要的阿里，正在学会「聚焦」和「取舍」 [read](http://www.geekpark.net/news/306155)
-
 ### 金融类
 
-   阿里巴巴季度财报解读&历史数据 [read](http://xueqiu.com/6490468241/227267135)
+   半导体基金一周反弹15%，涨势还会持续吗？ [read](http://xueqiu.com/8687456694/227397963)
 
-   华能水电中远期成长性及收益水平的底层逻辑探讨 [read](http://xueqiu.com/2681290304/227309063)
+   腾讯逃不过的周期劫 [read](http://xueqiu.com/8208877860/227399494)
 
-   汤臣倍健22年中报——短期宏观波动，长期要有信心 [read](http://xueqiu.com/6852572880/227318366)
+   疫情突袭海南，中国中免的黄金坑 [read](http://xueqiu.com/9210717241/227377583)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Woody Playground Part 2 [read](https://www.behance.net/gallery/146968087/Woody-Playground-Part-2)
+   Wandering behind the clouds \| July 1 [read](https://www.behance.net/gallery/147314497/Wandering-behind-the-clouds-July-1)
 
-   Alice Lin solo exhibition 2022 [read](https://www.behance.net/gallery/147593663/Alice-Lin-solo-exhibition-2022)
+   Denloc [read](https://www.behance.net/gallery/95538949/Denloc)
 
-   Brand Identity Design for Rm68 [read](https://www.behance.net/gallery/149610477/Brand-Identity-Design-for-Rm68)
+   Touché \| Modern Makeup + Beauty Packaging and Branding [read](https://www.behance.net/gallery/146929777/Touch-Modern-Makeup-Beauty-Packaging-and-Branding)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
-   PPT 超全自学指南（5）：8个常见问题解答 [read](https://www.uisdc.com/ppt-self-study-method-5)
+   万字干货！写给设计师的数据可视化设计指南 [read](https://www.uisdc.com/data-visualization-design-guide-2)
 
-   如何用 Figma 制作一份可交互的作品集？来看这份超全指南！ [read](https://www.uisdc.com/figma-collection-of-works)
+   这 5 款工具，让设计师工作效率提升 200%！（九） [read](https://www.uisdc.com/5-practical-software-5)
 
-   揭秘《明日战记》幕后的天才概念设计师 [read](https://www.uisdc.com/warriors-of-future-mike-nash)
+   从4个维度，聊聊设计师如何提高核心竞争力 [read](https://www.uisdc.com/core-competitive-power)
 
    CDC夜校回顾NO.26｜如何运营一个开源项目、出海产品设计之多语言设计 [read](https://cdc.tencent.com/2022/07/19/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-26%ef%bd%9c%e5%a6%82%e4%bd%95%e8%bf%90%e8%90%a5%e4%b8%80%e4%b8%aa%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e3%80%81%e5%87%ba%e6%b5%b7%e4%ba%a7%e5%93%81%e8%ae%be/)
 
