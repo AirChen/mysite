@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SpringPoint_EN-US2439443308_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.EsPantaleu_EN-US2555315913_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   台湾省地图，从何而来？ [read](http://www.huxiu.com/article/628800.html?f=wangzhan)
+   北漂男演员不租房：9万买房车，一年省8万多 [read](http://www.huxiu.com/article/629662.html?f=wangzhan)
 
-   从围棋到蛋白质，DeepMind重大突破？ [read](http://www.huxiu.com/article/628653.html?f=wangzhan)
+   emoji会成为一门新语言吗？ [read](http://www.huxiu.com/article/629727.html?f=wangzhan)
 
-   放弃5G直接研发6G，俄罗斯能行吗？ [read](http://www.huxiu.com/article/626918.html?f=wangzhan)
+   除了蔚来车主，谁会买蔚来手机？ [read](http://www.huxiu.com/article/629652.html?f=wangzhan)
 
-   智氪点评丨「股王」茅台交卷：半年净赚298亿，增速创近三年新高 [read](https://36kr.com/p/1859656499943297)
+   氪星晚报丨iPhone14或于9月23日上市，Pro版大概率涨至8999元起；Gap在中国多个城市出现关店潮；阿里体育正式更名为橙狮体育 [read](https://36kr.com/p/1862689935857282)
 
-   医疗健康行业周报 \|「智享生物」获超5亿元C轮融资;「复星杏脉」完成超亿元战略融资 [read](https://36kr.com/p/1860737322555273)
+   完成二期临床首例患者给药，「吉美瑞生」布局细胞治疗 [read](https://36kr.com/p/1862486379681672)
 
-   对话吴军、脱不花：从内卷到内耗，时代的焦虑有解药吗？ [read](https://36kr.com/p/1858062069176201)
+   比尔盖茨，投了一家光伏公司 \| 最前线 [read](https://36kr.com/p/1861526653441920)
 
    文档智能多模态预训练模型LayoutLMv3：兼具通用性与优越性 [read](https://www.msra.cn/zh-cn/news/features/layoutlmv3)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    ICML 2022 \| 机器学习前沿论文精选！ [read](https://www.msra.cn/zh-cn/news/features/icml-2022)
 
+   我，三线城市小中介，半年直播卖房 7.5 个亿 [read](http://www.geekpark.net/news/306202)
+
+   首个国产抗新冠口服药每瓶不超 300 元；供应链曝料已向华为 Mate 50 供货；《独行月球》金刚鼠 5000 万根毛让特效团队头秃｜极客早知道 [read](http://www.geekpark.net/news/306182)
+
    马斯克：特斯拉年底产能突破 200 万；苹果手表首个中文表盘上线；上海举办虚拟体育公开赛 [read](http://www.geekpark.net/news/306179)
-
-   Salesforce 解散中国团队；亚马逊17 亿美元收购iRobot；快手新一轮组织调整 [read](http://www.geekpark.net/news/306177)
-
-   独家：快手组织架构再调整，原商业化负责人马宏彬转任国际化负责人 [read](http://www.geekpark.net/news/306175)
 
 ### 金融类
 
-   半导体基金一周反弹15%，涨势还会持续吗？ [read](http://xueqiu.com/8687456694/227397963)
+   中小盘绩优基，有这7只就够了！ [read](http://xueqiu.com/2217395043/227444485)
 
-   腾讯逃不过的周期劫 [read](http://xueqiu.com/8208877860/227399494)
+   从稳增长谈半导体为何无法取代新能源 [read](http://xueqiu.com/5760078642/227455752)
 
-   疫情突袭海南，中国中免的黄金坑 [read](http://xueqiu.com/9210717241/227377583)
+   脆弱的印象，坚固的记录 [read](http://xueqiu.com/4373567778/227420877)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Wandering behind the clouds \| July 1 [read](https://www.behance.net/gallery/147314497/Wandering-behind-the-clouds-July-1)
+   Republik 46N [read](https://www.behance.net/gallery/106120435/Republik-46N)
 
-   Denloc [read](https://www.behance.net/gallery/95538949/Denloc)
+   Laura's Holiday [read](https://www.behance.net/gallery/117797109/Lauras-Holiday)
 
-   Touché \| Modern Makeup + Beauty Packaging and Branding [read](https://www.behance.net/gallery/146929777/Touch-Modern-Makeup-Beauty-Packaging-and-Branding)
+   Myth 002 - Custom BMW R100GS Touring Motorcycle [read](https://www.behance.net/gallery/149714867/Myth-002-Custom-BMW-R100GS-Touring-Motorcycle)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
-   万字干货！写给设计师的数据可视化设计指南 [read](https://www.uisdc.com/data-visualization-design-guide-2)
+   第二波！2022年8月精选实用设计干货合集 [read](https://www.uisdc.com/2022-8-design-resources-vol2)
 
-   这 5 款工具，让设计师工作效率提升 200%！（九） [read](https://www.uisdc.com/5-practical-software-5)
+   5000字干货！深度解析B端设计中的内容编辑与拖放 [read](https://www.uisdc.com/content-editing-and-drag-and-drop)
 
-   从4个维度，聊聊设计师如何提高核心竞争力 [read](https://www.uisdc.com/core-competitive-power)
+   大厂出品！百度「好看视频」 PC 站体验升级复盘 [read](https://www.uisdc.com/baidu-haokan-video-redesign)
 
    CDC夜校回顾NO.26｜如何运营一个开源项目、出海产品设计之多语言设计 [read](https://cdc.tencent.com/2022/07/19/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-26%ef%bd%9c%e5%a6%82%e4%bd%95%e8%bf%90%e8%90%a5%e4%b8%80%e4%b8%aa%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e3%80%81%e5%87%ba%e6%b5%b7%e4%ba%a7%e5%93%81%e8%ae%be/)
 
