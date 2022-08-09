@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.EsPantaleu_EN-US2555315913_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CuevaManos_EN-US2810052050_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   抖音 iOS 推荐 Feed 容器化总结 [read](https://blog.csdn.net/ByteDanceTech/article/details/126239407)
+
    Hessian 序列化、反序列化 [read](https://blog.csdn.net/ByteDanceTech/article/details/126188189)
 
    RTC 场景下的屏幕共享优化实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/126151738)
-
-   chrome 插件开发指南 [read](https://blog.csdn.net/ByteDanceTech/article/details/126113100)
 
    Kafka在美团数据平台的实践 [read](https://tech.meituan.com/2022/08/04/the-practice-of-kafka-in-the-meituan-data-platform.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   北漂男演员不租房：9万买房车，一年省8万多 [read](http://www.huxiu.com/article/629662.html?f=wangzhan)
+   蔚来养得起欧洲“三胎”吗？ [read](http://www.huxiu.com/article/630927.html?f=wangzhan)
 
-   emoji会成为一门新语言吗？ [read](http://www.huxiu.com/article/629727.html?f=wangzhan)
+   五菱混动车：不坑穷人？ [read](http://www.huxiu.com/article/630987.html?f=wangzhan)
 
-   除了蔚来车主，谁会买蔚来手机？ [read](http://www.huxiu.com/article/629652.html?f=wangzhan)
+   为什么酒店半价比预订价还贵？ [read](http://www.huxiu.com/article/630873.html?f=wangzhan)
 
-   氪星晚报丨iPhone14或于9月23日上市，Pro版大概率涨至8999元起；Gap在中国多个城市出现关店潮；阿里体育正式更名为橙狮体育 [read](https://36kr.com/p/1862689935857282)
+   丁香园旗下系列账号被限制发言 \| 最前线 [read](https://36kr.com/p/1864451626324483)
 
-   完成二期临床首例患者给药，「吉美瑞生」布局细胞治疗 [read](https://36kr.com/p/1862486379681672)
+   氪星晚报丨韩国将调查苹果和谷歌应用商店：或违反应用内支付法规；谷歌数据中心发生爆炸；Uber全球累计下载量已超10亿次 [read](https://36kr.com/p/1863985545336707)
 
-   比尔盖茨，投了一家光伏公司 \| 最前线 [read](https://36kr.com/p/1861526653441920)
+   海外new things｜「Produze」完成260万美元种子轮融资，帮助印度农民轻松出口农产品 [read](https://36kr.com/p/1863918742312838)
 
    文档智能多模态预训练模型LayoutLMv3：兼具通用性与优越性 [read](https://www.msra.cn/zh-cn/news/features/layoutlmv3)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    ICML 2022 \| 机器学习前沿论文精选！ [read](https://www.msra.cn/zh-cn/news/features/icml-2022)
 
+   英特尔不是输给了 AMD 和台积电，而是输给了自己 [read](http://www.geekpark.net/news/306289)
+
+   阿里巴巴双重主要上市获港交所确认；抖音回应“限流东方甄选”；传iPhone 14将在9月13日发布 [read](http://www.geekpark.net/news/306245)
+
    我，三线城市小中介，半年直播卖房 7.5 个亿 [read](http://www.geekpark.net/news/306202)
-
-   首个国产抗新冠口服药每瓶不超 300 元；供应链曝料已向华为 Mate 50 供货；《独行月球》金刚鼠 5000 万根毛让特效团队头秃｜极客早知道 [read](http://www.geekpark.net/news/306182)
-
-   马斯克：特斯拉年底产能突破 200 万；苹果手表首个中文表盘上线；上海举办虚拟体育公开赛 [read](http://www.geekpark.net/news/306179)
 
 ### 金融类
 
-   中小盘绩优基，有这7只就够了！ [read](http://xueqiu.com/2217395043/227444485)
+   漫谈海康威视，下跌中的机会 [read](http://xueqiu.com/2944053453/227400904)
 
-   从稳增长谈半导体为何无法取代新能源 [read](http://xueqiu.com/5760078642/227455752)
+   疫苗行业的现状和未来 [read](http://xueqiu.com/4777061674/227517074)
 
-   脆弱的印象，坚固的记录 [read](http://xueqiu.com/4373567778/227420877)
+   基金经理交易能力分析之模拟组合法 [read](http://xueqiu.com/4778574435/227578132)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Republik 46N [read](https://www.behance.net/gallery/106120435/Republik-46N)
+   Blocks of Flats [read](https://www.behance.net/gallery/149858009/Blocks-of-Flats)
 
-   Laura's Holiday [read](https://www.behance.net/gallery/117797109/Lauras-Holiday)
+   hellix / diagnostic laboratory branding [read](https://www.behance.net/gallery/149555145/hellix-diagnostic-laboratory-branding)
 
-   Myth 002 - Custom BMW R100GS Touring Motorcycle [read](https://www.behance.net/gallery/149714867/Myth-002-Custom-BMW-R100GS-Touring-Motorcycle)
+   Portraits [read](https://www.behance.net/gallery/149786457/Portraits)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
