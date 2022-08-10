@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CuevaManos_EN-US2810052050_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AnniversaryJTNP_EN-US2914674933_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,37 +68,37 @@ title: "今日资讯"
 
 ### 互联网类
 
+   把握财富再分配，2022的时代红利究竟是什么？ [read](http://www.huxiu.com/article/631852.html?f=wangzhan)
+
+   凭什么中国人买车，总得妥协 [read](http://www.huxiu.com/article/631100.html?f=wangzhan)
+
    蔚来养得起欧洲“三胎”吗？ [read](http://www.huxiu.com/article/630927.html?f=wangzhan)
 
-   五菱混动车：不坑穷人？ [read](http://www.huxiu.com/article/630987.html?f=wangzhan)
+   科氪 \| 携国内首款LTPO屏全智能手表来袭，OPPO Watch 3系列预售1499起！ [read](https://36kr.com/p/1865700874637826)
 
-   为什么酒店半价比预订价还贵？ [read](http://www.huxiu.com/article/630873.html?f=wangzhan)
+   智氪点评 \| 九洲药业：被市场看空的CXO缘何业绩暴涨？ [read](https://36kr.com/p/1865366063108608)
 
-   丁香园旗下系列账号被限制发言 \| 最前线 [read](https://36kr.com/p/1864451626324483)
+   龙湖集团跌超16% 吴亚军回应：市场惊慌造成 公司无异常 [read](https://36kr.com/p/1865430452212482)
 
-   氪星晚报丨韩国将调查苹果和谷歌应用商店：或违反应用内支付法规；谷歌数据中心发生爆炸；Uber全球累计下载量已超10亿次 [read](https://36kr.com/p/1863985545336707)
+   微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
-   海外new things｜「Produze」完成260万美元种子轮融资，帮助印度农民轻松出口农产品 [read](https://36kr.com/p/1863918742312838)
+   AI、机器学习在材料科学研究中能发挥哪些作用？ [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-linwang-wang)
 
-   文档智能多模态预训练模型LayoutLMv3：兼具通用性与优越性 [read](https://www.msra.cn/zh-cn/news/features/layoutlmv3)
+   “推荐系统” 值得一读的五本书 [read](https://www.msra.cn/zh-cn/news/features/book-list-on-recommender-systems)
 
-   无限视觉生成模型NUWA-Infinity让视觉艺术创作自由延伸 [read](https://www.msra.cn/zh-cn/news/features/nuwa-infinity)
+   败局复盘：当每日优鲜穿上红舞鞋 [read](http://www.geekpark.net/news/306320)
 
-   ICML 2022 \| 机器学习前沿论文精选！ [read](https://www.msra.cn/zh-cn/news/features/icml-2022)
+   拜登正式签署芯片法案；北京市消协约谈每日优鲜；奈飞 CEO 预测传统电视节目将在 5 至 10 年内消亡 [read](http://www.geekpark.net/news/306292)
 
    英特尔不是输给了 AMD 和台积电，而是输给了自己 [read](http://www.geekpark.net/news/306289)
 
-   阿里巴巴双重主要上市获港交所确认；抖音回应“限流东方甄选”；传iPhone 14将在9月13日发布 [read](http://www.geekpark.net/news/306245)
-
-   我，三线城市小中介，半年直播卖房 7.5 个亿 [read](http://www.geekpark.net/news/306202)
-
 ### 金融类
 
-   漫谈海康威视，下跌中的机会 [read](http://xueqiu.com/2944053453/227400904)
+   沃森生物半年报解读：全年营收有望突破60亿 [read](http://xueqiu.com/4583484512/227693409)
 
-   疫苗行业的现状和未来 [read](http://xueqiu.com/4777061674/227517074)
+   投资者应该有怎样的持股心态 [read](http://xueqiu.com/7516820417/227693786)
 
-   基金经理交易能力分析之模拟组合法 [read](http://xueqiu.com/4778574435/227578132)
+   贝莱德的竞争策略及其有效性 [read](http://xueqiu.com/5596182416/227600965)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Blocks of Flats [read](https://www.behance.net/gallery/149858009/Blocks-of-Flats)
+   Maurice Blackburn [read](https://www.behance.net/gallery/149993365/Maurice-Blackburn)
 
-   hellix / diagnostic laboratory branding [read](https://www.behance.net/gallery/149555145/hellix-diagnostic-laboratory-branding)
+   Moon Series [read](https://www.behance.net/gallery/149431561/Moon-Series)
 
-   Portraits [read](https://www.behance.net/gallery/149786457/Portraits)
+   ???? X ????·???? [read](https://www.behance.net/gallery/149996173/-X-)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
-   第二波！2022年8月精选实用设计干货合集 [read](https://www.uisdc.com/2022-8-design-resources-vol2)
+   菌小宝×潘虎，来自外太空的礼物 [read](https://www.uisdc.com/panhu-junxiaobao-2022)
 
-   5000字干货！深度解析B端设计中的内容编辑与拖放 [read](https://www.uisdc.com/content-editing-and-drag-and-drop)
+   9个设计师必看的国际顶尖设计网站 [read](https://www.uisdc.com/9-design-website)
 
-   大厂出品！百度「好看视频」 PC 站体验升级复盘 [read](https://www.uisdc.com/baidu-haokan-video-redesign)
+   万字干货！想转行交互设计前，先看完这篇基础科普 [read](https://www.uisdc.com/popular-science-of-interaction-design)
 
    CDC夜校回顾NO.26｜如何运营一个开源项目、出海产品设计之多语言设计 [read](https://cdc.tencent.com/2022/07/19/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-26%ef%bd%9c%e5%a6%82%e4%bd%95%e8%bf%90%e8%90%a5%e4%b8%80%e4%b8%aa%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e3%80%81%e5%87%ba%e6%b5%b7%e4%ba%a7%e5%93%81%e8%ae%be/)
 
