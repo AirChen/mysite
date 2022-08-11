@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AnniversaryJTNP_EN-US2914674933_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MtTsubakuro_EN-US2985513957_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   把握财富再分配，2022的时代红利究竟是什么？ [read](http://www.huxiu.com/article/631852.html?f=wangzhan)
+   不用精子和卵子，就能合成胚胎？ [read](http://www.huxiu.com/article/632166.html?f=wangzhan)
 
-   凭什么中国人买车，总得妥协 [read](http://www.huxiu.com/article/631100.html?f=wangzhan)
+   小鹏汽车撞人致死，谁之过？ [read](http://www.huxiu.com/article/632927.html?f=wangzhan)
 
-   蔚来养得起欧洲“三胎”吗？ [read](http://www.huxiu.com/article/630927.html?f=wangzhan)
+   《大空头》正序解读，华尔街充满欺骗 [read](http://www.huxiu.com/article/632953.html?f=wangzhan)
 
-   科氪 \| 携国内首款LTPO屏全智能手表来袭，OPPO Watch 3系列预售1499起！ [read](https://36kr.com/p/1865700874637826)
+   最前线丨小米秋季发布会：公布造车进展，发布折叠屏手机二代产品 [read](https://36kr.com/p/1866926092194307)
 
-   智氪点评 \| 九洲药业：被市场看空的CXO缘何业绩暴涨？ [read](https://36kr.com/p/1865366063108608)
+   海外new things｜「Convertedin」完成300万美元种子轮融资，为品牌提供优质的电子商务运营 [read](https://36kr.com/p/1866787243266818)
 
-   龙湖集团跌超16% 吴亚军回应：市场惊慌造成 公司无异常 [read](https://36kr.com/p/1865430452212482)
+   氪星晚报丨极兔在深圳成立科技公司，注册资本200万；阿里文娱旗下大鱼快乐增资3亿元；亚马逊在加州开始大规模推广掌纹支付 [read](https://36kr.com/p/1866777541890820)
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
@@ -86,33 +86,33 @@ title: "今日资讯"
 
    “推荐系统” 值得一读的五本书 [read](https://www.msra.cn/zh-cn/news/features/book-list-on-recommender-systems)
 
-   败局复盘：当每日优鲜穿上红舞鞋 [read](http://www.geekpark.net/news/306320)
+   苹果停止「买买买」 [read](http://www.geekpark.net/news/306426)
 
-   拜登正式签署芯片法案；北京市消协约谈每日优鲜；奈飞 CEO 预测传统电视节目将在 5 至 10 年内消亡 [read](http://www.geekpark.net/news/306292)
+   美国爆火的电动滑板车，如何重复 ofo 败局 [read](http://www.geekpark.net/news/306293)
 
-   英特尔不是输给了 AMD 和台积电，而是输给了自己 [read](http://www.geekpark.net/news/306289)
+   马斯克套现 68.9 亿美元；黄仁勋：不裁员，会加薪；中国今年将发射超 50 颗商业卫星 \| 极客早知道 [read](http://www.geekpark.net/news/306369)
 
 ### 金融类
 
-   沃森生物半年报解读：全年营收有望突破60亿 [read](http://xueqiu.com/4583484512/227693409)
+   存量大额资金做组合还是做定投？——以不同入场时机为例 [read](http://xueqiu.com/8890498724/227757629)
 
-   投资者应该有怎样的持股心态 [read](http://xueqiu.com/7516820417/227693786)
+   如果只买一只基金长期持有，你会怎么选？ [read](http://xueqiu.com/2356382715/227728039)
 
-   贝莱德的竞争策略及其有效性 [read](http://xueqiu.com/5596182416/227600965)
+   2022年上半年银行业资产增速及资产质量 [read](http://xueqiu.com/7198180813/227706781)
 
 ### 学习类
+
+   💻 Issue 320 - Non-lexical lifetimes (NLL) fully stable \| Rust Blog [read](https://rust.libhunt.com/newsletter/320)
 
    💻 Issue 319 - Bevy 0.8 [read](https://rust.libhunt.com/newsletter/319)
 
    💻 Issue 318 - Announcing the Keyword Generics Initiative [read](https://rust.libhunt.com/newsletter/318)
 
-   💻 Issue 317 - How to speed up the Rust compiler in July 2022 [read](https://rust.libhunt.com/newsletter/317)
+   This Week in Rust 455 [read](https://this-week-in-rust.org/blog/2022/08/10/this-week-in-rust-455/)
 
    This Week in Rust 454 [read](https://this-week-in-rust.org/blog/2022/08/03/this-week-in-rust-454/)
 
    This Week in Rust 453 [read](https://this-week-in-rust.org/blog/2022/07/27/this-week-in-rust-453/)
-
-   This Week in Rust 452 [read](https://this-week-in-rust.org/blog/2022/07/20/this-week-in-rust-452/)
 
    ETCD的内存问题 [read](https://coolshell.cn/articles/22242.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Maurice Blackburn [read](https://www.behance.net/gallery/149993365/Maurice-Blackburn)
+   le brewlife VISUAL IDENTITY AND PACKAGING [read](https://www.behance.net/gallery/150030443/le-brewlife-VISUAL-IDENTITY-AND-PACKAGING)
 
-   Moon Series [read](https://www.behance.net/gallery/149431561/Moon-Series)
+   Compilation #5 [read](https://www.behance.net/gallery/150001011/Compilation-5)
 
-   ???? X ????·???? [read](https://www.behance.net/gallery/149996173/-X-)
+   Skechers x emograms by kissmiklos / 2022 [read](https://www.behance.net/gallery/149881117/Skechers-x-emograms-by-kissmiklos-2022)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
-   菌小宝×潘虎，来自外太空的礼物 [read](https://www.uisdc.com/panhu-junxiaobao-2022)
+   拯救配色废！让配色效率暴涨10倍的预览神器 Palettemaker [read](https://www.uisdc.com/palettemaker)
 
-   9个设计师必看的国际顶尖设计网站 [read](https://www.uisdc.com/9-design-website)
+   7000字深度解读！车载HUD的交互和视觉设计知识总结 [read](https://www.uisdc.com/hud-design)
 
-   万字干货！想转行交互设计前，先看完这篇基础科普 [read](https://www.uisdc.com/popular-science-of-interaction-design)
+   短视频时代！设计师必备的9个文案网站 [read](https://www.uisdc.com/9-copywriting-artifact)
 
    CDC夜校回顾NO.26｜如何运营一个开源项目、出海产品设计之多语言设计 [read](https://cdc.tencent.com/2022/07/19/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-26%ef%bd%9c%e5%a6%82%e4%bd%95%e8%bf%90%e8%90%a5%e4%b8%80%e4%b8%aa%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e3%80%81%e5%87%ba%e6%b5%b7%e4%ba%a7%e5%93%81%e8%ae%be/)
 
