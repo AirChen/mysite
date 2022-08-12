@@ -2,19 +2,19 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MtTsubakuro_EN-US2985513957_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AmboseliElephants_EN-US1510486473_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
+   科技爱好者周刊（第 218 期）：葡萄酒，樱花，全球变暖 [read](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-218.html)
+
    科技爱好者周刊（第 217 期）：沙特的新未来城 [read](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html)
 
-   DNS 查询原理详解 [read](http://www.ruanyifeng.com/blog/2022/08/dns-query.html)
+   空间优先的 protobuffer / json 解码器 [read](https://blog.codingnow.com/2022/08/memory_compat_protobuffer_json_unmarshaling.html)
 
    为 luaecs 增加内置 64bit ID [read](https://blog.codingnow.com/2022/08/luaecs_eid.html)
 
    RmlUI 的 style 缓存 [read](https://blog.codingnow.com/2022/07/rmlui_style_cache.html)
-
-   重构数学库 [read](https://blog.codingnow.com/2022/07/refactor_math3d.html)
 
    为了老婆的乐队梦, 我做了一个弹钢琴的机器人 [read](https://blog.t9t.io/modsoul-2022-07-29/)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 459 期 [read](https://weekly.75.team/issue459.html)
+
    奇舞周刊第 458 期 [read](https://weekly.75.team/issue458.html)
 
    奇舞周刊第 457 期 [read](https://weekly.75.team/issue457.html)
-
-   奇舞周刊第 456 期 [read](https://weekly.75.team/issue456.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -54,11 +54,11 @@ title: "今日资讯"
 
    RTC 场景下的屏幕共享优化实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/126151738)
 
+   提升资源利用率与保障服务质量，鱼与熊掌不可兼得？ [read](https://tech.meituan.com/2022/08/11/load-auto-regulator.html)
+
+   美团搜索粗排优化的探索与实践 [read](https://tech.meituan.com/2022/08/11/coarse-ranking-exploration-practice.html)
+
    Kafka在美团数据平台的实践 [read](https://tech.meituan.com/2022/08/04/the-practice-of-kafka-in-the-meituan-data-platform.html)
-
-   日志导致线程Block的这些坑，你不得不防 [read](https://tech.meituan.com/2022/07/29/tips-for-avoiding-log-blocking-threads.html)
-
-   ACM SIGIR 2022 \| 美团技术团队精选论文解读 [read](https://tech.meituan.com/2022/07/21/acm-sigir-2022-meituan.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   不用精子和卵子，就能合成胚胎？ [read](http://www.huxiu.com/article/632166.html?f=wangzhan)
+   要穿进露脐bm风小衣服里，我需要瘦到多少斤？ [read](http://www.huxiu.com/article/634000.html?f=wangzhan)
 
-   小鹏汽车撞人致死，谁之过？ [read](http://www.huxiu.com/article/632927.html?f=wangzhan)
+   18线外国豪华汽车，唬不住中国人了 [read](http://www.huxiu.com/article/632839.html?f=wangzhan)
 
-   《大空头》正序解读，华尔街充满欺骗 [read](http://www.huxiu.com/article/632953.html?f=wangzhan)
+   最早的特斯拉杀手，本周出殡了 [read](http://www.huxiu.com/article/632371.html?f=wangzhan)
 
-   最前线丨小米秋季发布会：公布造车进展，发布折叠屏手机二代产品 [read](https://36kr.com/p/1866926092194307)
+   “回村白领”们，正在把你的情怀照进现实 [read](https://36kr.com/p/1868365637735176)
 
-   海外new things｜「Convertedin」完成300万美元种子轮融资，为品牌提供优质的电子商务运营 [read](https://36kr.com/p/1866787243266818)
+   氪星晚报｜雷军：小米自动驾驶首期研发投入33亿，目标2024年进入第一阵营；网易专利可用指尖间距判断是否为儿童；Meta本周测试安全存储功能：可备份Messenger端到端加密数据 [read](https://36kr.com/p/1868183345746688)
 
-   氪星晚报丨极兔在深圳成立科技公司，注册资本200万；阿里文娱旗下大鱼快乐增资3亿元；亚马逊在加州开始大规模推广掌纹支付 [read](https://36kr.com/p/1866777541890820)
+   海外new things｜「Stark」完成600万美元种子轮融资，让软件访问变得无障碍 [read](https://36kr.com/p/1868175394804227)
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    “推荐系统” 值得一读的五本书 [read](https://www.msra.cn/zh-cn/news/features/book-list-on-recommender-systems)
 
+   超越奈飞，迪士尼只用了 5 年 [read](http://www.geekpark.net/news/306474)
+
+   马斯克暗示可能自建社交平台；迪士尼订阅用户总数首超奈飞；小米发布全尺寸人形机器人，成本每台六、七十万 [read](http://www.geekpark.net/news/306428)
+
    苹果停止「买买买」 [read](http://www.geekpark.net/news/306426)
-
-   美国爆火的电动滑板车，如何重复 ofo 败局 [read](http://www.geekpark.net/news/306293)
-
-   马斯克套现 68.9 亿美元；黄仁勋：不裁员，会加薪；中国今年将发射超 50 颗商业卫星 \| 极客早知道 [read](http://www.geekpark.net/news/306369)
 
 ### 金融类
 
-   存量大额资金做组合还是做定投？——以不同入场时机为例 [read](http://xueqiu.com/8890498724/227757629)
+   从近期部分基金调仓，看医药股的投资机会 [read](http://xueqiu.com/1521421094/227839904)
 
-   如果只买一只基金长期持有，你会怎么选？ [read](http://xueqiu.com/2356382715/227728039)
+   中远海控：假如投资是婚姻 [read](http://xueqiu.com/7010894772/227877539)
 
-   2022年上半年银行业资产增速及资产质量 [read](http://xueqiu.com/7198180813/227706781)
+   靶向蛋白降解的现状与未来 [read](http://xueqiu.com/1335311504/227857108)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   le brewlife VISUAL IDENTITY AND PACKAGING [read](https://www.behance.net/gallery/150030443/le-brewlife-VISUAL-IDENTITY-AND-PACKAGING)
+   Office montréalais de la gastronomie \| lg2 [read](https://www.behance.net/gallery/149441219/Office-montralais-de-la-gastronomie-lg2)
 
-   Compilation #5 [read](https://www.behance.net/gallery/150001011/Compilation-5)
+   CONTACTO / CONTACT [read](https://www.behance.net/gallery/150060287/CONTACTO-CONTACT)
 
-   Skechers x emograms by kissmiklos / 2022 [read](https://www.behance.net/gallery/149881117/Skechers-x-emograms-by-kissmiklos-2022)
+   Lettering Series LVII [read](https://www.behance.net/gallery/150165967/Lettering-Series-LVII)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,15 +146,15 @@ title: "今日资讯"
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
-   拯救配色废！让配色效率暴涨10倍的预览神器 Palettemaker [read](https://www.uisdc.com/palettemaker)
+   掌握这个方案设计完整流程，一稿就能过！ [read](https://www.uisdc.com/scheme-design-process)
 
-   7000字深度解读！车载HUD的交互和视觉设计知识总结 [read](https://www.uisdc.com/hud-design)
+   PPT超全自学指南（8）：进击的版式之目录页 [read](https://www.uisdc.com/ppt-self-study-method-9)
 
-   短视频时代！设计师必备的9个文案网站 [read](https://www.uisdc.com/9-copywriting-artifact)
+   平面设计必看！盘点 16 个常见的招牌字类型 [read](https://www.uisdc.com/signboard-type-2022)
+
+   W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
    CDC夜校回顾NO.26｜如何运营一个开源项目、出海产品设计之多语言设计 [read](https://cdc.tencent.com/2022/07/19/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-26%ef%bd%9c%e5%a6%82%e4%bd%95%e8%bf%90%e8%90%a5%e4%b8%80%e4%b8%aa%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e3%80%81%e5%87%ba%e6%b5%b7%e4%ba%a7%e5%93%81%e8%ae%be/)
 
    CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门 [read](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
-
-   主旋“绿”｜六一&十六 [read](https://cdc.tencent.com/2022/06/07/%e4%b8%bb%e6%97%8b%e7%bb%bf%ef%bd%9c%e5%85%ad%e4%b8%80%e5%8d%81%e5%85%ad/)
 
