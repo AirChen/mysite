@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AmboseliElephants_EN-US1510486473_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BoundaryWaters_EN-US1592534087_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,12 +48,6 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
-   抖音 iOS 推荐 Feed 容器化总结 [read](https://blog.csdn.net/ByteDanceTech/article/details/126239407)
-
-   Hessian 序列化、反序列化 [read](https://blog.csdn.net/ByteDanceTech/article/details/126188189)
-
-   RTC 场景下的屏幕共享优化实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/126151738)
-
    提升资源利用率与保障服务质量，鱼与熊掌不可兼得？ [read](https://tech.meituan.com/2022/08/11/load-auto-regulator.html)
 
    美团搜索粗排优化的探索与实践 [read](https://tech.meituan.com/2022/08/11/coarse-ranking-exploration-practice.html)
@@ -68,17 +62,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   走路这么慢的机器人，到底有啥用？ [read](http://www.huxiu.com/article/634248.html?f=wangzhan)
+
+   “芯片反腐”，背后有何深意？ [read](http://www.huxiu.com/article/634234.html?f=wangzhan)
+
    要穿进露脐bm风小衣服里，我需要瘦到多少斤？ [read](http://www.huxiu.com/article/634000.html?f=wangzhan)
 
-   18线外国豪华汽车，唬不住中国人了 [read](http://www.huxiu.com/article/632839.html?f=wangzhan)
+   问了15个「10后」爱听什么歌，有人告诉我《孤勇者》太俗 [read](https://36kr.com/p/1869719221047816)
 
-   最早的特斯拉杀手，本周出殡了 [read](http://www.huxiu.com/article/632371.html?f=wangzhan)
+   愉悦资本刘二海：电动汽车引领碳中和变革，能源清洁催生投资新机会丨最前线 [read](https://36kr.com/p/1869105888957188)
 
-   “回村白领”们，正在把你的情怀照进现实 [read](https://36kr.com/p/1868365637735176)
-
-   氪星晚报｜雷军：小米自动驾驶首期研发投入33亿，目标2024年进入第一阵营；网易专利可用指尖间距判断是否为儿童；Meta本周测试安全存储功能：可备份Messenger端到端加密数据 [read](https://36kr.com/p/1868183345746688)
-
-   海外new things｜「Stark」完成600万美元种子轮融资，让软件访问变得无障碍 [read](https://36kr.com/p/1868175394804227)
+   36氪首发 \| 京颐科技战略投资「信尚安」，基于物联网技术打造新一代智慧病房 [read](https://36kr.com/p/1869112414376452)
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
@@ -86,19 +80,19 @@ title: "今日资讯"
 
    “推荐系统” 值得一读的五本书 [read](https://www.msra.cn/zh-cn/news/features/book-list-on-recommender-systems)
 
+   一个 Web3 小白的「DAO漂流」 [read](http://www.geekpark.net/news/306484)
+
+   中石油等 5 家中国企业启动自美退市；华为上半年营收 3016 亿元；搜狗 App 正式停止服务 [read](http://www.geekpark.net/news/306483)
+
    超越奈飞，迪士尼只用了 5 年 [read](http://www.geekpark.net/news/306474)
-
-   马斯克暗示可能自建社交平台；迪士尼订阅用户总数首超奈飞；小米发布全尺寸人形机器人，成本每台六、七十万 [read](http://www.geekpark.net/news/306428)
-
-   苹果停止「买买买」 [read](http://www.geekpark.net/news/306426)
 
 ### 金融类
 
-   从近期部分基金调仓，看医药股的投资机会 [read](http://xueqiu.com/1521421094/227839904)
+   三单保障房REITs同日发售 [read](http://xueqiu.com/5117995320/227954908)
 
-   中远海控：假如投资是婚姻 [read](http://xueqiu.com/7010894772/227877539)
+   投资，是认知的变现吗？ [read](http://xueqiu.com/6056806984/227946761)
 
-   靶向蛋白降解的现状与未来 [read](http://xueqiu.com/1335311504/227857108)
+   何为低估何为高估？ [read](http://xueqiu.com/1755110761/227949869)
 
 ### 学习类
 
@@ -128,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Office montréalais de la gastronomie \| lg2 [read](https://www.behance.net/gallery/149441219/Office-montralais-de-la-gastronomie-lg2)
+   Complex [read](https://www.behance.net/gallery/149533101/Complex)
 
-   CONTACTO / CONTACT [read](https://www.behance.net/gallery/150060287/CONTACTO-CONTACT)
+   Limburgs Museum [read](https://www.behance.net/gallery/142642153/Limburgs-Museum)
 
-   Lettering Series LVII [read](https://www.behance.net/gallery/150165967/Lettering-Series-LVII)
+   Artistic interpretation of logos [read](https://www.behance.net/gallery/150228693/Artistic-interpretation-of-logos)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +140,11 @@ title: "今日资讯"
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
+   PPT超全自学指南（10）：进击的版式之关键词页面（上） [read](https://www.uisdc.com/ppt-self-study-method-10)
+
    掌握这个方案设计完整流程，一稿就能过！ [read](https://www.uisdc.com/scheme-design-process)
 
-   PPT超全自学指南（8）：进击的版式之目录页 [read](https://www.uisdc.com/ppt-self-study-method-9)
-
-   平面设计必看！盘点 16 个常见的招牌字类型 [read](https://www.uisdc.com/signboard-type-2022)
+   PPT超全自学指南（9）：进击的版式之目录页 [read](https://www.uisdc.com/ppt-self-study-method-9)
 
    W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
