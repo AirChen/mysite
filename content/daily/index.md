@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BoundaryWaters_EN-US1592534087_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.PantherChameleon_EN-US2150362477_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,6 +48,12 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   Golang 中 map 探究 [read](https://blog.csdn.net/ByteDanceTech/article/details/126314053)
+
+   抖音 iOS 推荐 Feed 容器化总结 [read](https://blog.csdn.net/ByteDanceTech/article/details/126239407)
+
+   Hessian 序列化、反序列化 [read](https://blog.csdn.net/ByteDanceTech/article/details/126188189)
+
    提升资源利用率与保障服务质量，鱼与熊掌不可兼得？ [read](https://tech.meituan.com/2022/08/11/load-auto-regulator.html)
 
    美团搜索粗排优化的探索与实践 [read](https://tech.meituan.com/2022/08/11/coarse-ranking-exploration-practice.html)
@@ -62,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   止疼药，怎么知道我哪里疼？ [read](http://www.huxiu.com/article/634800.html?f=wangzhan)
+
    走路这么慢的机器人，到底有啥用？ [read](http://www.huxiu.com/article/634248.html?f=wangzhan)
 
    “芯片反腐”，背后有何深意？ [read](http://www.huxiu.com/article/634234.html?f=wangzhan)
 
-   要穿进露脐bm风小衣服里，我需要瘦到多少斤？ [read](http://www.huxiu.com/article/634000.html?f=wangzhan)
+   从​「用人」到​「育人」，人力资源重建新秩序｜「2022新人力先锋人物」调研 [read](https://36kr.com/p/1870716601930249)
 
-   问了15个「10后」爱听什么歌，有人告诉我《孤勇者》太俗 [read](https://36kr.com/p/1869719221047816)
+   我，30岁，转行了！关于转行的13个真实困惑 [read](https://36kr.com/p/1869724328546822)
 
-   愉悦资本刘二海：电动汽车引领碳中和变革，能源清洁催生投资新机会丨最前线 [read](https://36kr.com/p/1869105888957188)
-
-   36氪首发 \| 京颐科技战略投资「信尚安」，基于物联网技术打造新一代智慧病房 [read](https://36kr.com/p/1869112414376452)
+   给300多位老人洗澡后，我所感受的尴尬、疾病与衰老 [read](https://36kr.com/p/1869728306369033)
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
@@ -80,19 +86,19 @@ title: "今日资讯"
 
    “推荐系统” 值得一读的五本书 [read](https://www.msra.cn/zh-cn/news/features/book-list-on-recommender-systems)
 
+   元宇宙人才遭疯抢，500 万年薪不稀奇；特斯拉在北美停收 Model 3 长续航版订单；8 月 15 日上演土星冲日 [read](http://www.geekpark.net/news/306486)
+
    一个 Web3 小白的「DAO漂流」 [read](http://www.geekpark.net/news/306484)
 
    中石油等 5 家中国企业启动自美退市；华为上半年营收 3016 亿元；搜狗 App 正式停止服务 [read](http://www.geekpark.net/news/306483)
 
-   超越奈飞，迪士尼只用了 5 年 [read](http://www.geekpark.net/news/306474)
-
 ### 金融类
 
-   三单保障房REITs同日发售 [read](http://xueqiu.com/5117995320/227954908)
+   马曼然：为什么要战略性布局新能源和品牌中药 [read](http://xueqiu.com/1472391509/227870673)
 
-   投资，是认知的变现吗？ [read](http://xueqiu.com/6056806984/227946761)
+   比亚迪产品矩阵及展望 [read](http://xueqiu.com/2021998461/227943153)
 
-   何为低估何为高估？ [read](http://xueqiu.com/1755110761/227949869)
+   我在淘宝买牛奶，竟然发现了伊利的原奶供应商 [read](http://xueqiu.com/1830902728/227990262)
 
 ### 学习类
 
@@ -122,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Complex [read](https://www.behance.net/gallery/149533101/Complex)
+   Papa - No one can do it alone [read](https://www.behance.net/gallery/150160511/Papa-No-one-can-do-it-alone)
 
-   Limburgs Museum [read](https://www.behance.net/gallery/142642153/Limburgs-Museum)
+   Dream Explorers [read](https://www.behance.net/gallery/150199093/Dream-Explorers)
 
-   Artistic interpretation of logos [read](https://www.behance.net/gallery/150228693/Artistic-interpretation-of-logos)
+   Discover Thyssen Museum with Alaska [read](https://www.behance.net/gallery/150188049/Discover-Thyssen-Museum-with-Alaska)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -140,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
+   超全整理！设计师必备的3类书法字免费资源（附下载链接） [read](https://www.uisdc.com/calligraphy-font-resources)
+
+   让购物简单快乐！京东 APP 11.0 深度解读：视觉篇 [read](https://www.uisdc.com/jd-app-11-0-vision)
+
    PPT超全自学指南（10）：进击的版式之关键词页面（上） [read](https://www.uisdc.com/ppt-self-study-method-10)
-
-   掌握这个方案设计完整流程，一稿就能过！ [read](https://www.uisdc.com/scheme-design-process)
-
-   PPT超全自学指南（9）：进击的版式之目录页 [read](https://www.uisdc.com/ppt-self-study-method-9)
 
    W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
