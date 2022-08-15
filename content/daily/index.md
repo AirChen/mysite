@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.PantherChameleon_EN-US2150362477_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ChittorgarhFort_EN-US2246278299_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   止疼药，怎么知道我哪里疼？ [read](http://www.huxiu.com/article/634800.html?f=wangzhan)
+   台积电，也尝到了“卡脖子”的滋味 [read](http://www.huxiu.com/article/635732.html?f=wangzhan)
 
-   走路这么慢的机器人，到底有啥用？ [read](http://www.huxiu.com/article/634248.html?f=wangzhan)
+   5G医疗，把哈尔滨的医院平移到新疆 [read](http://www.huxiu.com/article/634277.html?f=wangzhan)
 
-   “芯片反腐”，背后有何深意？ [read](http://www.huxiu.com/article/634234.html?f=wangzhan)
+   东北虎：虎中金渐层，到底有多猛？ [read](http://www.huxiu.com/article/635452.html?f=wangzhan)
 
-   从​「用人」到​「育人」，人力资源重建新秩序｜「2022新人力先锋人物」调研 [read](https://36kr.com/p/1870716601930249)
+   业绩快报 \| 阅文发布2022年半年报：收入40.9亿，Non-IFRS经营盈利达6.9亿 [read](https://36kr.com/p/1872468216173059)
 
-   我，30岁，转行了！关于转行的13个真实困惑 [read](https://36kr.com/p/1869724328546822)
+   氪星晚报 \| 小米入股汽车电阻制造商鼎声微电；YouTube计划推出流媒体视频在线商店服务；嘀嗒顺风出行每公里平均可减少173克二氧化碳排放 [read](https://36kr.com/p/1872589946196736)
 
-   给300多位老人洗澡后，我所感受的尴尬、疾病与衰老 [read](https://36kr.com/p/1869728306369033)
+   36氪崔永旺：体育的力量 让我们战无不氪 [read](https://36kr.com/p/1872502215054081)
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    “推荐系统” 值得一读的五本书 [read](https://www.msra.cn/zh-cn/news/features/book-list-on-recommender-systems)
 
+   亚马逊 17 亿美元收购 iRobot，图的并不是你的「两室一厅」 [read](http://www.geekpark.net/news/306420)
+
+   广汽埃安：跟华为合作没有议价能力；特斯拉订单积压，不再接受部分预订；三星预测折叠屏手机出货量将达 2000 万 [read](http://www.geekpark.net/news/306490)
+
    元宇宙人才遭疯抢，500 万年薪不稀奇；特斯拉在北美停收 Model 3 长续航版订单；8 月 15 日上演土星冲日 [read](http://www.geekpark.net/news/306486)
-
-   一个 Web3 小白的「DAO漂流」 [read](http://www.geekpark.net/news/306484)
-
-   中石油等 5 家中国企业启动自美退市；华为上半年营收 3016 亿元；搜狗 App 正式停止服务 [read](http://www.geekpark.net/news/306483)
 
 ### 金融类
 
-   马曼然：为什么要战略性布局新能源和品牌中药 [read](http://xueqiu.com/1472391509/227870673)
+   雪球专刊——解读2022公募基金二季报 [read](http://xueqiu.com/3746414875/228105394)
 
-   比亚迪产品矩阵及展望 [read](http://xueqiu.com/2021998461/227943153)
+   金元顺安闭门谢客，其他同类基金竟无一人可战？ [read](http://xueqiu.com/2874661635/228085460)
 
-   我在淘宝买牛奶，竟然发现了伊利的原奶供应商 [read](http://xueqiu.com/1830902728/227990262)
+   万科与保利，孰优孰更优？ [read](http://xueqiu.com/5916199152/228023784)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Papa - No one can do it alone [read](https://www.behance.net/gallery/150160511/Papa-No-one-can-do-it-alone)
+   OneLab [read](https://www.behance.net/gallery/150249593/OneLab)
 
-   Dream Explorers [read](https://www.behance.net/gallery/150199093/Dream-Explorers)
+   ???????? [read](https://www.behance.net/gallery/149440453/_)
 
-   Discover Thyssen Museum with Alaska [read](https://www.behance.net/gallery/150188049/Discover-Thyssen-Museum-with-Alaska)
+   Four Seasons of Mt. Fuji [read](https://www.behance.net/gallery/148889425/Four-Seasons-of-Mt-Fuji)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -148,9 +148,9 @@ title: "今日资讯"
 
    超全整理！设计师必备的3类书法字免费资源（附下载链接） [read](https://www.uisdc.com/calligraphy-font-resources)
 
-   让购物简单快乐！京东 APP 11.0 深度解读：视觉篇 [read](https://www.uisdc.com/jd-app-11-0-vision)
+   优秀设计的背后，离不开这16个应该掌握的底层理论 [read](https://www.uisdc.com/16-the-underlying-theory-of-design)
 
-   PPT超全自学指南（10）：进击的版式之关键词页面（上） [read](https://www.uisdc.com/ppt-self-study-method-10)
+   让购物简单快乐！京东 APP 11.0 深度解读：视觉篇 [read](https://www.uisdc.com/jd-app-11-0-vision)
 
    W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
