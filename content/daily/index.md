@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ChittorgarhFort_EN-US2246278299_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GreatWhiteRoller_EN-US2453743631_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   智能插帧，打造丝滑视频体验 [read](https://blog.csdn.net/ByteDanceTech/article/details/126357576)
+
    Golang 中 map 探究 [read](https://blog.csdn.net/ByteDanceTech/article/details/126314053)
 
    抖音 iOS 推荐 Feed 容器化总结 [read](https://blog.csdn.net/ByteDanceTech/article/details/126239407)
-
-   Hessian 序列化、反序列化 [read](https://blog.csdn.net/ByteDanceTech/article/details/126188189)
 
    提升资源利用率与保障服务质量，鱼与熊掌不可兼得？ [read](https://tech.meituan.com/2022/08/11/load-auto-regulator.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   台积电，也尝到了“卡脖子”的滋味 [read](http://www.huxiu.com/article/635732.html?f=wangzhan)
+   2022年，还有人教你在高速上“点刹” [read](http://www.huxiu.com/article/637297.html?f=wangzhan)
 
-   5G医疗，把哈尔滨的医院平移到新疆 [read](http://www.huxiu.com/article/634277.html?f=wangzhan)
+   综艺“死”于跟风年轻人 [read](http://www.huxiu.com/article/636204.html?f=wangzhan)
 
-   东北虎：虎中金渐层，到底有多猛？ [read](http://www.huxiu.com/article/635452.html?f=wangzhan)
+   卡牌盲盒掏空家长钱包，被封印的奥特曼还是光吗？ [read](http://www.huxiu.com/article/637013.html?f=wangzhan)
 
-   业绩快报 \| 阅文发布2022年半年报：收入40.9亿，Non-IFRS经营盈利达6.9亿 [read](https://36kr.com/p/1872468216173059)
+   36氪独家｜融资60亿、超预期1倍，欣旺达汽车电池业务超额完成新募资 [read](https://36kr.com/p/1874040391666825)
 
-   氪星晚报 \| 小米入股汽车电阻制造商鼎声微电；YouTube计划推出流媒体视频在线商店服务；嘀嗒顺风出行每公里平均可减少173克二氧化碳排放 [read](https://36kr.com/p/1872589946196736)
+   业绩快报 \| 新加坡Sea二季度收入毛利润稳定增长，电商经济效益显著提升 [read](https://36kr.com/p/1873947187154056)
 
-   36氪崔永旺：体育的力量 让我们战无不氪 [read](https://36kr.com/p/1872502215054081)
+   丽泽“三兄弟”的好消息和坏消息，都在这里了 \| 北京楼市小报002期 [read](https://36kr.com/p/1871950856393223)
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    “推荐系统” 值得一读的五本书 [read](https://www.msra.cn/zh-cn/news/features/book-list-on-recommender-systems)
 
-   亚马逊 17 亿美元收购 iRobot，图的并不是你的「两室一厅」 [read](http://www.geekpark.net/news/306420)
+   Keep 杀入运动综艺 [read](http://www.geekpark.net/news/306609)
 
-   广汽埃安：跟华为合作没有议价能力；特斯拉订单积压，不再接受部分预订；三星预测折叠屏手机出货量将达 2000 万 [read](http://www.geekpark.net/news/306490)
+   「捕碳利用」，碳中和风口最热的「赔钱货」 [read](http://www.geekpark.net/news/306557)
 
-   元宇宙人才遭疯抢，500 万年薪不稀奇；特斯拉在北美停收 Model 3 长续航版订单；8 月 15 日上演土星冲日 [read](http://www.geekpark.net/news/306486)
+   视频网站，不再是好生意 [read](http://www.geekpark.net/news/306489)
 
 ### 金融类
 
-   雪球专刊——解读2022公募基金二季报 [read](http://xueqiu.com/3746414875/228105394)
+   理想的Q2财报电话会议要点及简要分析 [read](http://xueqiu.com/5436386345/228108086)
 
-   金元顺安闭门谢客，其他同类基金竟无一人可战？ [read](http://xueqiu.com/2874661635/228085460)
+   【雪球基金调研团】与基金经理直接对话，快来报名吧！ [read](http://xueqiu.com/9485866208/228182984)
 
-   万科与保利，孰优孰更优？ [read](http://xueqiu.com/5916199152/228023784)
+   市场越悲观我越乐观——今天继续加仓50W！ [read](http://xueqiu.com/5941996397/228160449)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   OneLab [read](https://www.behance.net/gallery/150249593/OneLab)
+   Various Illustrations 2022 [read](https://www.behance.net/gallery/150497111/Various-Illustrations-2022)
 
-   ???????? [read](https://www.behance.net/gallery/149440453/_)
+   CROMATICA [read](https://www.behance.net/gallery/150155301/CROMATICA)
 
-   Four Seasons of Mt. Fuji [read](https://www.behance.net/gallery/148889425/Four-Seasons-of-Mt-Fuji)
+   Prismacolor work [read](https://www.behance.net/gallery/144559821/Prismacolor-work)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
-   超全整理！设计师必备的3类书法字免费资源（附下载链接） [read](https://www.uisdc.com/calligraphy-font-resources)
+   阿里U设计周：关于盲文无障碍设计的日常设想 [read](https://www.uisdc.com/visually-impaired-diary-2022)
 
-   优秀设计的背后，离不开这16个应该掌握的底层理论 [read](https://www.uisdc.com/16-the-underlying-theory-of-design)
+   第三波！2022年8月精选实用设计干货合集 [read](https://www.uisdc.com/2022-8-design-resources-vol3)
 
-   让购物简单快乐！京东 APP 11.0 深度解读：视觉篇 [read](https://www.uisdc.com/jd-app-11-0-vision)
+   腾讯万字干货！如何让设计创新源源不断？（激进篇） [read](https://www.uisdc.com/incremental-change-2)
 
    W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
