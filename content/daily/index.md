@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GreatWhiteRoller_EN-US2453743631_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AquarioNatural_EN-US2602910599_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   2022年，还有人教你在高速上“点刹” [read](http://www.huxiu.com/article/637297.html?f=wangzhan)
+   究竟什么卡，才能俘获Z世代的“芳心”？ [read](http://www.huxiu.com/article/637960.html?f=wangzhan)
 
-   综艺“死”于跟风年轻人 [read](http://www.huxiu.com/article/636204.html?f=wangzhan)
+   不想只卖“铲子”的Unity，能跨界成功吗？ [read](http://www.huxiu.com/article/637766.html?f=wangzhan)
 
-   卡牌盲盒掏空家长钱包，被封印的奥特曼还是光吗？ [read](http://www.huxiu.com/article/637013.html?f=wangzhan)
+   新能源车，修起来为什么那么贵？ [read](http://www.huxiu.com/article/637863.html?f=wangzhan)
 
-   36氪独家｜融资60亿、超预期1倍，欣旺达汽车电池业务超额完成新募资 [read](https://36kr.com/p/1874040391666825)
+   清仓光驱、VCD、U盘  鼎好大厦正在“卖”什么？ [read](https://36kr.com/p/1875319252520073)
 
-   业绩快报 \| 新加坡Sea二季度收入毛利润稳定增长，电商经济效益显著提升 [read](https://36kr.com/p/1873947187154056)
+   买了三套房买第四套？ 哪些房企在石门县有库存 [read](https://36kr.com/p/1875416588979590)
 
-   丽泽“三兄弟”的好消息和坏消息，都在这里了 \| 北京楼市小报002期 [read](https://36kr.com/p/1871950856393223)
+   海外new things｜「Qeepsake」完成200万美元种子轮融资，打造个性化家庭日记 [read](https://36kr.com/p/1875217234709890)
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
@@ -94,11 +94,11 @@ title: "今日资讯"
 
 ### 金融类
 
-   理想的Q2财报电话会议要点及简要分析 [read](http://xueqiu.com/5436386345/228108086)
+   腾讯 2022 年Q2财报解读&历史数据 [read](http://xueqiu.com/6490468241/228315266)
 
-   【雪球基金调研团】与基金经理直接对话，快来报名吧！ [read](http://xueqiu.com/9485866208/228182984)
+   舍得酒业2022年中报解读 [read](http://xueqiu.com/1614119807/228311539)
 
-   市场越悲观我越乐观——今天继续加仓50W！ [read](http://xueqiu.com/5941996397/228160449)
+   油气股的自由现金流折现 [read](http://xueqiu.com/7178218145/228268489)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Various Illustrations 2022 [read](https://www.behance.net/gallery/150497111/Various-Illustrations-2022)
+   WHERE RIVERS END ? Iceland [read](https://www.behance.net/gallery/150507211/WHERE-RIVERS-END-Iceland)
 
-   CROMATICA [read](https://www.behance.net/gallery/150155301/CROMATICA)
+   Knock-Knock SparkStorys #004 [read](https://www.behance.net/gallery/150422665/Knock-Knock-SparkStorys-004)
 
-   Prismacolor work [read](https://www.behance.net/gallery/144559821/Prismacolor-work)
+   REEF [read](https://www.behance.net/gallery/149739453/REEF)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
-   阿里U设计周：关于盲文无障碍设计的日常设想 [read](https://www.uisdc.com/visually-impaired-diary-2022)
+   设计已迈入协同时代，MasterGo 诠释设计协同工具的现在与未来 [read](https://www.uisdc.com/design-tools-2022)
 
-   第三波！2022年8月精选实用设计干货合集 [read](https://www.uisdc.com/2022-8-design-resources-vol3)
+   Behance显示无权访问？别急，还有这些方法可以挽救！ [read](https://www.uisdc.com/behance-not-found)
 
-   腾讯万字干货！如何让设计创新源源不断？（激进篇） [read](https://www.uisdc.com/incremental-change-2)
+   腾讯出品！工具型产品如何简化设计？ [read](https://www.uisdc.com/tool-product-simplification)
 
    W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
