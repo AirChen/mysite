@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AquarioNatural_EN-US2602910599_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SourHerring_EN-US2672490827_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   究竟什么卡，才能俘获Z世代的“芳心”？ [read](http://www.huxiu.com/article/637960.html?f=wangzhan)
+   我们调查了1905人的理想家居：85后到95后有何不同？ [read](http://www.huxiu.com/article/638942.html?f=wangzhan)
 
-   不想只卖“铲子”的Unity，能跨界成功吗？ [read](http://www.huxiu.com/article/637766.html?f=wangzhan)
+   网络诈骗是怎么找上年轻人的？ [read](http://www.huxiu.com/article/638879.html?f=wangzhan)
 
-   新能源车，修起来为什么那么贵？ [read](http://www.huxiu.com/article/637863.html?f=wangzhan)
+   曾经销售无门的国产超市，是如何逆袭的？ [read](http://www.huxiu.com/article/638757.html?f=wangzhan)
 
-   清仓光驱、VCD、U盘  鼎好大厦正在“卖”什么？ [read](https://36kr.com/p/1875319252520073)
+   科氪｜传奇超跑Apollo进军新能源领域，重新定义“智慧出行” [read](https://36kr.com/p/1876945408298113)
 
-   买了三套房买第四套？ 哪些房企在石门县有库存 [read](https://36kr.com/p/1875416588979590)
+   氪星晚报｜台积电3nm芯片将在今年下半年量产，客户产品明年问世；名创优品致歉承认“走过弯路”；“美好三六五”获3000万投资，发起2亿规模专项基金；上海MBA元宇宙中心建设启动，推动组建“5G+教育元宇宙产业生态联盟” [read](https://36kr.com/p/1876919142649225)
 
-   海外new things｜「Qeepsake」完成200万美元种子轮融资，打造个性化家庭日记 [read](https://36kr.com/p/1875217234709890)
+   智氪点评 \| 净利连续6季度下滑、收入增速放缓，桃李面包业绩堪忧 [read](https://36kr.com/p/1874918517705864)
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
@@ -86,33 +86,33 @@ title: "今日资讯"
 
    “推荐系统” 值得一读的五本书 [read](https://www.msra.cn/zh-cn/news/features/book-list-on-recommender-systems)
 
+   裁员超 5500 人、净利润腰斩，腾讯怎么了？ [read](http://www.geekpark.net/news/306700)
+
+   腾讯二季度净利润 186 亿，同比下滑 56%；小米汽车选定电池供应商；超 4 成「00 后」想要编制内工作 \| 极客早知道 [read](http://www.geekpark.net/news/306679)
+
    Keep 杀入运动综艺 [read](http://www.geekpark.net/news/306609)
-
-   「捕碳利用」，碳中和风口最热的「赔钱货」 [read](http://www.geekpark.net/news/306557)
-
-   视频网站，不再是好生意 [read](http://www.geekpark.net/news/306489)
 
 ### 金融类
 
-   腾讯 2022 年Q2财报解读&历史数据 [read](http://xueqiu.com/6490468241/228315266)
+   盘点基金公司员工最爱的消费主题基金榜单 [read](http://xueqiu.com/5679199459/228350307)
 
-   舍得酒业2022年中报解读 [read](http://xueqiu.com/1614119807/228311539)
+   医药行情低迷的时候，更需要对医药产业乐观 [read](http://xueqiu.com/4777061674/228356837)
 
-   油气股的自由现金流折现 [read](http://xueqiu.com/7178218145/228268489)
+   做投资一定要严谨 [read](http://xueqiu.com/3448047273/228361748)
 
 ### 学习类
+
+   💻 Issue 321 - Rust in Perspective [read](https://rust.libhunt.com/newsletter/321)
 
    💻 Issue 320 - Non-lexical lifetimes (NLL) fully stable \| Rust Blog [read](https://rust.libhunt.com/newsletter/320)
 
    💻 Issue 319 - Bevy 0.8 [read](https://rust.libhunt.com/newsletter/319)
 
-   💻 Issue 318 - Announcing the Keyword Generics Initiative [read](https://rust.libhunt.com/newsletter/318)
+   This Week in Rust 456 [read](https://this-week-in-rust.org/blog/2022/08/17/this-week-in-rust-456/)
 
    This Week in Rust 455 [read](https://this-week-in-rust.org/blog/2022/08/10/this-week-in-rust-455/)
 
    This Week in Rust 454 [read](https://this-week-in-rust.org/blog/2022/08/03/this-week-in-rust-454/)
-
-   This Week in Rust 453 [read](https://this-week-in-rust.org/blog/2022/07/27/this-week-in-rust-453/)
 
    ETCD的内存问题 [read](https://coolshell.cn/articles/22242.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   WHERE RIVERS END ? Iceland [read](https://www.behance.net/gallery/150507211/WHERE-RIVERS-END-Iceland)
+   Birds, Plants &amp; Music (#2) [read](https://www.behance.net/gallery/150581769/Birds-Plants-Music-%282%29)
 
-   Knock-Knock SparkStorys #004 [read](https://www.behance.net/gallery/150422665/Knock-Knock-SparkStorys-004)
+   BEAUTÉ - Brand Identity [read](https://www.behance.net/gallery/150316433/BEAUTE-Brand-Identity)
 
-   REEF [read](https://www.behance.net/gallery/149739453/REEF)
+   HONG KONG Night Postcards [read](https://www.behance.net/gallery/150491219/HONG-KONG-Night-Postcards)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
-   设计已迈入协同时代，MasterGo 诠释设计协同工具的现在与未来 [read](https://www.uisdc.com/design-tools-2022)
+   想象向新，设计归心！2022 OPPO 主题设计大赛正式启动 [read](https://www.uisdc.com/oppo-theme-design-award-2022)
 
-   Behance显示无权访问？别急，还有这些方法可以挽救！ [read](https://www.uisdc.com/behance-not-found)
+   看完《断·桥》，我学会这6个吸睛的超实用排版技巧 [read](https://www.uisdc.com/6-typesetting-skills)
 
-   腾讯出品！工具型产品如何简化设计？ [read](https://www.uisdc.com/tool-product-simplification)
+   原来苹果也没有做好！Apple Music 用户体验分析 [read](https://www.uisdc.com/apple-music-design)
 
    W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
