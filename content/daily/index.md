@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SourHerring_EN-US2672490827_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SolarImpulse2_EN-US2864472613_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 218 期）：葡萄酒，樱花，全球变暖 [read](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-218.html)
+   科技爱好者周刊（第 219 期）：如何防止帐号被黑 [read](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html)
 
-   科技爱好者周刊（第 217 期）：沙特的新未来城 [read](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html)
+   科技爱好者周刊（第 218 期）：葡萄酒，樱花，全球变暖 [read](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-218.html)
 
    空间优先的 protobuffer / json 解码器 [read](https://blog.codingnow.com/2022/08/memory_compat_protobuffer_json_unmarshaling.html)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 460 期 [read](https://weekly.75.team/issue460.html)
+
    奇舞周刊第 459 期 [read](https://weekly.75.team/issue459.html)
 
    奇舞周刊第 458 期 [read](https://weekly.75.team/issue458.html)
-
-   奇舞周刊第 457 期 [read](https://weekly.75.team/issue457.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   火山引擎 RTC 音频 AI 降噪的应用与实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/126416564)
+
    智能插帧，打造丝滑视频体验 [read](https://blog.csdn.net/ByteDanceTech/article/details/126357576)
 
    Golang 中 map 探究 [read](https://blog.csdn.net/ByteDanceTech/article/details/126314053)
-
-   抖音 iOS 推荐 Feed 容器化总结 [read](https://blog.csdn.net/ByteDanceTech/article/details/126239407)
 
    提升资源利用率与保障服务质量，鱼与熊掌不可兼得？ [read](https://tech.meituan.com/2022/08/11/load-auto-regulator.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   我们调查了1905人的理想家居：85后到95后有何不同？ [read](http://www.huxiu.com/article/638942.html?f=wangzhan)
+   博纳的二十年，与中国电影的二十年 [read](http://www.huxiu.com/article/639983.html?f=wangzhan)
 
-   网络诈骗是怎么找上年轻人的？ [read](http://www.huxiu.com/article/638879.html?f=wangzhan)
+   吉利新能源，今年才发力？ [read](http://www.huxiu.com/article/639765.html?f=wangzhan)
 
-   曾经销售无门的国产超市，是如何逆袭的？ [read](http://www.huxiu.com/article/638757.html?f=wangzhan)
+   进山三天，露营帐篷治不好我的精神内耗 [read](http://www.huxiu.com/article/639977.html?f=wangzhan)
 
-   科氪｜传奇超跑Apollo进军新能源领域，重新定义“智慧出行” [read](https://36kr.com/p/1876945408298113)
+   市场要闻｜OATLY发布召回公告：产品检测均合格，仅为预防性措施 [read](https://36kr.com/p/1878234724043908)
 
-   氪星晚报｜台积电3nm芯片将在今年下半年量产，客户产品明年问世；名创优品致歉承认“走过弯路”；“美好三六五”获3000万投资，发起2亿规模专项基金；上海MBA元宇宙中心建设启动，推动组建“5G+教育元宇宙产业生态联盟” [read](https://36kr.com/p/1876919142649225)
+   东软睿驰总经理曹斌：场景化智能赋予未来交通以想象空间 \| 数字时氪·未来交通论坛 [read](https://36kr.com/p/1878153168735367)
 
-   智氪点评 \| 净利连续6季度下滑、收入增速放缓，桃李面包业绩堪忧 [read](https://36kr.com/p/1874918517705864)
+   黑芝麻智能SoC系统软件副总裁游昌海：高性能车规SoC助力推进智能驾驶国产化 \| 数字时氪·未来交通论坛 [read](https://36kr.com/p/1878151704923528)
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    “推荐系统” 值得一读的五本书 [read](https://www.msra.cn/zh-cn/news/features/book-list-on-recommender-systems)
 
+   国家电网：试推电动汽车错峰充电；大疆曝光「室内无人机」新品；世卫组织：猴痘将更名，不然对猴不公平 [read](http://www.geekpark.net/news/306742)
+
    裁员超 5500 人、净利润腰斩，腾讯怎么了？ [read](http://www.geekpark.net/news/306700)
 
    腾讯二季度净利润 186 亿，同比下滑 56%；小米汽车选定电池供应商；超 4 成「00 后」想要编制内工作 \| 极客早知道 [read](http://www.geekpark.net/news/306679)
 
-   Keep 杀入运动综艺 [read](http://www.geekpark.net/news/306609)
-
 ### 金融类
 
-   盘点基金公司员工最爱的消费主题基金榜单 [read](http://xueqiu.com/5679199459/228350307)
+   未来几年确定性最强的成长行业！让军工皇帝为我打工吧 [read](http://xueqiu.com/9350291617/228562328)
 
-   医药行情低迷的时候，更需要对医药产业乐观 [read](http://xueqiu.com/4777061674/228356837)
+   【鉴基两只】超额年化20%+跑赢基准偏股混合指数，你确定不看看？ [read](http://xueqiu.com/9548389254/228546655)
 
-   做投资一定要严谨 [read](http://xueqiu.com/3448047273/228361748)
+   原油油轮运价跟踪方法以及投资攻略 [read](http://xueqiu.com/9743713791/228544921)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Birds, Plants &amp; Music (#2) [read](https://www.behance.net/gallery/150581769/Birds-Plants-Music-%282%29)
+   Illustrations, 2022, VOL.2 [read](https://www.behance.net/gallery/150692651/Illustrations-2022-VOL2)
 
-   BEAUTÉ - Brand Identity [read](https://www.behance.net/gallery/150316433/BEAUTE-Brand-Identity)
+   Kendra Ferri ? Brand Identity [read](https://www.behance.net/gallery/150660605/Kendra-Ferri-Brand-Identity)
 
-   HONG KONG Night Postcards [read](https://www.behance.net/gallery/150491219/HONG-KONG-Night-Postcards)
+   Patterned Illustrator Art [read](https://www.behance.net/gallery/150567587/Patterned-Illustrator-Art)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
-   想象向新，设计归心！2022 OPPO 主题设计大赛正式启动 [read](https://www.uisdc.com/oppo-theme-design-award-2022)
+   大厂出品！教你一招搞定体验设计方案 [read](https://www.uisdc.com/finalize-the-design-plan)
 
-   看完《断·桥》，我学会这6个吸睛的超实用排版技巧 [read](https://www.uisdc.com/6-typesetting-skills)
+   PPT超全自学指南（12）：进击的版式之时间轴页面和文字排版 [read](https://www.uisdc.com/ppt-self-study-method-12)
 
-   原来苹果也没有做好！Apple Music 用户体验分析 [read](https://www.uisdc.com/apple-music-design)
+   开发说这个设计实现不了？从3个阶段解决问题！ [read](https://www.uisdc.com/design-and-implementation-method)
 
    W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
