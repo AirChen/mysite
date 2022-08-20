@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SolarImpulse2_EN-US2864472613_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BearProof_EN-US2982363241_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   数据血缘图谱升级方案设计与实现 [read](https://blog.csdn.net/ByteDanceTech/article/details/126434202)
+
    火山引擎 RTC 音频 AI 降噪的应用与实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/126416564)
 
    智能插帧，打造丝滑视频体验 [read](https://blog.csdn.net/ByteDanceTech/article/details/126357576)
-
-   Golang 中 map 探究 [read](https://blog.csdn.net/ByteDanceTech/article/details/126314053)
 
    提升资源利用率与保障服务质量，鱼与熊掌不可兼得？ [read](https://tech.meituan.com/2022/08/11/load-auto-regulator.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   博纳的二十年，与中国电影的二十年 [read](http://www.huxiu.com/article/639983.html?f=wangzhan)
+   割第二茬韭菜，电动车准备好了 [read](http://www.huxiu.com/article/640821.html?f=wangzhan)
 
-   吉利新能源，今年才发力？ [read](http://www.huxiu.com/article/639765.html?f=wangzhan)
+   麻将机如何识别麻将正反面？ [read](http://www.huxiu.com/article/640259.html?f=wangzhan)
 
-   进山三天，露营帐篷治不好我的精神内耗 [read](http://www.huxiu.com/article/639977.html?f=wangzhan)
+   大航海时代的东南亚，欧洲人可以买到什么？ [read](http://www.huxiu.com/article/640252.html?f=wangzhan)
 
-   市场要闻｜OATLY发布召回公告：产品检测均合格，仅为预防性措施 [read](https://36kr.com/p/1878234724043908)
+   科氪 \| 绿源原创技术成行业风向标 挑战吉尼斯引发行业热议 [read](https://36kr.com/p/1879239428476041)
 
-   东软睿驰总经理曹斌：场景化智能赋予未来交通以想象空间 \| 数字时氪·未来交通论坛 [read](https://36kr.com/p/1878153168735367)
+   科氪 \| 雅迪石墨烯电池再度升级！开创长续航两轮电动出行新时代 [read](https://36kr.com/p/1879236610952322)
 
-   黑芝麻智能SoC系统软件副总裁游昌海：高性能车规SoC助力推进智能驾驶国产化 \| 数字时氪·未来交通论坛 [read](https://36kr.com/p/1878151704923528)
+   那些上有老、下有小的中年人失业后都怎么样了？ [read](https://36kr.com/p/1878037483654278)
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    “推荐系统” 值得一读的五本书 [read](https://www.msra.cn/zh-cn/news/features/book-list-on-recommender-systems)
 
+   川渝「高温限电」特斯拉、蔚来受影响；扎克伯格 VR 社交虚拟人自拍遭群嘲；世界最大蚊子工厂每周生产 3000 万只｜极客早知道 [read](http://www.geekpark.net/news/306813)
+
    国家电网：试推电动汽车错峰充电；大疆曝光「室内无人机」新品；世卫组织：猴痘将更名，不然对猴不公平 [read](http://www.geekpark.net/news/306742)
 
    裁员超 5500 人、净利润腰斩，腾讯怎么了？ [read](http://www.geekpark.net/news/306700)
 
-   腾讯二季度净利润 186 亿，同比下滑 56%；小米汽车选定电池供应商；超 4 成「00 后」想要编制内工作 \| 极客早知道 [read](http://www.geekpark.net/news/306679)
-
 ### 金融类
 
-   未来几年确定性最强的成长行业！让军工皇帝为我打工吧 [read](http://xueqiu.com/9350291617/228562328)
+   迷雾渐消——解读腾讯2022年中报 [read](http://xueqiu.com/1818877481/228596254)
 
-   【鉴基两只】超额年化20%+跑赢基准偏股混合指数，你确定不看看？ [read](http://xueqiu.com/9548389254/228546655)
+   招商银行中报点评----换档才能提速 [read](http://xueqiu.com/8164125924/228577847)
 
-   原油油轮运价跟踪方法以及投资攻略 [read](http://xueqiu.com/9743713791/228544921)
+   看好小盘股，如何做指数基金投资？ [read](http://xueqiu.com/1762638610/228592114)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Illustrations, 2022, VOL.2 [read](https://www.behance.net/gallery/150692651/Illustrations-2022-VOL2)
+   Paia Juicery [read](https://www.behance.net/gallery/150598753/Paia-Juicery)
 
-   Kendra Ferri ? Brand Identity [read](https://www.behance.net/gallery/150660605/Kendra-Ferri-Brand-Identity)
+   Sleepers [read](https://www.behance.net/gallery/150749887/Sleepers)
 
-   Patterned Illustrator Art [read](https://www.behance.net/gallery/150567587/Patterned-Illustrator-Art)
+   Caspo [read](https://www.behance.net/gallery/150501047/Caspo)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
+   PPT超全自学指南（13）：进击的版式之人物介绍页面和图表处理 [read](https://www.uisdc.com/ppt-self-study-method-13)
+
    大厂出品！教你一招搞定体验设计方案 [read](https://www.uisdc.com/finalize-the-design-plan)
 
    PPT超全自学指南（12）：进击的版式之时间轴页面和文字排版 [read](https://www.uisdc.com/ppt-self-study-method-12)
-
-   开发说这个设计实现不了？从3个阶段解决问题！ [read](https://www.uisdc.com/design-and-implementation-method)
 
    W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
