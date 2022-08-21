@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BearProof_EN-US2982363241_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CostadaMorte_EN-US3132736041_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   荷兰人的亚洲第一仗：万丹海战史 [read](http://www.huxiu.com/article/641120.html?f=wangzhan)
+
    割第二茬韭菜，电动车准备好了 [read](http://www.huxiu.com/article/640821.html?f=wangzhan)
 
    麻将机如何识别麻将正反面？ [read](http://www.huxiu.com/article/640259.html?f=wangzhan)
 
-   大航海时代的东南亚，欧洲人可以买到什么？ [read](http://www.huxiu.com/article/640252.html?f=wangzhan)
+   种植牙服务限价、耗材集采将到来，能否改变“一口牙一辆特斯拉”？ [read](https://36kr.com/p/1881285155589512)
 
-   科氪 \| 绿源原创技术成行业风向标 挑战吉尼斯引发行业热议 [read](https://36kr.com/p/1879239428476041)
+   「NEXTA创新夜谈」未来工作的打开方式，会是什么样子？ [read](https://36kr.com/p/1881059416395141)
 
-   科氪 \| 雅迪石墨烯电池再度升级！开创长续航两轮电动出行新时代 [read](https://36kr.com/p/1879236610952322)
-
-   那些上有老、下有小的中年人失业后都怎么样了？ [read](https://36kr.com/p/1878037483654278)
+   医疗健康行业周报 \|「中科新生命」获数亿元B轮融资；「特科罗」皮肤病领域布局再下一城 [read](https://36kr.com/p/1880973364153736)
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    “推荐系统” 值得一读的五本书 [read](https://www.msra.cn/zh-cn/news/features/book-list-on-recommender-systems)
 
+   扎克伯格 100 亿美元烧出来的元宇宙，被欧美网友群嘲 [read](http://www.geekpark.net/news/306818)
+
+   传吉利收购图森中国无人卡车业务；新东方：欢迎离职老师「回家」；30 年内 700 座冰川将消失 [read](http://www.geekpark.net/news/306817)
+
    川渝「高温限电」特斯拉、蔚来受影响；扎克伯格 VR 社交虚拟人自拍遭群嘲；世界最大蚊子工厂每周生产 3000 万只｜极客早知道 [read](http://www.geekpark.net/news/306813)
-
-   国家电网：试推电动汽车错峰充电；大疆曝光「室内无人机」新品；世卫组织：猴痘将更名，不然对猴不公平 [read](http://www.geekpark.net/news/306742)
-
-   裁员超 5500 人、净利润腰斩，腾讯怎么了？ [read](http://www.geekpark.net/news/306700)
 
 ### 金融类
 
-   迷雾渐消——解读腾讯2022年中报 [read](http://xueqiu.com/1818877481/228596254)
+   近1年同类业绩排名第一万家中证1000指数增强深度测评 [read](http://xueqiu.com/2443086428/228623629)
 
-   招商银行中报点评----换档才能提速 [read](http://xueqiu.com/8164125924/228577847)
+   从通威说说组件的壁垒 [read](http://xueqiu.com/2874741935/228602281)
 
-   看好小盘股，如何做指数基金投资？ [read](http://xueqiu.com/1762638610/228592114)
+   从Pancake光学开始的研究 [read](http://xueqiu.com/1114979798/228632826)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Paia Juicery [read](https://www.behance.net/gallery/150598753/Paia-Juicery)
+   Tre Dining [read](https://www.behance.net/gallery/150714799/Tre-Dining)
 
-   Sleepers [read](https://www.behance.net/gallery/150749887/Sleepers)
+   2021 PERSONAL WOTK ??FOR THE DISTANCE [read](https://www.behance.net/gallery/140899533/2021-PERSONAL-WOTK-FOR-THE-DISTANCE)
 
-   Caspo [read](https://www.behance.net/gallery/150501047/Caspo)
+   Liefergrün / SendIt.Green [read](https://www.behance.net/gallery/150510605/Liefergruen-SendItGreen)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
+   掌握这5个Ai小技巧，帮你快速提升文字排版效率（四） [read](https://www.uisdc.com/5-ai-tips-4)
+
    PPT超全自学指南（13）：进击的版式之人物介绍页面和图表处理 [read](https://www.uisdc.com/ppt-self-study-method-13)
 
    大厂出品！教你一招搞定体验设计方案 [read](https://www.uisdc.com/finalize-the-design-plan)
-
-   PPT超全自学指南（12）：进击的版式之时间轴页面和文字排版 [read](https://www.uisdc.com/ppt-self-study-method-12)
 
    W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
