@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CostadaMorte_EN-US3132736041_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.TenderMoment_EN-US3269942524_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   荷兰人的亚洲第一仗：万丹海战史 [read](http://www.huxiu.com/article/641120.html?f=wangzhan)
+   大航海时代，亚洲政权如何收拾欧洲殖民者？ [read](http://www.huxiu.com/article/641659.html?f=wangzhan)
 
-   割第二茬韭菜，电动车准备好了 [read](http://www.huxiu.com/article/640821.html?f=wangzhan)
+   再不开燃油超跑，就晚了 [read](http://www.huxiu.com/article/640483.html?f=wangzhan)
 
-   麻将机如何识别麻将正反面？ [read](http://www.huxiu.com/article/640259.html?f=wangzhan)
+   长城汽车，溃败在即？ [read](http://www.huxiu.com/article/637572.html?f=wangzhan)
 
-   种植牙服务限价、耗材集采将到来，能否改变“一口牙一辆特斯拉”？ [read](https://36kr.com/p/1881285155589512)
+   圆桌论坛：超自动化产业前沿与发展趋势 \| WISE2022超自动化峰会 [read](https://36kr.com/p/1876506388778112)
 
-   「NEXTA创新夜谈」未来工作的打开方式，会是什么样子？ [read](https://36kr.com/p/1881059416395141)
+   新华三工业互联网公司落户苏州，正打造“企业侧的安卓”丨最前线 [read](https://36kr.com/p/1882484196969864)
 
-   医疗健康行业周报 \|「中科新生命」获数亿元B轮融资；「特科罗」皮肤病领域布局再下一城 [read](https://36kr.com/p/1880973364153736)
+   氪星晚报｜微博将上线个人页展示评论功能；腾讯云首次公布大数据产品全景图；苹果计划明年在地图应用中显示搜索广告 [read](https://36kr.com/p/1882324923469187)
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    “推荐系统” 值得一读的五本书 [read](https://www.msra.cn/zh-cn/news/features/book-list-on-recommender-systems)
 
+   杜兰特、贝佐斯、a16z 凑钱，搞了个 5 亿美金的「小 NBA」 [read](http://www.geekpark.net/news/306849)
+
+   关闭 TikTok 否认监控用户传闻；特斯拉自动驾驶功能将涨价 25%；传 iPhone 14 仍有 mini 机型 [read](http://www.geekpark.net/news/306819)
+
    扎克伯格 100 亿美元烧出来的元宇宙，被欧美网友群嘲 [read](http://www.geekpark.net/news/306818)
-
-   传吉利收购图森中国无人卡车业务；新东方：欢迎离职老师「回家」；30 年内 700 座冰川将消失 [read](http://www.geekpark.net/news/306817)
-
-   川渝「高温限电」特斯拉、蔚来受影响；扎克伯格 VR 社交虚拟人自拍遭群嘲；世界最大蚊子工厂每周生产 3000 万只｜极客早知道 [read](http://www.geekpark.net/news/306813)
 
 ### 金融类
 
-   近1年同类业绩排名第一万家中证1000指数增强深度测评 [read](http://xueqiu.com/2443086428/228623629)
+   从企业发展角度谈谈沃森可转债的必要性 [read](http://xueqiu.com/1818034726/228695819)
 
-   从通威说说组件的壁垒 [read](http://xueqiu.com/2874741935/228602281)
+   持续承压下的韧性，北新建材2022年H1半年报点评 [read](http://xueqiu.com/6559596021/228670108)
 
-   从Pancake光学开始的研究 [read](http://xueqiu.com/1114979798/228632826)
+   掂一掂“茅台伴侣”中报的含金量 [read](http://xueqiu.com/6572050310/228642265)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Tre Dining [read](https://www.behance.net/gallery/150714799/Tre-Dining)
+   GUCCI VAULT [read](https://www.behance.net/gallery/150898511/GUCCI-VAULT)
 
-   2021 PERSONAL WOTK ??FOR THE DISTANCE [read](https://www.behance.net/gallery/140899533/2021-PERSONAL-WOTK-FOR-THE-DISTANCE)
+   Empanada Project [read](https://www.behance.net/gallery/149279163/Empanada-Project)
 
-   Liefergrün / SendIt.Green [read](https://www.behance.net/gallery/150510605/Liefergruen-SendItGreen)
+   Timo Mobile Game [read](https://www.behance.net/gallery/150680451/Timo-Mobile-Game)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
+   写提案的硬技能！大厂常用的黑话大百科 [read](https://www.uisdc.com/workplace-slang-2022)
+
    掌握这5个Ai小技巧，帮你快速提升文字排版效率（四） [read](https://www.uisdc.com/5-ai-tips-4)
 
-   PPT超全自学指南（13）：进击的版式之人物介绍页面和图表处理 [read](https://www.uisdc.com/ppt-self-study-method-13)
-
-   大厂出品！教你一招搞定体验设计方案 [read](https://www.uisdc.com/finalize-the-design-plan)
+   完全免费无限制！收下这个超好用的在线抠图神器Extract bg [read](https://www.uisdc.com/extract-bg)
 
    W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
