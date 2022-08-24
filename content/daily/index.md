@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MentonFrance_EN-US3424001829_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WheatField_EN-US3537753695_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   狼来了，一场平安夜里的离奇谋杀案 [read](http://www.huxiu.com/article/642728.html?f=wangzhan)
+   奔驰 EQE 长途体验：奔驰的里程碑 [read](http://www.huxiu.com/article/644283.html?f=wangzhan)
 
-   空调如何走向千家万户？ [read](http://www.huxiu.com/article/642344.html?f=wangzhan)
+   F1赛事最动听的声音，竟然不是赛车本身？ [read](http://www.huxiu.com/article/644046.html?f=wangzhan)
 
-   大航海时代，亚洲政权如何收拾欧洲殖民者？ [read](http://www.huxiu.com/article/641659.html?f=wangzhan)
+   当华为遇到“最倔强”的合作对象 [read](http://www.huxiu.com/article/643670.html?f=wangzhan)
 
-   四维图新智驾研发总经理李阳：智能汽车普及潮已经到来 \| 数字时氪·未来交通论坛 [read](https://36kr.com/p/1883906880073096)
+   36氪晚报丨腾讯在东莞投资成立创投私募公司；报告：第二季度国内高端手机市场逆势增长；即构科技发布互动引擎ZEGO Avatar [read](https://36kr.com/p/1885264398955655)
 
-   双面金融街：净利润增长90% 主业销售额下滑50% \|财报时氪 [read](https://36kr.com/p/1883863962348929)
+   上汽深化L4自动驾驶自研，Robotaxi项目落地临港丨产品观察 [read](https://36kr.com/p/1882120724286593)
 
-   氪星晚报｜消息称每日优鲜便利购被3千万收购；达达集团宣布董事长兼CEO蒯佳祺荣休并辞任，京东零售CEO辛利军将出任董事长；eBay以2.95亿美元收购卡牌交易平台TCGplayer [read](https://36kr.com/p/1883732377758848)
+   打造心肺领域介入器械，「帕母医疗」PADN产品有望于明年获批三类证 [read](https://36kr.com/p/1882231432449153)
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    “推荐系统” 值得一读的五本书 [read](https://www.msra.cn/zh-cn/news/features/book-list-on-recommender-systems)
 
+   快手治好了「烧钱病」 [read](http://www.geekpark.net/news/306985)
+
+   任正非：华为要把活下来作为主要纲领；宁德时代上半年净利润增长82%；每日优鲜3000万出售便利购业务 [read](http://www.geekpark.net/news/306965)
+
    对话 AfterShip 陈龙生：很少公司因为一件事做十年而死 [read](http://www.geekpark.net/news/306895)
-
-   11 家网约车平台被约谈；微博个人主页将展示历史评论；华为 Mate5 将于 9 月 6 日发布 [read](http://www.geekpark.net/news/306884)
-
-   杜兰特、贝佐斯、a16z 凑钱，搞了个 5 亿美金的「小 NBA」 [read](http://www.geekpark.net/news/306849)
 
 ### 金融类
 
-   培育钻石行业未来演变推测 [read](http://xueqiu.com/8414744881/228839770)
+   继续深究！角膜塑形镜调研笔记 [read](http://xueqiu.com/7173595940/228888223)
 
-   任何结论都是有条件的 [read](http://xueqiu.com/6395425170/228765756)
+   华为的寒冬和比亚迪的狂飙 [read](http://xueqiu.com/9461130401/228973834)
 
-   雪球基金调研—再聊中证1000指数基金 [read](http://xueqiu.com/7516820417/228768616)
+   布局沃森生物正当时 [read](http://xueqiu.com/3828846123/228970452)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Artek ? Compact Home Office [read](https://www.behance.net/gallery/151009935/Artek-Compact-Home-Office)
+   Joli - rebranding [read](https://www.behance.net/gallery/148567241/Joli-rebranding)
 
-   Illustrations - 2022 [read](https://www.behance.net/gallery/150909025/Illustrations-2022)
+   Knock-Knock SparkStorys #005 [read](https://www.behance.net/gallery/150426515/Knock-Knock-SparkStorys-005)
 
-   N:CAFE \| Visual Identity Design [read](https://www.behance.net/gallery/150322283/NCAFE-Visual-Identity-Design)
+   XX Crocus Jazz Festival [read](https://www.behance.net/gallery/150808393/XX-Crocus-Jazz-Festival)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
-   要质感叠纹理！5个设计师必备的免费高清纹理素材网站 [read](https://www.uisdc.com/5-texture-material-website)
+   NVIDIA Studio 创意加速：三位 3D 艺术家对欧洲经典建筑进行再创作 [read](https://www.uisdc.com/lazar-herda-cee-2022)
 
-   第四波！2022年8月精选实用设计干货合集 [read](https://www.uisdc.com/2022-8-design-resources-vol4)
+   全国普通高校大学生艺术类竞赛指数首次发布 [read](https://www.uisdc.com/art-competition-index-2022)
 
-   设计师不会做总结汇报，执行再好也很难提升！ [read](https://www.uisdc.com/design-summary-report)
+   优秀设计的背后，离不开这11个应该掌握的底层理论 [read](https://www.uisdc.com/11-the-underlying-theory-of-design)
 
    W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
