@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CascadesNP_EN-US3684575794_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.PeljesacWind_EN-US5380116190_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 219 期）：如何防止帐号被黑 [read](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html)
+   科技爱好者周刊（第 220 期）：人工智能的机会在哪里 [read](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html)
 
-   科技爱好者周刊（第 218 期）：葡萄酒，樱花，全球变暖 [read](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-218.html)
+   科技爱好者周刊（第 219 期）：如何防止帐号被黑 [read](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html)
 
    空间优先的 protobuffer / json 解码器 [read](https://blog.codingnow.com/2022/08/memory_compat_protobuffer_json_unmarshaling.html)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 461 期 [read](https://weekly.75.team/issue461.html)
+
    奇舞周刊第 460 期 [read](https://weekly.75.team/issue460.html)
 
    奇舞周刊第 459 期 [read](https://weekly.75.team/issue459.html)
-
-   奇舞周刊第 458 期 [read](https://weekly.75.team/issue458.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -54,11 +54,11 @@ title: "今日资讯"
 
    火山引擎 RTC 音频 AI 降噪的应用与实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/126416564)
 
+   Replication（上）：常见复制模型&分布式系统挑战 [read](https://tech.meituan.com/2022/08/25/replication-in-meituan-01.html)
+
+   Replication（下）：事务，一致性与共识 [read](https://tech.meituan.com/2022/08/25/replication-in-meituan-02.html)
+
    KDD 2022 \| 美团技术团队精选论文解读 [read](https://tech.meituan.com/2022/08/18/acm-sigkdd-2022.html)
-
-   提升资源利用率与保障服务质量，鱼与熊掌不可兼得？ [read](https://tech.meituan.com/2022/08/11/load-auto-regulator.html)
-
-   美团搜索粗排优化的探索与实践 [read](https://tech.meituan.com/2022/08/11/coarse-ranking-exploration-practice.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   想割韭菜，结果反被割？真相是90%的散户都在亏钱 [read](http://www.huxiu.com/article/645013.html?f=wangzhan)
+   殖民贸易风口上的猪是怎么养起来的？ [read](http://www.huxiu.com/article/644442.html?f=wangzhan)
 
-   为什么大家无比怀念2019年？ [read](http://www.huxiu.com/article/644744.html?f=wangzhan)
+   赶上风口的猪，能飞起来吗？ [read](http://www.huxiu.com/article/645498.html?f=wangzhan)
 
-   图森们的“并购式”跑路与谎言 [read](http://www.huxiu.com/article/642162.html?f=wangzhan)
+   9片绿叶拍出12万，潮流绿植如何攻占时尚圈？ [read](http://www.huxiu.com/article/646100.html?f=wangzhan)
 
-   36氪晚报丨比亚迪准备推出起步价百万元的高端新能源汽车品牌；三星SDI计划在欧洲投资2万亿韩元扩产动力电池；字节跳动旗下品牌Pico或将重点发力VR健身 [read](https://36kr.com/p/1886664351633414)
+   氪星晚报丨美团：二季度营收509.4亿元，同比增长16.4%；奔驰美国工厂开始生产EQS SUV；广汽埃安A轮融资挂牌，投后估值或超千亿 [read](https://36kr.com/p/1888083736399874)
 
-   海外new things｜「28」完成320万美元种子轮融资，为女性提供科学的生理教程 [read](https://36kr.com/p/1886476884627463)
+   海外new things｜「Tridge」完成3720万美元D轮融资，为全球的粮食买卖提供在线贸易平台 [read](https://36kr.com/p/1887991340257282)
 
-   鹰瞳Airdoc首席技术官和超：视网膜影像AI的应用与普及 \| 医疗创投新风向大会 [read](https://36kr.com/p/1886423079244041)
+   最前线 \| 众合云科旗下51社保发布《中国企业社保白皮书2022》 [read](https://36kr.com/p/1887956417941762)
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    “推荐系统” 值得一读的五本书 [read](https://www.msra.cn/zh-cn/news/features/book-list-on-recommender-systems)
 
-   半年被盗 20 亿美金，黑客与监管都盯上了 Web3 [read](http://www.geekpark.net/news/306964)
+   游戏收入暴跌 40%，但英伟达其实没那么糟糕 [read](http://www.geekpark.net/news/307151)
 
-   残障人士，到底需要怎样的「机器手」？ [read](http://www.geekpark.net/news/307029)
+   小众民乐，直播间赚到第一桶金 [read](http://www.geekpark.net/news/307111)
 
-   苹果秋季发布会 9 月 8 日凌晨举行；英伟达二季度游戏收入暴跌 30%；老虎基金创始人去世 \| 极客早知道 [read](http://www.geekpark.net/news/307028)
+   推特：马斯克弃购后大量员工离职；比亚迪计划年底推出百万元高端车型；梅根成为 Spotify 头号网红播客 [read](http://www.geekpark.net/news/307104)
 
 ### 金融类
 
-   当前即期运价跌跌不休乱象背后的一些观察与思考 [read](http://xueqiu.com/8611009509/228991717)
+   由洛书大幅回撤想到的关于cta的几个核心问题 [read](http://xueqiu.com/9047540546/229215354)
 
-   长春高新22年中报浅析 [read](http://xueqiu.com/8406529171/229104044)
+   卓识基金调研笔记 [read](http://xueqiu.com/1843647871/229206415)
 
-   10支军工基金测评，今天让你玩明白军工！ [read](http://xueqiu.com/2944053453/229104765)
+   五粮液为什么不行了，只说干货 [read](http://xueqiu.com/6712377439/229133510)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Discord Brand Design System &amp; Guidelines [read](https://www.behance.net/gallery/149619231/Discord-Brand-Design-System-Guidelines)
+   OERA [read](https://www.behance.net/gallery/146066321/OERA)
 
-   RETRO COLLECTION [read](https://www.behance.net/gallery/151144153/RETRO-COLLECTION)
+   ED 22 VI [read](https://www.behance.net/gallery/151176941/ED-22-VI)
 
-   Miro [read](https://www.behance.net/gallery/100428641/Miro)
+   Indeed Brand Book [read](https://www.behance.net/gallery/151208677/Indeed-Brand-Book)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
-   D5 渲染器 2.3 强势更新！50+功能更新和优化直戳用户需求 [read](https://www.uisdc.com/d5-renderer-2022)
+   聚势新生，与美共行！2022 设计趋势分享会探寻“颜值时代”设计新风向 [read](https://www.uisdc.com/modamuri-2022)
 
-   免费开放！人人都能轻松上手的AI绘画工具DreamStudio [read](https://www.uisdc.com/dreamstudio)
+   这12个常用动效方法，很适合用到你的界面里 [read](https://www.uisdc.com/12-dynamic-effect-method)
 
-   灵感合集！有可能替代Dribbble和Behance的15个网站 [read](https://www.uisdc.com/alternatives-to-dribbble-behance)
+   如何写出一份优秀的日/周/月报？我总结了这8个小技巧！ [read](https://www.uisdc.com/design-summary-writing)
 
    W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
