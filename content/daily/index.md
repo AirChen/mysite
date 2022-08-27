@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.PeljesacWind_EN-US5380116190_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MSHV_EN-US5482864526_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   抖音平台多产物代码隔离技术的实践与探索 [read](https://blog.csdn.net/ByteDanceTech/article/details/126552658)
+
    不改一行业务代码，飞书 iOS 低端机启动优化实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/126515795)
 
    数据血缘图谱升级方案设计与实现 [read](https://blog.csdn.net/ByteDanceTech/article/details/126434202)
-
-   火山引擎 RTC 音频 AI 降噪的应用与实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/126416564)
 
    Replication（上）：常见复制模型&分布式系统挑战 [read](https://tech.meituan.com/2022/08/25/replication-in-meituan-01.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   殖民贸易风口上的猪是怎么养起来的？ [read](http://www.huxiu.com/article/644442.html?f=wangzhan)
+   少喝某种饮料可以提高睡眠质量？ [read](http://www.huxiu.com/article/646598.html?f=wangzhan)
 
-   赶上风口的猪，能飞起来吗？ [read](http://www.huxiu.com/article/645498.html?f=wangzhan)
+   苏丹是如何当影帝的？ [read](http://www.huxiu.com/article/646485.html?f=wangzhan)
 
-   9片绿叶拍出12万，潮流绿植如何攻占时尚圈？ [read](http://www.huxiu.com/article/646100.html?f=wangzhan)
+   扭力扳手，咔哒一声发生了什么？ [read](http://www.huxiu.com/article/645651.html?f=wangzhan)
 
-   氪星晚报丨美团：二季度营收509.4亿元，同比增长16.4%；奔驰美国工厂开始生产EQS SUV；广汽埃安A轮融资挂牌，投后估值或超千亿 [read](https://36kr.com/p/1888083736399874)
+   芯驰将向宁德时代供应百万MCU芯片，年底出货量达300万片｜最前线 [read](https://36kr.com/p/1889414007853062)
 
-   海外new things｜「Tridge」完成3720万美元D轮融资，为全球的粮食买卖提供在线贸易平台 [read](https://36kr.com/p/1887991340257282)
+   最前线 \| 三星电视发布2022年多系列新品，搭载全新Tizen智能操作系统 [read](https://36kr.com/p/1888471125283076)
 
-   最前线 \| 众合云科旗下51社保发布《中国企业社保白皮书2022》 [read](https://36kr.com/p/1887956417941762)
+   工作三年后出国读「水硕」，薪资断崖式下降，我后悔了吗？ [read](https://36kr.com/p/1886525734162695)
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    “推荐系统” 值得一读的五本书 [read](https://www.msra.cn/zh-cn/news/features/book-list-on-recommender-systems)
 
+   中美签署审计监管合作协议；美团二季度收入同比增长16.4%；Quest Pro将于10月推出 [read](http://www.geekpark.net/news/307208)
+
    游戏收入暴跌 40%，但英伟达其实没那么糟糕 [read](http://www.geekpark.net/news/307151)
 
    小众民乐，直播间赚到第一桶金 [read](http://www.geekpark.net/news/307111)
 
-   推特：马斯克弃购后大量员工离职；比亚迪计划年底推出百万元高端车型；梅根成为 Spotify 头号网红播客 [read](http://www.geekpark.net/news/307104)
-
 ### 金融类
 
-   由洛书大幅回撤想到的关于cta的几个核心问题 [read](http://xueqiu.com/9047540546/229215354)
+   周期投资概论 [read](http://xueqiu.com/1126842027/229254745)
 
-   卓识基金调研笔记 [read](http://xueqiu.com/1843647871/229206415)
+   别在周期顶点做总结 [read](http://xueqiu.com/1340904670/229273786)
 
-   五粮液为什么不行了，只说干货 [read](http://xueqiu.com/6712377439/229133510)
+   隆基2022年半年报：连城相关信息摘录 [read](http://xueqiu.com/2474212746/229251266)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   OERA [read](https://www.behance.net/gallery/146066321/OERA)
+   Atlético de Madrid: visual identity [read](https://www.behance.net/gallery/83360713/Atltico-de-Madrid-visual-identity)
 
-   ED 22 VI [read](https://www.behance.net/gallery/151176941/ED-22-VI)
+   DAISYWORLD MAG [read](https://www.behance.net/gallery/148771695/DAISYWORLD-MAG)
 
-   Indeed Brand Book [read](https://www.behance.net/gallery/151208677/Indeed-Brand-Book)
+   Rai Rebrand [read](https://www.behance.net/gallery/122393067/Rai-Rebrand)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -146,11 +146,11 @@ title: "今日资讯"
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
-   聚势新生，与美共行！2022 设计趋势分享会探寻“颜值时代”设计新风向 [read](https://www.uisdc.com/modamuri-2022)
+   PPT超全自学指南（14）：进击的版式之Logo页处理和科技风拆解 [read](https://www.uisdc.com/ppt-self-study-method-14)
 
-   这12个常用动效方法，很适合用到你的界面里 [read](https://www.uisdc.com/12-dynamic-effect-method)
+   超过200张插图免费商用，还提供矢量格式的Illustration Kit [read](https://www.uisdc.com/illustration-kit)
 
-   如何写出一份优秀的日/周/月报？我总结了这8个小技巧！ [read](https://www.uisdc.com/design-summary-writing)
+   如何在交互细节中体现专业性？我归纳了4个层次！ [read](https://www.uisdc.com/professional-interaction-details)
 
    W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
