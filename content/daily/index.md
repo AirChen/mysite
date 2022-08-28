@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MSHV_EN-US5482864526_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BeardedTit_EN-US6692547915_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   芯片大战，美国安的什么“芯”？ [read](http://www.huxiu.com/article/646850.html?f=wangzhan)
+
+   苏丹是如何拿捏殖民者的？ [read](http://www.huxiu.com/article/647060.html?f=wangzhan)
+
    少喝某种饮料可以提高睡眠质量？ [read](http://www.huxiu.com/article/646598.html?f=wangzhan)
 
-   苏丹是如何当影帝的？ [read](http://www.huxiu.com/article/646485.html?f=wangzhan)
+   另类张决，与异想天开的蒙牛 [read](https://36kr.com/p/1508279550037769)
 
-   扭力扳手，咔哒一声发生了什么？ [read](http://www.huxiu.com/article/645651.html?f=wangzhan)
+   一个90后不用手机的365天 [read](https://36kr.com/p/1886529871220993)
 
-   芯驰将向宁德时代供应百万MCU芯片，年底出货量达300万片｜最前线 [read](https://36kr.com/p/1889414007853062)
-
-   最前线 \| 三星电视发布2022年多系列新品，搭载全新Tizen智能操作系统 [read](https://36kr.com/p/1888471125283076)
-
-   工作三年后出国读「水硕」，薪资断崖式下降，我后悔了吗？ [read](https://36kr.com/p/1886525734162695)
+   电商主播，转型带货NFT \| 焦点分析 [read](https://36kr.com/p/1884959559412868)
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    “推荐系统” 值得一读的五本书 [read](https://www.msra.cn/zh-cn/news/features/book-list-on-recommender-systems)
 
+   比特币跌破 2 万美元；100多名员工请愿罢免法拉第未来董事长；HBO 确认续订《龙之家族》第二季 [read](http://www.geekpark.net/news/307214)
+
    中美签署审计监管合作协议；美团二季度收入同比增长16.4%；Quest Pro将于10月推出 [read](http://www.geekpark.net/news/307208)
 
    游戏收入暴跌 40%，但英伟达其实没那么糟糕 [read](http://www.geekpark.net/news/307151)
 
-   小众民乐，直播间赚到第一桶金 [read](http://www.geekpark.net/news/307111)
-
 ### 金融类
 
-   周期投资概论 [read](http://xueqiu.com/1126842027/229254745)
+   新锐基金经理韩创和大成新锐产业混合深度测评 [read](http://xueqiu.com/2443086428/229309660)
 
-   别在周期顶点做总结 [read](http://xueqiu.com/1340904670/229273786)
+   一枝独秀——滨江服务2022年半年报解读 [read](http://xueqiu.com/3334715016/229297808)
 
-   隆基2022年半年报：连城相关信息摘录 [read](http://xueqiu.com/2474212746/229251266)
+   战略性看多开启，悲观已成过去式 [read](http://xueqiu.com/1448459094/229309939)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Atlético de Madrid: visual identity [read](https://www.behance.net/gallery/83360713/Atltico-de-Madrid-visual-identity)
+   White Leaf [read](https://www.behance.net/gallery/107377901/White-Leaf)
 
-   DAISYWORLD MAG [read](https://www.behance.net/gallery/148771695/DAISYWORLD-MAG)
+   ???????? [read](https://www.behance.net/gallery/151169611/_)
 
-   Rai Rebrand [read](https://www.behance.net/gallery/122393067/Rai-Rebrand)
+   Xerox PARC / 2022 [read](https://www.behance.net/gallery/146216141/Xerox-PARC-2022)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -145,12 +145,6 @@ title: "今日资讯"
    Nadine Zylstra is Pinterest’s new Global Head of Programming and Originals [read](https://newsroom.pinterest.com/en/post/nadine-zylstra-is-pinterests-new-global-head-of-programming-and-originals)
 
    Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
-
-   PPT超全自学指南（14）：进击的版式之Logo页处理和科技风拆解 [read](https://www.uisdc.com/ppt-self-study-method-14)
-
-   超过200张插图免费商用，还提供矢量格式的Illustration Kit [read](https://www.uisdc.com/illustration-kit)
-
-   如何在交互细节中体现专业性？我归纳了4个层次！ [read](https://www.uisdc.com/professional-interaction-details)
 
    W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
