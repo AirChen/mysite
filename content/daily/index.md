@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BeardedTit_EN-US6692547915_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.EstoniaBaltic_EN-US6923966670_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -54,11 +54,11 @@ title: "今日资讯"
 
    数据血缘图谱升级方案设计与实现 [read](https://blog.csdn.net/ByteDanceTech/article/details/126434202)
 
-   Replication（上）：常见复制模型&分布式系统挑战 [read](https://tech.meituan.com/2022/08/25/replication-in-meituan-01.html)
-
-   Replication（下）：事务，一致性与共识 [read](https://tech.meituan.com/2022/08/25/replication-in-meituan-02.html)
-
    KDD 2022 \| 美团技术团队精选论文解读 [read](https://tech.meituan.com/2022/08/18/acm-sigkdd-2022.html)
+
+   提升资源利用率与保障服务质量，鱼与熊掌不可兼得？ [read](https://tech.meituan.com/2022/08/11/load-auto-regulator.html)
+
+   美团搜索粗排优化的探索与实践 [read](https://tech.meituan.com/2022/08/11/coarse-ranking-exploration-practice.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   芯片大战，美国安的什么“芯”？ [read](http://www.huxiu.com/article/646850.html?f=wangzhan)
+   两“牙”灭明计划之葡萄牙 [read](http://www.huxiu.com/article/647747.html?f=wangzhan)
 
-   苏丹是如何拿捏殖民者的？ [read](http://www.huxiu.com/article/647060.html?f=wangzhan)
+   造车新势力，看不上闲置老产能 [read](http://www.huxiu.com/article/647686.html?f=wangzhan)
 
-   少喝某种饮料可以提高睡眠质量？ [read](http://www.huxiu.com/article/646598.html?f=wangzhan)
+   这家“合资”了中石化的台湾车企，如今走到头了 [read](http://www.huxiu.com/article/644232.html?f=wangzhan)
 
-   另类张决，与异想天开的蒙牛 [read](https://36kr.com/p/1508279550037769)
+   中海地产谈并购：上半年筛选近500个项目 ｜ 财报时氪 [read](https://36kr.com/p/1892356022030340)
 
-   一个90后不用手机的365天 [read](https://36kr.com/p/1886529871220993)
+   医院检验科背后的“大厂”��为何发力数字化建设？ [read](https://36kr.com/p/1892354238140677)
 
-   电商主播，转型带货NFT \| 焦点分析 [read](https://36kr.com/p/1884959559412868)
+   海外new things｜「ModernLoop」完成900万美元A轮融资，提供更好的远程招聘服务 [read](https://36kr.com/p/1885122763337090)
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    “推荐系统” 值得一读的五本书 [read](https://www.msra.cn/zh-cn/news/features/book-list-on-recommender-systems)
 
+   2050年，我们需要500万机器人摘水果 [read](http://www.geekpark.net/news/307311)
+
+   苹果 AR 眼镜或叫 Reality One；华为 Mate 50 预约超百万；戴安娜王妃座驾拍出 65 万英镑 \| 极客早知道 [read](http://www.geekpark.net/news/307218)
+
    比特币跌破 2 万美元；100多名员工请愿罢免法拉第未来董事长；HBO 确认续订《龙之家族》第二季 [read](http://www.geekpark.net/news/307214)
-
-   中美签署审计监管合作协议；美团二季度收入同比增长16.4%；Quest Pro将于10月推出 [read](http://www.geekpark.net/news/307208)
-
-   游戏收入暴跌 40%，但英伟达其实没那么糟糕 [read](http://www.geekpark.net/news/307151)
 
 ### 金融类
 
-   新锐基金经理韩创和大成新锐产业混合深度测评 [read](http://xueqiu.com/2443086428/229309660)
+   美团Q2财报点评：竞争格局和估值分析（上） [read](http://xueqiu.com/7447448349/229348311)
 
-   一枝独秀——滨江服务2022年半年报解读 [read](http://xueqiu.com/3334715016/229297808)
+   宝藏经理，年化收益率23.8%的王创练 [read](http://xueqiu.com/8687456694/229424271)
 
-   战略性看多开启，悲观已成过去式 [read](http://xueqiu.com/1448459094/229309939)
+   宽信用与赛道炒作逻辑 [read](http://xueqiu.com/2042982853/229365433)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   White Leaf [read](https://www.behance.net/gallery/107377901/White-Leaf)
+   Symbiosis [read](https://www.behance.net/gallery/151428831/Symbiosis)
 
-   ???????? [read](https://www.behance.net/gallery/151169611/_)
+   los logos vol 3 [read](https://www.behance.net/gallery/151422335/los-logos-vol-3)
 
-   Xerox PARC / 2022 [read](https://www.behance.net/gallery/146216141/Xerox-PARC-2022)
+   Portraits of Anger [read](https://www.behance.net/gallery/151184599/Portraits-of-Anger)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
