@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.EstoniaBaltic_EN-US6923966670_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Migliarino_EN-US6999892958_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,37 +68,37 @@ title: "今日资讯"
 
 ### 互联网类
 
-   两“牙”灭明计划之葡萄牙 [read](http://www.huxiu.com/article/647747.html?f=wangzhan)
+   两“牙”灭明计划之西班牙 [read](http://www.huxiu.com/article/648426.html?f=wangzhan)
 
-   造车新势力，看不上闲置老产能 [read](http://www.huxiu.com/article/647686.html?f=wangzhan)
+   充电排队，插混真香？ [read](http://www.huxiu.com/article/649068.html?f=wangzhan)
 
-   这家“合资”了中石化的台湾车企，如今走到头了 [read](http://www.huxiu.com/article/644232.html?f=wangzhan)
+   手机公司的终极梦想，不该是造车 [read](http://www.huxiu.com/article/649077.html?f=wangzhan)
 
-   中海地产谈并购：上半年筛选近500个项目 ｜ 财报时氪 [read](https://36kr.com/p/1892356022030340)
+   氪星晚报丨知乎CEO周源：已与权威媒体开展常态化合作；呷哺呷哺：下半年将加速扩张，计划新增门店100家；理想L9正式开启用户交付 [read](https://36kr.com/p/1893823470703362)
 
-   医院检验科背后的“大厂”��为何发力数字化建设？ [read](https://36kr.com/p/1892354238140677)
+   旭辉林中：合作项目不做超额担保和兜底 ｜ 财报时氪 [read](https://36kr.com/p/1893806633751044)
 
-   海外new things｜「ModernLoop」完成900万美元A轮融资，提供更好的远程招聘服务 [read](https://36kr.com/p/1885122763337090)
+   海外new things｜「Mermade Seafoods」完成330万美元种子轮融资，用细胞培育技术量产扇贝 [read](https://36kr.com/p/1893667742781957)
+
+   通用多模态基础模型BEiT-3：引领文本、图像、多模态预训练迈向“大一统” [read](https://www.msra.cn/zh-cn/news/features/beit-3)
+
+   邓攀的“贪心”算法：从生物跨界到计算机是什么体验？ [read](https://www.msra.cn/zh-cn/news/features/ada-workshop-pan-deng)
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
-   AI、机器学习在材料科学研究中能发挥哪些作用？ [read](https://www.msra.cn/zh-cn/news/features/tie-yan-liu-linwang-wang)
+   消费反弹，拼多多大涨 [read](http://www.geekpark.net/news/307383)
 
-   “推荐系统” 值得一读的五本书 [read](https://www.msra.cn/zh-cn/news/features/book-list-on-recommender-systems)
+   人类，离「阿凡达」还有多远？ [read](http://www.geekpark.net/news/307319)
 
-   2050年，我们需要500万机器人摘水果 [read](http://www.geekpark.net/news/307311)
-
-   苹果 AR 眼镜或叫 Reality One；华为 Mate 50 预约超百万；戴安娜王妃座驾拍出 65 万英镑 \| 极客早知道 [read](http://www.geekpark.net/news/307218)
-
-   比特币跌破 2 万美元；100多名员工请愿罢免法拉第未来董事长；HBO 确认续订《龙之家族》第二季 [read](http://www.geekpark.net/news/307214)
+   燃料泄露，NASA 新登月火箭推迟发射；比亚迪净利上半年猛增 200%；中国占世界新能源车份额升至 68% [read](http://www.geekpark.net/news/307316)
 
 ### 金融类
 
-   美团Q2财报点评：竞争格局和估值分析（上） [read](http://xueqiu.com/7447448349/229348311)
+   伊利2022年中期业绩点评 [read](http://xueqiu.com/1929796343/229552757)
 
-   宝藏经理，年化收益率23.8%的王创练 [read](http://xueqiu.com/8687456694/229424271)
+   22年中报看医药产业趋势（药店） [read](http://xueqiu.com/4777061674/229462504)
 
-   宽信用与赛道炒作逻辑 [read](http://xueqiu.com/2042982853/229365433)
+   从晶澳看光伏股3年投资变化 [read](http://xueqiu.com/5171326205/229441958)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Symbiosis [read](https://www.behance.net/gallery/151428831/Symbiosis)
+   Initiall - Naming &amp; brand identity [read](https://www.behance.net/gallery/151520877/Initiall-Naming-brand-identity)
 
-   los logos vol 3 [read](https://www.behance.net/gallery/151422335/los-logos-vol-3)
+   BMW [read](https://www.behance.net/gallery/151057937/BMW)
 
-   Portraits of Anger [read](https://www.behance.net/gallery/151184599/Portraits-of-Anger)
+   Mentoria Banregio [read](https://www.behance.net/gallery/151359983/Mentoria-Banregio)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
