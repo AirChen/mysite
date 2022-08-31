@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Migliarino_EN-US6999892958_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BlueLinckia_EN-US7078787133_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   春节活动 - 高峰值奖励发放技术方案 [read](https://blog.csdn.net/ByteDanceTech/article/details/126615855)
+
    抖音平台多产物代码隔离技术的实践与探索 [read](https://blog.csdn.net/ByteDanceTech/article/details/126552658)
 
    不改一行业务代码，飞书 iOS 低端机启动优化实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/126515795)
-
-   数据血缘图谱升级方案设计与实现 [read](https://blog.csdn.net/ByteDanceTech/article/details/126434202)
 
    KDD 2022 \| 美团技术团队精选论文解读 [read](https://tech.meituan.com/2022/08/18/acm-sigkdd-2022.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   两“牙”灭明计划之西班牙 [read](http://www.huxiu.com/article/648426.html?f=wangzhan)
+   防弹玻璃，为何能防弹？ [read](http://www.huxiu.com/article/649928.html?f=wangzhan)
 
-   充电排队，插混真香？ [read](http://www.huxiu.com/article/649068.html?f=wangzhan)
+   华为卖车，这2个问题待解 [read](http://www.huxiu.com/article/649817.html?f=wangzhan)
 
-   手机公司的终极梦想，不该是造车 [read](http://www.huxiu.com/article/649077.html?f=wangzhan)
+   荷兰宣布“性交易”合法化，22年过去发展如何？ [read](http://www.huxiu.com/article/649434.html?f=wangzhan)
 
-   氪星晚报丨知乎CEO周源：已与权威媒体开展常态化合作；呷哺呷哺：下半年将加速扩张，计划新增门店100家；理想L9正式开启用户交付 [read](https://36kr.com/p/1893823470703362)
+   36氪专访 \| 云鲸智能阎乐：新品发布，J3小鲸灵背后的创新力 [read](https://36kr.com/p/1895142068065026)
 
-   旭辉林中：合作项目不做超额担保和兜底 ｜ 财报时氪 [read](https://36kr.com/p/1893806633751044)
+   重回前三的保利发展 结算利润率仍有下行压力 \| 财报时氪 [read](https://36kr.com/p/1895131849134596)
 
-   海外new things｜「Mermade Seafoods」完成330万美元种子轮融资，用细胞培育技术量产扇贝 [read](https://36kr.com/p/1893667742781957)
+   布局宫颈癌筛查，「耀华医疗」宫颈癌变检测仪预计明年获批 [read](https://36kr.com/p/1891124501598214)
 
    通用多模态基础模型BEiT-3：引领文本、图像、多模态预训练迈向“大一统” [read](https://www.msra.cn/zh-cn/news/features/beit-3)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
-   消费反弹，拼多多大涨 [read](http://www.geekpark.net/news/307383)
+   一天卖出 1200 万，AR 眼镜怎么就「火」了？ [read](http://www.geekpark.net/news/307457)
 
-   人类，离「阿凡达」还有多远？ [read](http://www.geekpark.net/news/307319)
+   潘塔纳尔，是一件很难的正经事 [read](http://www.geekpark.net/news/307367)
 
-   燃料泄露，NASA 新登月火箭推迟发射；比亚迪净利上半年猛增 200%；中国占世界新能源车份额升至 68% [read](http://www.geekpark.net/news/307316)
+   马斯克正式发函，终止收购推特；李彦宏发内部信：困难时期保持信心；日本「经营之圣」稻盛和夫逝世，终年 90 岁 [read](http://www.geekpark.net/news/307388)
 
 ### 金融类
 
-   伊利2022年中期业绩点评 [read](http://xueqiu.com/1929796343/229552757)
+   量入为出，行稳致远——万科2022年中报点评 [read](http://xueqiu.com/2301623438/229680190)
 
-   22年中报看医药产业趋势（药店） [read](http://xueqiu.com/4777061674/229462504)
+   高端白酒的需求空间 [read](http://xueqiu.com/3552430478/229659651)
 
-   从晶澳看光伏股3年投资变化 [read](http://xueqiu.com/5171326205/229441958)
+   巴菲特教你做价投 [read](http://xueqiu.com/3260327054/229624029)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Initiall - Naming &amp; brand identity [read](https://www.behance.net/gallery/151520877/Initiall-Naming-brand-identity)
+   Week 34 - Daily Renders 2022 [read](https://www.behance.net/gallery/150940939/Week-34-Daily-Renders-2022)
 
-   BMW [read](https://www.behance.net/gallery/151057937/BMW)
+   Deia's Visual Identity [read](https://www.behance.net/gallery/149579891/Deias-Visual-Identity)
 
-   Mentoria Banregio [read](https://www.behance.net/gallery/151359983/Mentoria-Banregio)
+   Characters vol.2 [read](https://www.behance.net/gallery/144941587/Characters-vol2)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
