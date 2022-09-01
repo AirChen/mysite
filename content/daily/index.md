@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BlueLinckia_EN-US7078787133_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WildlifeCrossing_EN-US7691052130_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -54,11 +54,11 @@ title: "今日资讯"
 
    不改一行业务代码，飞书 iOS 低端机启动优化实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/126515795)
 
+   Replication（上）：常见复制模型&分布式系统挑战 [read](https://tech.meituan.com/2022/08/25/replication-in-meituan-01.html)
+
+   Replication（下）：事务，一致性与共识 [read](https://tech.meituan.com/2022/08/25/replication-in-meituan-02.html)
+
    KDD 2022 \| 美团技术团队精选论文解读 [read](https://tech.meituan.com/2022/08/18/acm-sigkdd-2022.html)
-
-   提升资源利用率与保障服务质量，鱼与熊掌不可兼得？ [read](https://tech.meituan.com/2022/08/11/load-auto-regulator.html)
-
-   美团搜索粗排优化的探索与实践 [read](https://tech.meituan.com/2022/08/11/coarse-ranking-exploration-practice.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   防弹玻璃，为何能防弹？ [read](http://www.huxiu.com/article/649928.html?f=wangzhan)
+   互联网大厂与传统能源公司“双向奔赴” [read](http://www.huxiu.com/article/650944.html?f=wangzhan)
 
-   华为卖车，这2个问题待解 [read](http://www.huxiu.com/article/649817.html?f=wangzhan)
+   在美国能放手的辅助驾驶，在中国好用吗？ [read](http://www.huxiu.com/article/650055.html?f=wangzhan)
 
-   荷兰宣布“性交易”合法化，22年过去发展如何？ [read](http://www.huxiu.com/article/649434.html?f=wangzhan)
+   中国人对电动小车的偏见，该改改了 [read](http://www.huxiu.com/article/641943.html?f=wangzhan)
 
-   36氪专访 \| 云鲸智能阎乐：新品发布，J3小鲸灵背后的创新力 [read](https://36kr.com/p/1895142068065026)
+   最前线丨上海将建设全国“氢交易所”，氢能碳减排探索市场化交易机制 [read](https://36kr.com/p/1888152373170185)
 
-   重回前三的保利发展 结算利润率仍有下行压力 \| 财报时氪 [read](https://36kr.com/p/1895131849134596)
+   最前线丨华为轮值董事长胡厚崑：推进算力网络建设，让算力中心从点走向面 [read](https://36kr.com/p/1896566059837826)
 
-   布局宫颈癌筛查，「耀华医疗」宫颈癌变检测仪预计明年获批 [read](https://36kr.com/p/1891124501598214)
+   氪星晚报｜腾讯2亿成立企业管理新公司，马化腾为法定代表人；Meta成立新团队：Facebook和Instagram将发力付费功能 [read](https://36kr.com/p/1896603145202050)
 
    通用多模态基础模型BEiT-3：引领文本、图像、多模态预训练迈向“大一统” [read](https://www.msra.cn/zh-cn/news/features/beit-3)
 
@@ -86,33 +86,33 @@ title: "今日资讯"
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
+   爱奇艺这盘「死棋」，快要走「活」了？ [read](http://www.geekpark.net/news/307492)
+
+   中国网民达 10.51 亿，92% 刷短视频；软银愿景基金 CEO 辞职；腾讯入股「魂系列」游戏开发公司 [read](http://www.geekpark.net/news/307458)
+
    一天卖出 1200 万，AR 眼镜怎么就「火」了？ [read](http://www.geekpark.net/news/307457)
-
-   潘塔纳尔，是一件很难的正经事 [read](http://www.geekpark.net/news/307367)
-
-   马斯克正式发函，终止收购推特；李彦宏发内部信：困难时期保持信心；日本「经营之圣」稻盛和夫逝世，终年 90 岁 [read](http://www.geekpark.net/news/307388)
 
 ### 金融类
 
-   量入为出，行稳致远——万科2022年中报点评 [read](http://xueqiu.com/2301623438/229680190)
+   投资煤炭股的那些事 [read](http://xueqiu.com/1424416453/229439792)
 
-   高端白酒的需求空间 [read](http://xueqiu.com/3552430478/229659651)
+   谈一谈股市投资的正确投资逻辑 [read](http://xueqiu.com/4798085761/229788928)
 
-   巴菲特教你做价投 [read](http://xueqiu.com/3260327054/229624029)
+   老司基硬核测评——12只金牛奖基金邀你来测评！ [read](http://xueqiu.com/8152922548/229788749)
 
 ### 学习类
+
+   💻 Issue 323 - Toward fearless `cargo update` [read](https://rust.libhunt.com/newsletter/323)
 
    💻 Issue 322 - Pinecone: Rust -- A hard decision pays off [read](https://rust.libhunt.com/newsletter/322)
 
    💻 Issue 321 - Rust in Perspective [read](https://rust.libhunt.com/newsletter/321)
 
-   💻 Issue 320 - Non-lexical lifetimes (NLL) fully stable \| Rust Blog [read](https://rust.libhunt.com/newsletter/320)
+   This Week in Rust 458 [read](https://this-week-in-rust.org/blog/2022/08/31/this-week-in-rust-458/)
 
    This Week in Rust 457 [read](https://this-week-in-rust.org/blog/2022/08/24/this-week-in-rust-457/)
 
    This Week in Rust 456 [read](https://this-week-in-rust.org/blog/2022/08/17/this-week-in-rust-456/)
-
-   This Week in Rust 455 [read](https://this-week-in-rust.org/blog/2022/08/10/this-week-in-rust-455/)
 
    ETCD的内存问题 [read](https://coolshell.cn/articles/22242.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Week 34 - Daily Renders 2022 [read](https://www.behance.net/gallery/150940939/Week-34-Daily-Renders-2022)
+   Personal Illustration Archive 5 [read](https://www.behance.net/gallery/148746725/Personal-Illustration-Archive-5)
 
-   Deia's Visual Identity [read](https://www.behance.net/gallery/149579891/Deias-Visual-Identity)
+   CUKOVY rebranding / 2021 [read](https://www.behance.net/gallery/151577469/CUKOVY-rebranding-2021)
 
-   Characters vol.2 [read](https://www.behance.net/gallery/144941587/Characters-vol2)
+   Moleskine sketchbook 40 [read](https://www.behance.net/gallery/151625063/Moleskine-sketchbook-40)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
