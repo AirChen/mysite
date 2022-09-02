@@ -2,19 +2,19 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WildlifeCrossing_EN-US7691052130_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SeitanLimania_EN-US5452823219_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
+   科技爱好者周刊（第 221 期）：全世界最繁荣的行业 [read](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-221.html)
+
    科技爱好者周刊（第 220 期）：人工智能的机会在哪里 [read](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html)
 
-   科技爱好者周刊（第 219 期）：如何防止帐号被黑 [read](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html)
+   路网中路径的储存 [read](https://blog.codingnow.com/2022/09/routemap.html)
 
    空间优先的 protobuffer / json 解码器 [read](https://blog.codingnow.com/2022/08/memory_compat_protobuffer_json_unmarshaling.html)
 
    为 luaecs 增加内置 64bit ID [read](https://blog.codingnow.com/2022/08/luaecs_eid.html)
-
-   RmlUI 的 style 缓存 [read](https://blog.codingnow.com/2022/07/rmlui_style_cache.html)
 
    为了老婆的乐队梦, 我做了一个弹钢琴的机器人 [read](https://blog.t9t.io/modsoul-2022-07-29/)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 462 期 [read](https://weekly.75.team/issue462.html)
+
    奇舞周刊第 461 期 [read](https://weekly.75.team/issue461.html)
 
    奇舞周刊第 460 期 [read](https://weekly.75.team/issue460.html)
-
-   奇舞周刊第 459 期 [read](https://weekly.75.team/issue459.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -54,11 +54,11 @@ title: "今日资讯"
 
    不改一行业务代码，飞书 iOS 低端机启动优化实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/126515795)
 
+   基于AI算法的数据库异常监测系统的设计与实现 [read](https://tech.meituan.com/2022/09/01/database-monitoring-based-on-ai.html)
+
    Replication（上）：常见复制模型&分布式系统挑战 [read](https://tech.meituan.com/2022/08/25/replication-in-meituan-01.html)
 
    Replication（下）：事务，一致性与共识 [read](https://tech.meituan.com/2022/08/25/replication-in-meituan-02.html)
-
-   KDD 2022 \| 美团技术团队精选论文解读 [read](https://tech.meituan.com/2022/08/18/acm-sigkdd-2022.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   互联网大厂与传统能源公司“双向奔赴” [read](http://www.huxiu.com/article/650944.html?f=wangzhan)
+   音乐节门票涨到4位数，到底是我的孽还是我的福？ [read](http://www.huxiu.com/article/652078.html?f=wangzhan)
 
-   在美国能放手的辅助驾驶，在中国好用吗？ [read](http://www.huxiu.com/article/650055.html?f=wangzhan)
+   开40家网红店年销5700亿美元，沃尔玛究竟有多赚钱？ [read](http://www.huxiu.com/article/651866.html?f=wangzhan)
 
-   中国人对电动小车的偏见，该改改了 [read](http://www.huxiu.com/article/641943.html?f=wangzhan)
+   桂桂茶创始人郑志禹：勇敢，但不鲁莽 [read](http://www.huxiu.com/article/651058.html?f=wangzhan)
 
-   最前线丨上海将建设全国“氢交易所”，氢能碳减排探索市场化交易机制 [read](https://36kr.com/p/1888152373170185)
+   直击WAIC 2022｜旷视唐文斌：AI落到产业，技术、硬件与空间三者缺一不可 [read](https://36kr.com/p/1897893831993473)
 
-   最前线丨华为轮值董事长胡厚崑：推进算力网络建设，让算力中心从点走向面 [read](https://36kr.com/p/1896566059837826)
+   CEO锦囊Vol.13丨新规来临，企业出海如何做好跨境数据安全与合规？ [read](https://36kr.com/p/1897886972995717)
 
-   氪星晚报｜腾讯2亿成立企业管理新公司，马化腾为法定代表人；Meta成立新团队：Facebook和Instagram将发力付费功能 [read](https://36kr.com/p/1896603145202050)
+   科氪 \| ColorOS 13正式发布：全新“水生万物”理念，开启全面流畅和智慧互融新体验 [read](https://36kr.com/p/1897849975122307)
 
    通用多模态基础模型BEiT-3：引领文本、图像、多模态预训练迈向“大一统” [read](https://www.msra.cn/zh-cn/news/features/beit-3)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
+   科技公司投身农业，是一种必然 [read](http://www.geekpark.net/news/307654)
+
+   传腾讯将减持 1000 亿元股票投资；小米推烹饪机器人，能做数百道菜；《武林外传》官宣「恢复营业」 \| 极客早知道 [read](http://www.geekpark.net/news/307551)
+
    爱奇艺这盘「死棋」，快要走「活」了？ [read](http://www.geekpark.net/news/307492)
-
-   中国网民达 10.51 亿，92% 刷短视频；软银愿景基金 CEO 辞职；腾讯入股「魂系列」游戏开发公司 [read](http://www.geekpark.net/news/307458)
-
-   一天卖出 1200 万，AR 眼镜怎么就「火」了？ [read](http://www.geekpark.net/news/307457)
 
 ### 金融类
 
-   投资煤炭股的那些事 [read](http://xueqiu.com/1424416453/229439792)
+   2022年上半年全球大药企核心产品管线进展总览 [read](http://xueqiu.com/1335311504/229702943)
 
-   谈一谈股市投资的正确投资逻辑 [read](http://xueqiu.com/4798085761/229788928)
+   如何看待陕煤进军光伏——从曹操创业看内卷 [read](http://xueqiu.com/6247460865/229806285)
 
-   老司基硬核测评——12只金牛奖基金邀你来测评！ [read](http://xueqiu.com/8152922548/229788749)
+   从平均股价观察市场位置 [read](http://xueqiu.com/9222280625/229865069)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Personal Illustration Archive 5 [read](https://www.behance.net/gallery/148746725/Personal-Illustration-Archive-5)
+   Hermes Seasons [read](https://www.behance.net/gallery/151716097/Hermes-Seasons)
 
-   CUKOVY rebranding / 2021 [read](https://www.behance.net/gallery/151577469/CUKOVY-rebranding-2021)
+   SCHOTTIS [read](https://www.behance.net/gallery/151704547/SCHOTTIS)
 
-   Moleskine sketchbook 40 [read](https://www.behance.net/gallery/151625063/Moleskine-sketchbook-40)
+   IN MY ROOM [read](https://www.behance.net/gallery/151676303/IN-MY-ROOM)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
