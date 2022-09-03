@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SeitanLimania_EN-US5452823219_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MalaysiaTwinTowers_EN-US7848703415_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   飞书 Android 升级 JDK 11 引发的 CI 构建性能问题 [read](https://blog.csdn.net/ByteDanceTech/article/details/126672639)
+
    春节活动 - 高峰值奖励发放技术方案 [read](https://blog.csdn.net/ByteDanceTech/article/details/126615855)
 
    抖音平台多产物代码隔离技术的实践与探索 [read](https://blog.csdn.net/ByteDanceTech/article/details/126552658)
-
-   不改一行业务代码，飞书 iOS 低端机启动优化实践 [read](https://blog.csdn.net/ByteDanceTech/article/details/126515795)
 
    基于AI算法的数据库异常监测系统的设计与实现 [read](https://tech.meituan.com/2022/09/01/database-monitoring-based-on-ai.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   为什么现在手机放到音箱边，不会发出干扰声了呢？ [read](http://www.huxiu.com/article/652373.html?f=wangzhan)
+
+   理想和小鹏，被自家新车坑惨了 [read](http://www.huxiu.com/article/651234.html?f=wangzhan)
+
    音乐节门票涨到4位数，到底是我的孽还是我的福？ [read](http://www.huxiu.com/article/652078.html?f=wangzhan)
 
-   开40家网红店年销5700亿美元，沃尔玛究竟有多赚钱？ [read](http://www.huxiu.com/article/651866.html?f=wangzhan)
+   瑞幸之后，Tims中国能否讲出新故事？｜氪金 · 大消费 [read](https://36kr.com/p/1898983450831240)
 
-   桂桂茶创始人郑志禹：勇敢，但不鲁莽 [read](http://www.huxiu.com/article/651058.html?f=wangzhan)
+   快手上线虚拟演播助手，加速直播间元宇宙转型 \| 最前线 [read](https://36kr.com/p/1897823246002568)
 
-   直击WAIC 2022｜旷视唐文斌：AI落到产业，技术、硬件与空间三者缺一不可 [read](https://36kr.com/p/1897893831993473)
-
-   CEO锦囊Vol.13丨新规来临，企业出海如何做好跨境数据安全与合规？ [read](https://36kr.com/p/1897886972995717)
-
-   科氪 \| ColorOS 13正式发布：全新“水生万物”理念，开启全面流畅和智慧互融新体验 [read](https://36kr.com/p/1897849975122307)
+   36氪独家｜SHEIN上半年GMV猛增至160亿美金，即将与拼多多正面硬刚 [read](https://36kr.com/p/1894981129277957)
 
    通用多模态基础模型BEiT-3：引领文本、图像、多模态预训练迈向“大一统” [read](https://www.msra.cn/zh-cn/news/features/beit-3)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
+   小米首款汽车定价或超 30 万元；华为 Mate 50 支持卫星通信；微信输入法开启测试 [read](http://www.geekpark.net/news/307674)
+
    科技公司投身农业，是一种必然 [read](http://www.geekpark.net/news/307654)
 
    传腾讯将减持 1000 亿元股票投资；小米推烹饪机器人，能做数百道菜；《武林外传》官宣「恢复营业」 \| 极客早知道 [read](http://www.geekpark.net/news/307551)
 
-   爱奇艺这盘「死棋」，快要走「活」了？ [read](http://www.geekpark.net/news/307492)
-
 ### 金融类
 
-   2022年上半年全球大药企核心产品管线进展总览 [read](http://xueqiu.com/1335311504/229702943)
+   “学习型”基金经理的自我实现 [read](http://xueqiu.com/2418218571/229883741)
 
-   如何看待陕煤进军光伏——从曹操创业看内卷 [read](http://xueqiu.com/6247460865/229806285)
+   与君周末谈20220903厚积薄发 [read](http://xueqiu.com/8258019402/229931601)
 
-   从平均股价观察市场位置 [read](http://xueqiu.com/9222280625/229865069)
+   关于兴业银行的几点零星思考 [read](http://xueqiu.com/7825381909/229895625)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Hermes Seasons [read](https://www.behance.net/gallery/151716097/Hermes-Seasons)
+   Musicians Vol. 3 [read](https://www.behance.net/gallery/151765815/Musicians-Vol-3)
 
-   SCHOTTIS [read](https://www.behance.net/gallery/151704547/SCHOTTIS)
+   LE SSERAFIM Brand Identity &amp; Album Design [read](https://www.behance.net/gallery/149404331/LE-SSERAFIM-Brand-Identity-Album-Design)
 
-   IN MY ROOM [read](https://www.behance.net/gallery/151676303/IN-MY-ROOM)
+   Illustrations for the Tales of the Mother of Death [read](https://www.behance.net/gallery/151599481/Illustrations-for-the-Tales-of-the-Mother-of-Death)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
