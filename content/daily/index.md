@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MalaysiaTwinTowers_EN-US7848703415_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ArambolBeach_EN-US7908449198_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -22,11 +22,11 @@ title: "今日资讯"
 
    通过 GitHub 订阅 Hacker News 每日 top 10 [read](https://blog.t9t.io/headllines-2020-09-03/)
 
+   货拉拉 Android 模块化路由框架：TheRouter [read](https://www.kymjs.com/code/2022/09/04/01)
+
    菲律宾这国家到底怎么回事 [read](https://www.kymjs.com/history/2022/05/11/01)
 
    印度的穆斯林王朝——德里苏丹 [read](https://www.kymjs.com/pay/history/2022/05/08/01)
-
-   学历史有什么用 [read](https://www.kymjs.com/history/2022/05/04/01)
 
 ### IT团队博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   消费主义激荡百年：我们究竟是怎么被“掠夺”的？ [read](http://www.huxiu.com/article/651920.html?f=wangzhan)
+
    为什么现在手机放到音箱边，不会发出干扰声了呢？ [read](http://www.huxiu.com/article/652373.html?f=wangzhan)
 
    理想和小鹏，被自家新车坑惨了 [read](http://www.huxiu.com/article/651234.html?f=wangzhan)
 
-   音乐节门票涨到4位数，到底是我的孽还是我的福？ [read](http://www.huxiu.com/article/652078.html?f=wangzhan)
+   医疗健康行业周报 \|「德默特」获近亿元Pre-A轮融资；商业健康险如何走出困境？ [read](https://36kr.com/p/1900616726259848)
 
    瑞幸之后，Tims中国能否讲出新故事？｜氪金 · 大消费 [read](https://36kr.com/p/1898983450831240)
 
    快手上线虚拟演播助手，加速直播间元宇宙转型 \| 最前线 [read](https://36kr.com/p/1897823246002568)
-
-   36氪独家｜SHEIN上半年GMV猛增至160亿美金，即将与拼多多正面硬刚 [read](https://36kr.com/p/1894981129277957)
 
    通用多模态基础模型BEiT-3：引领文本、图像、多模态预训练迈向“大一统” [read](https://www.msra.cn/zh-cn/news/features/beit-3)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
+   我去了中国最大的 Web3 聚会，发现人们想要的不是 Web3 [read](http://www.geekpark.net/news/307672)
+
+   微软 AR 战术眼镜正式交付美军；国产「太阳能飞机」首飞成功；《指环王》美剧被批「审美降级」，口碑下降 [read](http://www.geekpark.net/news/307685)
+
    小米首款汽车定价或超 30 万元；华为 Mate 50 支持卫星通信；微信输入法开启测试 [read](http://www.geekpark.net/news/307674)
-
-   科技公司投身农业，是一种必然 [read](http://www.geekpark.net/news/307654)
-
-   传腾讯将减持 1000 亿元股票投资；小米推烹饪机器人，能做数百道菜；《武林外传》官宣「恢复营业」 \| 极客早知道 [read](http://www.geekpark.net/news/307551)
 
 ### 金融类
 
-   “学习型”基金经理的自我实现 [read](http://xueqiu.com/2418218571/229883741)
+   如何抓住“涨价行情”的三波上涨 [read](http://xueqiu.com/9277793488/229965796)
 
-   与君周末谈20220903厚积薄发 [read](http://xueqiu.com/8258019402/229931601)
+   金牛基金经理杜洋和工银战略转型深度测评 [read](http://xueqiu.com/2443086428/229965634)
 
-   关于兴业银行的几点零星思考 [read](http://xueqiu.com/7825381909/229895625)
+   中国银行业不同区域与行业的信贷资产质量与配置策略分析 [read](http://xueqiu.com/7297620365/229938341)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Musicians Vol. 3 [read](https://www.behance.net/gallery/151765815/Musicians-Vol-3)
+   Huspy ? ? Branding [read](https://www.behance.net/gallery/151436405/Huspy-Branding)
 
-   LE SSERAFIM Brand Identity &amp; Album Design [read](https://www.behance.net/gallery/149404331/LE-SSERAFIM-Brand-Identity-Album-Design)
+   WARSAW NATURE [read](https://www.behance.net/gallery/151887085/WARSAW-NATURE)
 
-   Illustrations for the Tales of the Mother of Death [read](https://www.behance.net/gallery/151599481/Illustrations-for-the-Tales-of-the-Mother-of-Death)
+   The Other Art Fair [read](https://www.behance.net/gallery/150068009/The-Other-Art-Fair)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
