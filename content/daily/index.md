@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ArambolBeach_EN-US7908449198_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GastoniaParade_EN-US8873564493_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -22,11 +22,11 @@ title: "今日资讯"
 
    通过 GitHub 订阅 Hacker News 每日 top 10 [read](https://blog.t9t.io/headllines-2020-09-03/)
 
+   没错，TheRouter 是我写的 [read](https://www.kymjs.com/code/2022/09/05/01)
+
    货拉拉 Android 模块化路由框架：TheRouter [read](https://www.kymjs.com/code/2022/09/04/01)
 
    菲律宾这国家到底怎么回事 [read](https://www.kymjs.com/history/2022/05/11/01)
-
-   印度的穆斯林王朝——德里苏丹 [read](https://www.kymjs.com/pay/history/2022/05/08/01)
 
 ### IT团队博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   消费主义激荡百年：我们究竟是怎么被“掠夺”的？ [read](http://www.huxiu.com/article/651920.html?f=wangzhan)
+   OPPO 车机体验：一些有趣的新尝试 [read](http://www.huxiu.com/article/653933.html?f=wangzhan)
 
-   为什么现在手机放到音箱边，不会发出干扰声了呢？ [read](http://www.huxiu.com/article/652373.html?f=wangzhan)
+   干掉宝马之前，蔚来决定先干掉自己 [read](http://www.huxiu.com/article/653418.html?f=wangzhan)
 
-   理想和小鹏，被自家新车坑惨了 [read](http://www.huxiu.com/article/651234.html?f=wangzhan)
+   电价飙涨1000%，欧洲将如何自救？ [read](http://www.huxiu.com/article/653660.html?f=wangzhan)
 
-   医疗健康行业周报 \|「德默特」获近亿元Pre-A轮融资；商业健康险如何走出困境？ [read](https://36kr.com/p/1900616726259848)
+   【地方站】合作案例 [read](https://36kr.com/p/1902257160759428)
 
-   瑞幸之后，Tims中国能否讲出新故事？｜氪金 · 大消费 [read](https://36kr.com/p/1898983450831240)
+   【调研报告】合作案例 [read](https://36kr.com/p/1902251726563719)
 
-   快手上线虚拟演播助手，加速直播间元宇宙转型 \| 最前线 [read](https://36kr.com/p/1897823246002568)
+   【短视频制作】合作案例 [read](https://36kr.com/p/1902239676066176)
 
    通用多模态基础模型BEiT-3：引领文本、图像、多模态预训练迈向“大一统” [read](https://www.msra.cn/zh-cn/news/features/beit-3)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
+   中国无人机物流发展简史 [read](http://www.geekpark.net/news/307745)
+
+   NASA：下周再决定新一代登月火箭发射时间；抖音上线 Mac 客户端；《艾尔登法环》推出搞笑衍生漫画 [read](http://www.geekpark.net/news/307695)
+
    我去了中国最大的 Web3 聚会，发现人们想要的不是 Web3 [read](http://www.geekpark.net/news/307672)
-
-   微软 AR 战术眼镜正式交付美军；国产「太阳能飞机」首飞成功；《指环王》美剧被批「审美降级」，口碑下降 [read](http://www.geekpark.net/news/307685)
-
-   小米首款汽车定价或超 30 万元；华为 Mate 50 支持卫星通信；微信输入法开启测试 [read](http://www.geekpark.net/news/307674)
 
 ### 金融类
 
-   如何抓住“涨价行情”的三波上涨 [read](http://xueqiu.com/9277793488/229965796)
+   江西锂云母矿出碳酸锂到底能有多少？ [read](http://xueqiu.com/3946267131/229970622)
 
-   金牛基金经理杜洋和工银战略转型深度测评 [read](http://xueqiu.com/2443086428/229965634)
+   基金投资如何摊大饼？ [read](http://xueqiu.com/4778574435/230046073)
 
-   中国银行业不同区域与行业的信贷资产质量与配置策略分析 [read](http://xueqiu.com/7297620365/229938341)
+   花了点时间，分析了下巴菲特减持的详细情况 [read](http://xueqiu.com/3805506915/229992706)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Huspy ? ? Branding [read](https://www.behance.net/gallery/151436405/Huspy-Branding)
+   Plateful [read](https://www.behance.net/gallery/151717101/Plateful)
 
-   WARSAW NATURE [read](https://www.behance.net/gallery/151887085/WARSAW-NATURE)
+   YOYO&amp;MIILK IN SUMMER [read](https://www.behance.net/gallery/151631589/YOYO-MIILK-IN-SUMMER)
 
-   The Other Art Fair [read](https://www.behance.net/gallery/150068009/The-Other-Art-Fair)
+   Sijo [read](https://www.behance.net/gallery/151276877/Sijo)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
