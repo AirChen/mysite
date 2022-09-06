@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GastoniaParade_EN-US8873564493_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SquirrelMushroom_EN-US8955570535_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   火山引擎在行为分析场景下的 ClickHouse JOIN 优化 [read](https://blog.csdn.net/ByteDanceTech/article/details/126716600)
+
    飞书 Android 升级 JDK 11 引发的 CI 构建性能问题 [read](https://blog.csdn.net/ByteDanceTech/article/details/126672639)
 
    春节活动 - 高峰值奖励发放技术方案 [read](https://blog.csdn.net/ByteDanceTech/article/details/126615855)
-
-   抖音平台多产物代码隔离技术的实践与探索 [read](https://blog.csdn.net/ByteDanceTech/article/details/126552658)
 
    基于AI算法的数据库异常监测系统的设计与实现 [read](https://tech.meituan.com/2022/09/01/database-monitoring-based-on-ai.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   马六甲乱局与传奇之死：寡妇元帅的复仇 [read](http://www.huxiu.com/article/654393.html?f=wangzhan)
+
+   巴菲特减持比亚迪，无关大局 [read](http://www.huxiu.com/article/653266.html?f=wangzhan)
+
    OPPO 车机体验：一些有趣的新尝试 [read](http://www.huxiu.com/article/653933.html?f=wangzhan)
 
-   干掉宝马之前，蔚来决定先干掉自己 [read](http://www.huxiu.com/article/653418.html?f=wangzhan)
+   领跑运动零售二十年，滔搏要以数字化构建新的护城河 \| 数字化的秘密 [read](https://36kr.com/p/1903703600720264)
 
-   电价飙涨1000%，欧洲将如何自救？ [read](http://www.huxiu.com/article/653660.html?f=wangzhan)
+   大悦城怪现状：上市股东喝汤 少数股东吃肉 [read](https://36kr.com/p/1903593894848900)
 
-   【地方站】合作案例 [read](https://36kr.com/p/1902257160759428)
-
-   【调研报告】合作案例 [read](https://36kr.com/p/1902251726563719)
-
-   【短视频制作】合作案例 [read](https://36kr.com/p/1902239676066176)
+   36氪晚报丨特斯拉计划本周末推送FSD测试版10.69.2；华为发布二合一笔记本MateBook E Go；京东超市发布BOOST战略、启动品牌全面升级 [read](https://36kr.com/p/1903602582055296)
 
    通用多模态基础模型BEiT-3：引领文本、图像、多模态预训练迈向“大一统” [read](https://www.msra.cn/zh-cn/news/features/beit-3)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
+   美妆巨头暗中押注，合成生物学遇上新风口 [read](http://www.geekpark.net/news/307877)
+
+   iPhone 14 备货超 3400 万部；第四范式向港交所提交上市申请；50 年前老红旗车惊现二手网站 [read](http://www.geekpark.net/news/307806)
+
    中国无人机物流发展简史 [read](http://www.geekpark.net/news/307745)
-
-   NASA：下周再决定新一代登月火箭发射时间；抖音上线 Mac 客户端；《艾尔登法环》推出搞笑衍生漫画 [read](http://www.geekpark.net/news/307695)
-
-   我去了中国最大的 Web3 聚会，发现人们想要的不是 Web3 [read](http://www.geekpark.net/news/307672)
 
 ### 金融类
 
-   江西锂云母矿出碳酸锂到底能有多少？ [read](http://xueqiu.com/3946267131/229970622)
+   红利基金哪家强？万万没想到是这个结果！ [read](http://xueqiu.com/2874661635/230144651)
 
-   基金投资如何摊大饼？ [read](http://xueqiu.com/4778574435/230046073)
+   用“特殊行情”下的基金表现测评13位新锐基金经理 [read](http://xueqiu.com/3179670287/229902647)
 
-   花了点时间，分析了下巴菲特减持的详细情况 [read](http://xueqiu.com/3805506915/229992706)
+   二季度，高瓴资本买了哪些中概股 [read](http://xueqiu.com/4779222867/229979221)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Plateful [read](https://www.behance.net/gallery/151717101/Plateful)
+   The Garden [read](https://www.behance.net/gallery/151781249/The-Garden)
 
-   YOYO&amp;MIILK IN SUMMER [read](https://www.behance.net/gallery/151631589/YOYO-MIILK-IN-SUMMER)
+   Exo Ape ? Digital Design Studio [read](https://www.behance.net/gallery/151563809/Exo-Ape-Digital-Design-Studio)
 
-   Sijo [read](https://www.behance.net/gallery/151276877/Sijo)
+   Work?\|?how improve our work style [read](https://www.behance.net/gallery/151935155/Workhow-improve-our-work-style)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
