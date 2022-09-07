@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SquirrelMushroom_EN-US8955570535_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MuseudoAmanha_EN-US9576177041_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -10,11 +10,11 @@ title: "今日资讯"
 
    科技爱好者周刊（第 220 期）：人工智能的机会在哪里 [read](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html)
 
+   多线程串行运行 Lua 虚拟机 [read](https://blog.codingnow.com/2022/09/multithread_lua_vm.html)
+
    路网中路径的储存 [read](https://blog.codingnow.com/2022/09/routemap.html)
 
    空间优先的 protobuffer / json 解码器 [read](https://blog.codingnow.com/2022/08/memory_compat_protobuffer_json_unmarshaling.html)
-
-   为 luaecs 增加内置 64bit ID [read](https://blog.codingnow.com/2022/08/luaecs_eid.html)
 
    为了老婆的乐队梦, 我做了一个弹钢琴的机器人 [read](https://blog.t9t.io/modsoul-2022-07-29/)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   马六甲乱局与传奇之死：寡妇元帅的复仇 [read](http://www.huxiu.com/article/654393.html?f=wangzhan)
+   曾经几乎要绝迹的“彩礼”，是怎么卷土重来的？ [read](http://www.huxiu.com/article/655658.html?f=wangzhan)
 
-   巴菲特减持比亚迪，无关大局 [read](http://www.huxiu.com/article/653266.html?f=wangzhan)
+   元宇宙这张大饼，我们现在能吃到哪些了？ [read](http://www.huxiu.com/article/655127.html?f=wangzhan)
 
-   OPPO 车机体验：一些有趣的新尝试 [read](http://www.huxiu.com/article/653933.html?f=wangzhan)
+   理想汽车，500万以内最强韭菜收割机 [read](http://www.huxiu.com/article/653661.html?f=wangzhan)
 
-   领跑运动零售二十年，滔搏要以数字化构建新的护城河 \| 数字化的秘密 [read](https://36kr.com/p/1903703600720264)
+   全程回顾 \| iPhone 14 更新不涨价，告别SIM卡和刘海屏，还有A16芯片和4800万像素摄像头 [read](https://36kr.com/p/1905421349235073)
 
-   大悦城怪现状：上市股东喝汤 少数股东吃肉 [read](https://36kr.com/p/1903593894848900)
+   成为中秋经济的“锚”，京东超市做对了什么？ [read](https://36kr.com/p/1905187036047752)
 
-   36氪晚报丨特斯拉计划本周末推送FSD测试版10.69.2；华为发布二合一笔记本MateBook E Go；京东超市发布BOOST战略、启动品牌全面升级 [read](https://36kr.com/p/1903602582055296)
+   蚂蚁集团韦韬：数据密态时代，如何保障隐私安全？\| 直击WAIC2022 [read](https://36kr.com/p/1904899411405187)
 
    通用多模态基础模型BEiT-3：引领文本、图像、多模态预训练迈向“大一统” [read](https://www.msra.cn/zh-cn/news/features/beit-3)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
-   美妆巨头暗中押注，合成生物学遇上新风口 [read](http://www.geekpark.net/news/307877)
+   「开放」这件事，抖音越来越重视了 [read](http://www.geekpark.net/news/307953)
 
-   iPhone 14 备货超 3400 万部；第四范式向港交所提交上市申请；50 年前老红旗车惊现二手网站 [read](http://www.geekpark.net/news/307806)
+   马斯克的「机器人」，能复制特斯拉的成功吗？ [read](http://www.geekpark.net/news/307894)
 
-   中国无人机物流发展简史 [read](http://www.geekpark.net/news/307745)
+   马斯克称要将汽车电池成本削减一半；华为Mate 50发售，4999元起；苹果回应巴西禁售不附赠充电器iPhone [read](http://www.geekpark.net/news/307893)
 
 ### 金融类
 
-   红利基金哪家强？万万没想到是这个结果！ [read](http://xueqiu.com/2874661635/230144651)
+   众所周知，最有价值的投资资料，都是免费的 [read](http://xueqiu.com/1830902728/230241156)
 
-   用“特殊行情”下的基金表现测评13位新锐基金经理 [read](http://xueqiu.com/3179670287/229902647)
+   价值投资之消费医药股vs银行股 [read](http://xueqiu.com/6169865362/230187266)
 
-   二季度，高瓴资本买了哪些中概股 [read](http://xueqiu.com/4779222867/229979221)
+   卖出比亚迪，巴菲特究竟看到了什么？ [read](http://xueqiu.com/1986498621/230220098)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   The Garden [read](https://www.behance.net/gallery/151781249/The-Garden)
+   Tinkuy Patterns. Modular Typography Vol.6 [read](https://www.behance.net/gallery/152067087/Tinkuy-Patterns-Modular-Typography-Vol6)
 
-   Exo Ape ? Digital Design Studio [read](https://www.behance.net/gallery/151563809/Exo-Ape-Digital-Design-Studio)
+   Create Me - The Opposite [read](https://www.behance.net/gallery/147100463/Create-Me-The-Opposite)
 
-   Work?\|?how improve our work style [read](https://www.behance.net/gallery/151935155/Workhow-improve-our-work-style)
+   Selected Logos &amp; Marks [read](https://www.behance.net/gallery/149515041/Selected-Logos-Marks)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -140,11 +140,11 @@ title: "今日资讯"
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
+   Pinterest commits to 100% renewable electricity for its offices around the world [read](https://newsroom.pinterest.com/en/post/pinterest-commits-to-100-renewable-electricity-for-its-offices-around-the-world)
+
    Pinterest and /dev/color advance Black talent in tech [read](https://newsroom.pinterest.com/en/post/pinterest-and-devcolor-advance-black-talent-in-tech)
 
    Nadine Zylstra is Pinterest’s new Global Head of Programming and Originals [read](https://newsroom.pinterest.com/en/post/nadine-zylstra-is-pinterests-new-global-head-of-programming-and-originals)
-
-   Pinterest Body Neutrality Report Shows Searches containing “weight loss” have decreased 20% since introducing Weight Loss Ad Ban [read](https://newsroom.pinterest.com/en/post/pinterest-body-neutrality-report-shows-searches-containing-weight-loss-have-decreased-20-since)
 
    W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
