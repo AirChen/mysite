@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MuseudoAmanha_EN-US9576177041_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CircumnavigationAnni_EN-US9635067459_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   曾经几乎要绝迹的“彩礼”，是怎么卷土重来的？ [read](http://www.huxiu.com/article/655658.html?f=wangzhan)
+   保时捷“不合时宜”的IPO，是一出“王子复仇记”？ [read](http://www.huxiu.com/article/656417.html?f=wangzhan)
 
-   元宇宙这张大饼，我们现在能吃到哪些了？ [read](http://www.huxiu.com/article/655127.html?f=wangzhan)
+   从“被动输血”到“主动造血”：工业雨林东莞的蝶变 [read](http://www.huxiu.com/article/654864.html?f=wangzhan)
 
-   理想汽车，500万以内最强韭菜收割机 [read](http://www.huxiu.com/article/653661.html?f=wangzhan)
+   韩国人 “拿命”炒股，原因何在？ [read](http://www.huxiu.com/article/655863.html?f=wangzhan)
 
-   全程回顾 \| iPhone 14 更新不涨价，告别SIM卡和刘海屏，还有A16芯片和4800万像素摄像头 [read](https://36kr.com/p/1905421349235073)
+   氪星晚报｜蔚来在耐心准备进入美国市场；卫龙考虑10月份启动香港IPO，寻求约47亿美元的估值；苹果发布iPhone 14系列机型，起售价799美元 [read](https://36kr.com/p/1906423678043393)
 
-   成为中秋经济的“锚”，京东超市做对了什么？ [read](https://36kr.com/p/1905187036047752)
+   业绩快报 \| B站发二季度财报：月均活跃用户数破3亿，日均活跃用户同比增长33% [read](https://36kr.com/p/1906483487704324)
 
-   蚂蚁集团韦韬：数据密态时代，如何保障隐私安全？\| 直击WAIC2022 [read](https://36kr.com/p/1904899411405187)
+   碳管理平台数字化服务商「东方低碳」发布AIoT智能化碳管理平台 \| 最前线 [read](https://36kr.com/p/1906482186290688)
 
    通用多模态基础模型BEiT-3：引领文本、图像、多模态预训练迈向“大一统” [read](https://www.msra.cn/zh-cn/news/features/beit-3)
 
@@ -86,33 +86,33 @@ title: "今日资讯"
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
+   苹果正式宣布：手机厂下一个内卷方向是「上天」 [read](http://www.geekpark.net/news/308020)
+
+   苹果发布会药丸屏登场，iPhone 14 Pro不涨价；比亚迪取代LG成全球第二大动力电池厂商；新首相刚上任，英国「御猫」送箴言 \| 极客早知道\| 极客早知道 [read](http://www.geekpark.net/news/307974)
+
    「开放」这件事，抖音越来越重视了 [read](http://www.geekpark.net/news/307953)
-
-   马斯克的「机器人」，能复制特斯拉的成功吗？ [read](http://www.geekpark.net/news/307894)
-
-   马斯克称要将汽车电池成本削减一半；华为Mate 50发售，4999元起；苹果回应巴西禁售不附赠充电器iPhone [read](http://www.geekpark.net/news/307893)
 
 ### 金融类
 
-   众所周知，最有价值的投资资料，都是免费的 [read](http://xueqiu.com/1830902728/230241156)
+   蔚来2022Q2财报数据&理想小鹏蔚来Q2数据对比 [read](http://xueqiu.com/6490468241/230262538)
 
-   价值投资之消费医药股vs银行股 [read](http://xueqiu.com/6169865362/230187266)
+   中国基金业“奥斯卡奖”——10只主动权益类金牛奖基金测评 [read](http://xueqiu.com/5679199459/230337774)
 
-   卖出比亚迪，巴菲特究竟看到了什么？ [read](http://xueqiu.com/1986498621/230220098)
+   深度探究比亚迪e平台3.0 [read](http://xueqiu.com/5323095685/230314791)
 
 ### 学习类
+
+   💻 Issue 324 - Announcing Unreal Rust: A Rust integration for Unreal Engine 5 [read](https://rust.libhunt.com/newsletter/324)
 
    💻 Issue 323 - Toward fearless `cargo update` [read](https://rust.libhunt.com/newsletter/323)
 
    💻 Issue 322 - Pinecone: Rust -- A hard decision pays off [read](https://rust.libhunt.com/newsletter/322)
 
-   💻 Issue 321 - Rust in Perspective [read](https://rust.libhunt.com/newsletter/321)
+   This Week in Rust 459 [read](https://this-week-in-rust.org/blog/2022/09/07/this-week-in-rust-459/)
 
    This Week in Rust 458 [read](https://this-week-in-rust.org/blog/2022/08/31/this-week-in-rust-458/)
 
    This Week in Rust 457 [read](https://this-week-in-rust.org/blog/2022/08/24/this-week-in-rust-457/)
-
-   This Week in Rust 456 [read](https://this-week-in-rust.org/blog/2022/08/17/this-week-in-rust-456/)
 
    ETCD的内存问题 [read](https://coolshell.cn/articles/22242.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Tinkuy Patterns. Modular Typography Vol.6 [read](https://www.behance.net/gallery/152067087/Tinkuy-Patterns-Modular-Typography-Vol6)
+   The Cafe Deco Package [read](https://www.behance.net/gallery/152194437/The-Cafe-Deco-Package)
 
-   Create Me - The Opposite [read](https://www.behance.net/gallery/147100463/Create-Me-The-Opposite)
+   OBS3RV3 [read](https://www.behance.net/gallery/151538777/OBS3RV3)
 
-   Selected Logos &amp; Marks [read](https://www.behance.net/gallery/149515041/Selected-Logos-Marks)
+   U Kalend? ? visual identity [read](https://www.behance.net/gallery/152133743/U-Kalendu-visual-identity)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
