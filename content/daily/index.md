@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CircumnavigationAnni_EN-US9635067459_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BHNMBelize_EN-US6404020386_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 221 期）：全世界最繁荣的行业 [read](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-221.html)
+   科技爱好者周刊（第 222 期）：四十年编程感想 [read](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-222.html)
 
-   科技爱好者周刊（第 220 期）：人工智能的机会在哪里 [read](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html)
+   科技爱好者周刊（第 221 期）：全世界最繁荣的行业 [read](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-221.html)
 
    多线程串行运行 Lua 虚拟机 [read](https://blog.codingnow.com/2022/09/multithread_lua_vm.html)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 463 期 [read](https://weekly.75.team/issue463.html)
+
    奇舞周刊第 462 期 [read](https://weekly.75.team/issue462.html)
 
    奇舞周刊第 461 期 [read](https://weekly.75.team/issue461.html)
-
-   奇舞周刊第 460 期 [read](https://weekly.75.team/issue460.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   保时捷“不合时宜”的IPO，是一出“王子复仇记”？ [read](http://www.huxiu.com/article/656417.html?f=wangzhan)
+   上千元的月饼，才是真正的韭菜收割机 [read](http://www.huxiu.com/article/657749.html?f=wangzhan)
 
-   从“被动输血”到“主动造血”：工业雨林东莞的蝶变 [read](http://www.huxiu.com/article/654864.html?f=wangzhan)
+   英国女王去世，如何评价她的一生？ [read](http://www.huxiu.com/article/657840.html?f=wangzhan)
 
-   韩国人 “拿命”炒股，原因何在？ [read](http://www.huxiu.com/article/655863.html?f=wangzhan)
+   这些国家，居然也在过中秋？ [read](http://www.huxiu.com/article/657444.html?f=wangzhan)
 
-   氪星晚报｜蔚来在耐心准备进入美国市场；卫龙考虑10月份启动香港IPO，寻求约47亿美元的估值；苹果发布iPhone 14系列机型，起售价799美元 [read](https://36kr.com/p/1906423678043393)
+   36氪首发 \|「赛德美」完成数千万元A轮融资，迎接动力电池回收风口，利用拆解修复技术赋能产业链 [read](https://36kr.com/p/1907843316172804)
 
-   业绩快报 \| B站发二季度财报：月均活跃用户数破3亿，日均活跃用户同比增长33% [read](https://36kr.com/p/1906483487704324)
+   中国工程院院士江亿：区域集中供冷不是建筑改造减碳路径 [read](https://36kr.com/p/1907883102652420)
 
-   碳管理平台数字化服务商「东方低碳」发布AIoT智能化碳管理平台 \| 最前线 [read](https://36kr.com/p/1906482186290688)
+   氪星晚报｜中兴通讯拟9月底前完成中兴微电子融资分拆；Shopee关闭墨西哥、哥伦比亚和智利本地业务，退出阿根廷；梅赛德斯-奔驰和Rivian将合资设厂在欧洲生产电动货车，厂址或在匈牙利 [read](https://36kr.com/p/1907833013143300)
 
    通用多模态基础模型BEiT-3：引领文本、图像、多模态预训练迈向“大一统” [read](https://www.msra.cn/zh-cn/news/features/beit-3)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
+   市值跌去 500 亿美元后，B 站触底了？ [read](http://www.geekpark.net/news/308143)
+
+   大股东减持腾讯111.5万股；传推特给举报人700万美元封口费；乐视超级电视寻求新一轮融资 [read](http://www.geekpark.net/news/308060)
+
    苹果正式宣布：手机厂下一个内卷方向是「上天」 [read](http://www.geekpark.net/news/308020)
-
-   苹果发布会药丸屏登场，iPhone 14 Pro不涨价；比亚迪取代LG成全球第二大动力电池厂商；新首相刚上任，英国「御猫」送箴言 \| 极客早知道\| 极客早知道 [read](http://www.geekpark.net/news/307974)
-
-   「开放」这件事，抖音越来越重视了 [read](http://www.geekpark.net/news/307953)
 
 ### 金融类
 
-   蔚来2022Q2财报数据&理想小鹏蔚来Q2数据对比 [read](http://xueqiu.com/6490468241/230262538)
+   资本和资质齐备后，又一个中国优势行业的崛起 [read](http://xueqiu.com/9070764642/230430381)
 
-   中国基金业“奥斯卡奖”——10只主动权益类金牛奖基金测评 [read](http://xueqiu.com/5679199459/230337774)
+   聊聊英伟达禁运后，车载SOC行业格局变化 [read](http://xueqiu.com/4437116803/230400145)
 
-   深度探究比亚迪e平台3.0 [read](http://xueqiu.com/5323095685/230314791)
+   个人投资——市场是否有效 [read](http://xueqiu.com/3334715016/230417139)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   The Cafe Deco Package [read](https://www.behance.net/gallery/152194437/The-Cafe-Deco-Package)
+   Vively ? Visual Identity [read](https://www.behance.net/gallery/152196181/Vively-Visual-Identity)
 
-   OBS3RV3 [read](https://www.behance.net/gallery/151538777/OBS3RV3)
+   Tempus Novus [read](https://www.behance.net/gallery/151269117/Tempus-Novus)
 
-   U Kalend? ? visual identity [read](https://www.behance.net/gallery/152133743/U-Kalendu-visual-identity)
+   Simon ? La Casa de la Luz [read](https://www.behance.net/gallery/152215465/Simon-La-Casa-de-la-Luz)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -140,11 +140,11 @@ title: "今日资讯"
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
+   Pinterest is committed to election integrity and civic engagement [read](https://newsroom.pinterest.com/en/post/pinterest-is-committed-to-election-integrity-and-civic-engagement)
+
    Pinterest commits to 100% renewable electricity for its offices around the world [read](https://newsroom.pinterest.com/en/post/pinterest-commits-to-100-renewable-electricity-for-its-offices-around-the-world)
 
    Pinterest and /dev/color advance Black talent in tech [read](https://newsroom.pinterest.com/en/post/pinterest-and-devcolor-advance-black-talent-in-tech)
-
-   Nadine Zylstra is Pinterest’s new Global Head of Programming and Originals [read](https://newsroom.pinterest.com/en/post/nadine-zylstra-is-pinterests-new-global-head-of-programming-and-originals)
 
    W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
