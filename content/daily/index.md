@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BHNMBelize_EN-US6404020386_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.KLMidAutumn_EN-US6642842911_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   HiveServer2 内存泄漏问题定位与优化方案 [read](https://blog.csdn.net/ByteDanceTech/article/details/126791895)
+
    火山引擎在行为分析场景下的 ClickHouse JOIN 优化 [read](https://blog.csdn.net/ByteDanceTech/article/details/126716600)
 
    飞书 Android 升级 JDK 11 引发的 CI 构建性能问题 [read](https://blog.csdn.net/ByteDanceTech/article/details/126672639)
-
-   春节活动 - 高峰值奖励发放技术方案 [read](https://blog.csdn.net/ByteDanceTech/article/details/126615855)
 
    基于AI算法的数据库异常监测系统的设计与实现 [read](https://tech.meituan.com/2022/09/01/database-monitoring-based-on-ai.html)
 
@@ -74,11 +74,11 @@ title: "今日资讯"
 
    这些国家，居然也在过中秋？ [read](http://www.huxiu.com/article/657444.html?f=wangzhan)
 
-   36氪首发 \|「赛德美」完成数千万元A轮融资，迎接动力电池回收风口，利用拆解修复技术赋能产业链 [read](https://36kr.com/p/1907843316172804)
+   在小县城开网红店，我承包了「小镇青年」的钱包 [read](https://36kr.com/p/1906343087277570)
 
-   中国工程院院士江亿：区域集中供冷不是建筑改造减碳路径 [read](https://36kr.com/p/1907883102652420)
+   焦点分析｜Keep上市未完待续，第一步是学会精打细算 [read](https://36kr.com/p/1907444858554369)
 
-   氪星晚报｜中兴通讯拟9月底前完成中兴微电子融资分拆；Shopee关闭墨西哥、哥伦比亚和智利本地业务，退出阿根廷；梅赛德斯-奔驰和Rivian将合资设厂在欧洲生产电动货车，厂址或在匈牙利 [read](https://36kr.com/p/1907833013143300)
+   宁德时代、亿纬锂能将为宝马提供圆柱电池；比亚迪：新储能系统携刀片电池明年上市 \| 36氪新能源日报0909 [read](https://36kr.com/p/1907827744786441)
 
    通用多模态基础模型BEiT-3：引领文本、图像、多模态预训练迈向“大一统” [read](https://www.msra.cn/zh-cn/news/features/beit-3)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
+   被网友狂喷的《指环王》美剧，是亚马逊对抗苹果的匕首 [read](http://www.geekpark.net/news/308145)
+
+   星链或将支持 iPhone 卫星通信；俄罗斯法院对谷歌罚款 3.6 亿美元；宝马与宁德时代合作，签百亿电池合同 [read](http://www.geekpark.net/news/308144)
+
    市值跌去 500 亿美元后，B 站触底了？ [read](http://www.geekpark.net/news/308143)
-
-   大股东减持腾讯111.5万股；传推特给举报人700万美元封口费；乐视超级电视寻求新一轮融资 [read](http://www.geekpark.net/news/308060)
-
-   苹果正式宣布：手机厂下一个内卷方向是「上天」 [read](http://www.geekpark.net/news/308020)
 
 ### 金融类
 
-   资本和资质齐备后，又一个中国优势行业的崛起 [read](http://xueqiu.com/9070764642/230430381)
+   B站2022年二季度财报几点思考 [read](http://xueqiu.com/1212829434/230446545)
 
-   聊聊英伟达禁运后，车载SOC行业格局变化 [read](http://xueqiu.com/4437116803/230400145)
+   股票的估值和利率有什么关系？ [read](http://xueqiu.com/1916878869/230475427)
 
-   个人投资——市场是否有效 [read](http://xueqiu.com/3334715016/230417139)
+   观察疫后第三年的保险行业，2022半年报数据横向对比 [read](http://xueqiu.com/7305407483/230476375)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Vively ? Visual Identity [read](https://www.behance.net/gallery/152196181/Vively-Visual-Identity)
+   Play Pizza [read](https://www.behance.net/gallery/152175651/Play-Pizza)
 
-   Tempus Novus [read](https://www.behance.net/gallery/151269117/Tempus-Novus)
+   MYOB - Brand Illustrations [read](https://www.behance.net/gallery/143374763/MYOB-Brand-Illustrations)
 
-   Simon ? La Casa de la Luz [read](https://www.behance.net/gallery/152215465/Simon-La-Casa-de-la-Luz)
+   bulthaup: Website &amp; UX/UI [read](https://www.behance.net/gallery/139661199/bulthaup-Website-UXUI)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
