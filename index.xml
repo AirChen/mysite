@@ -138,8 +138,8 @@ self.collectionView = [[UICollectionView alloc] initWithFrame:CGRectZero collect
 - (NSInteger)collectionView:(UICollectionView *)collectionView numberOfItemsInSection:(NSInteger)section; - (__kindof UICollectionViewCell *)collectionView:(UICollectionView *)collectionView cellForItemAtIndexPath:(NSIndexPath *)indexPath; 其中UICollectionViewCell可以子类化，添加一些label或者ImageView。
 可以简单的子类化一个UICollectionViewFlowLayout，只需复写以下init方法：
 -(id)init { if (!(self = [super init])) return nil; self.itemSize = CGSizeMake(30, 30); self.sectionInset = UIEdgeInsetsMake(10, 10, 10, 10); self.minimumInteritemSpacing = 10.0f; self.minimumLineSpacing = 10.0f; return self; } 此外UICollectionViewFlowLayout还包括一些其他的方法，可以根据需求来选择：
--(CGSize)collectionViewContentSize //返回contentsize的总大小 -(BOOL)shouldInvalidateLayoutForBoundsChange:(CGRect)newBounds //自定义布局必须YES - (UICollectionViewLayoutAttributes *)layoutAttributesForItemAtIndexPath:(NSIndexPath *)path{}//返回每个cell的布局属性 -(NSArray*)layoutAttributesForElementsInRect:(CGRect)rect //返回所有cell的布局属性 参考实例</description></item><item><title>About Me</title><link>https://blog.airchen-space.top/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.airchen-space.top/about/</guid><description>个人信息 任志琛 男 30岁 工作经验 5年 工作经历 北京百度网讯科技有限公司 C++ 地图服务 2021年8月 至今 北京四维图新科技股份有限公司 C++ 地图引擎开发 2018年4月 2021年8月 北京四维智联科技有限公司 iOS SDK开发 2017年7月 2018年4月 教育经历 研究生 广西师范大学 电子科学与技术 本科 北京邮电大学世纪学院 通信工程 联系我 邮箱 renzhichen2012@163.com qq 252199456</description></item><item><title>今日资讯</title><link>https://blog.airchen-space.top/daily/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.airchen-space.top/daily/</guid><description>个人博客 科技爱好者周刊（第 221 期）：全世界最繁荣的行业 read
-科技爱好者周刊（第 220 期）：人工智能的机会在哪里 read
+-(CGSize)collectionViewContentSize //返回contentsize的总大小 -(BOOL)shouldInvalidateLayoutForBoundsChange:(CGRect)newBounds //自定义布局必须YES - (UICollectionViewLayoutAttributes *)layoutAttributesForItemAtIndexPath:(NSIndexPath *)path{}//返回每个cell的布局属性 -(NSArray*)layoutAttributesForElementsInRect:(CGRect)rect //返回所有cell的布局属性 参考实例</description></item><item><title>About Me</title><link>https://blog.airchen-space.top/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.airchen-space.top/about/</guid><description>个人信息 任志琛 男 30岁 工作经验 5年 工作经历 北京百度网讯科技有限公司 C++ 地图服务 2021年8月 至今 北京四维图新科技股份有限公司 C++ 地图引擎开发 2018年4月 2021年8月 北京四维智联科技有限公司 iOS SDK开发 2017年7月 2018年4月 教育经历 研究生 广西师范大学 电子科学与技术 本科 北京邮电大学世纪学院 通信工程 联系我 邮箱 renzhichen2012@163.com qq 252199456</description></item><item><title>今日资讯</title><link>https://blog.airchen-space.top/daily/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.airchen-space.top/daily/</guid><description>个人博客 科技爱好者周刊（第 222 期）：四十年编程感想 read
+科技爱好者周刊（第 221 期）：全世界最繁荣的行业 read
 多线程串行运行 Lua 虚拟机 read
 路网中路径的储存 read
 空间优先的 protobuffer / json 解码器 read
@@ -152,7 +152,7 @@ self.collectionView = [[UICollectionView alloc] initWithFrame:CGRectZero collect
 IT团队博客 走向匿名化，谈谈微信小程序新授权登录 read
 yield 学习 read
 callable-object read
+奇舞周刊第 463 期 read
 奇舞周刊第 462 期 read
 奇舞周刊第 461 期 read
-奇舞周刊第 460 期 read
 VS Code 是如何优化启动性能的？ read</description></item></channel></rss>
