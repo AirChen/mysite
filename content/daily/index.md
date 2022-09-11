@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.KLMidAutumn_EN-US6642842911_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SOLHalfStaff_EN-US6710129226_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   上千元的月饼，才是真正的韭菜收割机 [read](http://www.huxiu.com/article/657749.html?f=wangzhan)
+   李易峰塌了 [read](http://www.huxiu.com/article/659224.html?f=wangzhan)
 
-   英国女王去世，如何评价她的一生？ [read](http://www.huxiu.com/article/657840.html?f=wangzhan)
+   互联网打工人，连996的机会都没了？ [read](http://www.huxiu.com/article/658873.html?f=wangzhan)
 
-   这些国家，居然也在过中秋？ [read](http://www.huxiu.com/article/657444.html?f=wangzhan)
+   出还是不出？茶颜悦色是怎么被长沙困住的？ [read](http://www.huxiu.com/article/658582.html?f=wangzhan)
+
+   关于预制菜创业的一些想法 [read](https://36kr.com/p/1910205778036738)
+
+   Long China 50分析 \| B站与自己对弈：用户增长与收入增长可以一起实现吗？ [read](https://36kr.com/p/1909722676725767)
 
    在小县城开网红店，我承包了「小镇青年」的钱包 [read](https://36kr.com/p/1906343087277570)
-
-   焦点分析｜Keep上市未完待续，第一步是学会精打细算 [read](https://36kr.com/p/1907444858554369)
-
-   宁德时代、亿纬锂能将为宝马提供圆柱电池；比亚迪：新储能系统携刀片电池明年上市 \| 36氪新能源日报0909 [read](https://36kr.com/p/1907827744786441)
 
    通用多模态基础模型BEiT-3：引领文本、图像、多模态预训练迈向“大一统” [read](https://www.msra.cn/zh-cn/news/features/beit-3)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
+   探月工程四期任务已获国家批复；iPhone 14 预售火爆，Pro 发货推迟至 10 月下旬；迪士尼真人电影《小美人鱼》首支预告发布 \| 极客早知道 [read](http://www.geekpark.net/news/308146)
+
    被网友狂喷的《指环王》美剧，是亚马逊对抗苹果的匕首 [read](http://www.geekpark.net/news/308145)
 
    星链或将支持 iPhone 卫星通信；俄罗斯法院对谷歌罚款 3.6 亿美元；宝马与宁德时代合作，签百亿电池合同 [read](http://www.geekpark.net/news/308144)
 
-   市值跌去 500 亿美元后，B 站触底了？ [read](http://www.geekpark.net/news/308143)
-
 ### 金融类
 
-   B站2022年二季度财报几点思考 [read](http://xueqiu.com/1212829434/230446545)
+   与君周末谈20220910化工的危与机 [read](http://xueqiu.com/8258019402/230500507)
 
-   股票的估值和利率有什么关系？ [read](http://xueqiu.com/1916878869/230475427)
+   “红利三剑客”硬核测评 [read](http://xueqiu.com/9600110938/230498961)
 
-   观察疫后第三年的保险行业，2022半年报数据横向对比 [read](http://xueqiu.com/7305407483/230476375)
+   现在的格力攻守兼备 [read](http://xueqiu.com/4381703788/230494130)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Play Pizza [read](https://www.behance.net/gallery/152175651/Play-Pizza)
+   ????? [read](https://www.behance.net/gallery/88638723/_)
 
-   MYOB - Brand Illustrations [read](https://www.behance.net/gallery/143374763/MYOB-Brand-Illustrations)
+   Bleep Bleeps® brand identity [read](https://www.behance.net/gallery/147984047/Bleep-Bleeps-brand-identity)
 
-   bulthaup: Website &amp; UX/UI [read](https://www.behance.net/gallery/139661199/bulthaup-Website-UXUI)
+   Leisure Sports [read](https://www.behance.net/gallery/152093021/Leisure-Sports)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
