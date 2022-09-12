@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SOLHalfStaff_EN-US6710129226_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Aracari_EN-US6920359857_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
+   《隐入尘烟》为何没有隐入尘烟？ [read](http://www.geekpark.net/news/308149)
+
+   SpaceX 发射全球「最大商业通信阵列」；大疆将发 Action 3 运动相机；全球 App 发行收入排行，腾讯第一字节第二 [read](http://www.geekpark.net/news/308148)
+
    探月工程四期任务已获国家批复；iPhone 14 预售火爆，Pro 发货推迟至 10 月下旬；迪士尼真人电影《小美人鱼》首支预告发布 \| 极客早知道 [read](http://www.geekpark.net/news/308146)
-
-   被网友狂喷的《指环王》美剧，是亚马逊对抗苹果的匕首 [read](http://www.geekpark.net/news/308145)
-
-   星链或将支持 iPhone 卫星通信；俄罗斯法院对谷歌罚款 3.6 亿美元；宝马与宁德时代合作，签百亿电池合同 [read](http://www.geekpark.net/news/308144)
 
 ### 金融类
 
-   与君周末谈20220910化工的危与机 [read](http://xueqiu.com/8258019402/230500507)
+   国内两大零售股份行对比（招商银行VS平安银行） [read](http://xueqiu.com/5725525083/230538165)
 
-   “红利三剑客”硬核测评 [read](http://xueqiu.com/9600110938/230498961)
+   白云山2022半年报解读，低估的巨头！ [read](http://xueqiu.com/2496980475/230530671)
 
-   现在的格力攻守兼备 [read](http://xueqiu.com/4381703788/230494130)
+   隆基靠新电池技术，能重回光伏霸主吗？ [read](http://xueqiu.com/7664480424/230522691)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   ????? [read](https://www.behance.net/gallery/88638723/_)
+   Alleima [read](https://www.behance.net/gallery/152417823/Alleima)
 
-   Bleep Bleeps® brand identity [read](https://www.behance.net/gallery/147984047/Bleep-Bleeps-brand-identity)
+   Illustrations - August [read](https://www.behance.net/gallery/152442157/Illustrations-August)
 
-   Leisure Sports [read](https://www.behance.net/gallery/152093021/Leisure-Sports)
+   1215 - Naming &amp; brand identity [read](https://www.behance.net/gallery/152422021/1215-Naming-brand-identity)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -140,11 +140,11 @@ title: "今日资讯"
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
+   Pinterest defies self doubt in newest global brand campaign, “Don’t Don’t Yourself” [read](https://newsroom.pinterest.com/en/post/pinterest-defies-self-doubt-in-newest-global-brand-campaign-dont-dont-yourself)
+
    Pinterest is committed to election integrity and civic engagement [read](https://newsroom.pinterest.com/en/post/pinterest-is-committed-to-election-integrity-and-civic-engagement)
 
    Pinterest commits to 100% renewable electricity for its offices around the world [read](https://newsroom.pinterest.com/en/post/pinterest-commits-to-100-renewable-electricity-for-its-offices-around-the-world)
-
-   Pinterest and /dev/color advance Black talent in tech [read](https://newsroom.pinterest.com/en/post/pinterest-and-devcolor-advance-black-talent-in-tech)
 
    W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
