@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Aracari_EN-US6920359857_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GSDNPest_EN-US6985335988_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -54,11 +54,11 @@ title: "今日资讯"
 
    飞书 Android 升级 JDK 11 引发的 CI 构建性能问题 [read](https://blog.csdn.net/ByteDanceTech/article/details/126672639)
 
+   图技术在美团外卖下的场景化应用及探索 [read](https://tech.meituan.com/2022/09/08/gnn-scenariomodeling-subgraphextend-jointtraining.html)
+
    基于AI算法的数据库异常监测系统的设计与实现 [read](https://tech.meituan.com/2022/09/01/database-monitoring-based-on-ai.html)
 
    Replication（上）：常见复制模型&分布式系统挑战 [read](https://tech.meituan.com/2022/08/25/replication-in-meituan-01.html)
-
-   Replication（下）：事务，一致性与共识 [read](https://tech.meituan.com/2022/08/25/replication-in-meituan-02.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   李易峰塌了 [read](http://www.huxiu.com/article/659224.html?f=wangzhan)
+   “娇贵”的800V快充，是解决电量焦虑的良方吗？ [read](http://www.huxiu.com/article/660407.html?f=wangzhan)
 
-   互联网打工人，连996的机会都没了？ [read](http://www.huxiu.com/article/658873.html?f=wangzhan)
+   差评不断、品控堪忧，为什么我还是看好预制菜行业？ [read](http://www.huxiu.com/article/660363.html?f=wangzhan)
 
-   出还是不出？茶颜悦色是怎么被长沙困住的？ [read](http://www.huxiu.com/article/658582.html?f=wangzhan)
+   第二梯队新势力，从未远离生死线 [read](http://www.huxiu.com/article/659994.html?f=wangzhan)
 
-   关于预制菜创业的一些想法 [read](https://36kr.com/p/1910205778036738)
+   氪星晚报｜流媒体巨头Netflix宣布与育碧合作；Twitter多数股东投票支持将公司出售给马斯克；中国网文首次被收入大英图书馆 [read](https://36kr.com/p/1913590362212099)
 
-   Long China 50分析 \| B站与自己对弈：用户增长与收入增长可以一起实现吗？ [read](https://36kr.com/p/1909722676725767)
+   投资了Alexander Wang，挑战者创投却说消费还可以更冷一点 [read](https://36kr.com/p/1913267535660806)
 
-   在小县城开网红店，我承包了「小镇青年」的钱包 [read](https://36kr.com/p/1906343087277570)
+   海外new things｜「Edupia」完成1400万美元A轮融资，致力于缩小越南地区之间的教育鸿沟 [read](https://36kr.com/p/1913431089809154)
 
    通用多模态基础模型BEiT-3：引领文本、图像、多模态预训练迈向“大一统” [read](https://www.msra.cn/zh-cn/news/features/beit-3)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
+   算力越高，车越智能？新造车「算力大战」背后的真相是啥？ [read](http://www.geekpark.net/news/307927)
+
+   苹果 iOS 16 正式版发布；星巴克推出 Web 3 平台 Starbucks Odyssey；迪士尼发布漫威宇宙新项目，「王者·灭霸」要来了 [read](http://www.geekpark.net/news/308150)
+
    《隐入尘烟》为何没有隐入尘烟？ [read](http://www.geekpark.net/news/308149)
-
-   SpaceX 发射全球「最大商业通信阵列」；大疆将发 Action 3 运动相机；全球 App 发行收入排行，腾讯第一字节第二 [read](http://www.geekpark.net/news/308148)
-
-   探月工程四期任务已获国家批复；iPhone 14 预售火爆，Pro 发货推迟至 10 月下旬；迪士尼真人电影《小美人鱼》首支预告发布 \| 极客早知道 [read](http://www.geekpark.net/news/308146)
 
 ### 金融类
 
-   国内两大零售股份行对比（招商银行VS平安银行） [read](http://xueqiu.com/5725525083/230538165)
+   财报分析中的边际思维 [read](http://xueqiu.com/9277793488/230546644)
 
-   白云山2022半年报解读，低估的巨头！ [read](http://xueqiu.com/2496980475/230530671)
+   闲来札记：把投资当作事业来做，最好是热爱 [read](http://xueqiu.com/3491303582/230630931)
 
-   隆基靠新电池技术，能重回光伏霸主吗？ [read](http://xueqiu.com/7664480424/230522691)
+   雪球专刊——2022雪球基金直播节（基金经理篇） [read](http://xueqiu.com/3746414875/230629135)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Alleima [read](https://www.behance.net/gallery/152417823/Alleima)
+   Symbol [read](https://www.behance.net/gallery/151114731/Symbol)
 
-   Illustrations - August [read](https://www.behance.net/gallery/152442157/Illustrations-August)
+   Crep Protect [read](https://www.behance.net/gallery/150375103/Crep-Protect)
 
-   1215 - Naming &amp; brand identity [read](https://www.behance.net/gallery/152422021/1215-Naming-brand-identity)
+   "The Joy of..." red packet set [read](https://www.behance.net/gallery/152268335/The-Joy-of-red-packet-set)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -140,11 +140,11 @@ title: "今日资讯"
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
+   First Lady Dr. Jill Biden teams up with Pinterest to celebrate and support educators across the country [read](https://newsroom.pinterest.com/en/post/first-lady-dr-jill-biden-teams-up-with-pinterest-to-celebrate-and-support-educators-across-the)
+
    Pinterest defies self doubt in newest global brand campaign, “Don’t Don’t Yourself” [read](https://newsroom.pinterest.com/en/post/pinterest-defies-self-doubt-in-newest-global-brand-campaign-dont-dont-yourself)
 
    Pinterest is committed to election integrity and civic engagement [read](https://newsroom.pinterest.com/en/post/pinterest-is-committed-to-election-integrity-and-civic-engagement)
-
-   Pinterest commits to 100% renewable electricity for its offices around the world [read](https://newsroom.pinterest.com/en/post/pinterest-commits-to-100-renewable-electricity-for-its-offices-around-the-world)
 
    W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
