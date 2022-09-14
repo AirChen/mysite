@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GSDNPest_EN-US6985335988_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MarbleCanyon_EN-US7056773172_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   “娇贵”的800V快充，是解决电量焦虑的良方吗？ [read](http://www.huxiu.com/article/660407.html?f=wangzhan)
+   精品甜宠剧为何“消失”了？ [read](http://www.huxiu.com/article/661280.html?f=wangzhan)
 
-   差评不断、品控堪忧，为什么我还是看好预制菜行业？ [read](http://www.huxiu.com/article/660363.html?f=wangzhan)
+   贯穿故宫，北京中轴线为什么是斜的？ [read](http://www.huxiu.com/article/661185.html?f=wangzhan)
 
-   第二梯队新势力，从未远离生死线 [read](http://www.huxiu.com/article/659994.html?f=wangzhan)
+   最大的城 [read](http://www.huxiu.com/article/661009.html?f=wangzhan)
 
-   氪星晚报｜流媒体巨头Netflix宣布与育碧合作；Twitter多数股东投票支持将公司出售给马斯克；中国网文首次被收入大英图书馆 [read](https://36kr.com/p/1913590362212099)
+   长城智能化尖刀刺向特斯拉，毫末城市NOH计划9月交付｜最前线 [read](https://36kr.com/p/1914925071372036)
 
-   投资了Alexander Wang，挑战者创投却说消费还可以更冷一点 [read](https://36kr.com/p/1913267535660806)
+   氪星晚报｜苹果考虑年底前为App Store增加新广告位；小米自动驾驶专利可更准确识别交通灯；羊了个羊游戏火爆，吉比特回应：间接持有北京简游科技10%股权 [read](https://36kr.com/p/1915013413441800)
 
-   海外new things｜「Edupia」完成1400万美元A轮融资，致力于缩小越南地区之间的教育鸿沟 [read](https://36kr.com/p/1913431089809154)
+   海外new things｜「Daalchini」完成87万美元A轮融资，致力于在印度铺满自动售货机 [read](https://36kr.com/p/1914908198620931)
 
    通用多模态基础模型BEiT-3：引领文本、图像、多模态预训练迈向“大一统” [read](https://www.msra.cn/zh-cn/news/features/beit-3)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
 
+   AI 自己也没想到，它下一个颠覆的居然是「成人产业」 [read](http://www.geekpark.net/news/308213)
+
+   苹果或将在 App Store 加更多广告；蓝色起源首发火箭失败坠毁；Netflix《鱿鱼游戏》斩获艾美奖 [read](http://www.geekpark.net/news/308212)
+
    算力越高，车越智能？新造车「算力大战」背后的真相是啥？ [read](http://www.geekpark.net/news/307927)
-
-   苹果 iOS 16 正式版发布；星巴克推出 Web 3 平台 Starbucks Odyssey；迪士尼发布漫威宇宙新项目，「王者·灭霸」要来了 [read](http://www.geekpark.net/news/308150)
-
-   《隐入尘烟》为何没有隐入尘烟？ [read](http://www.geekpark.net/news/308149)
 
 ### 金融类
 
-   财报分析中的边际思维 [read](http://xueqiu.com/9277793488/230546644)
+   聊聊牧原上市以来定增的那些事 [read](http://xueqiu.com/8418018079/230695072)
 
-   闲来札记：把投资当作事业来做，最好是热爱 [read](http://xueqiu.com/3491303582/230630931)
+   “四冠王”赵诣掌舵，泉果基金首只公募来了 [read](http://xueqiu.com/1762638610/230713579)
 
-   雪球专刊——2022雪球基金直播节（基金经理篇） [read](http://xueqiu.com/3746414875/230629135)
+   中海油与陕煤的成本结构对比 [read](http://xueqiu.com/2270579915/230606845)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Symbol [read](https://www.behance.net/gallery/151114731/Symbol)
+   Designstuff Rebrand [read](https://www.behance.net/gallery/152433061/Designstuff-Rebrand)
 
-   Crep Protect [read](https://www.behance.net/gallery/150375103/Crep-Protect)
+   NEON WORMS [read](https://www.behance.net/gallery/152207259/NEON-WORMS)
 
-   "The Joy of..." red packet set [read](https://www.behance.net/gallery/152268335/The-Joy-of-red-packet-set)
+   Modena FC 1912 [read](https://www.behance.net/gallery/152304243/Modena-FC-1912)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
