@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.MarbleCanyon_EN-US7056773172_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BuffaloMural_EN-US7123580117_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -36,12 +36,6 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
-   奇舞周刊第 463 期 [read](https://weekly.75.team/issue463.html)
-
-   奇舞周刊第 462 期 [read](https://weekly.75.team/issue462.html)
-
-   奇舞周刊第 461 期 [read](https://weekly.75.team/issue461.html)
-
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
    服饰3D柔性渲染调研及实践 [read](https://fed.taobao.org/blog/taofed/do71ct/fufsgh)
@@ -68,51 +62,51 @@ title: "今日资讯"
 
 ### 互联网类
 
-   精品甜宠剧为何“消失”了？ [read](http://www.huxiu.com/article/661280.html?f=wangzhan)
+   无人机之后，大疆就靠它？ [read](http://www.huxiu.com/article/662404.html?f=wangzhan)
 
-   贯穿故宫，北京中轴线为什么是斜的？ [read](http://www.huxiu.com/article/661185.html?f=wangzhan)
+   地图测绘上了“紧箍咒”，没有一家车企能幸免 [read](http://www.huxiu.com/article/662260.html?f=wangzhan)
 
-   最大的城 [read](http://www.huxiu.com/article/661009.html?f=wangzhan)
+   法国在五常里是凑数的？揭露你不知道的西非现状 [read](http://www.huxiu.com/article/662137.html?f=wangzhan)
 
-   长城智能化尖刀刺向特斯拉，毫末城市NOH计划9月交付｜最前线 [read](https://36kr.com/p/1914925071372036)
+   最前线｜隆基绿能成立未来能源太空实验室，新技术产品将实现太空搭载 [read](https://36kr.com/p/1916500944199687)
 
-   氪星晚报｜苹果考虑年底前为App Store增加新广告位；小米自动驾驶专利可更准确识别交通灯；羊了个羊游戏火爆，吉比特回应：间接持有北京简游科技10%股权 [read](https://36kr.com/p/1915013413441800)
+   最前线 \| 荣耀发布千元X40系列，出货量登顶后瓶颈期近在眼前 [read](https://36kr.com/p/1916483268697864)
 
-   海外new things｜「Daalchini」完成87万美元A轮融资，致力于在印度铺满自动售货机 [read](https://36kr.com/p/1914908198620931)
+   恒大香港总部大楼：许家印的超短融提款机 [read](https://36kr.com/p/1916523074346756)
 
-   通用多模态基础模型BEiT-3：引领文本、图像、多模态预训练迈向“大一统” [read](https://www.msra.cn/zh-cn/news/features/beit-3)
+   微软年度科研盛会Research Summit 2022开启注册！ [read](https://www.msra.cn/zh-cn/news/features/research-summit-2022-register)
 
-   邓攀的“贪心”算法：从生物跨界到计算机是什么体验？ [read](https://www.msra.cn/zh-cn/news/features/ada-workshop-pan-deng)
+   像编辑文本一样编辑语音，可能吗？ [read](https://www.msra.cn/zh-cn/news/features/text-based-speech-editing)
 
-   微软亚洲研究院与CCF携手十六年，打造国际化学术共同体 [read](https://www.msra.cn/zh-cn/news/features/msra-ccf)
+   教师节特辑 \| 8则我与老师的小故事，描绘我心中的您 [read](https://www.msra.cn/zh-cn/news/features/teachers-day-2022)
+
+   乔·罗根对话扎克伯格：未来十年 VR/AR 能做到什么 [read](http://www.geekpark.net/news/308306)
+
+   为补贴，特斯拉或回美国制造电池；美大学 VR 实验室遭炸弹袭击；新 iPhone「灵动岛」可玩游戏 [read](http://www.geekpark.net/news/308275)
 
    AI 自己也没想到，它下一个颠覆的居然是「成人产业」 [read](http://www.geekpark.net/news/308213)
 
-   苹果或将在 App Store 加更多广告；蓝色起源首发火箭失败坠毁；Netflix《鱿鱼游戏》斩获艾美奖 [read](http://www.geekpark.net/news/308212)
-
-   算力越高，车越智能？新造车「算力大战」背后的真相是啥？ [read](http://www.geekpark.net/news/307927)
-
 ### 金融类
 
-   聊聊牧原上市以来定增的那些事 [read](http://xueqiu.com/8418018079/230695072)
+   中远海控要造船了 [read](http://xueqiu.com/5055730096/230811384)
 
-   “四冠王”赵诣掌舵，泉果基金首只公募来了 [read](http://xueqiu.com/1762638610/230713579)
+   雪球专刊——新锐基金经理怎么选 [read](http://xueqiu.com/3746414875/230816721)
 
-   中海油与陕煤的成本结构对比 [read](http://xueqiu.com/2270579915/230606845)
+   从行业视角看今年的基金投资 [read](http://xueqiu.com/4354731086/230652390)
 
 ### 学习类
+
+   💻 Issue 325 - Rust Foundation Establishes Security Team to Support and Advance Rust Programming Language [read](https://rust.libhunt.com/newsletter/325)
 
    💻 Issue 324 - Announcing Unreal Rust: A Rust integration for Unreal Engine 5 [read](https://rust.libhunt.com/newsletter/324)
 
    💻 Issue 323 - Toward fearless `cargo update` [read](https://rust.libhunt.com/newsletter/323)
 
-   💻 Issue 322 - Pinecone: Rust -- A hard decision pays off [read](https://rust.libhunt.com/newsletter/322)
+   This Week in Rust 460 [read](https://this-week-in-rust.org/blog/2022/09/14/this-week-in-rust-460/)
 
    This Week in Rust 459 [read](https://this-week-in-rust.org/blog/2022/09/07/this-week-in-rust-459/)
 
    This Week in Rust 458 [read](https://this-week-in-rust.org/blog/2022/08/31/this-week-in-rust-458/)
-
-   This Week in Rust 457 [read](https://this-week-in-rust.org/blog/2022/08/24/this-week-in-rust-457/)
 
    ETCD的内存问题 [read](https://coolshell.cn/articles/22242.html)
 
@@ -128,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Designstuff Rebrand [read](https://www.behance.net/gallery/152433061/Designstuff-Rebrand)
+   lli [read](https://www.behance.net/gallery/152718687/lli)
 
-   NEON WORMS [read](https://www.behance.net/gallery/152207259/NEON-WORMS)
+   The CABO Bar - Coktail Bar Branding [read](https://www.behance.net/gallery/152651411/The-CABO-Bar-Coktail-Bar-Branding)
 
-   Modena FC 1912 [read](https://www.behance.net/gallery/152304243/Modena-FC-1912)
+   Expressions [read](https://www.behance.net/gallery/152145615/Expressions)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -140,11 +134,11 @@ title: "今日资讯"
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
+   Wanji Walcott to join Pinterest as Chief Legal Officer [read](https://newsroom.pinterest.com/en/post/wanji-walcott-to-join-pinterest-as-chief-legal-officer)
+
    First Lady Dr. Jill Biden teams up with Pinterest to celebrate and support educators across the country [read](https://newsroom.pinterest.com/en/post/first-lady-dr-jill-biden-teams-up-with-pinterest-to-celebrate-and-support-educators-across-the)
 
    Pinterest defies self doubt in newest global brand campaign, “Don’t Don’t Yourself” [read](https://newsroom.pinterest.com/en/post/pinterest-defies-self-doubt-in-newest-global-brand-campaign-dont-dont-yourself)
-
-   Pinterest is committed to election integrity and civic engagement [read](https://newsroom.pinterest.com/en/post/pinterest-is-committed-to-election-integrity-and-civic-engagement)
 
    W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
