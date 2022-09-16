@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BuffaloMural_EN-US7123580117_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.PianePuma_EN-US7221521942_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 222 期）：四十年编程感想 [read](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-222.html)
+   科技爱好者周刊（第 223 期）：程序员需要担心裁员吗？ [read](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-223.html)
 
-   科技爱好者周刊（第 221 期）：全世界最繁荣的行业 [read](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-221.html)
+   科技爱好者周刊（第 222 期）：四十年编程感想 [read](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-222.html)
 
    多线程串行运行 Lua 虚拟机 [read](https://blog.codingnow.com/2022/09/multithread_lua_vm.html)
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    飞书 Android 升级 JDK 11 引发的 CI 构建性能问题 [read](https://blog.csdn.net/ByteDanceTech/article/details/126672639)
 
-   图技术在美团外卖下的场景化应用及探索 [read](https://tech.meituan.com/2022/09/08/gnn-scenariomodeling-subgraphextend-jointtraining.html)
+   目标检测开源框架YOLOv6全面升级，更快更准的2.0版本来啦 [read](https://tech.meituan.com/2022/09/15/yolov6-2.0.html)
 
-   基于AI算法的数据库异常监测系统的设计与实现 [read](https://tech.meituan.com/2022/09/01/database-monitoring-based-on-ai.html)
+   美团隐私计算平台通过行业权威认证 [read](https://tech.meituan.com/2022/09/15/meituan-privacy-preserving-computation.html)
 
-   Replication（上）：常见复制模型&分布式系统挑战 [read](https://tech.meituan.com/2022/08/25/replication-in-meituan-01.html)
+   自动化测试在美团外卖的实践与落地 [read](https://tech.meituan.com/2022/09/15/automated-testing-in-meituan.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -62,17 +62,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   无人机之后，大疆就靠它？ [read](http://www.huxiu.com/article/662404.html?f=wangzhan)
+   童年谜案：老冰棍味儿，到底是什么味儿？ [read](http://www.huxiu.com/article/663425.html?f=wangzhan)
 
-   地图测绘上了“紧箍咒”，没有一家车企能幸免 [read](http://www.huxiu.com/article/662260.html?f=wangzhan)
+   海外封神，中华文化如何拿捏外国人？ [read](http://www.huxiu.com/article/663170.html?f=wangzhan)
 
-   法国在五常里是凑数的？揭露你不知道的西非现状 [read](http://www.huxiu.com/article/662137.html?f=wangzhan)
+   脱口秀带火一只股票，背后是散户被“割韭菜”？ [read](http://www.huxiu.com/article/662438.html?f=wangzhan)
 
-   最前线｜隆基绿能成立未来能源太空实验室，新技术产品将实现太空搭载 [read](https://36kr.com/p/1916500944199687)
+   未来的IoT什么样？京东让梦想照进现实｜氪金·行业观察 [read](https://36kr.com/p/1917902067458057)
 
-   最前线 \| 荣耀发布千元X40系列，出货量登顶后瓶颈期近在眼前 [read](https://36kr.com/p/1916483268697864)
+   《人事管理的第一步，组织数字化的一大步｜数字时氪 组织升级ToB下午茶》 [read](https://36kr.com/p/1917743682625285)
 
-   恒大香港总部大楼：许家印的超短融提款机 [read](https://36kr.com/p/1916523074346756)
+   万物云将于9月19日启动IPO 基石投资金额2.8亿美元 [read](https://36kr.com/p/1917892484210696)
 
    微软年度科研盛会Research Summit 2022开启注册！ [read](https://www.msra.cn/zh-cn/news/features/research-summit-2022-register)
 
@@ -80,19 +80,19 @@ title: "今日资讯"
 
    教师节特辑 \| 8则我与老师的小故事，描绘我心中的您 [read](https://www.msra.cn/zh-cn/news/features/teachers-day-2022)
 
+   蔚小理正在失去「先发优势」 [read](http://www.geekpark.net/news/308386)
+
+   Adobe 200 亿美元收购设计平台 Figma；以太坊完成合并，告别「挖矿」；耐克开发「修鞋」机器人 [read](http://www.geekpark.net/news/308351)
+
    乔·罗根对话扎克伯格：未来十年 VR/AR 能做到什么 [read](http://www.geekpark.net/news/308306)
-
-   为补贴，特斯拉或回美国制造电池；美大学 VR 实验室遭炸弹袭击；新 iPhone「灵动岛」可玩游戏 [read](http://www.geekpark.net/news/308275)
-
-   AI 自己也没想到，它下一个颠覆的居然是「成人产业」 [read](http://www.geekpark.net/news/308213)
 
 ### 金融类
 
-   中远海控要造船了 [read](http://xueqiu.com/5055730096/230811384)
+   边际成本、边际现金支出和运价博弈 [read](http://xueqiu.com/9070764642/230919062)
 
-   雪球专刊——新锐基金经理怎么选 [read](http://xueqiu.com/3746414875/230816721)
+   集运究竟是否可以穿越周期 [read](http://xueqiu.com/9810354164/230898496)
 
-   从行业视角看今年的基金投资 [read](http://xueqiu.com/4354731086/230652390)
+   旭升股份2022半年报分析 [read](http://xueqiu.com/1934887308/230893499)
 
 ### 学习类
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   lli [read](https://www.behance.net/gallery/152718687/lli)
+   RESILIENCE MANIFESTO [read](https://www.behance.net/gallery/151660685/RESILIENCE-MANIFESTO)
 
-   The CABO Bar - Coktail Bar Branding [read](https://www.behance.net/gallery/152651411/The-CABO-Bar-Coktail-Bar-Branding)
+   Floradelic [read](https://www.behance.net/gallery/150429413/Floradelic)
 
-   Expressions [read](https://www.behance.net/gallery/152145615/Expressions)
+   Artquire - Brand identity [read](https://www.behance.net/gallery/152672249/Artquire-Brand-identity)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
