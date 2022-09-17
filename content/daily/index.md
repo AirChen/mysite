@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.PianePuma_EN-US7221521942_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Wellenflug_EN-US7380614960_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -42,11 +42,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   Babel 插件：30分钟从入门到实战 [read](https://blog.csdn.net/ByteDanceTech/article/details/126900235)
+
    HiveServer2 内存泄漏问题定位与优化方案 [read](https://blog.csdn.net/ByteDanceTech/article/details/126791895)
 
    火山引擎在行为分析场景下的 ClickHouse JOIN 优化 [read](https://blog.csdn.net/ByteDanceTech/article/details/126716600)
-
-   飞书 Android 升级 JDK 11 引发的 CI 构建性能问题 [read](https://blog.csdn.net/ByteDanceTech/article/details/126672639)
 
    目标检测开源框架YOLOv6全面升级，更快更准的2.0版本来啦 [read](https://tech.meituan.com/2022/09/15/yolov6-2.0.html)
 
@@ -62,17 +62,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   特斯拉搞促销，惹怒了谁？ [read](http://www.huxiu.com/article/664534.html?f=wangzhan)
+
+   优爱腾芒联合电视厂商，共同“作死”了电视行业？ [read](http://www.huxiu.com/article/663720.html?f=wangzhan)
+
    童年谜案：老冰棍味儿，到底是什么味儿？ [read](http://www.huxiu.com/article/663425.html?f=wangzhan)
 
-   海外封神，中华文化如何拿捏外国人？ [read](http://www.huxiu.com/article/663170.html?f=wangzhan)
+   9点1氪｜“羊了个羊”制作人否认日入468万；市监局回应茶颜悦色英文招牌争议；工信部研究推进eSIM应用 [read](https://36kr.com/p/1918036085170182)
 
-   脱口秀带火一只股票，背后是散户被“割韭菜”？ [read](http://www.huxiu.com/article/662438.html?f=wangzhan)
+   广东省“十四五”节能减排实施方案发布；特斯拉将对月底前提车国产车型补贴8000元保费 \| 36氪新能源日报0916 [read](https://36kr.com/p/1917724542001155)
 
    未来的IoT什么样？京东让梦想照进现实｜氪金·行业观察 [read](https://36kr.com/p/1917902067458057)
-
-   《人事管理的第一步，组织数字化的一大步｜数字时氪 组织升级ToB下午茶》 [read](https://36kr.com/p/1917743682625285)
-
-   万物云将于9月19日启动IPO 基石投资金额2.8亿美元 [read](https://36kr.com/p/1917892484210696)
 
    微软年度科研盛会Research Summit 2022开启注册！ [read](https://www.msra.cn/zh-cn/news/features/research-summit-2022-register)
 
@@ -80,19 +80,19 @@ title: "今日资讯"
 
    教师节特辑 \| 8则我与老师的小故事，描绘我心中的您 [read](https://www.msra.cn/zh-cn/news/features/teachers-day-2022)
 
+   国行 iPhone 14 采用长江存储闪存；字节跳动拟 30 亿美元回购股票；飞人乔丹球衣拍出 1010 万美元 \| 极客早知道 [read](http://www.geekpark.net/news/308434)
+
    蔚小理正在失去「先发优势」 [read](http://www.geekpark.net/news/308386)
 
    Adobe 200 亿美元收购设计平台 Figma；以太坊完成合并，告别「挖矿」；耐克开发「修鞋」机器人 [read](http://www.geekpark.net/news/308351)
 
-   乔·罗根对话扎克伯格：未来十年 VR/AR 能做到什么 [read](http://www.geekpark.net/news/308306)
-
 ### 金融类
 
-   边际成本、边际现金支出和运价博弈 [read](http://xueqiu.com/9070764642/230919062)
+   我们为什么学不好巴菲特？ [read](http://xueqiu.com/4381703788/230945547)
 
-   集运究竟是否可以穿越周期 [read](http://xueqiu.com/9810354164/230898496)
+   学习半夏投资四季度策略有感 [read](http://xueqiu.com/4027531808/230958007)
 
-   旭升股份2022半年报分析 [read](http://xueqiu.com/1934887308/230893499)
+   煤炭股到顶了吗？大概率还没！但要记住，周期股投资，胆大的死得快！兼谈中国神华H/兖矿能源H/中煤能源H [read](http://xueqiu.com/9363345092/230951956)
 
 ### 学习类
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   RESILIENCE MANIFESTO [read](https://www.behance.net/gallery/151660685/RESILIENCE-MANIFESTO)
+   The Other Side [read](https://www.behance.net/gallery/152471351/The-Other-Side)
 
-   Floradelic [read](https://www.behance.net/gallery/150429413/Floradelic)
+   Clued - Branding [read](https://www.behance.net/gallery/152728007/Clued-Branding)
 
-   Artquire - Brand identity [read](https://www.behance.net/gallery/152672249/Artquire-Brand-identity)
+   Summer guide \| Illustrations [read](https://www.behance.net/gallery/152570167/Summer-guide-Illustrations)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
