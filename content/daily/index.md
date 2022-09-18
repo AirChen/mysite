@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Wellenflug_EN-US7380614960_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ArashiyamaBamboo_EN-US7569665443_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -62,17 +62,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   特斯拉搞促销，惹怒了谁？ [read](http://www.huxiu.com/article/664534.html?f=wangzhan)
+   喜茶设计幕后故事，30元一杯血赚？ [read](http://www.huxiu.com/article/664418.html?f=wangzhan)
 
-   优爱腾芒联合电视厂商，共同“作死”了电视行业？ [read](http://www.huxiu.com/article/663720.html?f=wangzhan)
+   靠一块积木1年狂揽500亿，全球第一玩具品牌的发展史 [read](http://www.huxiu.com/article/664497.html?f=wangzhan)
 
-   童年谜案：老冰棍味儿，到底是什么味儿？ [read](http://www.huxiu.com/article/663425.html?f=wangzhan)
+   台风是如何被预测的？ [read](http://www.huxiu.com/article/664283.html?f=wangzhan)
 
-   9点1氪｜“羊了个羊”制作人否认日入468万；市监局回应茶颜悦色英文招牌争议；工信部研究推进eSIM应用 [read](https://36kr.com/p/1918036085170182)
+   制造业迈向“碳中和”，到了加速生产方式数字化转型的时刻｜最前线 [read](https://36kr.com/p/1916502082248452)
 
-   广东省“十四五”节能减排实施方案发布；特斯拉将对月底前提车国产车型补贴8000元保费 \| 36氪新能源日报0916 [read](https://36kr.com/p/1917724542001155)
+   医疗健康行业周报 \|「博斯腾」获数亿元A+轮融资；微创电生理孙毅勇谈集采背景下的国产替代 [read](https://36kr.com/p/1920447256846089)
 
-   未来的IoT什么样？京东让梦想照进现实｜氪金·行业观察 [read](https://36kr.com/p/1917902067458057)
+   焦点分析｜英伟达又逼走一个车企，自研芯片箭在弦上 [read](https://36kr.com/p/1917511476977668)
 
    微软年度科研盛会Research Summit 2022开启注册！ [read](https://www.msra.cn/zh-cn/news/features/research-summit-2022-register)
 
@@ -80,19 +80,19 @@ title: "今日资讯"
 
    教师节特辑 \| 8则我与老师的小故事，描绘我心中的您 [read](https://www.msra.cn/zh-cn/news/features/teachers-day-2022)
 
+   NASA 在火星发现大量有机物；英伟达合作伙伴：从此不产新显卡；中国有望推太空旅行，票价 200 万元起 [read](http://www.geekpark.net/news/308439)
+
    国行 iPhone 14 采用长江存储闪存；字节跳动拟 30 亿美元回购股票；飞人乔丹球衣拍出 1010 万美元 \| 极客早知道 [read](http://www.geekpark.net/news/308434)
 
    蔚小理正在失去「先发优势」 [read](http://www.geekpark.net/news/308386)
 
-   Adobe 200 亿美元收购设计平台 Figma；以太坊完成合并，告别「挖矿」；耐克开发「修鞋」机器人 [read](http://www.geekpark.net/news/308351)
-
 ### 金融类
 
-   我们为什么学不好巴菲特？ [read](http://xueqiu.com/4381703788/230945547)
+   红利基金评测&投资 [read](http://xueqiu.com/8653750491/230986953)
 
-   学习半夏投资四季度策略有感 [read](http://xueqiu.com/4027531808/230958007)
+   海新能科投资逻辑是否依然成立？ [read](http://xueqiu.com/6405911882/230986063)
 
-   煤炭股到顶了吗？大概率还没！但要记住，周期股投资，胆大的死得快！兼谈中国神华H/兖矿能源H/中煤能源H [read](http://xueqiu.com/9363345092/230951956)
+   为什么行业专家容易被股价打脸？ [read](http://xueqiu.com/9277793488/230996317)
 
 ### 学习类
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   The Other Side [read](https://www.behance.net/gallery/152471351/The-Other-Side)
+   Order Studio - Brand Identity Design [read](https://www.behance.net/gallery/152746631/Order-Studio-Brand-Identity-Design)
 
-   Clued - Branding [read](https://www.behance.net/gallery/152728007/Clued-Branding)
+   Editorial illustrations [read](https://www.behance.net/gallery/152866393/Editorial-illustrations)
 
-   Summer guide \| Illustrations [read](https://www.behance.net/gallery/152570167/Summer-guide-Illustrations)
+   S A N D R I F [read](https://www.behance.net/gallery/152321981/S-A-N-D-R-I-F)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
