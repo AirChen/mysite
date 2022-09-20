@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.QueenFuneral_EN-US7710269016_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SitkaOtters_EN-US7714053956_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   为什么这么多人感到自卑？8分钟教你克服 [read](http://www.huxiu.com/article/666719.html?f=wangzhan)
+
+   开发者全款买房，《羊了个羊》薅了全网6000万人羊毛？ [read](http://www.huxiu.com/article/665916.html?f=wangzhan)
+
    特斯拉看不上的高精地图，华为当个宝 [read](http://www.huxiu.com/article/661124.html?f=wangzhan)
 
-   广州人的摩托记忆：从致富象征到抢劫工具 [read](http://www.huxiu.com/article/665600.html?f=wangzhan)
+   海外new things \|AI开发公司「Awiros」获700万美元A轮融资用于产品提升和构建开发者社区 [read](https://36kr.com/p/1923568173375493)
 
-   市值腰斩，暴跌千亿美元，英伟达还有救吗？ [read](http://www.huxiu.com/article/665380.html?f=wangzhan)
+   海外new things \|AI工具提供商「Rephrase」获1060万美元A轮融资，计划用于整合产品体验，扩大招聘规模和业务 [read](https://36kr.com/p/1923529817448452)
 
-   海外new things \|AR职业培训技术提供商「Taqtile」获得500万美元战略投资 [read](https://36kr.com/p/1922062177722112)
-
-   氪星晚报｜京东快递接入抖音电商“音需达”服务；元气森林旗下植物茶品牌纤茶业绩同比增长10倍；锂价上涨“高攀不起” 钠电池性价比占优迎机遇 [read](https://36kr.com/p/1921971435364361)
-
-   中国一级市场GP大变局？制造业、医疗健康、企服是三大重点 [read](https://36kr.com/p/1921902356487944)
+   恒大已展期债券计划继续推迟兑付 [read](https://36kr.com/p/1923472811532290)
 
    微软年度科研盛会Research Summit 2022开启注册！ [read](https://www.msra.cn/zh-cn/news/features/research-summit-2022-register)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    教师节特辑 \| 8则我与老师的小故事，描绘我心中的您 [read](https://www.msra.cn/zh-cn/news/features/teachers-day-2022)
 
+   印度首富阿达尼成全球第二大富豪；Shopee 中国宣布裁员；TikTok 推出 Bereal 克隆品 \| 极客早知道 [read](http://www.geekpark.net/news/308522)
+
    看电影，国产AR眼镜的第一个「战场」 [read](http://www.geekpark.net/news/308519)
 
    苹果调查 iPhone 14 Pro 激活 bug；宁德时代预计钠离子电池 2023 年产业化；《GTA6》遭重大视频泄露 [read](http://www.geekpark.net/news/308441)
 
-   NASA 在火星发现大量有机物；英伟达合作伙伴：从此不产新显卡；中国有望推太空旅行，票价 200 万元起 [read](http://www.geekpark.net/news/308439)
-
 ### 金融类
 
-   聊聊高精地图的是与非 [read](http://xueqiu.com/4437116803/231019998)
+   拨开迷雾探寻腾讯的真实盈利数据 [read](http://xueqiu.com/6490468241/231174190)
 
-   农业板块基金如何投资？ [read](http://xueqiu.com/1632743930/230992110)
+   FOF-LOF产品流动性分析 [read](http://xueqiu.com/4778574435/231172538)
 
-   风光储为什么大跌，现在的投资机会又在哪里 [read](http://xueqiu.com/4349234094/231082158)
+   钠离子电池学习笔记 [read](http://xueqiu.com/1926044066/231144081)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   DIGIMON; CAPSULE EVOLUTION [read](https://www.behance.net/gallery/150483773/DIGIMON-CAPSULE-EVOLUTION)
+   BMW 'Forwardism' [read](https://www.behance.net/gallery/153047087/BMW-Forwardism)
 
-   TT Fors Font &amp; Specimen [read](https://www.behance.net/gallery/152336537/TT-Fors-Font-Specimen)
+   Tm coffee [read](https://www.behance.net/gallery/151939457/Tm-coffee)
 
-   PROJECT #73 CALIFORNIA COAST [read](https://www.behance.net/gallery/152854833/PROJECT-73-CALIFORNIA-COAST)
+   Camargue Memories [read](https://www.behance.net/gallery/149930693/Camargue-Memories)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
