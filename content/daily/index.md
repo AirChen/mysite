@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SitkaOtters_EN-US7714053956_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.PWPeaceDoves_EN-US7797522376_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   为什么这么多人感到自卑？8分钟教你克服 [read](http://www.huxiu.com/article/666719.html?f=wangzhan)
+   靠卖情趣内衣，这个苏北小镇每年赚20亿 [read](http://www.huxiu.com/article/667685.html?f=wangzhan)
 
-   开发者全款买房，《羊了个羊》薅了全网6000万人羊毛？ [read](http://www.huxiu.com/article/665916.html?f=wangzhan)
+   “青年断亲”背后，亲缘关系究竟发生着什么变化？ [read](http://www.huxiu.com/article/667705.html?f=wangzhan)
 
-   特斯拉看不上的高精地图，华为当个宝 [read](http://www.huxiu.com/article/661124.html?f=wangzhan)
+   为什么到处都是沙县小吃？ [read](http://www.huxiu.com/article/667699.html?f=wangzhan)
 
-   海外new things \|AI开发公司「Awiros」获700万美元A轮融资用于产品提升和构建开发者社区 [read](https://36kr.com/p/1923568173375493)
+   最前线｜英伟达发布汽车大算力芯片Thor，性能达Orin8倍 [read](https://36kr.com/p/1925290769283591)
 
-   海外new things \|AI工具提供商「Rephrase」获1060万美元A轮融资，计划用于整合产品体验，扩大招聘规模和业务 [read](https://36kr.com/p/1923529817448452)
+   36氪首发 \| 品牌出海新势力「Qpendo」获唯品会战略投资，围绕高频品类做跨境电商 [read](https://36kr.com/p/1903152560318850)
 
-   恒大已展期债券计划继续推迟兑付 [read](https://36kr.com/p/1923472811532290)
+   36氪2022中国基金合伙人峰会：助力人民币基金抢占新投资时代先机 [read](https://36kr.com/p/1924910024833536)
 
    微软年度科研盛会Research Summit 2022开启注册！ [read](https://www.msra.cn/zh-cn/news/features/research-summit-2022-register)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    教师节特辑 \| 8则我与老师的小故事，描绘我心中的您 [read](https://www.msra.cn/zh-cn/news/features/teachers-day-2022)
 
+   别把抖音想「小」了 [read](http://www.geekpark.net/news/308664)
+
+   英伟达 RTX 40 系列显卡发售；拼多多海外暂不上线砍一刀；李佳琦复播，商品不见一线大牌 [read](http://www.geekpark.net/news/308590)
+
    印度首富阿达尼成全球第二大富豪；Shopee 中国宣布裁员；TikTok 推出 Bereal 克隆品 \| 极客早知道 [read](http://www.geekpark.net/news/308522)
-
-   看电影，国产AR眼镜的第一个「战场」 [read](http://www.geekpark.net/news/308519)
-
-   苹果调查 iPhone 14 Pro 激活 bug；宁德时代预计钠离子电池 2023 年产业化；《GTA6》遭重大视频泄露 [read](http://www.geekpark.net/news/308441)
 
 ### 金融类
 
-   拨开迷雾探寻腾讯的真实盈利数据 [read](http://xueqiu.com/6490468241/231174190)
+   牧原股份2022年2023年利润预测： [read](http://xueqiu.com/5636485254/231194625)
 
-   FOF-LOF产品流动性分析 [read](http://xueqiu.com/4778574435/231172538)
+   基金亏得难受时，少看回撤控制好的基金 [read](http://xueqiu.com/8554675668/231263877)
 
-   钠离子电池学习笔记 [read](http://xueqiu.com/1926044066/231144081)
+   创新药的问题、价值及未来 [read](http://xueqiu.com/7516820417/231230625)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   BMW 'Forwardism' [read](https://www.behance.net/gallery/153047087/BMW-Forwardism)
+   Hyvi - Image de marque [read](https://www.behance.net/gallery/144035069/Hyvi-Image-de-marque)
 
-   Tm coffee [read](https://www.behance.net/gallery/151939457/Tm-coffee)
+   ???? [read](https://www.behance.net/gallery/151718947/_)
 
-   Camargue Memories [read](https://www.behance.net/gallery/149930693/Camargue-Memories)
+   THE BADLANDS SERIES [read](https://www.behance.net/gallery/153074227/THE-BADLANDS-SERIES)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
