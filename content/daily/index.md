@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.PWPeaceDoves_EN-US7797522376_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.LastDollarRoad_EN-US7923638318_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,51 +68,51 @@ title: "今日资讯"
 
 ### 互联网类
 
-   靠卖情趣内衣，这个苏北小镇每年赚20亿 [read](http://www.huxiu.com/article/667685.html?f=wangzhan)
+   为什么大货车多用柴油发动机？ [read](http://www.huxiu.com/article/668473.html?f=wangzhan)
 
-   “青年断亲”背后，亲缘关系究竟发生着什么变化？ [read](http://www.huxiu.com/article/667705.html?f=wangzhan)
+   毁誉参半的《赛博朋克2077》，被动画救回来了 [read](http://www.huxiu.com/article/668439.html?f=wangzhan)
 
-   为什么到处都是沙县小吃？ [read](http://www.huxiu.com/article/667699.html?f=wangzhan)
+   错把油车当电车的拜登，能治好美国电动车产业的焦虑？ [read](http://www.huxiu.com/article/668480.html?f=wangzhan)
 
-   最前线｜英伟达发布汽车大算力芯片Thor，性能达Orin8倍 [read](https://36kr.com/p/1925290769283591)
+   PingCAP 用户峰会：PingCAP 打造 PB 级在线数据服务平台 [read](https://36kr.com/p/1926474856942212)
 
-   36氪首发 \| 品牌出海新势力「Qpendo」获唯品会战略投资，围绕高频品类做跨境电商 [read](https://36kr.com/p/1903152560318850)
+   国内公募REITs迎来首个房地产开发商权益人 [read](https://36kr.com/p/1926296921406215)
 
-   36氪2022中国基金合伙人峰会：助力人民币基金抢占新投资时代先机 [read](https://36kr.com/p/1924910024833536)
+   逃离北京的Gap year：拍电影、获奖、撕掉精英标签 \| 城中人 [read](https://36kr.com/p/1926294961633801)
+
+   大咖云集！微软年度科研盛会在关注什么？ [read](https://www.msra.cn/zh-cn/news/features/microsoft-research-summit-plenaries)
 
    微软年度科研盛会Research Summit 2022开启注册！ [read](https://www.msra.cn/zh-cn/news/features/research-summit-2022-register)
 
    像编辑文本一样编辑语音，可能吗？ [read](https://www.msra.cn/zh-cn/news/features/text-based-speech-editing)
 
-   教师节特辑 \| 8则我与老师的小故事，描绘我心中的您 [read](https://www.msra.cn/zh-cn/news/features/teachers-day-2022)
+   英伟达又「拔」了一下 AI 的上限 [read](http://www.geekpark.net/news/308748)
 
-   别把抖音想「小」了 [read](http://www.geekpark.net/news/308664)
+   一个钉钉怎么面对「一千个哈姆雷特」 [read](http://www.geekpark.net/news/308660)
 
-   英伟达 RTX 40 系列显卡发售；拼多多海外暂不上线砍一刀；李佳琦复播，商品不见一线大牌 [read](http://www.geekpark.net/news/308590)
-
-   印度首富阿达尼成全球第二大富豪；Shopee 中国宣布裁员；TikTok 推出 Bereal 克隆品 \| 极客早知道 [read](http://www.geekpark.net/news/308522)
+   上半年抖音生活服务交易总额同比增长 30 余倍；美联储加息 75 个基点；小鹏 G9 上市，起售价 30.99 万元 [read](http://www.geekpark.net/news/308665)
 
 ### 金融类
 
-   牧原股份2022年2023年利润预测： [read](http://xueqiu.com/5636485254/231194625)
+   9只农业主题基金：绕不开的“猪周期” [read](http://xueqiu.com/3179670287/231358062)
 
-   基金亏得难受时，少看回撤控制好的基金 [read](http://xueqiu.com/8554675668/231263877)
+   硅料降价对通威的业绩影响 [read](http://xueqiu.com/7514682568/231357956)
 
-   创新药的问题、价值及未来 [read](http://xueqiu.com/7516820417/231230625)
+   深度解析美联储加息如何影响全球资本市场 [read](http://xueqiu.com/7815672011/231340649)
 
 ### 学习类
+
+   💻 Issue 326 - Linus Torvalds: Rust will go into Linux 6.1 [read](https://rust.libhunt.com/newsletter/326)
 
    💻 Issue 325 - Rust Foundation Establishes Security Team to Support and Advance Rust Programming Language [read](https://rust.libhunt.com/newsletter/325)
 
    💻 Issue 324 - Announcing Unreal Rust: A Rust integration for Unreal Engine 5 [read](https://rust.libhunt.com/newsletter/324)
 
-   💻 Issue 323 - Toward fearless `cargo update` [read](https://rust.libhunt.com/newsletter/323)
+   This Week in Rust 461 [read](https://this-week-in-rust.org/blog/2022/09/21/this-week-in-rust-461/)
 
    This Week in Rust 460 [read](https://this-week-in-rust.org/blog/2022/09/14/this-week-in-rust-460/)
 
    This Week in Rust 459 [read](https://this-week-in-rust.org/blog/2022/09/07/this-week-in-rust-459/)
-
-   This Week in Rust 458 [read](https://this-week-in-rust.org/blog/2022/08/31/this-week-in-rust-458/)
 
    ETCD的内存问题 [read](https://coolshell.cn/articles/22242.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Hyvi - Image de marque [read](https://www.behance.net/gallery/144035069/Hyvi-Image-de-marque)
+   Summer 2022 Character Design [read](https://www.behance.net/gallery/145880651/Summer-2022-Character-Design)
 
-   ???? [read](https://www.behance.net/gallery/151718947/_)
+   Archer ? Brand Identity [read](https://www.behance.net/gallery/152138539/Archer-Brand-Identity)
 
-   THE BADLANDS SERIES [read](https://www.behance.net/gallery/153074227/THE-BADLANDS-SERIES)
+   The Namibia Series [read](https://www.behance.net/gallery/152957763/The-Namibia-Series)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
