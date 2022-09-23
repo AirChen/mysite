@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.LastDollarRoad_EN-US7923638318_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GoldenJellyfish_EN-US6743816471_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 223 期）：程序员需要担心裁员吗？ [read](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-223.html)
+   科技爱好者周刊（第 224 期）：Figma 为什么赢了 Sketch [read](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html)
 
-   科技爱好者周刊（第 222 期）：四十年编程感想 [read](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-222.html)
+   科技爱好者周刊（第 223 期）：程序员需要担心裁员吗？ [read](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-223.html)
 
    多线程串行运行 Lua 虚拟机 [read](https://blog.codingnow.com/2022/09/multithread_lua_vm.html)
 
@@ -36,12 +36,6 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
-   奇舞周刊第 464 期 [read](https://weekly.75.team/issue464.html)
-
-   奇舞周刊第 463 期 [read](https://weekly.75.team/issue463.html)
-
-   奇舞周刊第 462 期 [read](https://weekly.75.team/issue462.html)
-
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
    服饰3D柔性渲染调研及实践 [read](https://fed.taobao.org/blog/taofed/do71ct/fufsgh)
@@ -68,17 +62,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   为什么大货车多用柴油发动机？ [read](http://www.huxiu.com/article/668473.html?f=wangzhan)
+   50一碗“高攀不起”，麻辣烫为什么变贵了？ [read](http://www.huxiu.com/article/669886.html?f=wangzhan)
 
-   毁誉参半的《赛博朋克2077》，被动画救回来了 [read](http://www.huxiu.com/article/668439.html?f=wangzhan)
+   车，怎么知道下雨了？ [read](http://www.huxiu.com/article/669745.html?f=wangzhan)
 
-   错把油车当电车的拜登，能治好美国电动车产业的焦虑？ [read](http://www.huxiu.com/article/668480.html?f=wangzhan)
+   年亏上亿的彩电商家很疑惑：为啥没人爱看电视了？ [read](http://www.huxiu.com/article/669721.html?f=wangzhan)
 
-   PingCAP 用户峰会：PingCAP 打造 PB 级在线数据服务平台 [read](https://36kr.com/p/1926474856942212)
+   36氪晚报丨三星户外显示屏涉嫌侵权遭美国ITC调查；媒体称富士康已拆除部分iPhone 14生产线；京东超市与隆平农场团队达成战略合作 [read](https://36kr.com/p/1927851366713986)
 
-   国内公募REITs迎来首个房地产开发商权益人 [read](https://36kr.com/p/1926296921406215)
+   海外new things \|「Knoetic」获得3600万美元B轮融资，使CHRO能够做出更好的、数据驱动的决策 [read](https://36kr.com/p/1927777456130693)
 
-   逃离北京的Gap year：拍电影、获奖、撕掉精英标签 \| 城中人 [read](https://36kr.com/p/1926294961633801)
+   压力大的时候，你会做些什么来缓解？ \| 年轻人「解压方式」小调查 [read](https://36kr.com/p/1927712702024327)
 
    大咖云集！微软年度科研盛会在关注什么？ [read](https://www.msra.cn/zh-cn/news/features/microsoft-research-summit-plenaries)
 
@@ -86,19 +80,19 @@ title: "今日资讯"
 
    像编辑文本一样编辑语音，可能吗？ [read](https://www.msra.cn/zh-cn/news/features/text-based-speech-editing)
 
+   航天这件大事儿，腾讯是如何从「小」做起的 [read](http://www.geekpark.net/news/308762)
+
+   拼多多跨境电商平台 Temu 单日下载量超亚马逊；拉里·佩奇的飞行汽车公司将关停；PICO 4 海外版起售价 429 欧元 [read](http://www.geekpark.net/news/308749)
+
    英伟达又「拔」了一下 AI 的上限 [read](http://www.geekpark.net/news/308748)
-
-   一个钉钉怎么面对「一千个哈姆雷特」 [read](http://www.geekpark.net/news/308660)
-
-   上半年抖音生活服务交易总额同比增长 30 余倍；美联储加息 75 个基点；小鹏 G9 上市，起售价 30.99 万元 [read](http://www.geekpark.net/news/308665)
 
 ### 金融类
 
-   9只农业主题基金：绕不开的“猪周期” [read](http://xueqiu.com/3179670287/231358062)
+   基金投顾的价值在哪里？一文给你讲清楚 [read](http://xueqiu.com/3464131377/231446771)
 
-   硅料降价对通威的业绩影响 [read](http://xueqiu.com/7514682568/231357956)
+   在透心凉的市场中寻找“小确幸” [read](http://xueqiu.com/9047540546/231428285)
 
-   深度解析美联储加息如何影响全球资本市场 [read](http://xueqiu.com/7815672011/231340649)
+   医保控费到底颠覆了什么行业逻辑？ [read](http://xueqiu.com/1335311504/231387300)
 
 ### 学习类
 
@@ -128,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Summer 2022 Character Design [read](https://www.behance.net/gallery/145880651/Summer-2022-Character-Design)
+   Tridente [read](https://www.behance.net/gallery/152284385/Tridente)
 
-   Archer ? Brand Identity [read](https://www.behance.net/gallery/152138539/Archer-Brand-Identity)
+   Geneva Camerata - key visuals [read](https://www.behance.net/gallery/153264317/Geneva-Camerata-key-visuals)
 
-   The Namibia Series [read](https://www.behance.net/gallery/152957763/The-Namibia-Series)
+   Snakes [read](https://www.behance.net/gallery/152945467/Snakes)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
