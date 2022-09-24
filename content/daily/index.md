@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GoldenJellyfish_EN-US6743816471_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.DarkSkyAcadia_EN-US6966527964_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -36,6 +36,12 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 465 期 [read](https://weekly.75.team/issue465.html)
+
+   奇舞周刊第 464 期 [read](https://weekly.75.team/issue464.html)
+
+   奇舞周刊第 463 期 [read](https://weekly.75.team/issue463.html)
+
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
    服饰3D柔性渲染调研及实践 [read](https://fed.taobao.org/blog/taofed/do71ct/fufsgh)
@@ -62,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   50一碗“高攀不起”，麻辣烫为什么变贵了？ [read](http://www.huxiu.com/article/669886.html?f=wangzhan)
+   总裁套现，套壳研发，理想“下半场”还有没有理想？ [read](http://www.huxiu.com/article/669950.html?f=wangzhan)
 
-   车，怎么知道下雨了？ [read](http://www.huxiu.com/article/669745.html?f=wangzhan)
+   人在迷茫时该如何做选择？5个步骤帮你找到生活方向 [read](http://www.huxiu.com/article/666739.html?f=wangzhan)
 
-   年亏上亿的彩电商家很疑惑：为啥没人爱看电视了？ [read](http://www.huxiu.com/article/669721.html?f=wangzhan)
+   徐志胜也救不了脱口秀 [read](http://www.huxiu.com/article/669884.html?f=wangzhan)
 
-   36氪晚报丨三星户外显示屏涉嫌侵权遭美国ITC调查；媒体称富士康已拆除部分iPhone 14生产线；京东超市与隆平农场团队达成战略合作 [read](https://36kr.com/p/1927851366713986)
+   AMC「打包」纾困，抽走出险房企的最后一张牌丨氪金 · 房地产 [read](https://36kr.com/p/1927646760208772)
 
-   海外new things \|「Knoetic」获得3600万美元B轮融资，使CHRO能够做出更好的、数据驱动的决策 [read](https://36kr.com/p/1927777456130693)
+   你常吃的外卖70%都是预制菜，中餐馆的烟火气正在消失 [read](https://36kr.com/p/1927295880268165)
 
-   压力大的时候，你会做些什么来缓解？ \| 年轻人「解压方式」小调查 [read](https://36kr.com/p/1927712702024327)
+   IPO观察｜卖1块赚2毛，蜜雪冰城为什么这么赚钱？ [read](https://36kr.com/p/1927141935401604)
 
    大咖云集！微软年度科研盛会在关注什么？ [read](https://www.msra.cn/zh-cn/news/features/microsoft-research-summit-plenaries)
 
@@ -80,19 +86,19 @@ title: "今日资讯"
 
    像编辑文本一样编辑语音，可能吗？ [read](https://www.msra.cn/zh-cn/news/features/text-based-speech-editing)
 
+   冲击高端之路上，Apple Watch Ultra 是苹果的一次「服输」 [read](http://www.geekpark.net/news/308669)
+
+   NASA 将执行史上首个小行星防御任务；小红书 CFO 离职；谷歌员工对削减成本不满 [read](http://www.geekpark.net/news/308830)
+
    航天这件大事儿，腾讯是如何从「小」做起的 [read](http://www.geekpark.net/news/308762)
-
-   拼多多跨境电商平台 Temu 单日下载量超亚马逊；拉里·佩奇的飞行汽车公司将关停；PICO 4 海外版起售价 429 欧元 [read](http://www.geekpark.net/news/308749)
-
-   英伟达又「拔」了一下 AI 的上限 [read](http://www.geekpark.net/news/308748)
 
 ### 金融类
 
-   基金投顾的价值在哪里？一文给你讲清楚 [read](http://xueqiu.com/3464131377/231446771)
+   20年的大周期：中国船舶投资逻辑拆解 [read](http://xueqiu.com/9210717241/231488221)
 
-   在透心凉的市场中寻找“小确幸” [read](http://xueqiu.com/9047540546/231428285)
+   医保政策，真的是利空吗？ [read](http://xueqiu.com/1830902728/231487343)
 
-   医保控费到底颠覆了什么行业逻辑？ [read](http://xueqiu.com/1335311504/231387300)
+   近期市场为啥下跌以及未来展望 [read](http://xueqiu.com/4027531808/231486367)
 
 ### 学习类
 
@@ -122,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Tridente [read](https://www.behance.net/gallery/152284385/Tridente)
+   Olympus Bank [read](https://www.behance.net/gallery/153184241/Olympus-Bank)
 
-   Geneva Camerata - key visuals [read](https://www.behance.net/gallery/153264317/Geneva-Camerata-key-visuals)
+   Magnum Destinations [read](https://www.behance.net/gallery/132358239/Magnum-Destinations)
 
-   Snakes [read](https://www.behance.net/gallery/152945467/Snakes)
+   Portraits ? Writers [read](https://www.behance.net/gallery/148482827/Portraits-Writers)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
