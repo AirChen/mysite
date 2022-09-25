@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.DarkSkyAcadia_EN-US6966527964_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AmazonMangroves_EN-US7068770726_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   4个方法，学会爱自己 [read](http://www.huxiu.com/article/667474.html?f=wangzhan)
+
    总裁套现，套壳研发，理想“下半场”还有没有理想？ [read](http://www.huxiu.com/article/669950.html?f=wangzhan)
 
    人在迷茫时该如何做选择？5个步骤帮你找到生活方向 [read](http://www.huxiu.com/article/666739.html?f=wangzhan)
 
-   徐志胜也救不了脱口秀 [read](http://www.huxiu.com/article/669884.html?f=wangzhan)
+   花1万买一台手机？「我买得起，但绝不当大冤种」 [read](https://36kr.com/p/1927332237462153)
 
    AMC「打包」纾困，抽走出险房企的最后一张牌丨氪金 · 房地产 [read](https://36kr.com/p/1927646760208772)
 
    你常吃的外卖70%都是预制菜，中餐馆的烟火气正在消失 [read](https://36kr.com/p/1927295880268165)
-
-   IPO观察｜卖1块赚2毛，蜜雪冰城为什么这么赚钱？ [read](https://36kr.com/p/1927141935401604)
 
    大咖云集！微软年度科研盛会在关注什么？ [read](https://www.msra.cn/zh-cn/news/features/microsoft-research-summit-plenaries)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    像编辑文本一样编辑语音，可能吗？ [read](https://www.msra.cn/zh-cn/news/features/text-based-speech-editing)
 
+   国内首个元宇宙大学院系设立；小鹏汽车首批 S4 超快充站上线；《权力的游戏》NFT 来了 [read](http://www.geekpark.net/news/308832)
+
    冲击高端之路上，Apple Watch Ultra 是苹果的一次「服输」 [read](http://www.geekpark.net/news/308669)
 
    NASA 将执行史上首个小行星防御任务；小红书 CFO 离职；谷歌员工对削减成本不满 [read](http://www.geekpark.net/news/308830)
 
-   航天这件大事儿，腾讯是如何从「小」做起的 [read](http://www.geekpark.net/news/308762)
-
 ### 金融类
 
-   20年的大周期：中国船舶投资逻辑拆解 [read](http://xueqiu.com/9210717241/231488221)
+   筛选了几只穿越牛熊的“固收+”基金 [read](http://xueqiu.com/9411213320/231490937)
 
-   医保政策，真的是利空吗？ [read](http://xueqiu.com/1830902728/231487343)
+   口腔医疗服务有没有长期投资价值 [read](http://xueqiu.com/2299425930/231488648)
 
-   近期市场为啥下跌以及未来展望 [read](http://xueqiu.com/4027531808/231486367)
+   3年前为什么选择分析伊利股份？ [read](http://xueqiu.com/1830902728/231514585)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Olympus Bank [read](https://www.behance.net/gallery/153184241/Olympus-Bank)
+   Dominik Tarabanski [read](https://www.behance.net/gallery/88891331/Dominik-Tarabanski)
 
-   Magnum Destinations [read](https://www.behance.net/gallery/132358239/Magnum-Destinations)
+   Purple [read](https://www.behance.net/gallery/153389133/Purple)
 
-   Portraits ? Writers [read](https://www.behance.net/gallery/148482827/Portraits-Writers)
+   West of Tibet [read](https://www.behance.net/gallery/146436079/West-of-Tibet)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
