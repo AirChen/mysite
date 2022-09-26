@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AmazonMangroves_EN-US7068770726_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SusitnaRiver_EN-US7154675950_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -54,11 +54,11 @@ title: "今日资讯"
 
    火山引擎在行为分析场景下的 ClickHouse JOIN 优化 [read](https://blog.csdn.net/ByteDanceTech/article/details/126716600)
 
+   数字化新业态下数据安全创新——Token化 [read](https://tech.meituan.com/2022/09/22/token-pii.html)
+
+   通用目标检测开源框架YOLOv6在美团的量化部署实战 [read](https://tech.meituan.com/2022/09/22/yolov6-quantization-in-meituan.html)
+
    目标检测开源框架YOLOv6全面升级，更快更准的2.0版本来啦 [read](https://tech.meituan.com/2022/09/15/yolov6-2.0.html)
-
-   美团隐私计算平台通过行业权威认证 [read](https://tech.meituan.com/2022/09/15/meituan-privacy-preserving-computation.html)
-
-   自动化测试在美团外卖的实践与落地 [read](https://tech.meituan.com/2022/09/15/automated-testing-in-meituan.html)
 
    FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
+   4种典型思维陷阱，避免“假努力” [read](http://www.huxiu.com/article/667483.html?f=wangzhan)
+
    4个方法，学会爱自己 [read](http://www.huxiu.com/article/667474.html?f=wangzhan)
 
    总裁套现，套壳研发，理想“下半场”还有没有理想？ [read](http://www.huxiu.com/article/669950.html?f=wangzhan)
 
-   人在迷茫时该如何做选择？5个步骤帮你找到生活方向 [read](http://www.huxiu.com/article/666739.html?f=wangzhan)
+   蔚来将投资阿根廷锂矿项目，斥资或超6亿元丨最前线 [read](https://36kr.com/p/1932065140803972)
 
-   花1万买一台手机？「我买得起，但绝不当大冤种」 [read](https://36kr.com/p/1927332237462153)
+   氪星晚报 \| 亚马逊将首次举办“Prime会员早享日”；微软中国任命原欣为中国区总裁；腾讯发布《全真互联白皮书》 [read](https://36kr.com/p/1932011868588677)
 
-   AMC「打包」纾困，抽走出险房企的最后一张牌丨氪金 · 房地产 [read](https://36kr.com/p/1927646760208772)
-
-   你常吃的外卖70%都是预制菜，中餐馆的烟火气正在消失 [read](https://36kr.com/p/1927295880268165)
+   「人民币基金新与旧」圆桌对话：更复杂的商业环境、更艰巨的历史使命之下，新老机构对于变化的思考｜2022中国基金合伙人未来峰会 [read](https://36kr.com/p/1931668033472901)
 
    大咖云集！微软年度科研盛会在关注什么？ [read](https://www.msra.cn/zh-cn/news/features/microsoft-research-summit-plenaries)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    像编辑文本一样编辑语音，可能吗？ [read](https://www.msra.cn/zh-cn/news/features/text-based-speech-editing)
 
+   200 亿美元「卖身」巨头，Figma 不是 SaaS 的「终极出路」 [read](http://www.geekpark.net/news/308833)
+
+   全球最大图库禁止上传 AI 生成图片；宏光 MINI EV 敞篷版上市，9 万 9 起；火星变成人类「垃圾场」 \| 极客早知道 [read](http://www.geekpark.net/news/308834)
+
    国内首个元宇宙大学院系设立；小鹏汽车首批 S4 超快充站上线；《权力的游戏》NFT 来了 [read](http://www.geekpark.net/news/308832)
-
-   冲击高端之路上，Apple Watch Ultra 是苹果的一次「服输」 [read](http://www.geekpark.net/news/308669)
-
-   NASA 将执行史上首个小行星防御任务；小红书 CFO 离职；谷歌员工对削减成本不满 [read](http://www.geekpark.net/news/308830)
 
 ### 金融类
 
-   筛选了几只穿越牛熊的“固收+”基金 [read](http://xueqiu.com/9411213320/231490937)
+   抄北向资金作业的正确姿势 [read](http://xueqiu.com/4778574435/231559169)
 
-   口腔医疗服务有没有长期投资价值 [read](http://xueqiu.com/2299425930/231488648)
+   我所经历的牛熊 [read](http://xueqiu.com/1955602780/231590723)
 
-   3年前为什么选择分析伊利股份？ [read](http://xueqiu.com/1830902728/231514585)
+   到底要跌到什么时候？ [read](http://xueqiu.com/6146592061/231589770)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Dominik Tarabanski [read](https://www.behance.net/gallery/88891331/Dominik-Tarabanski)
+   Faces#3 [read](https://www.behance.net/gallery/153423651/Faces3)
 
-   Purple [read](https://www.behance.net/gallery/153389133/Purple)
+   The Pad [read](https://www.behance.net/gallery/153494963/The-Pad)
 
-   West of Tibet [read](https://www.behance.net/gallery/146436079/West-of-Tibet)
+   Hey ¬ Hi [read](https://www.behance.net/gallery/153439411/Hey-Hi)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
