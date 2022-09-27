@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SusitnaRiver_EN-US7154675950_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.YellowstoneUGB_EN-US7573964019_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   Redis 持久化策略浅析 [read](https://blog.csdn.net/ByteDanceTech/article/details/127063928)
+
    Babel 插件：30分钟从入门到实战 [read](https://blog.csdn.net/ByteDanceTech/article/details/126900235)
 
    HiveServer2 内存泄漏问题定位与优化方案 [read](https://blog.csdn.net/ByteDanceTech/article/details/126791895)
-
-   火山引擎在行为分析场景下的 ClickHouse JOIN 优化 [read](https://blog.csdn.net/ByteDanceTech/article/details/126716600)
 
    数字化新业态下数据安全创新——Token化 [read](https://tech.meituan.com/2022/09/22/token-pii.html)
 
@@ -68,17 +68,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   4种典型思维陷阱，避免“假努力” [read](http://www.huxiu.com/article/667483.html?f=wangzhan)
+   余额宝是怎么从理财神器变成钱包刺客的？ [read](http://www.huxiu.com/article/672833.html?f=wangzhan)
 
-   4个方法，学会爱自己 [read](http://www.huxiu.com/article/667474.html?f=wangzhan)
+   苹果PK华为，卫星通信哪家强？ [read](http://www.huxiu.com/article/672244.html?f=wangzhan)
 
-   总裁套现，套壳研发，理想“下半场”还有没有理想？ [read](http://www.huxiu.com/article/669950.html?f=wangzhan)
+   你的汽车，需要弹射座椅吗？ [read](http://www.huxiu.com/article/663492.html?f=wangzhan)
 
-   蔚来将投资阿根廷锂矿项目，斥资或超6亿元丨最前线 [read](https://36kr.com/p/1932065140803972)
+   海外news things丨加纳农业科技公司「Farmerline」获1440万美元A轮融资，致力于打造农产品数字化市场 [read](https://36kr.com/p/1933275729611397)
 
-   氪星晚报 \| 亚马逊将首次举办“Prime会员早享日”；微软中国任命原欣为中国区总裁；腾讯发布《全真互联白皮书》 [read](https://36kr.com/p/1932011868588677)
+   氪星晚报 \| 特斯拉预计本季度末交付量“非常大”；网易云音乐首款音乐社交App MUS正式开放注册；三部门：加大支持科技创新税前扣除力度 [read](https://36kr.com/p/1933407018191235)
 
-   「人民币基金新与旧」圆桌对话：更复杂的商业环境、更艰巨的历史使命之下，新老机构对于变化的思考｜2022中国基金合伙人未来峰会 [read](https://36kr.com/p/1931668033472901)
+   海外news things丨元宇宙基础设施开发公司「Hadean」获3000万美元A轮融资，将开发儿童友好元宇宙 [read](https://36kr.com/p/1933265126328707)
 
    大咖云集！微软年度科研盛会在关注什么？ [read](https://www.msra.cn/zh-cn/news/features/microsoft-research-summit-plenaries)
 
@@ -86,19 +86,19 @@ title: "今日资讯"
 
    像编辑文本一样编辑语音，可能吗？ [read](https://www.msra.cn/zh-cn/news/features/text-based-speech-editing)
 
+   人类「星球大战」的第一步，是拿卫星「撞」小行星 [read](http://www.geekpark.net/news/308969)
+
+   地平线获 D 轮融资，奇瑞领投；腾讯发布「天籁助听器」，2880 元起；NASA 飞船成功撞击小行星 [read](http://www.geekpark.net/news/308910)
+
    200 亿美元「卖身」巨头，Figma 不是 SaaS 的「终极出路」 [read](http://www.geekpark.net/news/308833)
-
-   全球最大图库禁止上传 AI 生成图片；宏光 MINI EV 敞篷版上市，9 万 9 起；火星变成人类「垃圾场」 \| 极客早知道 [read](http://www.geekpark.net/news/308834)
-
-   国内首个元宇宙大学院系设立；小鹏汽车首批 S4 超快充站上线；《权力的游戏》NFT 来了 [read](http://www.geekpark.net/news/308832)
 
 ### 金融类
 
-   抄北向资金作业的正确姿势 [read](http://xueqiu.com/4778574435/231559169)
+   全球对光伏的三种渴求强度 [read](http://xueqiu.com/7664480424/231672526)
 
-   我所经历的牛熊 [read](http://xueqiu.com/1955602780/231590723)
+   下一步计划：提前使用明年的分红和收入继续买入 [read](http://xueqiu.com/8534614057/231608979)
 
-   到底要跌到什么时候？ [read](http://xueqiu.com/6146592061/231589770)
+   什么才是真正的优质高股息股票？ [read](http://xueqiu.com/5629103269/231604997)
 
 ### 学习类
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Faces#3 [read](https://www.behance.net/gallery/153423651/Faces3)
+   Exotrail, space mobility - Brand design [read](https://www.behance.net/gallery/153530639/Exotrail-space-mobility-Brand-design)
 
-   The Pad [read](https://www.behance.net/gallery/153494963/The-Pad)
+   Portraits 11 [read](https://www.behance.net/gallery/153514031/Portraits-11)
 
-   Hey ¬ Hi [read](https://www.behance.net/gallery/153439411/Hey-Hi)
+   Maritime Miracle [read](https://www.behance.net/gallery/152993867/Maritime-Miracle)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
