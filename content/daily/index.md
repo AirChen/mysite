@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FosterCoveredBridge_EN-US7763700078_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.InfiniD_EN-US7855471603_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   prompt 综述 [read](https://blog.csdn.net/ByteDanceTech/article/details/127099625)
+
    初探自然语言预训练技术演进之路 [read](https://blog.csdn.net/ByteDanceTech/article/details/127081484)
 
    Redis 持久化策略浅析 [read](https://blog.csdn.net/ByteDanceTech/article/details/127063928)
-
-   Babel 插件：30分钟从入门到实战 [read](https://blog.csdn.net/ByteDanceTech/article/details/126900235)
 
    数字化新业态下数据安全创新——Token化 [read](https://tech.meituan.com/2022/09/22/token-pii.html)
 
@@ -68,51 +68,51 @@ title: "今日资讯"
 
 ### 互联网类
 
-   全天不困，5个绝密技巧让你高效睡眠 [read](http://www.huxiu.com/article/667613.html?f=wangzhan)
+   电动汽车的二手电池卖疯了：都是房车热的锅？ [read](http://www.huxiu.com/article/674882.html?f=wangzhan)
 
-   大疆搞车，扶持五菱KiWi？ [read](http://www.huxiu.com/article/673865.html?f=wangzhan)
+   在元宇宙，流量不再是成为“周杰伦”的唯一密码 [read](http://www.huxiu.com/article/673554.html?f=wangzhan)
 
-   你的焦虑，是因为把时间都碎片化了 [read](http://www.huxiu.com/article/671070.html?f=wangzhan)
+   蜜雪冰城，为什么这么赚钱？ [read](http://www.huxiu.com/article/674059.html?f=wangzhan)
 
-   零工平台这么多，自由职业仍难自由 [read](https://36kr.com/p/1934674010114695)
+   盒马大嘴“狂啃”四年 千亿有机食品市场起风了 [read](https://36kr.com/p/1936244603062660)
 
-   从产业到资本，从资本到产业\|2022中国基金合伙人峰会 [read](https://36kr.com/p/1934619179698816)
+   在檀谷，找到北京秋天的一百种方式 [read](https://36kr.com/p/1936173552273794)
 
-   36氪首发丨「MOON GROUND」完成数百万种子轮融资，以健康果蔬汁切入新式茶饮市场 [read](https://36kr.com/p/1934648344611457)
+   黄鹂智声为用户降噪，36氪为黄鹂智声发声 [read](https://36kr.com/p/1924383166626308)
+
+   USB：首个将视觉、语言和音频分类任务进行统一的半监督分类学习基准 [read](https://www.msra.cn/zh-cn/news/features/usb)
 
    大咖云集！微软年度科研盛会在关注什么？ [read](https://www.msra.cn/zh-cn/news/features/microsoft-research-summit-plenaries)
 
    微软年度科研盛会Research Summit 2022开启注册！ [read](https://www.msra.cn/zh-cn/news/features/research-summit-2022-register)
 
-   像编辑文本一样编辑语音，可能吗？ [read](https://www.msra.cn/zh-cn/news/features/text-based-speech-editing)
+   拉里·佩奇：创谷歌易，做飞行汽车难 [read](http://www.geekpark.net/news/309083)
+
+   罗永浩卸任锤子科技集团总经理；苹果放弃 iPhone 14 增产计划；湖北发现完整直立人头骨化石，欧亚首例 \| 极客早知道 [read](http://www.geekpark.net/news/309073)
 
    收购 PICO 一周年，字节给 VR 带来了什么？ [read](http://www.geekpark.net/news/309034)
 
-   对话影石刘靖康：两代未出现划时代的产品，就会沦为平庸的品牌 [read](http://www.geekpark.net/news/308996)
-
-   马斯克成美国第一富豪；苹果 App Store 或可出售 NFT；英特尔发布 13 代酷睿处理器 [read](http://www.geekpark.net/news/308979)
-
 ### 金融类
 
-   向下有限向上无限，利润累积决定长期价值 [read](http://xueqiu.com/9070764642/231699022)
+   关于A股目前的股票估值体系 [read](http://xueqiu.com/4478570610/231564901)
 
-   下一代DM技术？比亚迪公布最新的混动系统专利 [read](http://xueqiu.com/5436386345/231711751)
+   为什么说化石能源会一直很贵？ [read](http://xueqiu.com/1170975436/231832106)
 
-   谁家中报延续焦点? \| 2022年中投资炼金季 [read](http://xueqiu.com/7405823546/231732812)
+   现在是比4月更好的买入时点，新能源是性价比最高的成长股 [read](http://xueqiu.com/3915115654/231893306)
 
 ### 学习类
+
+   💻 Issue 327 - dtolnay's Rust Quiz is like taking drugs/I'm not sure if I like Rust anymore [read](https://rust.libhunt.com/newsletter/327)
 
    💻 Issue 326 - Linus Torvalds: Rust will go into Linux 6.1 [read](https://rust.libhunt.com/newsletter/326)
 
    💻 Issue 325 - Rust Foundation Establishes Security Team to Support and Advance Rust Programming Language [read](https://rust.libhunt.com/newsletter/325)
 
-   💻 Issue 324 - Announcing Unreal Rust: A Rust integration for Unreal Engine 5 [read](https://rust.libhunt.com/newsletter/324)
+   This Week in Rust 462 [read](https://this-week-in-rust.org/blog/2022/09/28/this-week-in-rust-462/)
 
    This Week in Rust 461 [read](https://this-week-in-rust.org/blog/2022/09/21/this-week-in-rust-461/)
 
    This Week in Rust 460 [read](https://this-week-in-rust.org/blog/2022/09/14/this-week-in-rust-460/)
-
-   This Week in Rust 459 [read](https://this-week-in-rust.org/blog/2022/09/07/this-week-in-rust-459/)
 
    ETCD的内存问题 [read](https://coolshell.cn/articles/22242.html)
 
@@ -128,11 +128,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Gibberish Longing [read](https://www.behance.net/gallery/153689761/Gibberish-Longing)
+   Conveying the essentialism of architecture for QUAM [read](https://www.behance.net/gallery/152454479/Conveying-the-essentialism-of-architecture-for-QUAM)
 
-   Who let the dog out? [read](https://www.behance.net/gallery/153043389/Who-let-the-dog-out)
+   My paintings Vol.1 [read](https://www.behance.net/gallery/148962961/My-paintings-Vol1)
 
-   Witchy Moths [read](https://www.behance.net/gallery/152991173/Witchy-Moths)
+   e-emano charging solutions [read](https://www.behance.net/gallery/153325587/e-emano-charging-solutions)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
