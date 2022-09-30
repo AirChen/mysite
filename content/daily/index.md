@@ -2,19 +2,19 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.InfiniD_EN-US7855471603_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.EubalaenaAustralis_EN-US7949014397_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
+   科技爱好者周刊（第 225 期）：NPC 演员也是一种职业 [read](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)
+
    科技爱好者周刊（第 224 期）：Figma 为什么赢了 Sketch [read](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html)
 
-   科技爱好者周刊（第 223 期）：程序员需要担心裁员吗？ [read](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-223.html)
+   货物和货车的匹配 [read](https://blog.codingnow.com/2022/09/cargo_matching.html)
 
    多线程串行运行 Lua 虚拟机 [read](https://blog.codingnow.com/2022/09/multithread_lua_vm.html)
 
    路网中路径的储存 [read](https://blog.codingnow.com/2022/09/routemap.html)
-
-   空间优先的 protobuffer / json 解码器 [read](https://blog.codingnow.com/2022/08/memory_compat_protobuffer_json_unmarshaling.html)
 
    为了老婆的乐队梦, 我做了一个弹钢琴的机器人 [read](https://blog.t9t.io/modsoul-2022-07-29/)
 
@@ -36,11 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 466 期 [read](https://weekly.75.team/issue466.html)
+
    奇舞周刊第 465 期 [read](https://weekly.75.team/issue465.html)
 
    奇舞周刊第 464 期 [read](https://weekly.75.team/issue464.html)
-
-   奇舞周刊第 463 期 [read](https://weekly.75.team/issue463.html)
 
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
@@ -68,37 +68,31 @@ title: "今日资讯"
 
 ### 互联网类
 
-   电动汽车的二手电池卖疯了：都是房车热的锅？ [read](http://www.huxiu.com/article/674882.html?f=wangzhan)
+   用这4个心理学方法，让心动男孩对你有好感 [read](http://www.huxiu.com/article/667589.html?f=wangzhan)
 
-   在元宇宙，流量不再是成为“周杰伦”的唯一密码 [read](http://www.huxiu.com/article/673554.html?f=wangzhan)
+   英矽智能创始人：我和我的中国合伙人 [read](http://www.huxiu.com/article/676002.html?f=wangzhan)
 
-   蜜雪冰城，为什么这么赚钱？ [read](http://www.huxiu.com/article/674059.html?f=wangzhan)
+   一杯奶茶半杯糖？饮料为啥这么甜？ [read](http://www.huxiu.com/article/675978.html?f=wangzhan)
 
-   盒马大嘴“狂啃”四年 千亿有机食品市场起风了 [read](https://36kr.com/p/1936244603062660)
+   36碳周报 \| SHEIN发布碳减排计划：到2030年将在业务范围内减少25%的温室气体总排放量；比亚迪与约旦经销商达成战略合作；商务部：支持新能源汽车购买使用，加快活跃二手车市场 [read](https://36kr.com/p/1937630559980162)
 
-   在檀谷，找到北京秋天的一百种方式 [read](https://36kr.com/p/1936173552273794)
+   你有多久没和他人来一场「深度交流」了？ \| 年轻人「解惑」小调查 [read](https://36kr.com/p/1937581260065412)
 
-   黄鹂智声为用户降噪，36氪为黄鹂智声发声 [read](https://36kr.com/p/1924383166626308)
+   宜家北京推出可持续主题活动，竹子、食物废弃物也能做原材料｜最前线 [read](https://36kr.com/p/1934604658051459)
 
-   USB：首个将视觉、语言和音频分类任务进行统一的半监督分类学习基准 [read](https://www.msra.cn/zh-cn/news/features/usb)
+   30 万以下电动车，「向上」卷到极致 [read](http://www.geekpark.net/news/309147)
 
-   大咖云集！微软年度科研盛会在关注什么？ [read](https://www.msra.cn/zh-cn/news/features/microsoft-research-summit-plenaries)
-
-   微软年度科研盛会Research Summit 2022开启注册！ [read](https://www.msra.cn/zh-cn/news/features/research-summit-2022-register)
+   中国超越德国成为第二大汽车出口国；保时捷上市估值 750 亿欧元，欧洲十年最大 IPO；谷歌明年 1 月停止云游戏业务 [read](http://www.geekpark.net/news/309148)
 
    拉里·佩奇：创谷歌易，做飞行汽车难 [read](http://www.geekpark.net/news/309083)
 
-   罗永浩卸任锤子科技集团总经理；苹果放弃 iPhone 14 增产计划；湖北发现完整直立人头骨化石，欧亚首例 \| 极客早知道 [read](http://www.geekpark.net/news/309073)
-
-   收购 PICO 一周年，字节给 VR 带来了什么？ [read](http://www.geekpark.net/news/309034)
-
 ### 金融类
 
-   关于A股目前的股票估值体系 [read](http://xueqiu.com/4478570610/231564901)
+   如果回到一年前 [read](http://xueqiu.com/6623660105/231947212)
 
-   为什么说化石能源会一直很贵？ [read](http://xueqiu.com/1170975436/231832106)
+   沃森生物，这家公司真的太不容易了，可只有他是我们国家疫苗的希望啊！ [read](http://xueqiu.com/3537625901/231914611)
 
-   现在是比4月更好的买入时点，新能源是性价比最高的成长股 [read](http://xueqiu.com/3915115654/231893306)
+   向下有限向上无限，利润累积决定长期价值（三） [read](http://xueqiu.com/9070764642/231975846)
 
 ### 学习类
 
@@ -128,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Conveying the essentialism of architecture for QUAM [read](https://www.behance.net/gallery/152454479/Conveying-the-essentialism-of-architecture-for-QUAM)
+   CONTRACORRIENTE - BRANDING [read](https://www.behance.net/gallery/153205873/CONTRACORRIENTE-BRANDING)
 
-   My paintings Vol.1 [read](https://www.behance.net/gallery/148962961/My-paintings-Vol1)
+   TYPE TO IMAGE [read](https://www.behance.net/gallery/153741833/TYPE-TO-IMAGE)
 
-   e-emano charging solutions [read](https://www.behance.net/gallery/153325587/e-emano-charging-solutions)
+   Styling Characters &amp; Moods [read](https://www.behance.net/gallery/150436195/Styling-Characters-Moods)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
