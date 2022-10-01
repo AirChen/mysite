@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.EubalaenaAustralis_EN-US7949014397_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BridalVeilFalls_EN-US8055892423_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   火山引擎 RTC 自研音频编码器 NICO 实践之路 [read](https://blog.csdn.net/ByteDanceTech/article/details/127130937)
+
    prompt 综述 [read](https://blog.csdn.net/ByteDanceTech/article/details/127099625)
 
    初探自然语言预训练技术演进之路 [read](https://blog.csdn.net/ByteDanceTech/article/details/127081484)
-
-   Redis 持久化策略浅析 [read](https://blog.csdn.net/ByteDanceTech/article/details/127063928)
 
    数字化新业态下数据安全创新——Token化 [read](https://tech.meituan.com/2022/09/22/token-pii.html)
 
@@ -68,31 +68,31 @@ title: "今日资讯"
 
 ### 互联网类
 
-   用这4个心理学方法，让心动男孩对你有好感 [read](http://www.huxiu.com/article/667589.html?f=wangzhan)
+   别躺了，特斯拉喊你去上班 [read](http://www.huxiu.com/article/676786.html?f=wangzhan)
 
-   英矽智能创始人：我和我的中国合伙人 [read](http://www.huxiu.com/article/676002.html?f=wangzhan)
+   致内向者：你不必拼命变得外向 [read](http://www.huxiu.com/article/676202.html?f=wangzhan)
 
-   一杯奶茶半杯糖？饮料为啥这么甜？ [read](http://www.huxiu.com/article/675978.html?f=wangzhan)
+   谷歌电子墓碑，又立了一块 [read](http://www.huxiu.com/article/675990.html?f=wangzhan)
 
-   36碳周报 \| SHEIN发布碳减排计划：到2030年将在业务范围内减少25%的温室气体总排放量；比亚迪与约旦经销商达成战略合作；商务部：支持新能源汽车购买使用，加快活跃二手车市场 [read](https://36kr.com/p/1937630559980162)
+   万科物业逆风IPO，万物云上市首日破发跌近7%丨氪金 · 大事件 [read](https://36kr.com/p/1937543562332546)
 
-   你有多久没和他人来一场「深度交流」了？ \| 年轻人「解惑」小调查 [read](https://36kr.com/p/1937581260065412)
+   机器人产业创业投资指南：我是如此相信，世界会变得更好——写在特斯拉2022AI Day前夕 [read](https://36kr.com/p/1938468738222468)
 
-   宜家北京推出可持续主题活动，竹子、食物废弃物也能做原材料｜最前线 [read](https://36kr.com/p/1934604658051459)
+   一片叶子上万元，年轻人靠买绿植治「心病」 [read](https://36kr.com/p/1935987193711238)
+
+   2 万美元的机器人，马斯克想 3 年内就「量产」 [read](http://www.geekpark.net/news/309239)
+
+   雷军：小米首台工程车正式下线；张勇以 93.1% 支持率再次当选阿里董事；中国成功实施问天实验舱转位 [read](http://www.geekpark.net/news/309236)
 
    30 万以下电动车，「向上」卷到极致 [read](http://www.geekpark.net/news/309147)
 
-   中国超越德国成为第二大汽车出口国；保时捷上市估值 750 亿欧元，欧洲十年最大 IPO；谷歌明年 1 月停止云游戏业务 [read](http://www.geekpark.net/news/309148)
-
-   拉里·佩奇：创谷歌易，做飞行汽车难 [read](http://www.geekpark.net/news/309083)
-
 ### 金融类
 
-   如果回到一年前 [read](http://xueqiu.com/6623660105/231947212)
+   这个底部行业逻辑正在巨变 [read](http://xueqiu.com/1859139457/232008251)
 
-   沃森生物，这家公司真的太不容易了，可只有他是我们国家疫苗的希望啊！ [read](http://xueqiu.com/3537625901/231914611)
+   恒生指数估值状态 [read](http://xueqiu.com/4939534471/232022535)
 
-   向下有限向上无限，利润累积决定长期价值（三） [read](http://xueqiu.com/9070764642/231975846)
+   谁告诉你人民币贬值了？ [read](http://xueqiu.com/1340904670/232010911)
 
 ### 学习类
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   CONTRACORRIENTE - BRANDING [read](https://www.behance.net/gallery/153205873/CONTRACORRIENTE-BRANDING)
+   Now Vision / Furniture Store branding [read](https://www.behance.net/gallery/153867929/Now-Vision-Furniture-Store-branding)
 
-   TYPE TO IMAGE [read](https://www.behance.net/gallery/153741833/TYPE-TO-IMAGE)
+   Future Health [read](https://www.behance.net/gallery/153802243/Future-Health)
 
-   Styling Characters &amp; Moods [read](https://www.behance.net/gallery/150436195/Styling-Characters-Moods)
+   Festival Teal Brasil [read](https://www.behance.net/gallery/153848663/Festival-Teal-Brasil)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
