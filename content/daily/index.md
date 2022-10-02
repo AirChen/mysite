@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BridalVeilFalls_EN-US8055892423_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.LotsOBalloons_EN-US8236203600_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,31 +68,31 @@ title: "今日资讯"
 
 ### 互联网类
 
+   蔚来、理想、小鹏，二次危机来了？ [read](http://www.huxiu.com/article/676951.html?f=wangzhan)
+
+   “挫折商”低，毁掉你的生活？4个信念帮你摆脱 [read](http://www.huxiu.com/article/669659.html?f=wangzhan)
+
    别躺了，特斯拉喊你去上班 [read](http://www.huxiu.com/article/676786.html?f=wangzhan)
 
-   致内向者：你不必拼命变得外向 [read](http://www.huxiu.com/article/676202.html?f=wangzhan)
+   IPO留言板 \| 零跑汽车港股上市持续暴跌，紫燕食品连收5个涨停板，保时捷成全球第五大市值车企，Tims中国登陆美股 [read](https://36kr.com/p/1939966869342850)
 
-   谷歌电子墓碑，又立了一块 [read](http://www.huxiu.com/article/675990.html?f=wangzhan)
+   失去购物欲的年轻人，爱上捡垃圾 [read](https://36kr.com/p/1935993002035848)
 
    万科物业逆风IPO，万物云上市首日破发跌近7%丨氪金 · 大事件 [read](https://36kr.com/p/1937543562332546)
 
-   机器人产业创业投资指南：我是如此相信，世界会变得更好——写在特斯拉2022AI Day前夕 [read](https://36kr.com/p/1938468738222468)
+   失血、裁员、股价暴跌：Meta 正在成为硅谷的泰坦尼克 [read](http://www.geekpark.net/news/309241)
 
-   一片叶子上万元，年轻人靠买绿植治「心病」 [read](https://36kr.com/p/1935987193711238)
+   库克：普通人很难理解元宇宙；马斯克：特斯拉机器人卖 2 万美元以下；传腾讯大举收购海外游戏公司\| 极客早知道 [read](http://www.geekpark.net/news/309240)
 
    2 万美元的机器人，马斯克想 3 年内就「量产」 [read](http://www.geekpark.net/news/309239)
 
-   雷军：小米首台工程车正式下线；张勇以 93.1% 支持率再次当选阿里董事；中国成功实施问天实验舱转位 [read](http://www.geekpark.net/news/309236)
-
-   30 万以下电动车，「向上」卷到极致 [read](http://www.geekpark.net/news/309147)
-
 ### 金融类
 
-   这个底部行业逻辑正在巨变 [read](http://xueqiu.com/1859139457/232008251)
+   我为什么把成都银行调仓换股长三角银行股？ [read](http://xueqiu.com/3260327054/232041785)
 
-   恒生指数估值状态 [read](http://xueqiu.com/4939534471/232022535)
+   一直买到股市变红 [read](http://xueqiu.com/8628686400/232043507)
 
-   谁告诉你人民币贬值了？ [read](http://xueqiu.com/1340904670/232010911)
+   我经历过的大熊市 [read](http://xueqiu.com/8301095923/232037036)
 
 ### 学习类
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Now Vision / Furniture Store branding [read](https://www.behance.net/gallery/153867929/Now-Vision-Furniture-Store-branding)
+   Fey Fey Worldwide Branding [read](https://www.behance.net/gallery/153959709/Fey-Fey-Worldwide-Branding)
 
-   Future Health [read](https://www.behance.net/gallery/153802243/Future-Health)
+   Graphic for NIKE 5OTH ANNIVERSARY [read](https://www.behance.net/gallery/153821059/Graphic-for-NIKE-5OTH-ANNIVERSARY)
 
-   Festival Teal Brasil [read](https://www.behance.net/gallery/153848663/Festival-Teal-Brasil)
+   DevBreak [read](https://www.behance.net/gallery/145411157/DevBreak)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
