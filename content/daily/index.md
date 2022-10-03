@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.LotsOBalloons_EN-US8236203600_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Porthuis_EN-US8462686696_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,31 +68,31 @@ title: "今日资讯"
 
 ### 互联网类
 
-   蔚来、理想、小鹏，二次危机来了？ [read](http://www.huxiu.com/article/676951.html?f=wangzhan)
+   蔚来、理想、小鹏，二次危机来了？（下） [read](http://www.huxiu.com/article/677174.html?f=wangzhan)
 
-   “挫折商”低，毁掉你的生活？4个信念帮你摆脱 [read](http://www.huxiu.com/article/669659.html?f=wangzhan)
+   它，是所有电动车的“爹”：万亿宁王发家史 [read](http://www.huxiu.com/article/677288.html?f=wangzhan)
 
-   别躺了，特斯拉喊你去上班 [read](http://www.huxiu.com/article/676786.html?f=wangzhan)
+   边角料，会是零食之光吗？ [read](http://www.huxiu.com/article/677400.html?f=wangzhan)
 
-   IPO留言板 \| 零跑汽车港股上市持续暴跌，紫燕食品连收5个涨停板，保时捷成全球第五大市值车企，Tims中国登陆美股 [read](https://36kr.com/p/1939966869342850)
+   闷声发大财，盘点10家“小众”出海企业 [read](https://36kr.com/p/1941447901235588)
 
-   失去购物欲的年轻人，爱上捡垃圾 [read](https://36kr.com/p/1935993002035848)
+   柳智宇：天才下山，僧人创业 [read](https://36kr.com/p/1937283176155777)
 
-   万科物业逆风IPO，万物云上市首日破发跌近7%丨氪金 · 大事件 [read](https://36kr.com/p/1937543562332546)
+   焦点分析｜理想一口气发2款新车：生意好赚，信任难修 [read](https://36kr.com/p/1938853537401478)
+
+   华为 P60 将搭载高通 4nm 芯片；Mobileye 申请 300 亿美元 IPO；NASA 拍下火星神秘碎片 [read](http://www.geekpark.net/news/309243)
 
    失血、裁员、股价暴跌：Meta 正在成为硅谷的泰坦尼克 [read](http://www.geekpark.net/news/309241)
 
    库克：普通人很难理解元宇宙；马斯克：特斯拉机器人卖 2 万美元以下；传腾讯大举收购海外游戏公司\| 极客早知道 [read](http://www.geekpark.net/news/309240)
 
-   2 万美元的机器人，马斯克想 3 年内就「量产」 [read](http://www.geekpark.net/news/309239)
-
 ### 金融类
 
-   我为什么把成都银行调仓换股长三角银行股？ [read](http://xueqiu.com/3260327054/232041785)
+   煤炭行业分析 [read](http://xueqiu.com/3725437357/232073590)
 
-   一直买到股市变红 [read](http://xueqiu.com/8628686400/232043507)
+   为什么要坚持多策略投资 [read](http://xueqiu.com/8510627167/232069077)
 
-   我经历过的大熊市 [read](http://xueqiu.com/8301095923/232037036)
+   喜忧参半的三季度，给大家简单谈谈三四线城市家电业的经营生态 [read](http://xueqiu.com/9565842679/232071007)
 
 ### 学习类
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Fey Fey Worldwide Branding [read](https://www.behance.net/gallery/153959709/Fey-Fey-Worldwide-Branding)
+   Kreol / Font Family [read](https://www.behance.net/gallery/153521247/Kreol-Font-Family)
 
-   Graphic for NIKE 5OTH ANNIVERSARY [read](https://www.behance.net/gallery/153821059/Graphic-for-NIKE-5OTH-ANNIVERSARY)
+   ENTERGALACTIC [read](https://www.behance.net/gallery/147493071/ENTERGALACTIC)
 
-   DevBreak [read](https://www.behance.net/gallery/145411157/DevBreak)
+   Outschool [read](https://www.behance.net/gallery/142681337/Outschool)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
