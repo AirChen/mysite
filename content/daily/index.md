@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Porthuis_EN-US8462686696_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CosmicCliffs_EN-US8727581889_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,31 +68,31 @@ title: "今日资讯"
 
 ### 互联网类
 
+   现在的手游都是怎么套路人的？ [read](http://www.huxiu.com/article/678000.html?f=wangzhan)
+
+   诺贝尔奖得主，到底是怎么选出来的？ [read](http://www.huxiu.com/article/677983.html?f=wangzhan)
+
    蔚来、理想、小鹏，二次危机来了？（下） [read](http://www.huxiu.com/article/677174.html?f=wangzhan)
 
-   它，是所有电动车的“爹”：万亿宁王发家史 [read](http://www.huxiu.com/article/677288.html?f=wangzhan)
+   从第一性原理出发，分析AI会如何改变视觉内容的创作和分发 [read](https://36kr.com/p/1943272175815297)
 
-   边角料，会是零食之光吗？ [read](http://www.huxiu.com/article/677400.html?f=wangzhan)
+   2022年轻人如厕报告：躲在厕所隔间不出来的同事，都在偷偷做什么？ [read](https://36kr.com/p/1936001379207552)
 
    闷声发大财，盘点10家“小众”出海企业 [read](https://36kr.com/p/1941447901235588)
 
-   柳智宇：天才下山，僧人创业 [read](https://36kr.com/p/1937283176155777)
-
-   焦点分析｜理想一口气发2款新车：生意好赚，信任难修 [read](https://36kr.com/p/1938853537401478)
+   特斯拉三季度交付量不及预期；任天堂成立影业公司；天文学家称银河系有数百亿颗「超级地球」 [read](http://www.geekpark.net/news/309245)
 
    华为 P60 将搭载高通 4nm 芯片；Mobileye 申请 300 亿美元 IPO；NASA 拍下火星神秘碎片 [read](http://www.geekpark.net/news/309243)
 
    失血、裁员、股价暴跌：Meta 正在成为硅谷的泰坦尼克 [read](http://www.geekpark.net/news/309241)
 
-   库克：普通人很难理解元宇宙；马斯克：特斯拉机器人卖 2 万美元以下；传腾讯大举收购海外游戏公司\| 极客早知道 [read](http://www.geekpark.net/news/309240)
-
 ### 金融类
 
-   煤炭行业分析 [read](http://xueqiu.com/3725437357/232073590)
+   腾讯游戏的护城河——QQ/微信两大杀器在游戏中的体现 [read](http://xueqiu.com/1010392927/232086562)
 
-   为什么要坚持多策略投资 [read](http://xueqiu.com/8510627167/232069077)
+   临渊羡鱼，不如退而结网！ [read](http://xueqiu.com/9810354164/232089386)
 
-   喜忧参半的三季度，给大家简单谈谈三四线城市家电业的经营生态 [read](http://xueqiu.com/9565842679/232071007)
+   买新基金好还是老基金好？为什么银行总是推荐买新基金 [read](http://xueqiu.com/8138265855/232097931)
 
 ### 学习类
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Kreol / Font Family [read](https://www.behance.net/gallery/153521247/Kreol-Font-Family)
+   22QZBG [read](https://www.behance.net/gallery/153981339/22QZBG)
 
-   ENTERGALACTIC [read](https://www.behance.net/gallery/147493071/ENTERGALACTIC)
+   BOOS Season Greetings [read](https://www.behance.net/gallery/151610423/BOOS-Season-Greetings)
 
-   Outschool [read](https://www.behance.net/gallery/142681337/Outschool)
+   The Violence of Flowers mini prints [read](https://www.behance.net/gallery/154018101/The-Violence-of-Flowers-mini-prints)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -134,11 +134,11 @@ title: "今日资讯"
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
+   Here are the top 10 Halloween costumes for 2022, according to Pinterest [read](https://newsroom.pinterest.com/en/post/here-are-the-top-10-halloween-costumes-for-2022-according-to-pinterest)
+
    Wanji Walcott to join Pinterest as Chief Legal Officer [read](https://newsroom.pinterest.com/en/post/wanji-walcott-to-join-pinterest-as-chief-legal-officer)
 
    First Lady Dr. Jill Biden teams up with Pinterest to celebrate and support educators across the country [read](https://newsroom.pinterest.com/en/post/first-lady-dr-jill-biden-teams-up-with-pinterest-to-celebrate-and-support-educators-across-the)
-
-   Pinterest defies self doubt in newest global brand campaign, “Don’t Don’t Yourself” [read](https://newsroom.pinterest.com/en/post/pinterest-defies-self-doubt-in-newest-global-brand-campaign-dont-dont-yourself)
 
    W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
