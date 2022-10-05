@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.CosmicCliffs_EN-US8727581889_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FlamingoTeacher_EN-US8819896781_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,31 +68,31 @@ title: "今日资讯"
 
 ### 互联网类
 
-   现在的手游都是怎么套路人的？ [read](http://www.huxiu.com/article/678000.html?f=wangzhan)
+   别尬黑，张译不是“文版战狼” [read](http://www.huxiu.com/article/678268.html?f=wangzhan)
 
-   诺贝尔奖得主，到底是怎么选出来的？ [read](http://www.huxiu.com/article/677983.html?f=wangzhan)
+   “核酸检测”的拭子是什么材质做的？ [read](http://www.huxiu.com/article/678335.html?f=wangzhan)
 
-   蔚来、理想、小鹏，二次危机来了？（下） [read](http://www.huxiu.com/article/677174.html?f=wangzhan)
+   手动档设计，原来如此巧妙 [read](http://www.huxiu.com/article/678120.html?f=wangzhan)
+
+   半年没去电影院，是票价太「疯狂」还是「好片难求」 [read](https://36kr.com/p/1937287369984649)
 
    从第一性原理出发，分析AI会如何改变视觉内容的创作和分发 [read](https://36kr.com/p/1943272175815297)
 
    2022年轻人如厕报告：躲在厕所隔间不出来的同事，都在偷偷做什么？ [read](https://36kr.com/p/1936001379207552)
 
-   闷声发大财，盘点10家“小众”出海企业 [read](https://36kr.com/p/1941447901235588)
+   马斯克提议按原价收购推特；欧盟批准强制苹果使用 USB-C 接口；AI 激光灭蟑设备问世 [read](http://www.geekpark.net/news/309246)
 
    特斯拉三季度交付量不及预期；任天堂成立影业公司；天文学家称银河系有数百亿颗「超级地球」 [read](http://www.geekpark.net/news/309245)
 
    华为 P60 将搭载高通 4nm 芯片；Mobileye 申请 300 亿美元 IPO；NASA 拍下火星神秘碎片 [read](http://www.geekpark.net/news/309243)
 
-   失血、裁员、股价暴跌：Meta 正在成为硅谷的泰坦尼克 [read](http://www.geekpark.net/news/309241)
-
 ### 金融类
 
-   腾讯游戏的护城河——QQ/微信两大杀器在游戏中的体现 [read](http://xueqiu.com/1010392927/232086562)
+   年轻人还喝茅台吗？谈谈白酒的投资逻辑！ [read](http://xueqiu.com/5442649818/232134995)
 
-   临渊羡鱼，不如退而结网！ [read](http://xueqiu.com/9810354164/232089386)
+   市盈率和市净率跌到谷底，平安现在低估了吗？ [read](http://xueqiu.com/6217594843/232098688)
 
-   买新基金好还是老基金好？为什么银行总是推荐买新基金 [read](http://xueqiu.com/8138265855/232097931)
+   守正——带投资人穿越迷雾 [read](http://xueqiu.com/1965894836/232070300)
 
 ### 学习类
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   22QZBG [read](https://www.behance.net/gallery/153981339/22QZBG)
+   Easy Fresh [read](https://www.behance.net/gallery/154096197/Easy-Fresh)
 
-   BOOS Season Greetings [read](https://www.behance.net/gallery/151610423/BOOS-Season-Greetings)
+   NARUTO VS SASUKE [read](https://www.behance.net/gallery/154029503/NARUTO-VS-SASUKE)
 
-   The Violence of Flowers mini prints [read](https://www.behance.net/gallery/154018101/The-Violence-of-Flowers-mini-prints)
+   Villefontaine Design School - Visual identity [read](https://www.behance.net/gallery/152949835/Villefontaine-Design-School-Visual-identity)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
