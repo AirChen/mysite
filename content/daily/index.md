@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.FlamingoTeacher_EN-US8819896781_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BayofBiscay_EN-US8933430968_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,45 +68,45 @@ title: "今日资讯"
 
 ### 互联网类
 
-   别尬黑，张译不是“文版战狼” [read](http://www.huxiu.com/article/678268.html?f=wangzhan)
+   别尬夸《万里归途》，张译不是“文版战狼” [read](http://www.huxiu.com/article/678268.html?f=wangzhan)
 
    “核酸检测”的拭子是什么材质做的？ [read](http://www.huxiu.com/article/678335.html?f=wangzhan)
 
    手动档设计，原来如此巧妙 [read](http://www.huxiu.com/article/678120.html?f=wangzhan)
 
+   多家企业跨界布局、磷酸锰铁锂异军突起，锂电池正极材料产业格局正持续变动 \| 未来能源创投风向标 [read](https://36kr.com/p/1931697060596101)
+
    半年没去电影院，是票价太「疯狂」还是「好片难求」 [read](https://36kr.com/p/1937287369984649)
 
    从第一性原理出发，分析AI会如何改变视觉内容的创作和分发 [read](https://36kr.com/p/1943272175815297)
 
-   2022年轻人如厕报告：躲在厕所隔间不出来的同事，都在偷偷做什么？ [read](https://36kr.com/p/1936001379207552)
+   探访大疆新总部｜这家公司的信心与野心都藏在细节里 [read](http://www.geekpark.net/news/309249)
+
+   桥水基金创始人卸任；大众汽车考虑分拆兰博基尼上市；苹果要求供应商将部分耳机生产转移到印度 [read](http://www.geekpark.net/news/309247)
 
    马斯克提议按原价收购推特；欧盟批准强制苹果使用 USB-C 接口；AI 激光灭蟑设备问世 [read](http://www.geekpark.net/news/309246)
 
-   特斯拉三季度交付量不及预期；任天堂成立影业公司；天文学家称银河系有数百亿颗「超级地球」 [read](http://www.geekpark.net/news/309245)
-
-   华为 P60 将搭载高通 4nm 芯片；Mobileye 申请 300 亿美元 IPO；NASA 拍下火星神秘碎片 [read](http://www.geekpark.net/news/309243)
-
 ### 金融类
 
-   年轻人还喝茅台吗？谈谈白酒的投资逻辑！ [read](http://xueqiu.com/5442649818/232134995)
+   小米为何不收购金山？ [read](http://xueqiu.com/7970049223/232166797)
 
-   市盈率和市净率跌到谷底，平安现在低估了吗？ [read](http://xueqiu.com/6217594843/232098688)
+   腾讯这一年来 [read](http://xueqiu.com/4164170693/232160812)
 
-   守正——带投资人穿越迷雾 [read](http://xueqiu.com/1965894836/232070300)
+   东阿阿胶三季度业绩预测 [read](http://xueqiu.com/4381703788/232156011)
 
 ### 学习类
+
+   💻 Issue 328 - Initial Rust support is now merged into the Linux kernel! [read](https://rust.libhunt.com/newsletter/328)
 
    💻 Issue 327 - dtolnay's Rust Quiz is like taking drugs/I'm not sure if I like Rust anymore [read](https://rust.libhunt.com/newsletter/327)
 
    💻 Issue 326 - Linus Torvalds: Rust will go into Linux 6.1 [read](https://rust.libhunt.com/newsletter/326)
 
-   💻 Issue 325 - Rust Foundation Establishes Security Team to Support and Advance Rust Programming Language [read](https://rust.libhunt.com/newsletter/325)
+   This Week in Rust 463 [read](https://this-week-in-rust.org/blog/2022/10/05/this-week-in-rust-463/)
 
    This Week in Rust 462 [read](https://this-week-in-rust.org/blog/2022/09/28/this-week-in-rust-462/)
 
    This Week in Rust 461 [read](https://this-week-in-rust.org/blog/2022/09/21/this-week-in-rust-461/)
-
-   This Week in Rust 460 [read](https://this-week-in-rust.org/blog/2022/09/14/this-week-in-rust-460/)
 
    ETCD的内存问题 [read](https://coolshell.cn/articles/22242.html)
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Easy Fresh [read](https://www.behance.net/gallery/154096197/Easy-Fresh)
+   Google \| Generative Brand Expressions [read](https://www.behance.net/gallery/153784217/Google-Generative-Brand-Expressions)
 
-   NARUTO VS SASUKE [read](https://www.behance.net/gallery/154029503/NARUTO-VS-SASUKE)
+   Finding Forte?A Typographic Search for Traces [read](https://www.behance.net/gallery/154179929/Finding-ForteA-Typographic-Search-for-Traces)
 
-   Villefontaine Design School - Visual identity [read](https://www.behance.net/gallery/152949835/Villefontaine-Design-School-Visual-identity)
+   Scientific illustrations [read](https://www.behance.net/gallery/149760321/Scientific-illustrations)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -134,11 +134,11 @@ title: "今日资讯"
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
+   Pinterest Supports Creator Wellbeing with New Headspace Partnership Ahead of World Mental Health Day [read](https://newsroom.pinterest.com/en/post/pinterest-supports-creator-wellbeing-with-new-headspace-partnership-ahead-of-world-mental)
+
    Here are the top 10 Halloween costumes for 2022, according to Pinterest [read](https://newsroom.pinterest.com/en/post/here-are-the-top-10-halloween-costumes-for-2022-according-to-pinterest)
 
    Wanji Walcott to join Pinterest as Chief Legal Officer [read](https://newsroom.pinterest.com/en/post/wanji-walcott-to-join-pinterest-as-chief-legal-officer)
-
-   First Lady Dr. Jill Biden teams up with Pinterest to celebrate and support educators across the country [read](https://newsroom.pinterest.com/en/post/first-lady-dr-jill-biden-teams-up-with-pinterest-to-celebrate-and-support-educators-across-the)
 
    W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
