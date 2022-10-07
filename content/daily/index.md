@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.BayofBiscay_EN-US8933430968_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.OberbaumBridge_EN-US6324390642_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,12 +48,6 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
-   火山引擎 RTC 自研音频编码器 NICO 实践之路 [read](https://blog.csdn.net/ByteDanceTech/article/details/127130937)
-
-   prompt 综述 [read](https://blog.csdn.net/ByteDanceTech/article/details/127099625)
-
-   初探自然语言预训练技术演进之路 [read](https://blog.csdn.net/ByteDanceTech/article/details/127081484)
-
    数字化新业态下数据安全创新——Token化 [read](https://tech.meituan.com/2022/09/22/token-pii.html)
 
    通用目标检测开源框架YOLOv6在美团的量化部署实战 [read](https://tech.meituan.com/2022/09/22/yolov6-quantization-in-meituan.html)
@@ -68,31 +62,31 @@ title: "今日资讯"
 
 ### 互联网类
 
+   你的“电动爹”，国庆又又又趴窝了吗 [read](http://www.huxiu.com/article/679530.html?f=wangzhan)
+
    别尬夸《万里归途》，张译不是“文版战狼” [read](http://www.huxiu.com/article/678268.html?f=wangzhan)
 
    “核酸检测”的拭子是什么材质做的？ [read](http://www.huxiu.com/article/678335.html?f=wangzhan)
 
-   手动档设计，原来如此巧妙 [read](http://www.huxiu.com/article/678120.html?f=wangzhan)
+   卡车开进无人区，千万司机缺口有新解了吗？ \| 36氪新风向 [read](https://36kr.com/p/1947171473296008)
+
+   36氪专访\|IEEE数字金融与经济标准委员会：Web 3核心并非去中心化 [read](https://36kr.com/p/1945540762667399)
 
    多家企业跨界布局、磷酸锰铁锂异军突起，锂电池正极材料产业格局正持续变动 \| 未来能源创投风向标 [read](https://36kr.com/p/1931697060596101)
 
-   半年没去电影院，是票价太「疯狂」还是「好片难求」 [read](https://36kr.com/p/1937287369984649)
-
-   从第一性原理出发，分析AI会如何改变视觉内容的创作和分发 [read](https://36kr.com/p/1943272175815297)
+   法国女作家安妮·埃尔诺获诺贝尔文学奖；苹果 App Store 欧元区涨价；三星 Q3 营业利润下降 32% \| 极客早知道 [read](http://www.geekpark.net/news/309250)
 
    探访大疆新总部｜这家公司的信心与野心都藏在细节里 [read](http://www.geekpark.net/news/309249)
 
    桥水基金创始人卸任；大众汽车考虑分拆兰博基尼上市；苹果要求供应商将部分耳机生产转移到印度 [read](http://www.geekpark.net/news/309247)
 
-   马斯克提议按原价收购推特；欧盟批准强制苹果使用 USB-C 接口；AI 激光灭蟑设备问世 [read](http://www.geekpark.net/news/309246)
-
 ### 金融类
 
-   小米为何不收购金山？ [read](http://xueqiu.com/7970049223/232166797)
+   小米手机在全球存量市场市占率分析 [read](http://xueqiu.com/5192877654/232199027)
 
-   腾讯这一年来 [read](http://xueqiu.com/4164170693/232160812)
+   龙头按兵不动专注P型，胸有丘壑还是不思进取？ [read](http://xueqiu.com/1873655483/232192087)
 
-   东阿阿胶三季度业绩预测 [read](http://xueqiu.com/4381703788/232156011)
+   石油巨无霸们的集中退休时代_每年6%衰竭？ [read](http://xueqiu.com/2792218779/232197698)
 
 ### 学习类
 
@@ -122,11 +116,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Google \| Generative Brand Expressions [read](https://www.behance.net/gallery/153784217/Google-Generative-Brand-Expressions)
+   St. Peter Stiftskulinarium ? brand design [read](https://www.behance.net/gallery/88802563/St-Peter-Stiftskulinarium-brand-design)
 
-   Finding Forte?A Typographic Search for Traces [read](https://www.behance.net/gallery/154179929/Finding-ForteA-Typographic-Search-for-Traces)
+   Texas A&amp;M / Out Of The Dark [read](https://www.behance.net/gallery/146190203/Texas-A-M-Out-Of-The-Dark)
 
-   Scientific illustrations [read](https://www.behance.net/gallery/149760321/Scientific-illustrations)
+   Reimagining the 7 Deadly Sins for Thyssen Museum [read](https://www.behance.net/gallery/153320319/Reimagining-the-7-Deadly-Sins-for-Thyssen-Museum)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
