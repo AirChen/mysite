@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.OberbaumBridge_EN-US6324390642_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GlassOctopus_EN-US6394802515_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -10,11 +10,11 @@ title: "今日资讯"
 
    科技爱好者周刊（第 224 期）：Figma 为什么赢了 Sketch [read](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html)
 
+   引擎 IO 模块的变化和发展 [read](https://blog.codingnow.com/2022/10/io.html)
+
    货物和货车的匹配 [read](https://blog.codingnow.com/2022/09/cargo_matching.html)
 
    多线程串行运行 Lua 虚拟机 [read](https://blog.codingnow.com/2022/09/multithread_lua_vm.html)
-
-   路网中路径的储存 [read](https://blog.codingnow.com/2022/09/routemap.html)
 
    为了老婆的乐队梦, 我做了一个弹钢琴的机器人 [read](https://blog.t9t.io/modsoul-2022-07-29/)
 
@@ -48,6 +48,12 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   火山引擎 RTC 自研音频编码器 NICO 实践之路 [read](https://blog.csdn.net/ByteDanceTech/article/details/127130937)
+
+   prompt 综述 [read](https://blog.csdn.net/ByteDanceTech/article/details/127099625)
+
+   初探自然语言预训练技术演进之路 [read](https://blog.csdn.net/ByteDanceTech/article/details/127081484)
+
    数字化新业态下数据安全创新——Token化 [read](https://tech.meituan.com/2022/09/22/token-pii.html)
 
    通用目标检测开源框架YOLOv6在美团的量化部署实战 [read](https://tech.meituan.com/2022/09/22/yolov6-quantization-in-meituan.html)
@@ -62,31 +68,31 @@ title: "今日资讯"
 
 ### 互联网类
 
-   你的“电动爹”，国庆又又又趴窝了吗 [read](http://www.huxiu.com/article/679530.html?f=wangzhan)
+   独处，适合你吗？ [read](http://www.huxiu.com/article/680164.html?f=wangzhan)
 
-   别尬夸《万里归途》，张译不是“文版战狼” [read](http://www.huxiu.com/article/678268.html?f=wangzhan)
+   你为什么总是害怕麻烦别人？ [read](http://www.huxiu.com/article/673708.html?f=wangzhan)
 
-   “核酸检测”的拭子是什么材质做的？ [read](http://www.huxiu.com/article/678335.html?f=wangzhan)
+   在柏林，我们和欧洲人聊了聊蔚来 [read](http://www.huxiu.com/article/679737.html?f=wangzhan)
 
-   卡车开进无人区，千万司机缺口有新解了吗？ \| 36氪新风向 [read](https://36kr.com/p/1947171473296008)
+   持续深挖好企业，36氪护航新消费品牌过冬 [read](https://36kr.com/p/1949133312936323)
 
-   36氪专访\|IEEE数字金融与经济标准委员会：Web 3核心并非去中心化 [read](https://36kr.com/p/1945540762667399)
+   36氪全周期赋能SaaS赛道创业，助力数字化转型 [read](https://36kr.com/p/1949125328537991)
 
-   多家企业跨界布局、磷酸锰铁锂异军突起，锂电池正极材料产业格局正持续变动 \| 未来能源创投风向标 [read](https://36kr.com/p/1931697060596101)
+   早期报道深挖好公司 36氪助力半导体芯片自产自研 [read](https://36kr.com/p/1949106802395780)
+
+   国庆档总票房15亿；特斯拉12月交付首辆Semi电动卡车；Meta高管称Horizon问题太多员工都不用 [read](http://www.geekpark.net/news/309251)
+
+   风口背后：第一批 00 后 Web3 创业者，和他们的「人间清醒」 [read](http://www.geekpark.net/news/309074)
 
    法国女作家安妮·埃尔诺获诺贝尔文学奖；苹果 App Store 欧元区涨价；三星 Q3 营业利润下降 32% \| 极客早知道 [read](http://www.geekpark.net/news/309250)
 
-   探访大疆新总部｜这家公司的信心与野心都藏在细节里 [read](http://www.geekpark.net/news/309249)
-
-   桥水基金创始人卸任；大众汽车考虑分拆兰博基尼上市；苹果要求供应商将部分耳机生产转移到印度 [read](http://www.geekpark.net/news/309247)
-
 ### 金融类
 
-   小米手机在全球存量市场市占率分析 [read](http://xueqiu.com/5192877654/232199027)
+   价值千金的两个字：过剩 [read](http://xueqiu.com/3840065805/232203744)
 
-   龙头按兵不动专注P型，胸有丘壑还是不思进取？ [read](http://xueqiu.com/1873655483/232192087)
+   “券源”比佣金更有吸引力，竟还有实际费率为零的ETF [read](http://xueqiu.com/4579887327/232221524)
 
-   石油巨无霸们的集中退休时代_每年6%衰竭？ [read](http://xueqiu.com/2792218779/232197698)
+   招商银行的连锁反应 [read](http://xueqiu.com/7516820417/232234718)
 
 ### 学习类
 
@@ -116,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   St. Peter Stiftskulinarium ? brand design [read](https://www.behance.net/gallery/88802563/St-Peter-Stiftskulinarium-brand-design)
+   Google I/O 2022 [read](https://www.behance.net/gallery/153643575/Google-IO-2022)
 
-   Texas A&amp;M / Out Of The Dark [read](https://www.behance.net/gallery/146190203/Texas-A-M-Out-Of-The-Dark)
+   On a Summer Afternoon, Sidi Bousaid [read](https://www.behance.net/gallery/148481091/On-a-Summer-Afternoon-Sidi-Bousaid)
 
-   Reimagining the 7 Deadly Sins for Thyssen Museum [read](https://www.behance.net/gallery/153320319/Reimagining-the-7-Deadly-Sins-for-Thyssen-Museum)
+   Morneau \| LG2 [read](https://www.behance.net/gallery/154122903/Morneau-LG2)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
