@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GlassOctopus_EN-US6394802515_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ChukchiSea_EN-US6494940864_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,31 +68,31 @@ title: "今日资讯"
 
 ### 互联网类
 
-   独处，适合你吗？ [read](http://www.huxiu.com/article/680164.html?f=wangzhan)
+   4个高效心理学技巧，让你学会自我激励 [read](http://www.huxiu.com/article/680774.html?f=wangzhan)
 
-   你为什么总是害怕麻烦别人？ [read](http://www.huxiu.com/article/673708.html?f=wangzhan)
+   BBA跌落神坛，中国车出海能薅多少欧洲羊毛？ [read](http://www.huxiu.com/article/680968.html?f=wangzhan)
 
-   在柏林，我们和欧洲人聊了聊蔚来 [read](http://www.huxiu.com/article/679737.html?f=wangzhan)
+   就这？离合器这结构，也太简单了 [read](http://www.huxiu.com/article/680835.html?f=wangzhan)
 
-   持续深挖好企业，36氪护航新消费品牌过冬 [read](https://36kr.com/p/1949133312936323)
+   36氪晚报丨孙正义并未向三星提出投资ARM建议；特斯拉上海超级工厂9月交付再创月度新高 [read](https://36kr.com/p/1950262449080963)
 
-   36氪全周期赋能SaaS赛道创业，助力数字化转型 [read](https://36kr.com/p/1949125328537991)
+   海外New Things \| 开发激励戒烟的健康平台，「Vincere Health」获175万美元种子轮融资 [read](https://36kr.com/p/1950300535163520)
 
-   早期报道深挖好公司 36氪助力半导体芯片自产自研 [read](https://36kr.com/p/1949106802395780)
+   WISE 2022新经济之王年度名册调研重磅启动 [read](https://36kr.com/p/1950137108973952)
+
+   股价暴跌八成、高管离职，人造肉的故事不香了？ [read](http://www.geekpark.net/news/309308)
+
+   华为 53 岁高管丁耘去世；传美国将对华出台芯片技术管制新规；波士顿动力承诺不造战争机器人 [read](http://www.geekpark.net/news/309293)
 
    国庆档总票房15亿；特斯拉12月交付首辆Semi电动卡车；Meta高管称Horizon问题太多员工都不用 [read](http://www.geekpark.net/news/309251)
 
-   风口背后：第一批 00 后 Web3 创业者，和他们的「人间清醒」 [read](http://www.geekpark.net/news/309074)
-
-   法国女作家安妮·埃尔诺获诺贝尔文学奖；苹果 App Store 欧元区涨价；三星 Q3 营业利润下降 32% \| 极客早知道 [read](http://www.geekpark.net/news/309250)
-
 ### 金融类
 
-   价值千金的两个字：过剩 [read](http://xueqiu.com/3840065805/232203744)
+   从牧原月度出栏数据看猪周期 [read](http://xueqiu.com/8418018079/232276403)
 
-   “券源”比佣金更有吸引力，竟还有实际费率为零的ETF [read](http://xueqiu.com/4579887327/232221524)
+   多收了三五季利润，是增强确定性还是恶化竞争环境？ [read](http://xueqiu.com/9070764642/232259813)
 
-   招商银行的连锁反应 [read](http://xueqiu.com/7516820417/232234718)
+   场内QDII基金汇总，及投资价值分析 [read](http://xueqiu.com/1095267696/232269604)
 
 ### 学习类
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Google I/O 2022 [read](https://www.behance.net/gallery/153643575/Google-IO-2022)
+   SHAPED BY WIND AND FROST ? Iceland [read](https://www.behance.net/gallery/154297640/SHAPED-BY-WIND-AND-FROST-Iceland)
 
-   On a Summer Afternoon, Sidi Bousaid [read](https://www.behance.net/gallery/148481091/On-a-Summer-Afternoon-Sidi-Bousaid)
+   Brouillon - Wine bar &amp; café [read](https://www.behance.net/gallery/142595353/Brouillon-Wine-bar-caf)
 
-   Morneau \| LG2 [read](https://www.behance.net/gallery/154122903/Morneau-LG2)
+   Fractal Creatures [read](https://www.behance.net/gallery/153960939/Fractal-Creatures)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
