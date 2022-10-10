@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.ChukchiSea_EN-US6494940864_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SacredSmoke_EN-US7047459944_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,31 +68,31 @@ title: "今日资讯"
 
 ### 互联网类
 
-   4个高效心理学技巧，让你学会自我激励 [read](http://www.huxiu.com/article/680774.html?f=wangzhan)
+   情绪崩溃不是你的错，是内在小孩在“作怪” [read](http://www.huxiu.com/article/680050.html?f=wangzhan)
 
-   BBA跌落神坛，中国车出海能薅多少欧洲羊毛？ [read](http://www.huxiu.com/article/680968.html?f=wangzhan)
+   被盗超1亿美金，谁才能做“区块链老三”？ [read](http://www.huxiu.com/article/679891.html?f=wangzhan)
 
-   就这？离合器这结构，也太简单了 [read](http://www.huxiu.com/article/680835.html?f=wangzhan)
+   “不造车”的大疆和华为，抢起了车企订单 [read](http://www.huxiu.com/article/681931.html?f=wangzhan)
 
-   36氪晚报丨孙正义并未向三星提出投资ARM建议；特斯拉上海超级工厂9月交付再创月度新高 [read](https://36kr.com/p/1950262449080963)
+   谁，在推动万亿数字经济大增长？｜数字时氪 · 2022数字化创新调研启动 [read](https://36kr.com/p/1948678631131528)
 
-   海外New Things \| 开发激励戒烟的健康平台，「Vincere Health」获175万美元种子轮融资 [read](https://36kr.com/p/1950300535163520)
+   36氪晚报丨诺贝尔经济学奖授予美联储前主席伯南克等3位经济学家；苹果A17或采用3nm工艺，台积电代工 [read](https://36kr.com/p/1951749422467720)
 
-   WISE 2022新经济之王年度名册调研重磅启动 [read](https://36kr.com/p/1950137108973952)
+   超2亿平市场实践、布局近百家工厂，1套数字流让建筑迈向“智能制造” \| 专访远大住工董事长张剑 [read](https://36kr.com/p/1928591062469256)
+
+   iPhone 14 Plus 上市即破发；宁德时代电池装车量超 100GWh；PS 现可绑定 Steam 账号 \| 极客早知道 [read](http://www.geekpark.net/news/309320)
 
    股价暴跌八成、高管离职，人造肉的故事不香了？ [read](http://www.geekpark.net/news/309308)
 
    华为 53 岁高管丁耘去世；传美国将对华出台芯片技术管制新规；波士顿动力承诺不造战争机器人 [read](http://www.geekpark.net/news/309293)
 
-   国庆档总票房15亿；特斯拉12月交付首辆Semi电动卡车；Meta高管称Horizon问题太多员工都不用 [read](http://www.geekpark.net/news/309251)
-
 ### 金融类
 
-   从牧原月度出栏数据看猪周期 [read](http://xueqiu.com/8418018079/232276403)
+   怎么选择自己适合的 [read](http://xueqiu.com/7221266718/232283211)
 
-   多收了三五季利润，是增强确定性还是恶化竞争环境？ [read](http://xueqiu.com/9070764642/232259813)
+   简单聊聊当下估值 [read](http://xueqiu.com/1643044849/232348608)
 
-   场内QDII基金汇总，及投资价值分析 [read](http://xueqiu.com/1095267696/232269604)
+   投资优秀央企的时代 [read](http://xueqiu.com/1760673340/232285052)
 
 ### 学习类
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   SHAPED BY WIND AND FROST ? Iceland [read](https://www.behance.net/gallery/154297640/SHAPED-BY-WIND-AND-FROST-Iceland)
+   Lovvin' [read](https://www.behance.net/gallery/153535683/Lovvin)
 
-   Brouillon - Wine bar &amp; café [read](https://www.behance.net/gallery/142595353/Brouillon-Wine-bar-caf)
+   Sun-Kissed [read](https://www.behance.net/gallery/115940149/Sun-Kissed)
 
-   Fractal Creatures [read](https://www.behance.net/gallery/153960939/Fractal-Creatures)
+   Beach Playground Part 11 [read](https://www.behance.net/gallery/146943711/Beach-Playground-Part-11)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
