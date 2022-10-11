@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SacredSmoke_EN-US7047459944_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.TortulaMoss_EN-US7128071079_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   深入理解 Android Studio Sync 流程 [read](https://blog.csdn.net/ByteDanceTech/article/details/127255493)
+
    火山引擎 RTC 自研音频编码器 NICO 实践之路 [read](https://blog.csdn.net/ByteDanceTech/article/details/127130937)
 
    prompt 综述 [read](https://blog.csdn.net/ByteDanceTech/article/details/127099625)
-
-   初探自然语言预训练技术演进之路 [read](https://blog.csdn.net/ByteDanceTech/article/details/127081484)
 
    数字化新业态下数据安全创新——Token化 [read](https://tech.meituan.com/2022/09/22/token-pii.html)
 
@@ -68,31 +68,31 @@ title: "今日资讯"
 
 ### 互联网类
 
+   你的问题不是嘴笨，是“反应太快” [read](http://www.huxiu.com/article/680142.html?f=wangzhan)
+
+   有准备的人，可以把握住风口吗？ [read](http://www.huxiu.com/article/682656.html?f=wangzhan)
+
    情绪崩溃不是你的错，是内在小孩在“作怪” [read](http://www.huxiu.com/article/680050.html?f=wangzhan)
 
-   被盗超1亿美金，谁才能做“区块链老三”？ [read](http://www.huxiu.com/article/679891.html?f=wangzhan)
+   市场日报 \| 三季报预增股集体走强，「宁王」大涨近6%，新能源赛道火力全开；半导体变「绊倒体」，千亿白马股再度跌停 [read](https://36kr.com/p/1953031952881538)
 
-   “不造车”的大疆和华为，抢起了车企订单 [read](http://www.huxiu.com/article/681931.html?f=wangzhan)
+   是什么让我拒绝高薪，提前投身养老新职业？ [read](https://36kr.com/p/1952862649391233)
 
-   谁，在推动万亿数字经济大增长？｜数字时氪 · 2022数字化创新调研启动 [read](https://36kr.com/p/1948678631131528)
+   Web3.0浪潮来袭：互联网企业如何融入？ [read](https://36kr.com/p/1953024918755462)
 
-   36氪晚报丨诺贝尔经济学奖授予美联储前主席伯南克等3位经济学家；苹果A17或采用3nm工艺，台积电代工 [read](https://36kr.com/p/1951749422467720)
+   工业 SaaS：核心是满足客户预期，永远只领先市场半步 [read](http://www.geekpark.net/news/309310)
 
-   超2亿平市场实践、布局近百家工厂，1套数字流让建筑迈向“智能制造” \| 专访远大住工董事长张剑 [read](https://36kr.com/p/1928591062469256)
+   打了八年，奈飞和院线第一次「停战」 [read](http://www.geekpark.net/news/309394)
 
-   iPhone 14 Plus 上市即破发；宁德时代电池装车量超 100GWh；PS 现可绑定 Steam 账号 \| 极客早知道 [read](http://www.geekpark.net/news/309320)
-
-   股价暴跌八成、高管离职，人造肉的故事不香了？ [read](http://www.geekpark.net/news/309308)
-
-   华为 53 岁高管丁耘去世；传美国将对华出台芯片技术管制新规；波士顿动力承诺不造战争机器人 [read](http://www.geekpark.net/news/309293)
+   沪指跌破 3000 点，芯片股集体大跌；上海：明年插混、增程车无免费绿牌；央行：建设覆盖全社会的征信体系 [read](http://www.geekpark.net/news/309358)
 
 ### 金融类
 
-   怎么选择自己适合的 [read](http://xueqiu.com/7221266718/232283211)
+   抄底的艺术 [read](http://xueqiu.com/2299425930/232451555)
 
-   简单聊聊当下估值 [read](http://xueqiu.com/1643044849/232348608)
+   我是如何度过2008年股市大调整的，温故知新 [read](http://xueqiu.com/1448459094/232453005)
 
-   投资优秀央企的时代 [read](http://xueqiu.com/1760673340/232285052)
+   伯南克与格林斯潘货币政策比较分析 [read](http://xueqiu.com/6247460865/232443973)
 
 ### 学习类
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Lovvin' [read](https://www.behance.net/gallery/153535683/Lovvin)
+   OSU [read](https://www.behance.net/gallery/153095963/OSU)
 
-   Sun-Kissed [read](https://www.behance.net/gallery/115940149/Sun-Kissed)
+   The Guardian University Guide 2023 [read](https://www.behance.net/gallery/154537473/The-Guardian-University-Guide-2023)
 
-   Beach Playground Part 11 [read](https://www.behance.net/gallery/146943711/Beach-Playground-Part-11)
+   B O G A T I T S A [read](https://www.behance.net/gallery/154347333/B-O-G-A-T-I-T-S-A)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
