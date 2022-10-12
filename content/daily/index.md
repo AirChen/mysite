@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.TortulaMoss_EN-US7128071079_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AmmoniteGraveyard_EN-US7510840532_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -68,31 +68,31 @@ title: "今日资讯"
 
 ### 互联网类
 
-   你的问题不是嘴笨，是“反应太快” [read](http://www.huxiu.com/article/680142.html?f=wangzhan)
+   这本书，可以提升你的认知层次 [read](http://www.huxiu.com/article/683935.html?f=wangzhan)
 
-   有准备的人，可以把握住风口吗？ [read](http://www.huxiu.com/article/682656.html?f=wangzhan)
+   理想汽车自动驾驶有多强？（中） [read](http://www.huxiu.com/article/683399.html?f=wangzhan)
 
-   情绪崩溃不是你的错，是内在小孩在“作怪” [read](http://www.huxiu.com/article/680050.html?f=wangzhan)
+   美国人造电车，不只有特斯拉 [read](http://www.huxiu.com/article/681985.html?f=wangzhan)
 
-   市场日报 \| 三季报预增股集体走强，「宁王」大涨近6%，新能源赛道火力全开；半导体变「绊倒体」，千亿白马股再度跌停 [read](https://36kr.com/p/1953031952881538)
+   当房产经纪人开始卖大闸蟹 \| 对话21世纪不动产总裁卢航 [read](https://36kr.com/p/1954669821368196)
 
-   是什么让我拒绝高薪，提前投身养老新职业？ [read](https://36kr.com/p/1952862649391233)
+   旭辉评级再下调 多只债券价格继续深跌 [read](https://36kr.com/p/1954589011400577)
 
-   Web3.0浪潮来袭：互联网企业如何融入？ [read](https://36kr.com/p/1953024918755462)
+   美团优选，还能再让人省些吗？ [read](https://36kr.com/p/1954375062804610)
+
+   扎克伯格给 Quest 新头显，定了个「天价」 [read](http://www.geekpark.net/news/309433)
+
+   Meta 推 Quest Pro 头显，1499美元；谷歌云接受加密币支付；iPhone 换 Type-C 接口苹果每年损失百亿美元 [read](http://www.geekpark.net/news/309396)
 
    工业 SaaS：核心是满足客户预期，永远只领先市场半步 [read](http://www.geekpark.net/news/309310)
 
-   打了八年，奈飞和院线第一次「停战」 [read](http://www.geekpark.net/news/309394)
-
-   沪指跌破 3000 点，芯片股集体大跌；上海：明年插混、增程车无免费绿牌；央行：建设覆盖全社会的征信体系 [read](http://www.geekpark.net/news/309358)
-
 ### 金融类
 
-   抄底的艺术 [read](http://xueqiu.com/2299425930/232451555)
+   船舶运力等于集运供应吗？浅析集运的供应限制 [read](http://xueqiu.com/9070764642/232530991)
 
-   我是如何度过2008年股市大调整的，温故知新 [read](http://xueqiu.com/1448459094/232453005)
+   回家----我的招商银行 [read](http://xueqiu.com/8164125924/232507782)
 
-   伯南克与格林斯潘货币政策比较分析 [read](http://xueqiu.com/6247460865/232443973)
+   百万基金实战总结 [read](http://xueqiu.com/9117453666/232358997)
 
 ### 学习类
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   OSU [read](https://www.behance.net/gallery/153095963/OSU)
+   WiZ Clean Beauty \| Brand Identity [read](https://www.behance.net/gallery/99679293/WiZ-Clean-Beauty-Brand-Identity)
 
-   The Guardian University Guide 2023 [read](https://www.behance.net/gallery/154537473/The-Guardian-University-Guide-2023)
+   ??? Car!Car!Car! [read](https://www.behance.net/gallery/154504189/-CarCarCar)
 
-   B O G A T I T S A [read](https://www.behance.net/gallery/154347333/B-O-G-A-T-I-T-S-A)
+   40 Glacier [read](https://www.behance.net/gallery/153943955/40-Glacier)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -134,11 +134,11 @@ title: "今日资讯"
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
+   Pinclusion in action: Pinterest H1 2022 I&D Update [read](https://newsroom.pinterest.com/en/post/pinterest-h1-2022-id-update)
+
    Pinterest Supports Creator Wellbeing with New Headspace Partnership Ahead of World Mental Health Day [read](https://newsroom.pinterest.com/en/post/pinterest-supports-creator-wellbeing-with-new-headspace-partnership-ahead-of-world-mental)
 
    Here are the top 10 Halloween costumes for 2022, according to Pinterest [read](https://newsroom.pinterest.com/en/post/here-are-the-top-10-halloween-costumes-for-2022-according-to-pinterest)
-
-   Wanji Walcott to join Pinterest as Chief Legal Officer [read](https://newsroom.pinterest.com/en/post/wanji-walcott-to-join-pinterest-as-chief-legal-officer)
 
    W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
