@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AmmoniteGraveyard_EN-US7510840532_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AlaskaMoose_EN-US7632880778_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -48,11 +48,11 @@ title: "今日资讯"
 
    业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 
+   Spark AQE SkewedJoin 在字节跳动的实践和优化 [read](https://blog.csdn.net/ByteDanceTech/article/details/127293553)
+
    深入理解 Android Studio Sync 流程 [read](https://blog.csdn.net/ByteDanceTech/article/details/127255493)
 
    火山引擎 RTC 自研音频编码器 NICO 实践之路 [read](https://blog.csdn.net/ByteDanceTech/article/details/127130937)
-
-   prompt 综述 [read](https://blog.csdn.net/ByteDanceTech/article/details/127099625)
 
    数字化新业态下数据安全创新——Token化 [read](https://tech.meituan.com/2022/09/22/token-pii.html)
 
@@ -68,45 +68,45 @@ title: "今日资讯"
 
 ### 互联网类
 
-   这本书，可以提升你的认知层次 [read](http://www.huxiu.com/article/683935.html?f=wangzhan)
+   心累、焦虑…如何走出疲劳恶性循环？ [read](http://www.huxiu.com/article/680147.html?f=wangzhan)
 
-   理想汽车自动驾驶有多强？（中） [read](http://www.huxiu.com/article/683399.html?f=wangzhan)
+   花上万元拍婚纱照的人，都是大怨种吗？ [read](http://www.huxiu.com/article/685120.html?f=wangzhan)
 
-   美国人造电车，不只有特斯拉 [read](http://www.huxiu.com/article/681985.html?f=wangzhan)
+   内饰低调、外形普通，丰田埃尔法咋还那么贵？ [read](http://www.huxiu.com/article/684831.html?f=wangzhan)
 
-   当房产经纪人开始卖大闸蟹 \| 对话21世纪不动产总裁卢航 [read](https://36kr.com/p/1954669821368196)
+   求求你，别再逼年轻人运动了！！ \| 年轻人「潮流健身」小调查 [read](https://36kr.com/p/1956231108222341)
 
-   旭辉评级再下调 多只债券价格继续深跌 [read](https://36kr.com/p/1954589011400577)
+   氪星晚报｜三星电子宣布将在英国成立6G研究组；字节跳动与唱片公司谈判，借TikTok在全球扩大音乐服务；谷歌批准特朗普“真相社交”App在Play Store上架 [read](https://36kr.com/p/1956108944268424)
 
-   美团优选，还能再让人省些吗？ [read](https://36kr.com/p/1954375062804610)
+   「2022云生态影响力论坛·工业数字化专场」圆满结束，工业数字化落地实践如何开启？ [read](https://36kr.com/p/1955939027180928)
 
-   扎克伯格给 Quest 新头显，定了个「天价」 [read](http://www.geekpark.net/news/309433)
+   存算一体，自动驾驶芯片的新机遇 [read](http://www.geekpark.net/news/309459)
 
-   Meta 推 Quest Pro 头显，1499美元；谷歌云接受加密币支付；iPhone 换 Type-C 接口苹果每年损失百亿美元 [read](http://www.geekpark.net/news/309396)
+   运营商太黑？这家公司让你一键订制「移动联通」 [read](http://www.geekpark.net/news/309437)
 
-   工业 SaaS：核心是满足客户预期，永远只领先市场半步 [read](http://www.geekpark.net/news/309310)
+   微软成立「工业元宇宙」团队；字节跳动陆续更名「抖音」，上线新 LOGO；马斯克公司推出「烧焦头发味」香水 [read](http://www.geekpark.net/news/309434)
 
 ### 金融类
 
-   船舶运力等于集运供应吗？浅析集运的供应限制 [read](http://xueqiu.com/9070764642/232530991)
+   那些年一起邂逅过的牛市与熊市 [read](http://xueqiu.com/8781440589/232603045)
 
-   回家----我的招商银行 [read](http://xueqiu.com/8164125924/232507782)
+   再论陕西煤业 [read](http://xueqiu.com/7123126150/232633690)
 
-   百万基金实战总结 [read](http://xueqiu.com/9117453666/232358997)
+   如何实践“不要亏钱”的理念 [read](http://xueqiu.com/9290769077/232641302)
 
 ### 学习类
+
+   💻 Issue 329 - Blog Post: Hard Mode Rust [read](https://rust.libhunt.com/newsletter/329)
 
    💻 Issue 328 - Initial Rust support is now merged into the Linux kernel! [read](https://rust.libhunt.com/newsletter/328)
 
    💻 Issue 327 - dtolnay's Rust Quiz is like taking drugs/I'm not sure if I like Rust anymore [read](https://rust.libhunt.com/newsletter/327)
 
-   💻 Issue 326 - Linus Torvalds: Rust will go into Linux 6.1 [read](https://rust.libhunt.com/newsletter/326)
+   This Week in Rust 464 [read](https://this-week-in-rust.org/blog/2022/10/12/this-week-in-rust-464/)
 
    This Week in Rust 463 [read](https://this-week-in-rust.org/blog/2022/10/05/this-week-in-rust-463/)
 
    This Week in Rust 462 [read](https://this-week-in-rust.org/blog/2022/09/28/this-week-in-rust-462/)
-
-   This Week in Rust 461 [read](https://this-week-in-rust.org/blog/2022/09/21/this-week-in-rust-461/)
 
    ETCD的内存问题 [read](https://coolshell.cn/articles/22242.html)
 
@@ -122,11 +122,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   WiZ Clean Beauty \| Brand Identity [read](https://www.behance.net/gallery/99679293/WiZ-Clean-Beauty-Brand-Identity)
+   New Balance [read](https://www.behance.net/gallery/154582155/New-Balance)
 
-   ??? Car!Car!Car! [read](https://www.behance.net/gallery/154504189/-CarCarCar)
+   The Skinsheet [read](https://www.behance.net/gallery/154292839/The-Skinsheet)
 
-   40 Glacier [read](https://www.behance.net/gallery/153943955/40-Glacier)
+   Salt Structures [read](https://www.behance.net/gallery/154643565/Salt-Structures)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
