@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.AlaskaMoose_EN-US7632880778_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.RioArazas_EN-US7767502808_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 225 期）：NPC 演员也是一种职业 [read](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)
+   科技爱好者周刊（第 226 期）：谷歌出了什么问题？ [read](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html)
 
-   科技爱好者周刊（第 224 期）：Figma 为什么赢了 Sketch [read](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html)
+   科技爱好者周刊（第 225 期）：NPC 演员也是一种职业 [read](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)
 
    引擎 IO 模块的变化和发展 [read](https://blog.codingnow.com/2022/10/io.html)
 
@@ -36,12 +36,6 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
-   奇舞周刊第 466 期 [read](https://weekly.75.team/issue466.html)
-
-   奇舞周刊第 465 期 [read](https://weekly.75.team/issue465.html)
-
-   奇舞周刊第 464 期 [read](https://weekly.75.team/issue464.html)
-
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
    服饰3D柔性渲染调研及实践 [read](https://fed.taobao.org/blog/taofed/do71ct/fufsgh)
@@ -68,31 +62,31 @@ title: "今日资讯"
 
 ### 互联网类
 
-   心累、焦虑…如何走出疲劳恶性循环？ [read](http://www.huxiu.com/article/680147.html?f=wangzhan)
+   陷入情绪性进食，暴食症如何自救？ [read](http://www.huxiu.com/article/683693.html?f=wangzhan)
 
-   花上万元拍婚纱照的人，都是大怨种吗？ [read](http://www.huxiu.com/article/685120.html?f=wangzhan)
+   燃油车时代的价格战，在电动车上还灵吗？ [read](http://www.huxiu.com/article/685968.html?f=wangzhan)
 
-   内饰低调、外形普通，丰田埃尔法咋还那么贵？ [read](http://www.huxiu.com/article/684831.html?f=wangzhan)
+   猎头，自身难保 [read](http://www.huxiu.com/article/685941.html?f=wangzhan)
 
-   求求你，别再逼年轻人运动了！！ \| 年轻人「潮流健身」小调查 [read](https://36kr.com/p/1956231108222341)
+   定向回购新房？苏州楼市何以至此 [read](https://36kr.com/p/1957517281336456)
 
-   氪星晚报｜三星电子宣布将在英国成立6G研究组；字节跳动与唱片公司谈判，借TikTok在全球扩大音乐服务；谷歌批准特朗普“真相社交”App在Play Store上架 [read](https://36kr.com/p/1956108944268424)
+   氪星晚报｜阿里巴巴启动非洲创业者培训；30余地下调首套房公积金贷款利率；烟草局拟出台电子烟寄递限量新规 [read](https://36kr.com/p/1957428311055745)
 
-   「2022云生态影响力论坛·工业数字化专场」圆满结束，工业数字化落地实践如何开启？ [read](https://36kr.com/p/1955939027180928)
+   海外news things丨法国商业预测平台「Pigment」获6500万美元B+轮融资，致力于为企业提供商业数据分析及预测服务 [read](https://36kr.com/p/1956269399514497)
+
+   华为人事变动：企业、运营商 BG 总裁换人；大众砸重金与地平线成立合资公司；微软推免费 P 图软件，挑战 PS [read](http://www.geekpark.net/news/309485)
 
    存算一体，自动驾驶芯片的新机遇 [read](http://www.geekpark.net/news/309459)
 
    运营商太黑？这家公司让你一键订制「移动联通」 [read](http://www.geekpark.net/news/309437)
 
-   微软成立「工业元宇宙」团队；字节跳动陆续更名「抖音」，上线新 LOGO；马斯克公司推出「烧焦头发味」香水 [read](http://www.geekpark.net/news/309434)
-
 ### 金融类
 
-   那些年一起邂逅过的牛市与熊市 [read](http://xueqiu.com/8781440589/232603045)
+   写在腾讯250 [read](http://xueqiu.com/2107541144/232698505)
 
-   再论陕西煤业 [read](http://xueqiu.com/7123126150/232633690)
+   海天陷添加剂困扰，千禾们能躺赢吗？调味品公司价值思考 [read](http://xueqiu.com/4445206874/232723475)
 
-   如何实践“不要亏钱”的理念 [read](http://xueqiu.com/9290769077/232641302)
+   【雪球基金调研团】你对金牛基金经理有什么话想说？ [read](http://xueqiu.com/8152922548/232707790)
 
 ### 学习类
 
@@ -122,11 +116,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   New Balance [read](https://www.behance.net/gallery/154582155/New-Balance)
+   Mobility, Enjoy the way - Brand design [read](https://www.behance.net/gallery/154473173/Mobility-Enjoy-the-way-Brand-design)
 
-   The Skinsheet [read](https://www.behance.net/gallery/154292839/The-Skinsheet)
+   Forest Characters [read](https://www.behance.net/gallery/154298345/Forest-Characters)
 
-   Salt Structures [read](https://www.behance.net/gallery/154643565/Salt-Structures)
+   The New York City Series [read](https://www.behance.net/gallery/153601535/The-New-York-City-Series)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
