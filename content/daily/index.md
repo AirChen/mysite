@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.RioArazas_EN-US7767502808_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.NaqsheRustam_EN-US7919143366_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -36,17 +36,11 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
-   VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
+   奇舞周刊第 467 期 [read](https://weekly.75.team/issue467.html)
 
-   服饰3D柔性渲染调研及实践 [read](https://fed.taobao.org/blog/taofed/do71ct/fufsgh)
+   奇舞周刊第 466 期 [read](https://weekly.75.team/issue466.html)
 
-   业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
-
-   Spark AQE SkewedJoin 在字节跳动的实践和优化 [read](https://blog.csdn.net/ByteDanceTech/article/details/127293553)
-
-   深入理解 Android Studio Sync 流程 [read](https://blog.csdn.net/ByteDanceTech/article/details/127255493)
-
-   火山引擎 RTC 自研音频编码器 NICO 实践之路 [read](https://blog.csdn.net/ByteDanceTech/article/details/127130937)
+   奇舞周刊第 465 期 [read](https://weekly.75.team/issue465.html)
 
    数字化新业态下数据安全创新——Token化 [read](https://tech.meituan.com/2022/09/22/token-pii.html)
 
@@ -62,31 +56,31 @@ title: "今日资讯"
 
 ### 互联网类
 
-   陷入情绪性进食，暴食症如何自救？ [read](http://www.huxiu.com/article/683693.html?f=wangzhan)
+   倦怠社会下，如何对抗抑郁？ [read](http://www.huxiu.com/article/682661.html?f=wangzhan)
 
-   燃油车时代的价格战，在电动车上还灵吗？ [read](http://www.huxiu.com/article/685968.html?f=wangzhan)
+   我缺的不是陌生人社交，而是社交 [read](http://www.huxiu.com/article/686781.html?f=wangzhan)
 
-   猎头，自身难保 [read](http://www.huxiu.com/article/685941.html?f=wangzhan)
+   动力电池30年沉浮 [read](http://www.huxiu.com/article/686181.html?f=wangzhan)
 
-   定向回购新房？苏州楼市何以至此 [read](https://36kr.com/p/1957517281336456)
+   聪明的钱 · ESG丨凛冬将至，ESG是怎么引爆欧洲能源危机的？ [read](https://36kr.com/p/1958690477865350)
 
-   氪星晚报｜阿里巴巴启动非洲创业者培训；30余地下调首套房公积金贷款利率；烟草局拟出台电子烟寄递限量新规 [read](https://36kr.com/p/1957428311055745)
+   聪明的钱 · ESG丨ALL in ESG？贝莱德的神话与现实 [read](https://36kr.com/p/1958699312773255)
 
-   海外news things丨法国商业预测平台「Pigment」获6500万美元B+轮融资，致力于为企业提供商业数据分析及预测服务 [read](https://36kr.com/p/1956269399514497)
+   聪明的钱丨北向资金6月创纪录大买近730亿，核心资产全面回归指日可待？ [read](https://36kr.com/p/1958709893380228)
+
+   Meta 首席产品设计主管离职；配合MR 头显，苹果或重新设计iMessage；全球53亿台手机被废置 [read](http://www.geekpark.net/news/309532)
 
    华为人事变动：企业、运营商 BG 总裁换人；大众砸重金与地平线成立合资公司；微软推免费 P 图软件，挑战 PS [read](http://www.geekpark.net/news/309485)
 
    存算一体，自动驾驶芯片的新机遇 [read](http://www.geekpark.net/news/309459)
 
-   运营商太黑？这家公司让你一键订制「移动联通」 [read](http://www.geekpark.net/news/309437)
-
 ### 金融类
 
-   写在腾讯250 [read](http://xueqiu.com/2107541144/232698505)
+   再次分析伊利股份 [read](http://xueqiu.com/6115046351/232777589)
 
-   海天陷添加剂困扰，千禾们能躺赢吗？调味品公司价值思考 [read](http://xueqiu.com/4445206874/232723475)
+   我的投资思路小结 [read](http://xueqiu.com/7123126150/232780547)
 
-   【雪球基金调研团】你对金牛基金经理有什么话想说？ [read](http://xueqiu.com/8152922548/232707790)
+   医药赛道开始反弹，医药行业指数基金最全清单来了 [read](http://xueqiu.com/9411213320/232733035)
 
 ### 学习类
 
@@ -116,11 +110,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Mobility, Enjoy the way - Brand design [read](https://www.behance.net/gallery/154473173/Mobility-Enjoy-the-way-Brand-design)
+   Hanko Brewing [read](https://www.behance.net/gallery/154837499/Hanko-Brewing)
 
-   Forest Characters [read](https://www.behance.net/gallery/154298345/Forest-Characters)
+   PROJECT #75 SALT [read](https://www.behance.net/gallery/154802705/PROJECT-75-SALT)
 
-   The New York City Series [read](https://www.behance.net/gallery/153601535/The-New-York-City-Series)
+   Jarrones [read](https://www.behance.net/gallery/154794757/Jarrones)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
