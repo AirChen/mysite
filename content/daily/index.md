@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.NaqsheRustam_EN-US7919143366_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.PrinceChristianSound_EN-US8033823843_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -42,45 +42,51 @@ title: "今日资讯"
 
    奇舞周刊第 465 期 [read](https://weekly.75.team/issue465.html)
 
+   VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
+
+   服饰3D柔性渲染调研及实践 [read](https://fed.taobao.org/blog/taofed/do71ct/fufsgh)
+
+   业务系统的稳定性建设 [read](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
+
+   Spark AQE SkewedJoin 在字节跳动的实践和优化 [read](https://blog.csdn.net/ByteDanceTech/article/details/127293553)
+
+   深入理解 Android Studio Sync 流程 [read](https://blog.csdn.net/ByteDanceTech/article/details/127255493)
+
+   火山引擎 RTC 自研音频编码器 NICO 实践之路 [read](https://blog.csdn.net/ByteDanceTech/article/details/127130937)
+
    数字化新业态下数据安全创新——Token化 [read](https://tech.meituan.com/2022/09/22/token-pii.html)
 
    通用目标检测开源框架YOLOv6在美团的量化部署实战 [read](https://tech.meituan.com/2022/09/22/yolov6-quantization-in-meituan.html)
 
    目标检测开源框架YOLOv6全面升级，更快更准的2.0版本来啦 [read](https://tech.meituan.com/2022/09/15/yolov6-2.0.html)
 
-   FEX 技术周刊 - 2020/06/08 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-08//)
-
-   FEX 技术周刊 - 2020/06/01 [read](http://fex.baidu.com/blog/2020/06/fex-weekly-01//)
-
-   FEX 技术周刊 - 2020/05/25 [read](http://fex.baidu.com/blog/2020/05/fex-weekly-25//)
-
 ### 互联网类
+
+   亲测有效，3个方法打造大神级深度思考力 [read](http://www.huxiu.com/article/684686.html?f=wangzhan)
+
+   李一男的白日梦，要被华为拍醒了 [read](http://www.huxiu.com/article/683982.html?f=wangzhan)
 
    倦怠社会下，如何对抗抑郁？ [read](http://www.huxiu.com/article/682661.html?f=wangzhan)
 
-   我缺的不是陌生人社交，而是社交 [read](http://www.huxiu.com/article/686781.html?f=wangzhan)
+   为什么家里的投影仪，买回来就闲置？ \| 年轻人「吃灰设备」小调查 [read](https://36kr.com/p/1960079443065219)
 
-   动力电池30年沉浮 [read](http://www.huxiu.com/article/686181.html?f=wangzhan)
+   医疗健康行业周报 \|「迅实科技」获过亿美元D轮融资；艾尔建美学加码中国医美市场 [read](https://36kr.com/p/1959925316188295)
 
-   聪明的钱 · ESG丨凛冬将至，ESG是怎么引爆欧洲能源危机的？ [read](https://36kr.com/p/1958690477865350)
+   动力电池电解液供应商正积极扩张规模，释放产能产能 \| 未来能源创投风向标 [read](https://36kr.com/p/1951321271830913)
 
-   聪明的钱 · ESG丨ALL in ESG？贝莱德的神话与现实 [read](https://36kr.com/p/1958699312773255)
-
-   聪明的钱丨北向资金6月创纪录大买近730亿，核心资产全面回归指日可待？ [read](https://36kr.com/p/1958709893380228)
+   苹果或推 iPad 底座智能音箱；特斯拉国内「首告」前员工侵害机密；国家邮政：2025 年底禁用不可降解包装 [read](http://www.geekpark.net/news/309534)
 
    Meta 首席产品设计主管离职；配合MR 头显，苹果或重新设计iMessage；全球53亿台手机被废置 [read](http://www.geekpark.net/news/309532)
 
    华为人事变动：企业、运营商 BG 总裁换人；大众砸重金与地平线成立合资公司；微软推免费 P 图软件，挑战 PS [read](http://www.geekpark.net/news/309485)
 
-   存算一体，自动驾驶芯片的新机遇 [read](http://www.geekpark.net/news/309459)
-
 ### 金融类
 
-   再次分析伊利股份 [read](http://xueqiu.com/6115046351/232777589)
+   基金公司员工持有较多的ETF基金 [read](http://xueqiu.com/5679199459/232816318)
 
-   我的投资思路小结 [read](http://xueqiu.com/7123126150/232780547)
+   港股带我步入深渊记 [read](http://xueqiu.com/4579887327/232810960)
 
-   医药赛道开始反弹，医药行业指数基金最全清单来了 [read](http://xueqiu.com/9411213320/232733035)
+   择时无用？这可能是A股最大的谎言 [read](http://xueqiu.com/9277793488/232818883)
 
 ### 学习类
 
@@ -110,11 +116,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Hanko Brewing [read](https://www.behance.net/gallery/154837499/Hanko-Brewing)
+   Peelers Yard ? Brand Identity [read](https://www.behance.net/gallery/152811883/Peelers-Yard-Brand-Identity)
 
-   PROJECT #75 SALT [read](https://www.behance.net/gallery/154802705/PROJECT-75-SALT)
+   Hamburg Noir II [read](https://www.behance.net/gallery/154852101/Hamburg-Noir-II)
 
-   Jarrones [read](https://www.behance.net/gallery/154794757/Jarrones)
+   My recent works [read](https://www.behance.net/gallery/151897231/My-recent-works)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
