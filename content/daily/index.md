@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.PrinceChristianSound_EN-US8033823843_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SwedenOwl_EN-US8107135630_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -10,11 +10,11 @@ title: "今日资讯"
 
    科技爱好者周刊（第 225 期）：NPC 演员也是一种职业 [read](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)
 
+   电信宽带 ipv6 折腾记 [read](https://blog.codingnow.com/2022/10/telecom_ipv6.html)
+
    引擎 IO 模块的变化和发展 [read](https://blog.codingnow.com/2022/10/io.html)
 
    货物和货车的匹配 [read](https://blog.codingnow.com/2022/09/cargo_matching.html)
-
-   多线程串行运行 Lua 虚拟机 [read](https://blog.codingnow.com/2022/09/multithread_lua_vm.html)
 
    为了老婆的乐队梦, 我做了一个弹钢琴的机器人 [read](https://blog.t9t.io/modsoul-2022-07-29/)
 
@@ -62,31 +62,31 @@ title: "今日资讯"
 
 ### 互联网类
 
+   三个月狂赚20亿，东方甄选的“爆火”，仅仅是意外？ [read](http://www.huxiu.com/article/687944.html?f=wangzhan)
+
+   日本人，到底拆了多少中国车？ [read](http://www.huxiu.com/article/680059.html?f=wangzhan)
+
    亲测有效，3个方法打造大神级深度思考力 [read](http://www.huxiu.com/article/684686.html?f=wangzhan)
 
-   李一男的白日梦，要被华为拍醒了 [read](http://www.huxiu.com/article/683982.html?f=wangzhan)
+   85后骑行迷将爱好做成事业：迭代工厂 年销千万 [read](https://36kr.com/p/1961687445567625)
 
-   倦怠社会下，如何对抗抑郁？ [read](http://www.huxiu.com/article/682661.html?f=wangzhan)
+   一超多强格局渐显——电池隔膜国内供应商梳理 \| 未来能源创投风向标 [read](https://36kr.com/p/1952781336533124)
 
-   为什么家里的投影仪，买回来就闲置？ \| 年轻人「吃灰设备」小调查 [read](https://36kr.com/p/1960079443065219)
+   海外news things丨去中心化交易所母公司「Uniswap Labs」获1.65亿美元B轮融资，为本年度加密货币赛道少数得到融资的公司之一 [read](https://36kr.com/p/1959131753576580)
 
-   医疗健康行业周报 \|「迅实科技」获过亿美元D轮融资；艾尔建美学加码中国医美市场 [read](https://36kr.com/p/1959925316188295)
+   「尘归尘土归土」，他们让生命进入「另类永生」 [read](http://www.geekpark.net/news/309539)
 
-   动力电池电解液供应商正积极扩张规模，释放产能产能 \| 未来能源创投风向标 [read](https://36kr.com/p/1951321271830913)
+   支付宝已支持向微信好友转账；宝马将把 MINI 电动车型生产线迁至中国；3D 打印肉产品或将投入商用 [read](http://www.geekpark.net/news/309535)
 
    苹果或推 iPad 底座智能音箱；特斯拉国内「首告」前员工侵害机密；国家邮政：2025 年底禁用不可降解包装 [read](http://www.geekpark.net/news/309534)
 
-   Meta 首席产品设计主管离职；配合MR 头显，苹果或重新设计iMessage；全球53亿台手机被废置 [read](http://www.geekpark.net/news/309532)
-
-   华为人事变动：企业、运营商 BG 总裁换人；大众砸重金与地平线成立合资公司；微软推免费 P 图软件，挑战 PS [read](http://www.geekpark.net/news/309485)
-
 ### 金融类
 
-   基金公司员工持有较多的ETF基金 [read](http://xueqiu.com/5679199459/232816318)
+   望京博格的养老投资规划 [read](http://xueqiu.com/4579887327/232860610)
 
-   港股带我步入深渊记 [read](http://xueqiu.com/4579887327/232810960)
+   博弈机制 [read](http://xueqiu.com/9089343523/232862997)
 
-   择时无用？这可能是A股最大的谎言 [read](http://xueqiu.com/9277793488/232818883)
+   谁拖累了公司的估值？ [read](http://xueqiu.com/6647500125/232889187)
 
 ### 学习类
 
@@ -116,11 +116,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Peelers Yard ? Brand Identity [read](https://www.behance.net/gallery/152811883/Peelers-Yard-Brand-Identity)
+   Colorful Noir [read](https://www.behance.net/gallery/154643259/Colorful-Noir)
 
-   Hamburg Noir II [read](https://www.behance.net/gallery/154852101/Hamburg-Noir-II)
+   Transient Sculptures 2022 [read](https://www.behance.net/gallery/154842291/Transient-Sculptures-2022)
 
-   My recent works [read](https://www.behance.net/gallery/151897231/My-recent-works)
+   Martini Sportswear ? Brand Design [read](https://www.behance.net/gallery/153180101/Martini-Sportswear-Brand-Design)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
