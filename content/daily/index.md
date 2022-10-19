@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GB25Anni_EN-US8198972228_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WartburgCastle_EN-US8283353282_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -62,17 +62,17 @@ title: "今日资讯"
 
 ### 互联网类
 
-   如果解决了能源危机，世界会拥有和平吗？ [read](http://www.huxiu.com/article/688275.html?f=wangzhan)
+   网易文娱投资版图（下）：文娱篇 [read](http://www.huxiu.com/article/689395.html?f=wangzhan)
 
-   三个月狂赚20亿，东方甄选的“爆火”，仅仅是意外？ [read](http://www.huxiu.com/article/687944.html?f=wangzhan)
+   网易文娱投资版图（上）：游戏篇 [read](http://www.huxiu.com/article/689396.html?f=wangzhan)
 
-   日本人，到底拆了多少中国车？ [read](http://www.huxiu.com/article/680059.html?f=wangzhan)
+   汽车出海，卖车只是第一步 [read](http://www.huxiu.com/article/690234.html?f=wangzhan)
 
-   36氪晚报丨高盛：在亚洲配置中维持中国股票超配评级，相对于境外股票更看好A股；天猫双11升级价保服务：全程支持买贵一键退差价 [read](https://36kr.com/p/1963282847940864)
+   36氪携手新消费品牌引领健康生活 [read](https://36kr.com/p/1964605383764233)
 
-   海外news things丨印度政府近日在全国增设75家数字银行，旨在推进银行服务的最后一公里 [read](https://36kr.com/p/1961885270768007)
+   凯德20.37亿元拍下东三环写字楼  刷新年内北京法拍成交纪录 [read](https://36kr.com/p/1964485366163972)
 
-   海外news things丨金融科技公司「Maplerad」获600万美元种子轮融资，专注于开发非洲地区的线上银行服务平台 [read](https://36kr.com/p/1961983651250689)
+   氪星晚报 \| 苹果再次提高iPad mini/Air在日本的售价；李宁就产品设计致歉；宁德时代钙钛矿太阳能电池专利公布 [read](https://36kr.com/p/1964521605687553)
 
    英伟达的元宇宙梦想，不止 Omniverse [read](http://www.geekpark.net/news/309625)
 
@@ -82,11 +82,11 @@ title: "今日资讯"
 
 ### 金融类
 
-   贵州茅台22Q3：直销与系列酒 [read](http://xueqiu.com/3552430478/232988339)
+   有钱人的复利和普通人的复利是两种游戏 [read](http://xueqiu.com/9290769077/233079873)
 
-   医疗器械，从两个标准看集采结果的影响 [read](http://xueqiu.com/4777061674/232960573)
+   投资和投机，本质区别在哪里？ [read](http://xueqiu.com/7664480424/233053709)
 
-   中国移动按股息定价，到底值多少钱 [read](http://xueqiu.com/7984816005/232961621)
+   仓位管理的三大核心经验！ [read](http://xueqiu.com/2496980475/233073260)
 
 ### 学习类
 
@@ -116,11 +116,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Kelibian Summer [read](https://www.behance.net/gallery/154292335/Kelibian-Summer)
+   Entomological Collection [read](https://www.behance.net/gallery/154480657/Entomological-Collection)
 
-   Annual Report Culture Valais 2021 [read](https://www.behance.net/gallery/155012401/Annual-Report-Culture-Valais-2021)
+   Samsung Fire &amp; Marine Insurance Branded Items Design [read](https://www.behance.net/gallery/148991905/Samsung-Fire-Marine-Insurance-Branded-Items-Design)
 
-   Mushroom Digital [read](https://www.behance.net/gallery/154980609/Mushroom-Digital)
+   MMA Smarties NFT Trophies [read](https://www.behance.net/gallery/155076193/MMA-Smarties-NFT-Trophies)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
