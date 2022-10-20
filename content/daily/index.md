@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.WartburgCastle_EN-US8283353282_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SlothDay_EN-US8418438094_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -36,12 +36,6 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
-   奇舞周刊第 467 期 [read](https://weekly.75.team/issue467.html)
-
-   奇舞周刊第 466 期 [read](https://weekly.75.team/issue466.html)
-
-   奇舞周刊第 465 期 [read](https://weekly.75.team/issue465.html)
-
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
    服饰3D柔性渲染调研及实践 [read](https://fed.taobao.org/blog/taofed/do71ct/fufsgh)
@@ -62,45 +56,45 @@ title: "今日资讯"
 
 ### 互联网类
 
-   网易文娱投资版图（下）：文娱篇 [read](http://www.huxiu.com/article/689395.html?f=wangzhan)
+   半价Model 3，撑起4万亿市值特斯拉？ [read](http://www.huxiu.com/article/690697.html?f=wangzhan)
 
-   网易文娱投资版图（上）：游戏篇 [read](http://www.huxiu.com/article/689396.html?f=wangzhan)
+   B站文娱投资版图（上）：游戏篇 [read](http://www.huxiu.com/article/690233.html?f=wangzhan)
 
-   汽车出海，卖车只是第一步 [read](http://www.huxiu.com/article/690234.html?f=wangzhan)
+   告别平庸生活，3个方法让你获得快乐 [read](http://www.huxiu.com/article/687188.html?f=wangzhan)
 
-   36氪携手新消费品牌引领健康生活 [read](https://36kr.com/p/1964605383764233)
+   元宇宙发明了未来，未来创造了过去 [read](https://36kr.com/p/1965957524655239)
 
-   凯德20.37亿元拍下东三环写字楼  刷新年内北京法拍成交纪录 [read](https://36kr.com/p/1964485366163972)
+   氪星晚报 \| 亚马逊因滥用算法在英国面临集体诉讼；雷军：小米造车成功唯一途径是挤进世界前五，年出货超千万辆 [read](https://36kr.com/p/1965958776622212)
 
-   氪星晚报 \| 苹果再次提高iPad mini/Air在日本的售价；李宁就产品设计致歉；宁德时代钙钛矿太阳能电池专利公布 [read](https://36kr.com/p/1964521605687553)
+   海外news things丨风险投资公司「Will Ventures」扩展基金规模达1.5亿美元，将用于投资健康和体育垂类品牌 [read](https://36kr.com/p/1963426902223368)
+
+   如何在 Web3 「熊市」，做成一家独角兽？ [read](http://www.geekpark.net/news/309669)
+
+   苹果削减iPhone 14 Plus产能；特斯拉三季度营收214亿美元；周星驰在线招聘Web3人才\| 极客早知道 [read](http://www.geekpark.net/news/309670)
 
    英伟达的元宇宙梦想，不止 Omniverse [read](http://www.geekpark.net/news/309625)
 
-   Meta 元宇宙平台用户数量远不及目标；Mobileye IPO 估值缩水 60%；新技术十分钟完成电动汽车充电 [read](http://www.geekpark.net/news/309578)
-
-   「尘归尘土归土」，他们让生命进入「另类永生」 [read](http://www.geekpark.net/news/309539)
-
 ### 金融类
 
-   有钱人的复利和普通人的复利是两种游戏 [read](http://xueqiu.com/9290769077/233079873)
+   腾讯应值几个钱？ [read](http://xueqiu.com/1755110761/233096218)
 
-   投资和投机，本质区别在哪里？ [read](http://xueqiu.com/7664480424/233053709)
+   从伊利股份看白马股遇到的问题 [read](http://xueqiu.com/7516820417/233175902)
 
-   仓位管理的三大核心经验！ [read](http://xueqiu.com/2496980475/233073260)
+   遗忘15年股票涨50倍！说明了啥？ [read](http://xueqiu.com/5223831183/233172318)
 
 ### 学习类
+
+   💻 Issue 330 - Why Rust? [read](https://rust.libhunt.com/newsletter/330)
 
    💻 Issue 329 - Blog Post: Hard Mode Rust [read](https://rust.libhunt.com/newsletter/329)
 
    💻 Issue 328 - Initial Rust support is now merged into the Linux kernel! [read](https://rust.libhunt.com/newsletter/328)
 
-   💻 Issue 327 - dtolnay's Rust Quiz is like taking drugs/I'm not sure if I like Rust anymore [read](https://rust.libhunt.com/newsletter/327)
+   This Week in Rust 465 [read](https://this-week-in-rust.org/blog/2022/10/19/this-week-in-rust-465/)
 
    This Week in Rust 464 [read](https://this-week-in-rust.org/blog/2022/10/12/this-week-in-rust-464/)
 
    This Week in Rust 463 [read](https://this-week-in-rust.org/blog/2022/10/05/this-week-in-rust-463/)
-
-   This Week in Rust 462 [read](https://this-week-in-rust.org/blog/2022/09/28/this-week-in-rust-462/)
 
    ETCD的内存问题 [read](https://coolshell.cn/articles/22242.html)
 
@@ -116,11 +110,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Entomological Collection [read](https://www.behance.net/gallery/154480657/Entomological-Collection)
+   CHILDREN'S BOOK \| The Bird Whisperer [read](https://www.behance.net/gallery/141208097/CHILDRENS-BOOK-The-Bird-Whisperer)
 
-   Samsung Fire &amp; Marine Insurance Branded Items Design [read](https://www.behance.net/gallery/148991905/Samsung-Fire-Marine-Insurance-Branded-Items-Design)
+   HITTOBITTO [read](https://www.behance.net/gallery/154850643/HITTOBITTO)
 
-   MMA Smarties NFT Trophies [read](https://www.behance.net/gallery/155076193/MMA-Smarties-NFT-Trophies)
+   Oracles of Ancient Times [read](https://www.behance.net/gallery/152591515/Oracles-of-Ancient-Times)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
@@ -128,11 +122,11 @@ title: "今日资讯"
 
    Celebrating and Protecting Our Oceans For World Ocean Day [read](https://medium.com/behance-blog/celebrating-and-protecting-our-oceans-for-world-ocean-day-2c24a64c913e?source=rss-f5272b7f3182------2)
 
+   Pinterest partners with Warner Music Group and Merlin to expand music experience on platform [read](https://newsroom.pinterest.com/en/musiclaunch)
+
    Pinclusion in action: Pinterest H1 2022 I&D Update [read](https://newsroom.pinterest.com/en/post/pinterest-h1-2022-id-update)
 
    Pinterest Supports Creator Wellbeing with New Headspace Partnership Ahead of World Mental Health Day [read](https://newsroom.pinterest.com/en/post/pinterest-supports-creator-wellbeing-with-new-headspace-partnership-ahead-of-world-mental)
-
-   Here are the top 10 Halloween costumes for 2022, according to Pinterest [read](https://newsroom.pinterest.com/en/post/here-are-the-top-10-halloween-costumes-for-2022-according-to-pinterest)
 
    W3C无障碍组件创作实践中文版发布 [read](https://cdc.tencent.com/2022/08/12/w3c%e6%97%a0%e9%9a%9c%e7%a2%8d%e7%bb%84%e4%bb%b6%e5%88%9b%e4%bd%9c%e5%ae%9e%e8%b7%b5%e4%b8%ad%e6%96%87%e7%89%88%e5%8f%91%e5%b8%83/)
 
