@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.SlothDay_EN-US8418438094_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GeorgiaCypress_EN-US2966839861_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 226 期）：谷歌出了什么问题？ [read](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html)
+   科技爱好者周刊（第 227 期）：脸书的公司入职教育 [read](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html)
 
-   科技爱好者周刊（第 225 期）：NPC 演员也是一种职业 [read](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)
+   科技爱好者周刊（第 226 期）：谷歌出了什么问题？ [read](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html)
 
    电信宽带 ipv6 折腾记 [read](https://blog.codingnow.com/2022/10/telecom_ipv6.html)
 
@@ -36,6 +36,12 @@ title: "今日资讯"
 
    callable-object [read](http://www.alloyteam.com/2021/03/callable-object/)
 
+   奇舞周刊第 468 期 [read](https://weekly.75.team/issue468.html)
+
+   奇舞周刊第 467 期 [read](https://weekly.75.team/issue467.html)
+
+   奇舞周刊第 466 期 [read](https://weekly.75.team/issue466.html)
+
    VS Code 是如何优化启动性能的？ [read](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
 
    服饰3D柔性渲染调研及实践 [read](https://fed.taobao.org/blog/taofed/do71ct/fufsgh)
@@ -56,31 +62,31 @@ title: "今日资讯"
 
 ### 互联网类
 
-   半价Model 3，撑起4万亿市值特斯拉？ [read](http://www.huxiu.com/article/690697.html?f=wangzhan)
+   B站文娱投资版图（下）：文娱篇 [read](http://www.huxiu.com/article/692330.html?f=wangzhan)
 
-   B站文娱投资版图（上）：游戏篇 [read](http://www.huxiu.com/article/690233.html?f=wangzhan)
+   《心灵的面具》：让你真正“看透”你自己 [read](http://www.huxiu.com/article/683709.html?f=wangzhan)
 
-   告别平庸生活，3个方法让你获得快乐 [read](http://www.huxiu.com/article/687188.html?f=wangzhan)
+   宝马3系平替，蔚来造出来了？ [read](http://www.huxiu.com/article/692201.html?f=wangzhan)
 
-   元宇宙发明了未来，未来创造了过去 [read](https://36kr.com/p/1965957524655239)
+   国产力量大爆发,千亿重组胶原蛋白市场背后发生了什么? [read](https://36kr.com/p/1967484465286018)
 
-   氪星晚报 \| 亚马逊因滥用算法在英国面临集体诉讼；雷军：小米造车成功唯一途径是挤进世界前五，年出货超千万辆 [read](https://36kr.com/p/1965958776622212)
+   氪星晚报 \| 罗永浩的AR创业公司“Thin Red Line”获天使轮融资，美团龙珠领投；宁德时代：公司正致力推进钠离子电池在2023年实现产业化；美团与苏宁易购达成战略合作 [read](https://36kr.com/p/1967367174212484)
 
-   海外news things丨风险投资公司「Will Ventures」扩展基金规模达1.5亿美元，将用于投资健康和体育垂类品牌 [read](https://36kr.com/p/1963426902223368)
+   智氪 \| 特斯拉利润超预期，但盘前跌了2800亿元 [read](https://36kr.com/p/1967110545837191)
+
+   传马斯克拟 Twitter 暴力裁员；罗永浩、俞敏洪高调入淘；雷军：小米电动车成功的唯一途径是成为前五 [read](http://www.geekpark.net/news/309739)
 
    如何在 Web3 「熊市」，做成一家独角兽？ [read](http://www.geekpark.net/news/309669)
 
    苹果削减iPhone 14 Plus产能；特斯拉三季度营收214亿美元；周星驰在线招聘Web3人才\| 极客早知道 [read](http://www.geekpark.net/news/309670)
 
-   英伟达的元宇宙梦想，不止 Omniverse [read](http://www.geekpark.net/news/309625)
-
 ### 金融类
 
-   腾讯应值几个钱？ [read](http://xueqiu.com/1755110761/233096218)
+   《雪球基金第一课》读书笔记 [read](http://xueqiu.com/8653750491/233279479)
 
-   从伊利股份看白马股遇到的问题 [read](http://xueqiu.com/7516820417/233175902)
+   面对最优，只有信任和跟随 [read](http://xueqiu.com/9498737718/233231486)
 
-   遗忘15年股票涨50倍！说明了啥？ [read](http://xueqiu.com/5223831183/233172318)
+   如果熊市还要一年多？ [read](http://xueqiu.com/3559889031/233197620)
 
 ### 学习类
 
@@ -110,11 +116,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   CHILDREN'S BOOK \| The Bird Whisperer [read](https://www.behance.net/gallery/141208097/CHILDRENS-BOOK-The-Bird-Whisperer)
+   Human blossoms [read](https://www.behance.net/gallery/154460179/Human-blossoms)
 
-   HITTOBITTO [read](https://www.behance.net/gallery/154850643/HITTOBITTO)
+   Impaktly [read](https://www.behance.net/gallery/154996111/Impaktly)
 
-   Oracles of Ancient Times [read](https://www.behance.net/gallery/152591515/Oracles-of-Ancient-Times)
+   Belif EP.06 - Paradise [read](https://www.behance.net/gallery/154817261/Belif-EP06-Paradise)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
