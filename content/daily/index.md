@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GeorgiaCypress_EN-US2966839861_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.KarstMountains_EN-US4446699673_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -62,31 +62,31 @@ title: "今日资讯"
 
 ### 互联网类
 
-   B站文娱投资版图（下）：文娱篇 [read](http://www.huxiu.com/article/692330.html?f=wangzhan)
+   不主动就是不喜欢、看不起你？ [read](http://www.huxiu.com/article/684691.html?f=wangzhan)
 
-   《心灵的面具》：让你真正“看透”你自己 [read](http://www.huxiu.com/article/683709.html?f=wangzhan)
+   5G这么快，加上“0.5个G”能改变什么？ [read](http://www.huxiu.com/article/692361.html?f=wangzhan)
 
-   宝马3系平替，蔚来造出来了？ [read](http://www.huxiu.com/article/692201.html?f=wangzhan)
+   大众的“软件癌”，谁也治不好 [read](http://www.huxiu.com/article/688760.html?f=wangzhan)
 
-   国产力量大爆发,千亿重组胶原蛋白市场背后发生了什么? [read](https://36kr.com/p/1967484465286018)
+   奶西这么火  是大厂人买出来的吗？ [read](https://36kr.com/p/1967601052011400)
 
-   氪星晚报 \| 罗永浩的AR创业公司“Thin Red Line”获天使轮融资，美团龙珠领投；宁德时代：公司正致力推进钠离子电池在2023年实现产业化；美团与苏宁易购达成战略合作 [read](https://36kr.com/p/1967367174212484)
+   本周累积融资额超228亿元，广汽埃安获超182亿元融资 \| 36氪华南融资周报 [read](https://36kr.com/p/1967611933035656)
 
-   智氪 \| 特斯拉利润超预期，但盘前跌了2800亿元 [read](https://36kr.com/p/1967110545837191)
+   9点1氪｜罗永浩AR创业公司获美团投资；抖音本地生活新建成都大本营，试水团购配送和外卖业务；比亚迪唐德国售价比国内高出一倍 [read](https://36kr.com/p/1968200051707011)
+
+   罗永浩 AR 公司获美团投资；宁德时代 Q3 利润大涨 188%；苹果工业设计主管离职 [read](http://www.geekpark.net/news/309799)
 
    传马斯克拟 Twitter 暴力裁员；罗永浩、俞敏洪高调入淘；雷军：小米电动车成功的唯一途径是成为前五 [read](http://www.geekpark.net/news/309739)
 
    如何在 Web3 「熊市」，做成一家独角兽？ [read](http://www.geekpark.net/news/309669)
 
-   苹果削减iPhone 14 Plus产能；特斯拉三季度营收214亿美元；周星驰在线招聘Web3人才\| 极客早知道 [read](http://www.geekpark.net/news/309670)
-
 ### 金融类
 
-   《雪球基金第一课》读书笔记 [read](http://xueqiu.com/8653750491/233279479)
+   如何通过炒股实现阶级跃迁? [read](http://xueqiu.com/8575566412/233270378)
 
-   面对最优，只有信任和跟随 [read](http://xueqiu.com/9498737718/233231486)
+   西部利得国企红利指数增强双经理，每半年都盈利 [read](http://xueqiu.com/6213355012/233298636)
 
-   如果熊市还要一年多？ [read](http://xueqiu.com/3559889031/233197620)
+   最好的养老投资是买入银行股 [read](http://xueqiu.com/9384933317/233295414)
 
 ### 学习类
 
@@ -116,11 +116,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Human blossoms [read](https://www.behance.net/gallery/154460179/Human-blossoms)
+   Otto [read](https://www.behance.net/gallery/155162459/Otto)
 
-   Impaktly [read](https://www.behance.net/gallery/154996111/Impaktly)
+   Beer Labels Frontaal Brewery Co. 2022 [read](https://www.behance.net/gallery/155339713/Beer-Labels-Frontaal-Brewery-Co-2022)
 
-   Belif EP.06 - Paradise [read](https://www.behance.net/gallery/154817261/Belif-EP06-Paradise)
+   IDEA Office ????????Social Media Campaign [read](https://www.behance.net/gallery/155009631/IDEA-Office-Social-Media-Campaign)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
