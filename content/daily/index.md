@@ -2,13 +2,13 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.KarstMountains_EN-US4446699673_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Knobbelzwaan_EN-US4809716001_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
-   科技爱好者周刊（第 227 期）：脸书的公司入职教育 [read](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html)
+   最简单的 Git 服务器 [read](http://www.ruanyifeng.com/blog/2022/10/git-server.html)
 
-   科技爱好者周刊（第 226 期）：谷歌出了什么问题？ [read](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html)
+   科技爱好者周刊（第 227 期）：脸书的公司入职教育 [read](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html)
 
    电信宽带 ipv6 折腾记 [read](https://blog.codingnow.com/2022/10/telecom_ipv6.html)
 
@@ -62,31 +62,31 @@ title: "今日资讯"
 
 ### 互联网类
 
-   不主动就是不喜欢、看不起你？ [read](http://www.huxiu.com/article/684691.html?f=wangzhan)
+   500万没对手，法拉利同意了吗？ [read](http://www.huxiu.com/article/669176.html?f=wangzhan)
 
-   5G这么快，加上“0.5个G”能改变什么？ [read](http://www.huxiu.com/article/692361.html?f=wangzhan)
+   如何拥有“成熟”情绪？ [read](http://www.huxiu.com/article/683705.html?f=wangzhan)
 
-   大众的“软件癌”，谁也治不好 [read](http://www.huxiu.com/article/688760.html?f=wangzhan)
+   每天净赚1个亿，宁德时代还是很焦虑 [read](http://www.huxiu.com/article/693126.html?f=wangzhan)
+
+   焦点分析 \| 口腔正畸纳入集采，但牙科“暴利”暂不会终结 [read](https://36kr.com/p/1967494500322178)
+
+   厌恶婚礼的年轻人：只领证，不办席 [read](https://36kr.com/p/1967040650792073)
 
    奶西这么火  是大厂人买出来的吗？ [read](https://36kr.com/p/1967601052011400)
 
-   本周累积融资额超228亿元，广汽埃安获超182亿元融资 \| 36氪华南融资周报 [read](https://36kr.com/p/1967611933035656)
-
-   9点1氪｜罗永浩AR创业公司获美团投资；抖音本地生活新建成都大本营，试水团购配送和外卖业务；比亚迪唐德国售价比国内高出一倍 [read](https://36kr.com/p/1968200051707011)
+   小鹏汽车调整组织架构；俄称 2028 年推出 7nm 光刻机；除中国区外，App Store 将增加广告 \| 极客早知道 [read](http://www.geekpark.net/news/309800)
 
    罗永浩 AR 公司获美团投资；宁德时代 Q3 利润大涨 188%；苹果工业设计主管离职 [read](http://www.geekpark.net/news/309799)
 
    传马斯克拟 Twitter 暴力裁员；罗永浩、俞敏洪高调入淘；雷军：小米电动车成功的唯一途径是成为前五 [read](http://www.geekpark.net/news/309739)
 
-   如何在 Web3 「熊市」，做成一家独角兽？ [read](http://www.geekpark.net/news/309669)
-
 ### 金融类
 
-   如何通过炒股实现阶级跃迁? [read](http://xueqiu.com/8575566412/233270378)
+   宁德时代三季报分析 [read](http://xueqiu.com/2333298548/233343003)
 
-   西部利得国企红利指数增强双经理，每半年都盈利 [read](http://xueqiu.com/6213355012/233298636)
+   聊聊养老规划 [read](http://xueqiu.com/6827215131/233339340)
 
-   最好的养老投资是买入银行股 [read](http://xueqiu.com/9384933317/233295414)
+   周度策略报告——宜静不宜动 [read](http://xueqiu.com/1448459094/233335550)
 
 ### 学习类
 
@@ -116,11 +116,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   Otto [read](https://www.behance.net/gallery/155162459/Otto)
+   M. Patisserie \| Branding Design [read](https://www.behance.net/gallery/136049695/M-Patisserie-Branding-Design)
 
-   Beer Labels Frontaal Brewery Co. 2022 [read](https://www.behance.net/gallery/155339713/Beer-Labels-Frontaal-Brewery-Co-2022)
+   My girl [read](https://www.behance.net/gallery/154701071/My-girl)
 
-   IDEA Office ????????Social Media Campaign [read](https://www.behance.net/gallery/155009631/IDEA-Office-Social-Media-Campaign)
+   Knowadays [read](https://www.behance.net/gallery/153345269/Knowadays)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
