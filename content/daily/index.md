@@ -2,7 +2,7 @@
 title: "今日资讯"
 ---
 
-![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.Knobbelzwaan_EN-US4809716001_UHD.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://cn.bing.com/th?id=OHR.GuwahatiDiwali_EN-US3454357880_UHD.jpg "San Juan Mountains")
 
 ### 个人博客
 
@@ -62,31 +62,31 @@ title: "今日资讯"
 
 ### 互联网类
 
-   500万没对手，法拉利同意了吗？ [read](http://www.huxiu.com/article/669176.html?f=wangzhan)
+   两年没了270亿，三只松鼠还能撑多久？ [read](http://www.huxiu.com/article/694096.html?f=wangzhan)
 
-   如何拥有“成熟”情绪？ [read](http://www.huxiu.com/article/683705.html?f=wangzhan)
+   接受还是改变？如何分清两者？ [read](http://www.huxiu.com/article/680170.html?f=wangzhan)
 
-   每天净赚1个亿，宁德时代还是很焦虑 [read](http://www.huxiu.com/article/693126.html?f=wangzhan)
+   特斯拉的话，别信 [read](http://www.huxiu.com/article/693713.html?f=wangzhan)
 
-   焦点分析 \| 口腔正畸纳入集采，但牙科“暴利”暂不会终结 [read](https://36kr.com/p/1967494500322178)
+   氪星晚报｜爆料称苹果公司正在测试搭载Apple Silicon芯片的Mac Pro；平安健康正式收购平安智慧医疗；飞利浦将在全球范围内立即裁员约4000人 [read](https://36kr.com/p/1971427786230916)
 
-   厌恶婚礼的年轻人：只领证，不办席 [read](https://36kr.com/p/1967040650792073)
+   市场日报 \| 沪指失守3000点；消费股全线下跌，白酒股大跌，茅台暴跌7%；“茅”指数下挫，片仔癀跌停；军工板块全天强势 [read](https://36kr.com/p/1971413702085506)
 
-   奶西这么火  是大厂人买出来的吗？ [read](https://36kr.com/p/1967601052011400)
+   最前线 \| 程序员2022年职场生态：跳槽首选智能汽车和芯片行业 [read](https://36kr.com/p/1971526540020869)
+
+   对话正浩 EcoFlow 王雷：创新的信仰要靠一层层追问 [read](http://www.geekpark.net/news/309866)
+
+   Solana 区块链手机曝光，售 1000 美元；小米发布「奥特曼手表」，799 元；天文学家发现「棉花糖星球」 [read](http://www.geekpark.net/news/309802)
 
    小鹏汽车调整组织架构；俄称 2028 年推出 7nm 光刻机；除中国区外，App Store 将增加广告 \| 极客早知道 [read](http://www.geekpark.net/news/309800)
 
-   罗永浩 AR 公司获美团投资；宁德时代 Q3 利润大涨 188%；苹果工业设计主管离职 [read](http://www.geekpark.net/news/309799)
-
-   传马斯克拟 Twitter 暴力裁员；罗永浩、俞敏洪高调入淘；雷军：小米电动车成功的唯一途径是成为前五 [read](http://www.geekpark.net/news/309739)
-
 ### 金融类
 
-   宁德时代三季报分析 [read](http://xueqiu.com/2333298548/233343003)
+   雪球专刊——我眼中的基金投顾 [read](http://xueqiu.com/3746414875/233434262)
 
-   聊聊养老规划 [read](http://xueqiu.com/6827215131/233339340)
+   投资，没有谁比谁更容易，只有谁比谁更能抗 [read](http://xueqiu.com/1643044849/233424978)
 
-   周度策略报告——宜静不宜动 [read](http://xueqiu.com/1448459094/233335550)
+   东方甄选观察——爆火四个月随想（续） [read](http://xueqiu.com/2136891405/233351510)
 
 ### 学习类
 
@@ -116,11 +116,11 @@ title: "今日资讯"
 
 ### 设计类
 
-   M. Patisserie \| Branding Design [read](https://www.behance.net/gallery/136049695/M-Patisserie-Branding-Design)
+   Épilogue - Naming &amp; brand identity [read](https://www.behance.net/gallery/155509231/Epilogue-Naming-brand-identity)
 
-   My girl [read](https://www.behance.net/gallery/154701071/My-girl)
+   Personal 21 ?22 [read](https://www.behance.net/gallery/155488609/Personal-21-22)
 
-   Knowadays [read](https://www.behance.net/gallery/153345269/Knowadays)
+   SHAPED BY WIND AND WATER (Part 2) ? Iceland [read](https://www.behance.net/gallery/154551893/SHAPED-BY-WIND-AND-WATER-%28Part-2%29-Iceland)
 
    How to Recover From Burnout [read](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)
 
